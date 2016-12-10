@@ -28,6 +28,7 @@ if __name__ == "__main__":
             txt += review['pros']
         if review['summary'] != None:
             txt += review['summary']
+
         if len(txt.split()) > min_words:
             profile = personality_insights.profile(
                 txt.encode('utf8'), content_type='text/plain',
