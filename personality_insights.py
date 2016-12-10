@@ -10,8 +10,8 @@ def json_export(data, name):
 if __name__ == "__main__":
     personality_insights = PersonalityInsightsV3(
         version='2016-10-20',
-        username='f869d757-c85d-4372-8df2-503f5b41d365',
-        password='siUQ7mhItTJq')
+        username='**',
+        password='**')
 
     min_words = 100
     filename = 'EBay.json'
