@@ -14,10 +14,11 @@ if __name__ == "__main__":
         password='FnaMoGx8mbp5')
 
     min_words = 100
-    filename = 'EBay.json'
+    filename = 'Citi.json'
     input_file = open(filename).read()
     reviews = json.loads(input_file)
     results = []
+    e = 0 
     for review in reviews:
         txt = ''
         if review['advice'] != None:
@@ -30,9 +31,13 @@ if __name__ == "__main__":
             txt += review['summary']
 
         if len(txt.split()) > min_words:
+            e += 1
+            """
             profile = personality_insights.profile(
                 txt.encode('utf8'), content_type='text/plain',
                 raw_scores=True, consumption_preferences=True)
             profile['rating'] = review['rating']
             results.append(profile)
     json_export(results, filename)
+    """ 
+    print e

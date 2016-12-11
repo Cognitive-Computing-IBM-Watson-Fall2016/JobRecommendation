@@ -1,5 +1,6 @@
 import json
 import numpy as np
+from sklearn.linear_model import LogisticRegression 
 
 if __name__ == "__main__":
     min_words = 100
@@ -53,4 +54,6 @@ if __name__ == "__main__":
     X = np.array(X)
     y = np.array(y)
 
-    print X
+    classifier = LogisticRegression()
+    classifier.fit(X, y)
+    print classifier.score(X, y)
