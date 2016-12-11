@@ -9,9 +9,9 @@ def json_export(data, name):
 
 if __name__ == "__main__":
     personality_insights = PersonalityInsightsV3(
-        version='2016-10-20',
-        username='**',
-        password='**')
+        version='2016-12-10',
+        username='e65927a0-94cc-4d27-b254-56e9d072e32d',
+        password='FnaMoGx8mbp5')
 
     min_words = 100
     filename = 'EBay.json'
@@ -33,5 +33,6 @@ if __name__ == "__main__":
             profile = personality_insights.profile(
                 txt.encode('utf8'), content_type='text/plain',
                 raw_scores=True, consumption_preferences=True)
+            profile['rating'] = review['rating']
             results.append(profile)
     json_export(results, filename)

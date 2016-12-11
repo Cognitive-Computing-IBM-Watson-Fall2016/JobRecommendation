@@ -1,11 +1,13 @@
 import json
+import numpy as np
 
 if __name__ == "__main__":
     min_words = 100
     filename = 'EBay.json_profile.json'
     input_file = open(filename).read()
     profiles = json.loads(input_file)
-    rst = []
+    X = [] 
+    y = []
     for profile in profiles:
         vector = []
         for need in profile['needs']:
@@ -45,4 +47,10 @@ if __name__ == "__main__":
             if cp['consumption_preference_category_id'] == 'consumption_preferences_volunteering':
                 for temp in cp['consumption_preferences']:
                     vector.append(temp['score'])
-        rst.append(tuple(vector))
+        X.append(vector)
+        y.append(profile['rating'])
+
+    X = np.array(X)
+    y = np.array(y)
+
+    print X
