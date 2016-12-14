@@ -1,5 +1,9 @@
 import json
-import numpy as np
+
+def json_export(data):
+    jsonFile = open("person_tweet.json", "w")
+    jsonFile.write(json.dumps(data, indent=4, separators=(',', ': ')))
+    jsonFile.close()
 
 if __name__ == "__main__":
     min_words = 100
@@ -22,4 +26,6 @@ if __name__ == "__main__":
             for item in facet['children'][0]['children']:
                 value.append(item['percentage'])
     X = need + person + value
-    x = np.array(X)
+    id = profile['id'].encode('utf8')
+    dict = {id : X}
+    json_export(dict)
