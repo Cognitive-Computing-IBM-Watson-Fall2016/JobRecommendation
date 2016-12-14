@@ -1,9 +1,10 @@
 import json
 import numpy as np
+from sklearn.linear_model import LogisticRegression 
 
 if __name__ == "__main__":
     min_words = 100
-    filename = 'EBay.json_profile.json'
+    filename = 'Google.json_profile.json'
     input_file = open(filename).read()
     profiles = json.loads(input_file)
     X = [] 
@@ -53,4 +54,12 @@ if __name__ == "__main__":
     X = np.array(X)
     y = np.array(y)
 
-    print X
+    classifier = LogisticRegression()
+    classifier.fit(X, y)
+    predicted = classifier.predict(X)
+    #for r, t in zip(y, predicted):
+        #print "real = {0} ... predicted = {1}".format(r, t)
+
+    probabilities = classifier.predict_proba(X)
+    for p in probabilities:
+        print p

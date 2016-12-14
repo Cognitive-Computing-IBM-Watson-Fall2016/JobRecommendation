@@ -18,6 +18,7 @@ if __name__ == "__main__":
     input_file = open(filename).read()
     reviews = json.loads(input_file)
     results = []
+    e = 0 
     for review in reviews:
         txt = ''
         if review['advice'] != None:
