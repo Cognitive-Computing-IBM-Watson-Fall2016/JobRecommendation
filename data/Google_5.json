@@ -1,0 +1,932 @@
+[
+    {
+        "rating": 5,
+        "cons": "- Easy to feel lost in the crowd- If you're not an engineer, you're not valued as highly- Projects move slowly (huge bureaucracy)- Advancement within the company seems unusually difficult",
+        "advice": "- Provide more opportunities for advancement within and across the company- Engender greater respect for non-engineers (offer more engineer-like opportunities)",
+        "pros": "- Number of unparalleled perks and benefits- Known for its young, intelligent, enthusiastic workforce- Many opportunities for personal growth (classes and talks)",
+        "summary": "Amazing if you're an engineer. Great if you're anything but.",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "-The hiring process is intense-A lot of information - difficult to manage it all (ironic, huh)",
+        "advice": null,
+        "pros": "-Great perks and benefits overall-Smart people-Ever-changing",
+        "summary": "Great MBA Internship",
+        "role": "Anonymous Employee",
+        "date": "Jan 4, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "- big and complex, could move faster in some areas",
+        "advice": null,
+        "pros": "- very nice engineering infrastructure, you can a lot of resources to do things you can never think of in other places",
+        "summary": "Still a very nice place to work, after all these years",
+        "role": "Anonymous Employee",
+        "date": "Jan 12, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Size. Google is no longer a start up and inevitably bureaucracy creeps in.",
+        "advice": null,
+        "pros": "Scale! Build innovative products that effect millions.",
+        "summary": "Google",
+        "role": "Anonymous Employee",
+        "date": "Feb 14, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "-- work/life balance non existent",
+        "advice": "-- focus and invest heavily in fewer products-- make a bigger effort to get things right the first time",
+        "pros": "-- one of a handful of companies with big ambitions on changing the world, and does not restrict itself to core competencies.-- startup environment in many teams like Android, Chrome, etc.-- surrounded by very smart people who also care about doing things \"right\" and genuinely want to make the world a better place",
+        "summary": "Great place to work if you want to change the world",
+        "role": "Quantitative Marketing Manager",
+        "date": "Feb 15, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "They spoil us. I'm glad I worked elsewhere between college and Google, otherwise I might not realize how great of a place this is to work. I'm on-call for several services for about 48 hours each month, though the pager is relatively calm. Google admittedly makes mistakes in hiring, often turning away good candidates if there's any doubt; as a result, many smart people are bitter about Google because they get turned \u2026\u00a0down--but I encourage them to try again in a year or so. And if you wear Google-branded apparel in public, sometimes weirdos stop you and ask lots of bizarre questions about what it's like to work there.",
+        "advice": null,
+        "pros": "Three excellent gourmet meals a day (free), and the best food out of all the Google offices I've been to (including fresh-baked cookies during ice cream hour!). Tremendous opportunities for professional and personal growth with several tech talks and classes every week. Every aspect of the organization is cooperatively engineered, peer-reviewed, and open to feedback and iterative improvement. A high level of respect \u2026\u00a0is maintained between peers and managers alike. Consistently high annual bonus. Aggressive 401k and donation matching programs. Salaries are substantially higher since November 2010 when the scale was significantly adjusted upward.",
+        "summary": "Pinch me. Is this a dream?",
+        "role": "Site Reliability Engineer",
+        "date": "Feb 19, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Start to act like a big company",
+        "advice": "Keep it this way. Grow team with adoption of company culture. Some buildings in main campus may need to improve working conditions.",
+        "pros": "Talent people, happy environment, good food",
+        "summary": "Paradise for geeks like me",
+        "role": "SWE Intern",
+        "date": "Feb 22, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Too many smart people at this company make it hard to stand out.",
+        "advice": null,
+        "pros": "Successful company, smart people, great culture.",
+        "summary": "Amazing job, Amazing Company",
+        "role": "Financial Analyst",
+        "date": "Mar 2, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "nothing at all it was a great experience",
+        "advice": null,
+        "pros": "well google is a huge company that i always admired like most people do and it looks so simple when you visit the website, yet it is extremely complicated once you realize how big it is and how many projects/products they have at the same time.",
+        "summary": "it was a great experience",
+        "role": "Anonymous Employee",
+        "date": "Mar 7, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "too much stress full, always have to work hard, its like working madlly when u work and enjoying madly when u enjoy",
+        "advice": "clear line of communication is regarded, some formal hierarchy also needed, performance pay has to be more clear, more acceptance of flex time work",
+        "pros": "yoy learn a lot, creativity is demanded, free hand is given to test your creativity, wonderful work culture, one of the best practises are followed.",
+        "summary": "phenomenal experience",
+        "role": "Human Resources Manager",
+        "date": "Mar 13, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Company is now very large, so it takes a while for things to happen: on the org side, and on the tech side, too.",
+        "advice": "For new projects that Google starts, think of them more as an investor, not an employer. Ask harder questions about the target audience, go to market strategy, expected returns. This will hopefully help avoid the flops like Wave was which nobody could even explain without demoing it.",
+        "pros": "1. Lots of smart people around.2. Technology knowledge is abound, and is easily accessible.3. Job impact on the world is tremendous.4. Neat perks.",
+        "summary": "Google is a great company to work for",
+        "role": "Software Engineer",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "There is absolutely no cons",
+        "advice": null,
+        "pros": "It is a great experience",
+        "summary": "Great",
+        "role": "Intern",
+        "date": "Apr 3, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "I would rather be living in the south where my family is, but that isn't an option with most companies in this industry. Overall, the cons are very few.",
+        "advice": "I cannot speak on advice to management. As most people know, it is a great company.",
+        "pros": "It is a very free environment. I am able to work freely and they give people here a lot of freedom at work. I really am enjoying the experiences.",
+        "summary": "It has been a lot of fun",
+        "role": "Anonymous Employee",
+        "date": "Apr 5, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Heavy work load and research.",
+        "advice": "None i can offer",
+        "pros": "very good work environment and benefits",
+        "summary": "Awesome",
+        "role": "Senior Software Engineer",
+        "date": "Apr 14, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Weak management;Sometimes directions are kind of random;",
+        "advice": null,
+        "pros": "Freedom of what to work on;Lots of areas;Engineers are highly respected;Knowledge are shared across company;Great infrastructure to minimize work burden;",
+        "summary": "Excellent",
+        "role": "Senior Software Engineer",
+        "date": "Apr 22, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Hard to get big picture",
+        "advice": "Can do better",
+        "pros": "Great people to work for",
+        "summary": "Outstanding",
+        "role": "Senior Software Engineer",
+        "date": "Apr 25, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "A few things have slowed down a bit due to growth. A bit more siloed than it used to be. Of all places, the highest praise I can give is that I find very very little to complain about.",
+        "advice": null,
+        "pros": "A value placed upon moving fast and breaking things. A true meritocracy culture. As egalitarian a workforce as I have ever seen. Probably the best engineering team on the planet. Incredible benefits and pay.",
+        "summary": "One of the best places to work as an engineer, period.",
+        "role": "Anonymous Employee",
+        "date": "Apr 26, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "The firm is big, almost too big. it no longer maintains its entreprenurial feel. But they make a good effort",
+        "advice": "These are top notch people> they are smart and always willing to help. There is not problem approaching them with questions",
+        "pros": "Great food, great people. The people are smart and sharp and it was a joy to work with them everyday",
+        "summary": "Awesome",
+        "role": "Anonymous Employee",
+        "date": "May 4, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "It's easy to become a \"number\" at Google if you don't put yourself out there. You have to be assertive and willing to throw out new ideas. That said, depending on your job role, often that can be harder than it seems.",
+        "advice": "I really loved my experience with management. Great mentorship experience and I received a lot of specific feedback about my work and progress.",
+        "pros": "Amazing benefits, amazing people that make you grow, and amazing work. You really feel like what you're doing has an impact on the world.",
+        "summary": "Great place to start your career",
+        "role": "Business Intern",
+        "date": "May 6, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "The business model has matured so there might not be much fast growth ahead. It has become a mature company just like Ebay and Microsoft. But it is still very respectable company in internet industry. Limited room for career advancement. But it seems that those without much technical skills/degree usually get promoted quickly by just pushing engineers/analysts very hard. Those who do real work get stuck at the bottom\u2026\u00a0 of company structure.",
+        "advice": "It might be useful to re-examine how promotion happens and to evaluate people by the actual work they have done instead of how many emails/meetings they created.",
+        "pros": "A great place to launch your career. Many talented people are still working at Google although there has been a constant exodus of top talent. A nice to place to network and learn.",
+        "summary": "A stable and strong growth company",
+        "role": "Anonymous Employee",
+        "date": "May 10, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Large and growing size means your team and manager are your destiny more than Google overallFew opportunities to grow into leadership positionsSome things take too long to get done now that there are so many people to consult before locking a decision",
+        "advice": "Focus -- there are still too many projects, moving parts",
+        "pros": "Opportunity for big impactFun peopleCan afford to do anything they decide to -- its not a startup experience",
+        "summary": "Fun and still as interesting as it sounds",
+        "role": "Product Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "C++ can be a pain (coming from lisp). It's good and bad that code changes so quickly that much of what one learns become rapidly obsolete -- and there's a gargantuan amount to learn, so one feels pretty inept for the first few months or more. Then again, it means things get better quickly when broken.",
+        "advice": "Make clearer the leadership attention paid to concerns raised within the company.",
+        "pros": "Terrific people, interesting and challenging problems to work on, with amazing collaborators at every level, high impact (huge numbers of users), wonderful work environment (food, space, lack of bureaucracy), awesome to be able to get help with whatever on a mailing list at practically any time of day or night.",
+        "summary": "Excellent",
+        "role": "Software Engineer III",
+        "date": "May 20, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Competitive, demanding, and long hours",
+        "advice": null,
+        "pros": "Dynamic, innovative, creative and simplicity",
+        "summary": "Satisfactory",
+        "role": "Senior Software Engineer",
+        "date": "Jun 1, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "not challenging enough. Should have offered a longer contract",
+        "advice": "nothing",
+        "pros": "Flex hours, great food, easy",
+        "summary": "Great! Fun!",
+        "role": "Sourcer",
+        "date": "Jun 6, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Hard to stand out as a star when everyone is so smart and pedigreed. Also company is very big. Believe it take long time to really build reputation to be able to move ahead... but in the meantime its a lot of fun.",
+        "advice": "Wonderful that you are so accessible. Keep doing what you are doing!",
+        "pros": "Great place to work... Great perks and people. Very team oriented. People are smart (see con :-) and friendly. Not political as far as I can tell. Engineering focused which makes it feel like a meritocracy. Again the perks are really amazing... feel like the company really values me.",
+        "summary": "Wow",
+        "role": "Business Development Manager",
+        "date": "Jun 11, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Challenging envirnorment. Lot of work to be done.",
+        "advice": null,
+        "pros": "Quality of work is good. You can choose what you want to work.",
+        "summary": "I am totally satisfied with the work culture",
+        "role": "Software Engineer",
+        "date": "Jun 11, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "There most certainly is no more glitz and glitter and many feel that Google is turning into a hasbeen compared to the innovation of new startups",
+        "advice": null,
+        "pros": "It's a great atmosphere in order to get a lot of interesting work done. Lots of good smart friends around you.",
+        "summary": "Fun and prestigious",
+        "role": "Anonymous Employee",
+        "date": "Aug 2, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "no issues at all whatsoever",
+        "advice": "great work",
+        "pros": "great work lot of bucks",
+        "summary": "very good",
+        "role": "Anonymous Employee",
+        "date": "Aug 13, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "No real cons, but you have to be very good and productive to keep the job",
+        "advice": "Keep it up guys!",
+        "pros": "You will have a chance to work with some of the smartest people in the industry",
+        "summary": "Very stimulating environment and great job satisfaction",
+        "role": "Designer",
+        "date": "Aug 18, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "almost no cons to me",
+        "advice": null,
+        "pros": "everything looks fine to me",
+        "summary": "good",
+        "role": "Software Engineering Intern",
+        "date": "Aug 30, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Management can be clueless or absent at times. It can take a lot longer to get things done than you expect.",
+        "advice": "Remove blocks to rapid development and mandated platform use. Be more open in communication, particularly in explaining the reasons for controversial decisions.",
+        "pros": "Awesome food, great salary, wonderful coworkers. Lots of room for a self-starter to advance. Promotion can be quite rapid if you are determined and this is your goal. None of the cost/benefit approach to IT that you see at a lot of other companies.",
+        "summary": "Great people, great perks, great environment",
+        "role": "Software Engineer III",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "- traffic in the morning around the main campus- no \"start-up\" feeling any more - lot's of people, lot's of projects",
+        "advice": null,
+        "pros": "- available food onsite- very competitive salary- good bonuses- variety of projects- clear communication w/ management- smart people working there",
+        "summary": "The best employer I've ever had",
+        "role": "Software Engineer",
+        "date": "Sep 11, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Low pay, interview process is extremely rigorous.",
+        "advice": "Keep on doing what you're doing!",
+        "pros": "Great benefits, great culture, enthusiastic team",
+        "summary": "Quirky, Fun, Supportive",
+        "role": "Account Manager",
+        "date": "Sep 15, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "As a contractor there is a lack of transparency about the opportunity for conversion to permanent roles. Also, many young colleagues complain that no other company recruits so many bright people to then put them in very low level jobs with remedial tasks.",
+        "advice": null,
+        "pros": "Great perks, work-life balance, little hierarchy, genuinely friendly coworkers, great place to network and meet future entrepreneurs, diverse workplace, LGBT friendly, open culture, smart coworkers.",
+        "summary": "Great place to work, but the contracting experience makes you feel like an outsider",
+        "role": "Recruiter",
+        "date": "Sep 20, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Slow recruiting and conversion processSuch a large company that it's difficult to be organized (in terms of knowing how to get a certain piece of information or resource)",
+        "advice": "Speed up the recruiting process because you lose valuable candidates when you wait too long to give decisions",
+        "pros": "Very open communication from senior management all the way down to internsVested interest in employees and personal development (GoogleEDU)Smartest / most creative people I've met",
+        "summary": "Great internship experience and responsibility, but it definitely depends on which team you're on",
+        "role": "Associate Product Marketing Manager Intern",
+        "date": "Sep 25, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "There was nothing wrong there!",
+        "advice": null,
+        "pros": "The people here are super cool. Everyone is so smart. Everyone is so nice. Lots of opportunity",
+        "summary": "Awesome",
+        "role": "Anonymous Employee",
+        "date": "Oct 13, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "No particular cons I can think of",
+        "advice": null,
+        "pros": "A large company with well known and famous mentors. Foods are free and are delicious. Lots of activities.",
+        "summary": "Very good experience",
+        "role": "Anonymous Employee",
+        "date": "Oct 22, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Difficult to get an offer.",
+        "advice": null,
+        "pros": "Perfect job as noticed by press.",
+        "summary": "Perfect!",
+        "role": "Anonymous Employee",
+        "date": "Nov 9, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "It was under a 2 year (only) temporary contract. It gave little growth for promotion within the company. I would have loved to get hired in.",
+        "advice": "Keep giving young adults the opportunity to work for a great company. Maybe more promotional moves will be highly appreciated!",
+        "pros": "The company allowed me to achieve growth and a better willingness to learn! I was able to advance from working within groups.",
+        "summary": "Excellent",
+        "role": "Scanner",
+        "date": "Nov 10, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Hardly any, there are literally no reasons not to intern here.",
+        "advice": "None, keep up the great work!",
+        "pros": "-Google Full Timers are very helpful in terms of meeting with interns to give advice.-Information is freely shared and the company is very transparent.-Great recruiting staff that are an awesome support system for interns-Fun perks-Sweet pay-Opportunities to learn and network-Surrounded by intelligent and savvy people",
+        "summary": "Amazing experience with a company that cares and is relevant",
+        "role": "Intern",
+        "date": "Nov 13, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Essentially Google has more than a few terrible middle managers. This is mostly because the really great people will often leave for school or more lucrative opportunities (because getting promotions can be very difficult) and often the people who stay are those who bide their time and are solid but not rock start performers. So your Google experience will depend a lot on who your direct manager is...",
+        "advice": null,
+        "pros": "Really smart people, great benefits, amazing level of transparency and access, people -especially at the top are really committed to \"getting it right\"",
+        "summary": "Great Company. Team REALLY matters",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "It's still a very big company. It's not microsoft yet, but it's getting there. It's a pretty long chain of command.",
+        "advice": null,
+        "pros": "- Great perks (free food, shuttle, massage, everything)- Super smart people- Very interesting projects with a lot of reach",
+        "summary": "Big company, but still innovative",
+        "role": "Software Engineering Intern",
+        "date": "Dec 2, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "over-time work. seems everyone works late on weekends.",
+        "advice": null,
+        "pros": "open culture, freedom of choosing projects.",
+        "summary": "open culture",
+        "role": "Software Engineer",
+        "date": "Dec 5, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Things change fast! Need to stay on your toes!",
+        "advice": null,
+        "pros": "People, vision, willingness to take risk, open culture",
+        "summary": "Fantastic!",
+        "role": "Anonymous Employee",
+        "date": "Dec 14, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "becoming a big company, too many mckinsey types in sales roles, politics starting to grow, easier to come in new to a senior role than be promoted into it",
+        "advice": "Take the \"act like a small company\" ethos to every level of the company and make sure it is being implemented - it sounds good, but is falling on deaf ears in middle management",
+        "pros": "Quality of individual hires, strength of business, free cash flow which funds perks and benefits, less politics than other companies of a similar size",
+        "summary": "Learned a great deal from some smart people, before it got too big",
+        "role": "Head of Sales",
+        "date": "Dec 25, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Career growth is somewhat difficult for non standard profiles (i.e. not Software Engineers or Site Reliability Engineers).Managers need to be good to get their reports promoted.Being on the \"right\" project (aka high impact with high visibility) does affect substantially career growth.",
+        "advice": "Make sure to focus on career growth at all levels. Train managers well too.Reward well people doing the grunchy work/production/maintenance work.",
+        "pros": "High concentration of smart + great people.Employees empowered to change the word in the good way.Full compensation package (base salary + bonus + stock + perks) is great and not easy to beat IMO, People who criticize it must have not done the math right and/or are performing poorly.",
+        "summary": "Truly a unique company",
+        "role": "Engineering Manager",
+        "date": "Dec 28, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "MTV is in California, which means higher tax rate, higher living cost, etc. However, you may make more money in google than other companies.",
+        "advice": "In general, they are doing really good. I cannot think of anything bad about them. I like the way Larry Page is leading Google.",
+        "pros": "It is the best place for software engineers. You can lean a lot from smart googlers. Also, meals are free.",
+        "summary": "It was an awesome internship.",
+        "role": "Software Engineer Intern",
+        "date": "Jan 14, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "While not totally necessary, being on a higher profile project helps with recognition and career advancement. I work on one such project and have since I've been at Google, so I can't really say what it's like if you work on other projects.Having a good manager (as I do) is definitely important to being promoted and getting put on projects where you can earn recognition. Not all managers are as awesome as min\u2026\u00a0e and their reports suffer for it in terms of career growth and interesting tasks to work on.",
+        "advice": "Better training for engineering managers. A good manager is crucial to career growth at Google, and not all engineers make good managers.",
+        "pros": "Working with smart people daily, amazing gourmet free food, fantastic career growth opportunities within Google. If you don't like the project you're working on, you can transfer to a different project, even to be a different \"type\" of engineer (e.g. frontend/backend/storage). I work with people who've worked on several projects at Google.Working on projects that you genuinely believe help make the world a be\u2026\u00a0tter place, helping users connect with each other or give them greater access to information.I like the direction Larry has taken the company, feels more focused now than before.Very pro-women, pro-LGBT, pro-minority environment. I'm a female software engineer and have not seen a shred of the sexism or attitude towards women that I've experienced at other workplaces.",
+        "summary": "Smart people and amazing perks",
+        "role": "Software Engineer III",
+        "date": "Jan 23, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "- Sometimes a bit too relaxed- Lots of internally developed tools that can only be learned on the job",
+        "advice": "Can feel a bit fragmented internally among the various teams, and it is challenging at first to understand the various groups, their roles, and how to get certain tasks done.",
+        "pros": "- Sets the bar for employee perks- Work with some of the best in the industry- Develop content on projects used globally",
+        "summary": "An amazing place to work",
+        "role": "Web Developer",
+        "date": "Jan 30, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "There really isn't much that could be described as a Con. There are some growing pains as the company decides the right balance between more process and maintaining creativity and a slight sense of chaos in the various groups.",
+        "advice": "Continue to reward merit. Actively and visibly manage out poor performers and those who don't exhibit the cultural values we cherish so much.",
+        "pros": "The best working environment I have ever seen. Everyone is generally a team player; everyone is very smart. The leadership will make big bets to try to make things better for the user; the internal transparency is rare and everyone shares information quite freely. The benefits are industry leading and the relative youth of the company keeps it a remarkably fun place to work.",
+        "summary": "Amazing place - part-innovation lab; part-college; part-book club",
+        "role": "Manager",
+        "date": "Feb 6, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "It's hard to get promoted. Performance is decided mostly by your peers, which means promotion is essentially a popularity contest.",
+        "advice": "Most managers at google have 20+ direct reports and are extremely busy, but the ones who take the time to speak to their reports about what they need to do differently to advance their career are the stars.",
+        "pros": "More than any other workplace, Google trusts its employees. Each engineer has access to almost the entire codebase and there is very little micromanaging.",
+        "summary": "Unprecedented employee trust, difficult career advancement",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Despite Google's efforts to maintain a startup-like atmosphere, it's still true that big-company hurdles -- like legal issues, regulatory concerns, and just standard VP approval processes for big decisions -- can slow down the process of doing cool things. And although the average talent level is quite high, the discipline and effectiveness of individual engineers can still vary somewhat significantly, so sometimes y\u2026\u00a0ou'll have to deal with people who just don't work as quickly or independently as you'd like. Finally, in an engineering-centric company like Google, a PM can occasionally feel a little like the \"e-mailer in chief,\" a person who nags other people a lot but doesn't get to do \"real\" work and who doesn't get the same respect as an engineer.",
+        "advice": null,
+        "pros": "For lack of a better way to say it, Google is just a fun place to work. There are a lot of different personalities and the attitude of the whole place is very relaxed. The best thing, however, is that this doesn't detract from the drive that individual employees and the company's leadership have to create great products and really make life better for millions (or billions) of people. It's refreshing to go to work ev\u2026\u00a0ery day with people who are very smart but still pretty down-to-earth. Another key benefit is the fact that the company is very open in terms of sharing information with its employees. Top-secret projects are regularly shared company-wide and help employees feel that they're really engaged with the company's mission and accomplishments. Finally, for product managers specifically, the scope of the job at Google is much broader than what you might get with a similar level of experience at other large tech companies, which makes you feel like you're making much more of an impact.",
+        "summary": "Not perfect, but still a lot of fun with high-impact products and very talented people",
+        "role": "Product Manager",
+        "date": "Feb 10, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Google is getting to be a quite large company. It's nearly impossible to know about everything that's going on in every organization. Furthermore, the love from the public has waned in recent years which can be a bit of a bummer.",
+        "advice": "Keep increasing the company's focus on a few excellent products. At the same time, make sure it's possible for the lone employee to build something cool on the Google platform, even if it doesn't fit into one of the major products.",
+        "pros": "Google has a fantastic engineering culture and an incredible practice of software development. Everyone in the company has something valuable to offer, and there's a lot to learn from the people and the organization.",
+        "summary": "A great place to write software",
+        "role": "Software Engineer III",
+        "date": "Feb 17, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Terrible commute and overpriced housing nearby. Some big company politics.",
+        "advice": null,
+        "pros": "Brilliant coworkers, great benefits, good food, flexible schedule.",
+        "summary": "The best place to work.",
+        "role": "Senior Software Engineer",
+        "date": "Feb 22, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Can become chaotic or disorganized due to quick page and large scale.Just on the border of disrupting work/life balance.",
+        "advice": "Build up managers. My manager was awesome, but I've heard about other managers that don't know how to manage properly.",
+        "pros": "Great perks (many of which are available for contract workers).Wonderful communication from senior management about issues and new productsFun, with lots going on.",
+        "summary": "Fantastic place",
+        "role": "Anonymous Employee",
+        "date": "Mar 6, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Before I joined Google, I was a superstar engineer. Now that I joined and am surrounded by superstars, I am just \"average\". Sigh.",
+        "advice": null,
+        "pros": "Sure, from the outside people always talk about the awesome benefits and perks of Google, and the fact that you are surrounded by one of the smartest people in the world, but it really boils down to one thing: this company really respect its employees and gives ownership to them.There is an immense transparency at Google I have never seen at other big companies. Employees can voice their opinion on anything a\u2026\u00a0t Google and senior management (and boy, we do voice our opinion). The energy, atmosphere, and ownership at Google is really addictive, and I can't see myself working for any other company in the future, even if the pay is better.I do use my 20% time and actually work on another project I feel passionately about, and when you think that we are already indulged with so many benefits and perks, they just get better and better every year.",
+        "summary": "Best company I ever worked at and hope to stay here for a long time",
+        "role": "Software Engineer",
+        "date": "Mar 6, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "far commutea lot of competition",
+        "advice": null,
+        "pros": "good pay, nice coworkers, friendly atmosphere",
+        "summary": "very good company",
+        "role": "Anonymous Employee",
+        "date": "Mar 16, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Agressive schedule, ad hoc review process, ad hoc communications and organizations, distractive and non focused planning, not goal oriented, not into profit",
+        "advice": "work hard to involve all employees in the review and the project management, have better smaller project to start with",
+        "pros": "Incredible work environment, fast pace, interesting work topics, interesting project, employee involvement, flat management structure, good benefit, incredible free food",
+        "summary": "Very good",
+        "role": "Software Engineer",
+        "date": "Apr 10, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Long hours. Lots of work. Often collaborating with other who were not on the same schedule. Different schedule than the rest of the world.",
+        "advice": "You are all great. Nothing to add. Super job. Wonderful experience. I hope our paths cross again in the near future.",
+        "pros": "it was really great to work at google. Really friendly coworkers as well as supervisors made for an enjoyable experience.",
+        "summary": "Amazing",
+        "role": "Anonymous Employee",
+        "date": "Apr 16, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "It's a big corporation so everything is by the book and restrictions are tight.",
+        "advice": "Keep it up. You guys rock.",
+        "pros": "So Many. This is the best place to work if you are motivated. Everyone you work with has so much talent. Lazy people don't exist here.",
+        "summary": "Work with your idols",
+        "role": "Interaction Designer",
+        "date": "Apr 18, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "- Don't work in a small office (< 200 engineers) if you can help it. You will feel disconnected. Culture and connections are Silicon Valley centric.- Many great projects are worked in, many get cancelled for opaque reasons, which can be tough if you are on the team.- It is a big company, even though everyone is smart and trying to do the right thing, there are still big company politics and the feeling of \u2026\u00a0being a small cog in a very big wheel.- Management tries to be transparent, but sometimes when they can't or don't want to, it blows up in their face.- Mountain View employee culture is one of entitlement. In particular, I recall that when a new cafe opened up (the 19th one or so on campus) but was reserved for a group working on a confidential project, that there was open complaining about \"its not fair, why don't we get to go to that cafe?\"",
+        "advice": "Stop using cliches at company meetings and tell us what you really mean.",
+        "pros": "- There are many opportunities within the company- Google has hired some of the best names in software development, and don't be surprised if you get a chance to work with them.- Free food at all offices, at MTV and NY the perks are just incredible - onsite gym, massages, lectures from luminaries in all fields- Depending on your project, you will learn a lot about industrial strength software engineering \u2026\u00a0and deployment.",
+        "summary": "Awesome perks, chance to work with the best and brightest",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "- Like most development jobs, the company will take all the hours you want to give (the flip side is that I've never been asked to work more than 40, nor has it been implied I should).- Whatever tools you may have learned elsewhere, you won't use them at Google, because Google has it's own implementations of everything.- A follow-on to the last point, if you leave Google and try to join an employer who is loo\u2026\u00a0king for skills in specific tools, they won't be the tools you used at Google. That said, it's hard to think having \"Google\" on your resume won't more than compensate.",
+        "advice": "Keep on keepin' on. Especially, continue ignoring the stockholders and doing what you think makes sense for Google, for the employees and for humanity.",
+        "pros": "- Work with the best and brightest -- in over a year I've yet to meet anyone who isn't bright and highly competent.- Open culture and supportive management at all levels. I had some recent challenges in my family life and was told by my manager to take whatever time I needed, even if it was weeks.- Work on projects that seriously have the chance to change the world.- Great perks, including free breakfast \u2026\u00a0and lunch daily, and the food is gourmet-quality.- Wonderful office environment (other than not having private offices). Boulder boasts a climbing wall, fitness center, showers (with towel service!), stage with instruments where employees have impromptu jam sessions, foosball, shuffleboard, pool, video games, relaxation room, massage room... it goes on and on.",
+        "summary": "Awesome place to work; smart people, amazing technology, great projects.",
+        "role": "Software Engineer IV",
+        "date": "Apr 22, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "There are too many snacks.",
+        "advice": null,
+        "pros": "The best place to work at.",
+        "summary": "The best work place, ever!",
+        "role": "Senior Software Engineer",
+        "date": "Apr 26, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "The work hours are somewhat lengthy",
+        "advice": "Shorter work hours?",
+        "pros": "Great People working with the company",
+        "summary": "The work environment is fantastic",
+        "role": "Anonymous Employee",
+        "date": "May 12, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Things move too slow, despite efforts to improveCan't avoid feeling like a number in certain rolesLots of work to maintain products--crowds out time/energy for step-function innovations",
+        "advice": "Still have way too many products. Need further focus.",
+        "pros": "Fun projectsEasy to have a big impact on the world",
+        "summary": "Still fun and rewarding place to work",
+        "role": "Anonymous Employee",
+        "date": "May 14, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Nothing really. Big company now, so more processes than there used to be.",
+        "advice": null,
+        "pros": "Change the world; great people to work with; tremendous perks and respect for employees; lots of opportunity to grow.",
+        "summary": "Pretty awesome!",
+        "role": "Anonymous Employee",
+        "date": "May 22, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Google is becoming more hierarchical. You can move up through the ranks, but if you start at entry-level, it will take you 15+ years to get to senior management. Use it as a stepping stone to another job outside the company or move laterally and gain experience in different roles",
+        "advice": null,
+        "pros": "Amazing, smart, fun, and quirky colleaguesGreat brand name on your resumeOpen and transparent managementThe food, of course",
+        "summary": "Incredible, unique company",
+        "role": "Account Strategist",
+        "date": "May 24, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Quarter performance evaluations can be a little wearing. Good communication with the technical leadership on your project is a must for success a Google.",
+        "advice": "Stop pivoting on social.",
+        "pros": "I would say that the quality of my co-workers is very high. My managers have all at least seemed to be concerned with my personal well-being. There is always something new to learn here.",
+        "summary": "great but stressful",
+        "role": "Software",
+        "date": "Jun 6, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Very little supervision, some times, new hires do not know what not to do. Maybe that's the way to encourage and cultivate creativity!",
+        "advice": "Be focus on the main business!",
+        "pros": "Work life balance? Yes, you got it. You can find it at this high tech company! They even have a mother's room for you to feed your little baby. There was on-site washer and dryer. An employee got transferred from NY to MV HQ and didn't got out for a month, just living on Google campus! A lot of young and bright minds to work with, they will absolutely inspire you! The food is awesome and you will gain the infamous Go\u2026\u00a0ogle 15-30 lbs! The problem you are working to solve is instantly used by billions of people. How exciting that is!!!",
+        "summary": "Awesome company to work for",
+        "role": "Online Sales",
+        "date": "Jun 6, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "All the benefits are designed to get you to work moreLarge company is starting to forget about the individual",
+        "advice": "Handle the defragmentation effort with a little bit more sensitivity to employee situations",
+        "pros": "Smart coworkersGreat office locationsGreat benefitsInteresting projects",
+        "summary": "Awesome place to work, but big company issues starting to surface.",
+        "role": "Senior Software Engineer",
+        "date": "Jun 16, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Big place that's easy for some people to feel lostSteep learning curve that's hard on newcomersImpatience for results",
+        "advice": null,
+        "pros": "Smart, driven colleaguesPeople are motivated to do good for the user and for societyTreats employees wellLots of opportunities to try new things",
+        "summary": "One in a lifetime opportunity",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "- Sometimes the pace is a little intense and hard to keep up with.- The bar is very high; you might feel like you are an overachiever, but in comparison to your coworkers (who are also overachievers) it's difficult to stand out.- Not everything can be quantified, which can sometimes mean some contributions are under-valued in a numbers driven company.",
+        "advice": "While performance reviews are important, the amount of time that goes into the whole process seems quite excessive. There's gotta be a better, more stream-lined way that would save everyone valuable time...",
+        "pros": "- Smart coworkers- Unbeatable perks and benefits- Good compensation- Relevant work that's challenging- Very numbers driven and results oriented (encourages getting stuff done, not siting around talking about what needs to be done)",
+        "summary": "Exciting and challenging work with a fun, supportive atmosphere.",
+        "role": "Technical Recruiter",
+        "date": "Jun 26, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "none, absolutely none, believe me",
+        "advice": "keep up the good work!",
+        "pros": "Transparent, not greedy, amazing co-workers, great FREE FOOD!",
+        "summary": "Excellent company",
+        "role": "Senior Software Engineer",
+        "date": "Jun 27, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "- Large company so your project might seem small in comparison (even when it impacts millions of users)- Career management is on the onus of the employee (but this might not be a problem once you hit senior which can be the steady state and you are comfortable with the work)",
+        "advice": "* More structured career progression: tailor a career path instead of the ad-hoc / individualized career advancement based on managers",
+        "pros": "- Stability- Lots of computing resources at your disposal- Mature codebase- Great colleagues- Outstanding remuneration",
+        "summary": "I love it here, but it may depend on which part of the company you are in",
+        "role": "Software Engineer",
+        "date": "Jul 8, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "All of the pros mentioned above are getting weaker as the company starts to plateau and tries to squeeze out more revenue. Product managers may be surprised at how little power they have relative to at other companies - at Google it is the engineers that really run things.",
+        "advice": "The bottoms-up approach worked pretty well for a long time.",
+        "pros": "Lots of autonomy. Lots of product focus. They take focus on the customer seriously. Technology and engineer-driven culture where they aim to solve tough problems, not a lot of gimmiky product work going on. Everyone there is whip-smart and there isn't much politics.",
+        "summary": "Engineer-driven company looking to change the world",
+        "role": "Product Manager",
+        "date": "Jul 12, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Has become a big company. People not working as hard as before.",
+        "advice": null,
+        "pros": "You can make differences to life of people around the globe.It's a philanthropic company. You can have sense of pride.",
+        "summary": "Still awesome place to work",
+        "role": "Software Engineer",
+        "date": "Jul 12, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "I didn't get the chance to select my own projects. It is mostly handed down to you. If you are new you get the not so good projects.",
+        "advice": null,
+        "pros": "Free breakfast, lunch dinner, massages, weekly entertainment, free drinks and snacks. Game room. Scooters.",
+        "summary": "Great",
+        "role": "Software Engineering Intern",
+        "date": "Jul 13, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Got too big. Too diverse. Duplicate efforts.",
+        "advice": null,
+        "pros": "Great benefits. Great products. Great working environment.",
+        "summary": "A great company to work for",
+        "role": "Software Engineer",
+        "date": "Jul 13, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "I can't really think of any. The commute takes some time, but the company provides very frequent shuttles.",
+        "advice": null,
+        "pros": "Intelligent colleagues, opportunity for great impact on life quality of Google users, great benefits.",
+        "summary": "Inspiring",
+        "role": "Senior Software Engineer",
+        "date": "Jul 20, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "If you're in a remote office (outside MTV), it can be hard to make lateral moves in your career.",
+        "advice": "Just because someone is fragmented does not mean they aren't productive. There should be some kind of appeal process to keep remote people on teams.",
+        "pros": "Excellent salary / benefits / perks. Super smart people. Challenging projects. You learn a TON working here.",
+        "summary": "If you're an engineer, it's pretty sweet.",
+        "role": "Senior Software Engineer",
+        "date": "Jul 21, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Sometimes can be confusing, if you're not sure what interest you most.",
+        "advice": null,
+        "pros": "lots of smart people to work with.",
+        "summary": "Great company to work for",
+        "role": "Software Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "A bit harder to climb the corporate ladder when you're working in a regional office. Those folks in regional offices, know what I mean.",
+        "advice": "Keep the doors open.",
+        "pros": "Exciting to work for a company who values your ideas. Very smart and talented group of people!",
+        "summary": "Best company in the world...",
+        "role": "Senior Account Manager",
+        "date": "Jul 27, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Too busy, not good work life balance",
+        "advice": null,
+        "pros": "Most innovative company I know of.",
+        "summary": "Software Engineer",
+        "role": "Staff Software Engineer",
+        "date": "Jul 31, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Really none with the company, but living expenses in the bay area are crazy and although salaries are good they don't make up for the cost of living.",
+        "advice": "Keep doing what you are doing :)",
+        "pros": "Excellent work environment and coworkers. Everyone is really open and sharing and it is a great atmosphere. The company is also very open with everything that is going on,",
+        "summary": "Best company to work for, really",
+        "role": "Senior Software Engineer",
+        "date": "Aug 5, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "- Limited upside prospects unless you're (a) personally critical to the business and (b) threatening to leave for another company- HR process for internal mobility isn't working well- Opaque resource allocation process",
+        "advice": "Pay more attention to director recruitment. Of all the management levels, it is the one where I've observed the most variation in quality.",
+        "pros": "- Integrated Product, Engineering and UX teams- Focus is on the user and improving product- Incredibly sophisticated software development practices and agility- Transparency of the organization- Really smart leadership team- Very comprehensive benefits & perks- Strong education program",
+        "summary": "Lean but comfortable environment to get stuff done and change the world",
+        "role": "Product Manager",
+        "date": "Aug 10, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Everything is pretty complicated so a lot of work goes into researching potential adverse interactions.",
+        "advice": null,
+        "pros": "Everyone in engineering is very smart and nice. As a nerd, I feel right at home.Excellent benefits.Amazing infrastructure to do your job.Interesting problems.",
+        "summary": "6 year Googler",
+        "role": "Senior Software Engineer",
+        "date": "Aug 15, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Honestly, I have had nothing but a good experience working here.",
+        "advice": "Keep up the good work! Keep on integrating interns into the core of company life: encourage meetings and access to management.",
+        "pros": "+ Highest pay around.+ Free meals & food, transportation, housing, gym access, car sharing.+ Access to the brightest minds in the industry.+ Chance to work on real, production code that will be used while you still work there.",
+        "summary": "Software Engineering internship at Google",
+        "role": "Intern",
+        "date": "Aug 16, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "A lot of inquisitive questions from outsiders about inside work.",
+        "advice": null,
+        "pros": "Great flexibility and very friendly work environment.",
+        "summary": "An amazing company.",
+        "role": "Intern",
+        "date": "Aug 20, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Not one I can see right now.",
+        "advice": null,
+        "pros": "The employers were very understandful.",
+        "summary": "Very pleasing.",
+        "role": "QA Engineer",
+        "date": "Aug 22, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "The relentless pace often means that you have to get things out of the door before they are completely ready, and can do a number on your work/life balance (especially if you work in Android).",
+        "advice": "Transparency down to lower levels around launches would be helpful. Also, forcing Android to act a little more like the rest of Google (in terms of personal health and well-being being a priority) would be great!",
+        "pros": "The perks are clearly a huge win, but the best part of working at google is the autonomy you are given to to real, impactful work that is seen by millions of people.",
+        "summary": "Satisfying work. Long hours.",
+        "role": "Merchandising Manager",
+        "date": "Aug 23, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Steep learning curve, be prepared to have to constantly adapt and refactor code. Getting tasks done is a bit harder than usual here as there are a lot more things to take into consideration, such as scale, security, testing, etc. (but granted they also yield a lot better results than in other places). It gets better with time though.",
+        "advice": "Continue to improve internal tools & libraries and make them as easy and fun to use as the public APIs we provide!",
+        "pros": "Great crowd, knowledge base, infrastructure, amazing benefits, minimal bureaucracy, transparency, company genuinely cares about their employee's happiness, and the result is a very happy and fun place to work at.",
+        "summary": "Fantastic company, great career path, company values and work/life balance!",
+        "role": "Software Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "It's hard work! If you're smart enough to get hired and you learn the stack, you'll do fine, but overachieving coworkers make it difficult to stand out.Listening to coworkers complain about how their scallops weren't cooked properly :)",
+        "advice": "Maintain the open cultureContinue \"not being evil\"Perhaps ease the growth pressure on the SWE ladder? Not everyone aspires to be a tech lead.",
+        "pros": "Amazing colleagues at the top of their game who are surprisingly unpretentious and approachable.Unfathomable benefits - food, gifts, freedom.A peek \"behind the curtain\"Openness, trust, and a really unique corporate culture",
+        "summary": "Brilliant Coworkers, Amazing Benefits, and No Shortage of Challenging Work",
+        "role": "Software Engineer III",
+        "date": "Aug 24, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Big company. Lots of people.",
+        "advice": null,
+        "pros": "Good culture. Innovative. Good benefit.",
+        "summary": "Software Engineer",
+        "role": "Software Engineer",
+        "date": "Aug 25, 2012",
+        "is_current": true
+    },
+]

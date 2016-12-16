@@ -1,0 +1,532 @@
+[
+    {
+        "rating": 2,
+        "cons": "People are often not treated fairly as Ego's get big fast when a company grows so quickly. They get you in the door with the \"potential\" of going IPO but your in you give up your life and soul with little career growth or monetary incentives. Its no wonder that three of the four founders have already left in less than 3 years and long term employees are looking to sell their shares. No potential of any amount of 'pot\u2026\u00a0ential' earnings once they go IPO is worth being treated like second class citizens or just a fancier sweat shop.",
+        "advice": "Don't be afraid to higher some more seasoned and senior talent for leadership and management positions who can help create structure, processes and tools to help the organization grow and scale with the demand. Sooner or later the lack of these seasoned managers will be what drives profitability down and decrease the potential Facebook has to be come a fortune 500 company.",
+        "pros": "Facebook is exploring some new ground with social networking and its cool to be associated to the innovation",
+        "summary": "Staying Power",
+        "role": "Technical Program Management",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Operations department management sucks, they don't treat to people in a respectful and fair way. If you want to be a good position in Operations, you need to be friend of some certain people.",
+        "advice": "Question and try to understand why you constantly loose people from Operations. Facebook Software Engineering departments might be ideal place to work for but not the Operations.",
+        "pros": "If you are in Engineering department, you are at one of the best place to work for.",
+        "summary": "If you are in Engineering, you are at the right place. If, Operations... don't look back and run.",
+        "role": "Anonymous Employee",
+        "date": "Aug 3, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Management is constantly pushing youYou don't work at your own pace, you have to work at everyone else's paceNeed to stay after work everyday and go to work on weekendsPeople are very egocentric and their ego is entirely tied to how much code they writeI'm afraid of getting fired every single day",
+        "advice": null,
+        "pros": "Good pay, if you negotiate aggressivelyGood foodGood benefitsLocation is good, California is a nice place to live although expensiveLots of exposure",
+        "summary": "Overhyped Lifelong Hackathon",
+        "role": "Software Engineer",
+        "date": "Mar 2, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "- Working on product teams is trying because of the micromanagement of Zuck and other upper management. Many projects get delayed because they ask for random changes.- Working on backend teams doesn't have that problem, but they are typically second-class citizens and don't get as much respect as frontend teams.- Facebook is very large now and the bureacracy is starting to accumulate quickly. It used to be th\u2026\u00a0at engineers could just do stuff, but now almost every change requires a great deal of pointless discussion or overhead. For instance, you now have to fill out a form just to log some data.- Very strong focus on some of the \"hot\" product teams means that the rest of the company doesn't get preference with respect to product managers, designers, etc.- Most frontend work is boring mundane PHP. The only challenge comes from poorly-designed legacy systems.- Managers will often ask you to work on something you don't care about just because it's a priority for the company. This goes against the claimed philosophy of Facebook, but it's the way things are trending.",
+        "advice": "- Keep the bureaucracy down.- Reduce the rate of hiring. The marginal benefit of an additional engineer decreases fairly quickly. Going from 500 to 1000 is not going to come close to doubling the amount of work done.",
+        "pros": "- Free food- Reasonably good compensation- Reasonably flexible hours- Lots of smart, capable people- Work can be exciting",
+        "summary": "Trending towards bureaucracy",
+        "role": "Software Engineer",
+        "date": "May 24, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Brutally long hours for many, frequent pressure to delay or cancel vacation plans (even outside of release deadlines).Harsh, unjust, and badly cross-team calibrated reviews coupled with frequent firings so that the stick is very close to the carrot.It has now grown large enough that internal corporate politics have seeped in.Management, at all levels, fixated on lots of shiny new features, no \u2026\u00a0matter how broken, and lack of respect for necessary work getting done.",
+        "advice": null,
+        "pros": "Huge corporate upside potential (but might not apply to new hires as of 2012).Fun work environment (free quality food, game rooms, frivolity encouraged, etc.).High impact in terms of people using your code and recognition.Good opportunities to try new ideas and move teams.",
+        "summary": "Fun at the engineer to engineer level, but brutally long hours and badly disconnected front-line management.",
+        "role": "Software Engineer",
+        "date": "Jan 2, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "They say they're chaotic. IMO, it's a too fancy word for that. I would say that the code-base is a mess. The corporate value \"move fast and break things\" is understood too literally by some engineers. That's why the product is very unstable and the UI beyond two most frequently used pages is clunky. The job is boring. Things gets done extremely slow and the quality is very far from being perfect.Too much of narci\u2026\u00a0ssism (we're building an awesome product, we provide really sick user experience, we're ninjas, batmans and supermans etc. etc. etc.). Maybe it's good for some people, but not for me.",
+        "advice": "No advise",
+        "pros": "Perks, free and delicious food, free other stuff, 21 days vacation, good for resume.Free schedule, nice office, gym onsite etc.",
+        "summary": "Disappointing, boring.",
+        "role": "Software Engineer",
+        "date": "Jan 21, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "1. No career growth and lack of internal career paths2. Low compensation3. Lots of politics within the company (many ex-Yahoos and AOL employees are in management)4. Bad culture and habits brought in from ex-Yahoos and AOL employees are making a big negative impact on culture and morale at the company5. Mark Zuckerberg, aka Zuck has received good ratings in the past but of late he has been very distra\u2026\u00a0cted and not focused on how the company is run internally, he should own it and step up by making management changes to course correct the ship before it becomes another AOL.",
+        "advice": "Do something to address the low compensation issues and morale/culture issues within the company, make changes to management particularly in the engineering and sales organizations since the same traits that they had at Yahoo and AOL are starting to show at Facebook as well.",
+        "pros": "1. Great benefits and perks2. Passionate and dedicated employees3. Fun and exciting environment",
+        "summary": "Not a good place for a career",
+        "role": "Anonymous Employee",
+        "date": "May 15, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "If you are a CONTRACTOR you will be treated like a second class citizen, you will have no voice. Will not be considered for advancement, even if there are positions available. Actual employees work less than the contractors. FB hires contractors to do work that will be constantly needed, front desk, kitchen staff, IT Help Desk to name a few. It's as if they don't want the \"help\" to be officially apart of their team. \u2026\u00a0The FB you see online is not the same as in the office.",
+        "advice": "You have more than enough money. Hire people and give them job security. Especially for people that are doing jobs that won't be going away. 2+ years as a \"contractor\"......Give me a break!",
+        "pros": "Free food. Free transportation. Get to put Facebook on your resume. Casual work attire.",
+        "summary": "Does not \"connect\" with contractors",
+        "role": "Legal Triage Technician",
+        "date": "Jul 15, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "1) It's a social networking company, always will be, never even bothers with thinking beyond social.2) If you can convince yourself into thinking every thing Facebook does is worthwhile, it's a jolly good place to work. Otherwise, the internal culture that's developed over there can be very stressful, always expecting people to be confirming and to be vocal about it. It's an 'either fit in or get out' culture\u2026\u00a0.3) Company as a whole is bad at asking honest questions on important issues.",
+        "advice": "Being data driven is a good thing, but when it prevents you from thinking on fundamental issues, the whole approach becomes superficial. E.g, the most common public perception on facebook ads is that they are essentially irrelevant to them. Because of its sheer size, there will always be clicks/imps/revenue or whatever. You could either spend time optimizing these metrics, or instead, think about the most fundamental\u2026\u00a0 issue (that of irrelevance) and bring in some paradigm shift, thus making ads a real product.Another example is Facebook Home. Who really cares about a fancy UI with chat heads? Give me something real, like a completely new and better way to use/benefit from smartphones than the existing platforms. Then your phones will actually be bought. The question here is why go for these meaningless small goals and not for real world changing stuff that the company prides itself on being capable of?Do yourself a big favor and train employees on their weekly manager meetings. As of now, they are useless and can hurt engineers who really have no clue on what's expected of them. While you're at it, also train management and employees on setting concrete expectations.",
+        "pros": "Lots of smart people, really good technical infrastructure. Company actually changed the world with social networking. Free food, good pay, benefits. Facebook on resume looks fantastic.",
+        "summary": "Company is more suited for top grads than for those with hacker/intellectual mindset.",
+        "role": "Software Engineer",
+        "date": "Aug 26, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Politics and poor leadership in the mid-management levels.Many mediocre co-workers that can't pull their weight.",
+        "advice": "Many of your Managers and Directors are not high caliber or top notch.Set a higher bar and weed out your poor quality directors.",
+        "pros": "Challenging problems in scope and scale to solve.Money for projects is essentially unlimited. Buy the best of everything.",
+        "summary": "Lots of hype, substance is lacking.",
+        "role": "Network Engineer",
+        "date": "Sep 6, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "The focus on measuring means anything that can't be measured is ignored. It's easy to measure someone's ability to code on a whiteboard. As a result, the coders are much better than nearly everywhere I've worked, but that's it. Social skills and personality can't be measured. As a result there is no one here you would ever be friends. The internal surveys bear this point that people don't have friends at work. Simila\u2026\u00a0rly for managers, they are selected strictly for their technical ability. Again, they have zero compassion. In my time being here, I've never once felt like anyone cared if I was here or not. Not once has anything positive ever been said. It's really astounding.Recruiting does an amazing job at making candidates feel wanted. That feeling disappears the moment you sign. After that, you have no manager or anyone who will care. You'll go into bootcamp where you'll have a \"mentor\". His role is to continue to do his job while counting the number of lines in your diffs to make sure you can make progress with no assistance.After bootcamp, you'll have a manager who operates in the same mode. They are interested in the technology and not the people. To them, you are a resource to be maximized. They will tell you everything you need to do to improve, but never once say \"good job\". In boot camp, I kept meeting these amazing, visionary dynamic managers. I know realize they were the exception. Those people made me love Facebook during bootcamp, but that feeling wore off quickly once I interacted with the average line level manager.Plus, beware of the reviews here. Recruiting will tell you point blank that they curate these reviews. The reason FB has the highest rating is because someone internally has a goal to achieve certain star ratings on this site.",
+        "advice": "Start selecting people for human relationship skills and focus less on pure technical ability.",
+        "pros": "The people are smart, and the scaling challenges are great. Where else does your code impact a billion people? The compensation is amazing.Senior management are generally amazing people, smart, visionary and compassionate.",
+        "summary": "Smart, boring people and no balance.",
+        "role": "Software Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "I joined Facebook a few years ago because of the agility of the engineering team. Back then, it was true. Today, not as much.- Most projects fail due to over-complication and over-engineering- Smart people are hampered by large inflexible codebase- Very hype-based culture (thing x is the new hotness, everyone on board!)- Most of the code is old and not owned by anyone, yet still in production- Mos\u2026\u00a0t work is very mundane and not very exciting",
+        "advice": "Stop being so impatient for \"impact\" - some projects take time and nurture them.",
+        "pros": "Facebook is used by everyone, and this is incredible. The Menlo Park campus is really cool and has a great vibe.- Great benefits- Smart people- Impact on millions of people",
+        "summary": "Good company, too many failures, mostly boring work",
+        "role": "Software Engineer",
+        "date": "Apr 26, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Many departments within Facebook have a maturity problem. If, you are 40 or older, I would not apply.",
+        "advice": "Ms. Sandburg as the COO needs to evaluate the lack of maturity of those who surround her...the lack of experience is going to cost Facebook potential law suits and brand reputation",
+        "pros": "Benefits are great, and there are some very smart an engaging people",
+        "summary": "If you are over 40 Beware!",
+        "role": "Anonymous Employee",
+        "date": "Jul 22, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "The Revenue org is the worst. There is a total lack of transparency, which is different that the Eng and Design orgs.They say it's easy to transfer, but it's hard to find a role if you aren't a specialist.",
+        "advice": "It's not okay to block your employees from doing the work they were hired to do and for not telling them the work was on hold for 8 months.",
+        "pros": "Really smart people, Zuck has weekly Q+As and answers everything",
+        "summary": "Great company, but disorganization + bad management = a terrible experience for me.",
+        "role": "Designer",
+        "date": "Aug 26, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Out of sight, out of mind. Be prepared to always be social with everyone. Engage everyone at the company both online and offline at all times. This can get tiring if you're not naturally that kind of person. The people that are the friendliest with the decision-makers always get preference. Its not the kind of place that you can keep your head down, have a small group of friends, do good work, and be successful. You \u2026\u00a0need to be socially matrixed to the maximum level. If not, you might be let go...Also, they didn't get to be a big behemoth by ignoring the little things. There are a lot of mundane tasks to be done. There are also lots of small optimizations to be made that move numbers up but don't necessarily impact the end-user experience that much. It's easy to lose sight of a good process that asks \"why?\" and instead work tirelessly (and rapidly) to move numbers up for no good reason (other than to move numbers up).Lots of time is required out of normal business hours. This can be challenging for people with families.Some orgs are better run than others. Choose wisely, and do your homework, out of bootcamp.",
+        "advice": "Break up the clique-culture. Its like an 8th grade schoolyard in there (replete with the puppy-love romances).",
+        "pros": "- insane perks (barber, laundry, dry cleaning, car detailing, fitness facilities, stipend for food and entertainment, childcare, etc.)- tremendous stock upside- competitive (but not overboard) base salaries- generous bi-yearly bonuses",
+        "summary": "Keep Up With the Clique",
+        "role": "Anonymous Employee",
+        "date": "Sep 29, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Company culture is broken. Office leadership is broken. Work is not challenging or interesting.",
+        "advice": "Before hiring new employees, please be honest with them about what working at Facebook is truly like and what the projects they will work on are in reality. Don't lie and use your company brand collateral to rope in smart and motivated people to only then suck their souls out of their bodies.",
+        "pros": "High compensation, generous time-off. Good food. (the hamburger place is always tasty). The propaganda is usually enticing and the sweet shop keeps you fat.",
+        "summary": "It was fair - lots of opportunities to learn - few opportunities to work on interesting projects",
+        "role": "Product Manager",
+        "date": "Oct 20, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Bad work-life balance. Long hour working. No help. Co-worker don't want to help you.",
+        "advice": "Better mentorship",
+        "pros": "Good salary, free food, caltrain ticket.Co-workers has solid technology.",
+        "summary": "Good salary, bad work-life balance",
+        "role": "Software Engineer",
+        "date": "Jan 17, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "I worked as a \"contractor\". My direct supervisor was wonderful and took the time daily to ask me about my day and was always concerned. However the upper management on the team was deceitful, uncaring, unkind and unapproachable. The last several months we have been told we would be getting a better role and that we would be able to have real careers, instead we are just getting another contract agency and losing what\u2026\u00a0 little access we have to the Facebook culture.Expensive parking. It costs us $200 a month to park or we can run the risk of parking on the street and getting tickets.People we work for/with that are Facebook \"fte\" do not know who we are. Some are great but several do not even try.Bad contract company. They are definitely not \"pros\". Paychecks were often wrong or late. Almost the entire time I have been here we did not have a company person in the office. When we did get one it drastically changed how we could interact with our supervisor. We could no longer go to him with issues but instead were asked to go to someone else who yet again doesn't know my name.No chance at advancements. While I have the same degree as my close friend that helped me get in the door as a contract employee I have no chance at becoming a true Facebook employee. Unless you are recruited for a job you will stand no chance at getting the job. I was told that when they hire contractors they look for friends but when they hire \"fte\" they look for pedigrees. If a recruiter didn't find you you stand no chance.",
+        "advice": "Be honest. In one year I have met the \"management \" three times. All three times have resulted in what I felt was dishonesty. She would talk to us like she had something else or somewhere else to be.It was made clear in the beginning that there would be no full time role. What was not made clear was how little concern management would have. Outside of my supervisor and a few people that we got to work with we\u2026\u00a0 had no contact with anyone else.Learn our names. You don't have to stop and chat with me everyday but don't look at me like I am a complete stranger when I say good morning. Politeness and people skills go a long way. Beer pong is cool. You know what is cooler? Knowing who I am when I talk you.",
+        "pros": "Awesome benefits. Working with smarter than average people. Partying on the job. Name recognition at social gathering.The pace is amazing and you always feel like you are doing something important.Great people on my team. Really close knit and people I will have in my life for along timeFree food!!! Cannot stress enough how much I love this. This saved seriously my life. Three meals a day and \u2026\u00a0snacks.",
+        "summary": "Not in the club.",
+        "role": "Anonymous Employee",
+        "date": "Jan 28, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "-Lack of time to implement feedback without consequences-The team, and really one individual, can make or your break your experience here. Mine was ruined by a control freak (he called himself that - not my own words though it's an accurate assessment) who wanted to do everything himself. Ultimately I couldn't keep working with this individual and left for another company.",
+        "advice": null,
+        "pros": "-Fair compensation-Great benefits-People generally friendly and willing to help",
+        "summary": "All depends on your team, and mine was horrible",
+        "role": "Anonymous Employee",
+        "date": "Jan 31, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Very difficult work environment - extremely political, it combines many of the worst elements of a startup (uncertainty, lack of structure, cult-like worship of leaders) and a big company (hierarchical, hard to advance, lack of trust and needless internal competition). Large amounts of nepotism around promotions. A general culture of fear - middle management is terrified of senior management. While very smart, your c\u2026\u00a0olleagues will also be extremely arrogant and willing to do anything to get noticed/promoted. In general, this is not a place to go to make friends or feel like you're working together as part of a team.",
+        "advice": null,
+        "pros": "Very smart co-workers, fast-paced atmosphere, great networking (strong ex-employee groups after you leave), constantly changing and evolving. Mark is a strong product leader. Ability to leverage the experience for more fulfilling opportunities after you leave.",
+        "summary": "Feels much more like big company than they'd lead you to believe in the interview process.",
+        "role": "Operations",
+        "date": "Feb 10, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Bad work / life balance - you better be jusr out of college with no wife/husband/partner; nor any children.They do not know how to deal with senior people. Managers are just employees who do more work; they do not have time or the need to help out. I have seen a few people get thrown under the bus by the boss - why defend your team when Menlo Parks complains because they do not know what you are doing; fix anothe\u2026\u00a0r task and get new employees.",
+        "advice": "Get real managers. I have seen many people from your Seattle office leave or \"get helped\" to leave - they were not bad employees and you paid a lot to acquire them - you have a revolving door because you have junior managers - at best - running the office; and they report to even less trained managers in Menlo Park. You are making tons of money right now and it probably won't show up for quite some time, but, at one \u2026\u00a0point, poor people management will cause pains to Facebook - in 5 years you will be like Google and in 10 you will be like Microsoft. Fix it now!I totally believed in the Culture and Values which Facebook says it has... I have not seen it applied evenly.",
+        "pros": "Cool; (duh, it's Facebook!). Great resources, lots of 'candy' (e.g. free food, parties,...), super autonomous (do your job anyway you want as long as it gets done. Have a trip to Menlo Park; no problem, etc...). Great impact (did I mention the billion+ people using this thing?). Great culture (when applied - see notes below). Great benefits (salary, shares, medical, 401k,...)",
+        "summary": "TheFacebook needs real managers",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "As the title says, FB is not for everybody IMO. The recent set of 1-star ratings list pretty much all the things that made me leave: questionable work-life-balance, no planning/structure, arrogant/ignorant coworkers, every man for himself/every woman for herself, cliques, political, inept managers, poor communication/rumor mill/back-stabbing, no teamwork, management by attention-deficit disorder.The work-life\u2026\u00a0-balance issue goes beyond the mere hours: it is expected that you become FB friends with all your coworkers, managers, etc. FB makes it impossible for the realm of your private life to remain separate from your workplace and coworkers. This wasn't working for me, but I recognize that for others this isn't an issue.It seemed to me that much that is broken at FB is perpetuated by the in-clique and in fact gets sold as the great achievements of FB's unique culture.",
+        "advice": "Do what every other successful company your size does: train you managers so they can:* create teams that work together on common goals,* foster good communication* help their team plan and be successfulYou're holding on to ideas that may have worked when you were a start-up (no code ownership, no planning, documentation?, tests?). Your so-called culture is a liability, especially if you let incompete\u2026\u00a0nt managers corrupt it to the opposite of the values you want to stand for.",
+        "pros": "Perks & pay are top notch. Some of the engineers are truly talented.",
+        "summary": "Not for Everyone",
+        "role": "Software Engineer",
+        "date": "Apr 12, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Work/Life Balance is non-existent. As is career development opportunities & mobility on the non-technical side.Management is really poor & gets increasingly detached and political the higher up you get.They tend to reward/promote people who can make themselves look good, rather than people who actually get stuff done. This wasn't the case when I joined; but, the culture has shifted dramaticall\u2026\u00a0y in that direction.",
+        "advice": "The culture is shifting pretty dramatically, and the ability to actually affect change is decreasing. The company is starting to suffer from a lot of \"big company\" problems that will affect it's ability to succeed in the long run.",
+        "pros": "Facebook is working on some inspiring things & it's cool to be a part of it.Many of the people they hire are extremely bright.Benefits are awesome.",
+        "summary": "Great benefits, changing culture",
+        "role": "Anonymous Employee",
+        "date": "Jun 23, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "- Management at the manager level is full of many inexperienced managers who are looking to try their hand at management. I don't think it's working that well. They don't back up their direct reports and are afraid to make any sort of decision.- Decision making by groups...while in theory is nice and probably worked a few thousand employees ago makes things slow down now. Empower your people and embrace accou\u2026\u00a0ntability and responsibility.- Politics are king, if you can navigate them well, you'll do well on certain teams as it is rampant. Favorites are played and it's more about what you say you're doing then what you actually are doing.- Plan but don't execute - executing is for low level people, senior folks plan strategically with a holistic view and full context....yeah all that garbage talk is for real though. Seriously, depends on the team and role, but getting \"stuff\" done could be seen in a bad light.",
+        "advice": "- Managers and IC's need to be empowered to make decisions and to know they have leadership's support.- Maybe take a look at hiring experienced managers from other companies instead of promoting the volunteer.- Remember that executing is more important then a roadmap.",
+        "pros": "Facebook offers competitive pay, fantastic benefits, a comfortable dress code, etc. but you all already know that. Those reasons alone make it an attractive place to work (though that luster does wear off). You have great IT services and productivity tools that make the day-to-day of getting work done easy.",
+        "summary": "Project/Program Manager",
+        "role": "Anonymous Employee",
+        "date": "Jul 20, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Mostly growing pains due to the rapid growth of the research team and at times a lack of a clear direction caused churn. Perhaps it is simply too top down.",
+        "advice": null,
+        "pros": "Great perks and benefits. Many great people. Good focus at the top and investment currently investing in research and design.",
+        "summary": "Researcher",
+        "role": "Anonymous Employee",
+        "date": "Aug 23, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Management is tough, the emphasis on impact makes it dog eat dog",
+        "advice": "Value your people",
+        "pros": "Ups your game considerably. Great perks!",
+        "summary": "Management was tough",
+        "role": "Anonymous Employee",
+        "date": "Sep 20, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "The HR/training teams that I worked with were staffed by people that thougt they were experts. They indicated that no contractors could ever offer value; contractors were viewed as an extra pair of hands. However, my role was specifically to provide expertise and coaching in my domain area. The junior/mid-level staff never solicited feedback and assumed only their ideas were useful. Just because people say they are o\u2026\u00a0pen to feedback does not make it so. I got unsolicited feedback constantly at FB: everyone has an opinion and thinks it's valuable. But, not once did anyone ever ask for my feedback. In that sense, and many others, it's a hypocritical environment.If you're junior or less than 15 years in your job, FB is probably a good place to grow. If you're more experienced, be sure you carefully evaluate the job. My experience is that I wasn't working with the best or brightest, more often they were the narrow-minded, arrogant and entitled.Finally, in the area I worked, it was all about blame and pointing fingers when things went wrong. And because they hate processes, of course things would go wrong.",
+        "advice": "Puleeeze - do you really think management is listening? My experience is that someone junior will respond to comments (everything had to be answered by someone at FB because \"feedback is so valued).\" Uh, no - not in my experience.",
+        "pros": "Lovely campus, okay perks for contract workers.",
+        "summary": "Not for everyone, hypocracy and blame I saw mostly",
+        "role": "Manager, Specific Contract Services",
+        "date": "Oct 21, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "it's a soul-sucking new age corporation with promises of making a difference in the world or finding the next \"billion dollar idea\". Projects aren't set up for designers or a creative process. Their engineering mantras of \"hack\" and \"move fast\" will always take precedence, which makes for failed designs and cheap ripoffs of existing products.",
+        "advice": "The design process and strategy should take precedence over engineering.",
+        "pros": "lots of money and having a top 5 tech company on your resum\u00e9.",
+        "summary": "beware of kool-aid...",
+        "role": "Product Designer",
+        "date": "Oct 27, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "lack of proper software engineering practices/hacky culture. Not much guidance given to employees.",
+        "advice": "great going, but codebase can be made much better. Some of the code base is buggy, but it is still working fine.",
+        "pros": "Food is great, and the people are amazing as well. Great culture. I loved everything about it.",
+        "summary": "great company",
+        "role": "Intern",
+        "date": "Nov 7, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "The good, old \"open and focusing on impact\" culture is fading away. Senior level engineers more and more often have to fight against each other for projects or reinvent the wheels for the sake of fulfilling requirements vs. real technical/business needs. Managers brought in through nepotism have little to none people management experience and skills and brought in negative impact by playing politics. There is no clea\u2026\u00a0r mechanism in place to stop these viruses from spreading.",
+        "advice": "Add checks and balances to keep managers' performance in check. Employees at FB typically can easily land external opportunities (and better comps) and don't bother to stay when running into issues, although most of the time the issues have been disguised as performance challenges or issues on the employee side.",
+        "pros": "The opportunity to work on interesting and challenging problems. Intellectually stimulating environment. Great perks and shuttle rides make life more efficient. Company is in a good spot in a large market. The CEO has great visions.",
+        "summary": "good culture is fading away",
+        "role": "Software Engineer IV",
+        "date": "Nov 11, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Biggest common issue over my 1 year here: They don't practice what they preach (ie. Culture and work/life balance opportunities). The management team looks down on everyone. No one can advance beyond an entry level position. You get an idea that gets bought or get stuck in an entry level type job for your \"career\" with barely above avg pay rates. I know that this is a competitive industry but sometimes the stupid peo\u2026\u00a0ple win just because they have the right connection. Bad employees stay while realistic workers realize the mistreatment and all leave within a year. I'm not making this up. Go look up Facebook's overall turnover ratio and tell me how that could lead to happy employees. Every SINGLE person on my initial project was lied to about their working hours (expect 9-5 and told 9-5 then made work overnight/graveyard shifts), benefits (only get to go on campus when with a supervisor), and team management. Too often we are told that our ideas will be considered then a manager gets promoted to a new project for spearheading such an idea.",
+        "advice": "Learn to actually communicate and not alienate employees on new projects. Foll",
+        "pros": "They have some great ideas that are inspirational. There is never a stop to the ongoing activities and overwhelming number of events. Coworkers are peers of all ages and backgrounds which makes for a unique dynamic around the office",
+        "summary": "Looks good on the outside....",
+        "role": "Public Content",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Impact you can have now is severely limited. Reviews are based on impact, career progression is unobtainable. Sexism is rampant.",
+        "advice": "A large percentage of employees are burning out. You need to look into this problem urgently and fix it.",
+        "pros": "The food; still some smart, experienced, talented people who work there; good compensation.",
+        "summary": "Really great initially but things have gone way downhill over the past few years as the company has grown",
+        "role": "Software Engineer",
+        "date": "May 11, 2016",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "management is open and innovative, long hours, some projects don't go anywhere, hacking mentality can make leadership and product ownership fractured and confusing",
+        "advice": "be open to longer term projects, not every product benefits from rapid iteration",
+        "pros": "colleagues are supportive and smart, technically challenging environment, possible to move around the company",
+        "summary": "SWE",
+        "role": "Anonymous Employee",
+        "date": "Jul 1, 2016",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Work 10 HR days, no break no lunch no comp time micromanagement staffing issues denials of necessary time off-denial of funerals, expect Saturday and Sunday work weeks, no work from home, but WFH is allowed if building is closed due to blizzards. RUN- don't walk!!! It's a bait and switch!",
+        "advice": "WAH, treat us like humans- Matrix is a computer! We need to eat, have bodily functions!Staffing is way understaffed. The bait and switch was just plain wrong!!!",
+        "pros": "I like my co-workers, I have a cubicle. I had to write a proposal to obtain 2 monitors. I finally received a slide out keyboard- had to write a proposal for.",
+        "summary": "UM Clinician",
+        "role": "Anonymous Employee",
+        "date": "Aug 10, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "The culture of some of the departments is slipping away faster than most people would like to admit. The company is becoming more and more \"corporate\" with more politics settling in. This ranges from managers hiring friends and old colleagues, completely bypassing our interview process, to putting \"policies\" in place against company culture that puts unnecessary roadblocks in place, slowing down productivity. The com\u2026\u00a0pany is growing, which can be appreciated, but the amount of emphasis that is being put on us that we need to move to being \"more corporate\" is completely against what the company was built on.",
+        "advice": "TRUST your employees. A little bit of trust goes a long way. This isn't the government or a large corporation - this is Facebook - a once choice employer who is getting eroded by managers doing their best to build an empire and put as many layers of insulation between them and their lowest ranking employees.",
+        "pros": "Amazing amount of perks - food, a truly \"frictionless\" IT department, etc. The benefits package is the best I've ever seen and gets re-examined every year to adapt to the changing company population. Facebook, the company, is amazing. What the company is doing to connect the world is something that is truly astonishing and amazing. Being able to work for an employer that is changing the world before our eyes is somet\u2026\u00a0hing not many people will ever get the chance to say they were a part of!",
+        "summary": "A Once Amazing Culture is Slipping Away",
+        "role": "Project Manager",
+        "date": "Sep 12, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "There are several. Note that the role specific ones are only for data engineers. What I have found is that there is a lot of difference in the way different groups function, so if you join as a SWE or as a product manager, your experience may be different.1. The work environment is very open and very noisy. There is absolutely no privacy. This becomes more of a bother here because there are so many people now\u2026\u00a0 in all of their buildings. The only time when I was able to do any serious work was when I was working from home.2. As a data engineer, you will be working with a very old version of Hive (0.10 I think). This is the version even before the one with windowing clauses. I was used to working with a better version that also had CBO and I found this limiting. Not only that, if you do this for a year or two you will be at a disadvantage when you switch jobs.3. The data engineers are at the lowest rung of the pecking order. Some call them 2nd tier engineers. I call them data peons. They do not get any say in the kind of work they get to do. Any grunt work can be passed on to you and because of the way the review system works, they can screw you if you show any displeasure. An example of this is the data visualizations. The data engineer is expected to do that. I never had to do that before. So you will be spending a lot of time doing housekeeping work like making sure the pipelines run, making sure the font and color choices you made on the dashboards are pleasing to the analysts who sit on top of you in the pecking order. And to add insult to injury, the visualization tool is a home grown one and none of the skills you get from using it are going to help you in a future job i.e. if you plan to continue doing visualizations.4. Data peons are treated differently as compared to software engineers. Whereas on occasion the software engineers get to work exclusively on different projects for up to a month, there is no such options for data peons. So mobility is very very limited.5. The performance review system is stacked against data peons. Because they are at the lowest rung, most of the people reviewing them are analysts or above. So the analysts are the overlords even when some of them are absolute idiots. The only ones who can survive in this system are ones with a servile attitude and with mediocre talent and ambition.Some of these are because of recent org changes. A lot of the people I know who joined around the same time as me have left the company.",
+        "advice": "Even though Mark is one of the most open and humble CEOs I have even worked for, there is a lot of abuse and harassment happening in the lower levels of the Org chart. I think you should listen closely to complaints that are made to the HR and review them.",
+        "pros": "The only pros I can think of is not really job related. The Disney like setting is good to bring your kids and family to if they are visiting. But the novelty wears of after 2-3 visits. The summer picnic parties used to be fun before but now it is too crowded and held at cheap locations - like this year it was at one of the piers in SF.As a data engineer you can try to understand the topology of the data systems \u2026\u00a0and see how they work. You can look at the code base and see how they all fit together. See how the log streaming works and how it makes its way into the data storage. These are not job related activities but it will help you in your interview at your next job.",
+        "summary": "data engineer",
+        "role": "Anonymous Employee",
+        "date": "Sep 28, 2016",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Inexperienced management and already full of politics",
+        "advice": null,
+        "pros": "Lots of perks, many smart people",
+        "summary": "Not happy",
+        "role": "Anonymous Employee",
+        "date": "Oct 2, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "bad management, high turnover rate",
+        "advice": null,
+        "pros": "high salary, good environment, training are good",
+        "summary": "Overall ok",
+        "role": "Anonymous Employee",
+        "date": "Oct 3, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "The work itself was not very interesting, and there were a few months I got stuck doing absolutely abysmal maintenance work on old code. Among management, there are a few bad apples that can make working there less pleasant.",
+        "advice": "I left Facebook quite a while ago, and things change quickly, so I'm not sure how much of this advice is relevant but I can say a couple of things. Firstly, employees should be given more freedom over what kind of work they are doing. This can possibly be implemented in the form of 20% time personal projects or something like that. Secondly, high performers should be more publicly recognized.",
+        "pros": "The most attractive aspect of working at Facebook was the lay prestige. The salary was competitive and, of course, one of the big reasons to work there, but you can get that somewhere else relatively easily.",
+        "summary": "Mediocre",
+        "role": "Software Engineer",
+        "date": "Oct 27, 2016",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Not every team is created equal at Facebook. I'm a Product Support Specialist at Facebook working under the Global Shared Services department. Unfortunately, the role that was stated in the JD is not the role that I am in.I was told the Product Support role would be a precursor to Product Management and that you will be spending a lot of time strategizing and helping product teams with their product roadmaps.\u2026\u00a0 A couple weeks in, and I soon realized that this role is purely operational and SLA based. We manned bug reports on a daily basis. Everything was numbers driven, but not in the right way. We were encouraged to analyze the tickets to find ways to improve SLA.Leadership is quite weak. They only listen to our goals and aspirations but neither help us or nor point us to the right direction. Most of the team don't plan to stay for long. Everyone seems to have a plan B or to be using this role as a springboard to another one within Facebook.Although I hear great things from other teams, this one is not it.",
+        "advice": "When hiring for new recruits, don't sell them on what the team will be in 2 years. Let them know what is the current state of the team. Be honest about how much time is spent on day-to-day \"tasks\"Try to be a leader and not numbers driven for your own career benefits.Facebook is an open company, uphold those cultures.",
+        "pros": "BenefitsFoodGymYouthful CultureGreat ExecutivesVery smart people (engineers)Beautiful campus",
+        "summary": "Product Support (Not every team is created equal)",
+        "role": "Product Support Specialist",
+        "date": "Dec 6, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "If you work in User Operations at any level other than Associate or Lead, prepare to be bored, frustrated, and stifled in career development. The jobs in this department mostly involve repetitive task work such as content moderation and responding to user emails, but you will get slightly more interesting tasks from time to time such as working directly with an engineer. You will not be given much respect or apprecia\u2026\u00a0tion for your work, nor will you be promoted unless you schmooze with the right crowd and embody the essential 'Facebooker'. The bureaucracy problem has gotten much better over time, but it certainly still exists. Everyone is smart, so the competition for a few leadership positions is tough, and you'll be denied promotions for fairly abstract reasons. The target is always moving. It's also quite difficult to transfer to a different department - UO isn't given much benefit of the doubt. It's unfortunate that this department has developed the way it has, because there is a large, untapped pool of brilliant people who could really make great contributions to the product.",
+        "advice": "Facebook is probably the best place in the world to work if you're a software engineer, but don't forget the people at the bottom who thanklessly support the entire user-base.",
+        "pros": "Free food, laundry, flexible work schedules, commuter shuttles, gym membership discounts, and the opportunity to work with smart & motivated people on a massively popular product are good reasons to work here.",
+        "summary": "Best place to work? Depends on who you ask.",
+        "role": "User Operations",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "IT dept. in Facebook is the worst place to work. They just hire and fire people for no reason.",
+        "advice": "Change the IT management.",
+        "pros": "Perks were good. Salary was OK.",
+        "summary": "It was ok",
+        "role": "Anonymous Employee",
+        "date": "Jan 31, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "- Despite the mission, the company is not transparent towards employees. Goals are not clear, there's lots of backstabbing and favouritism. Reviews are anonymous, managers extract the paragraphs that suit them best and nobody knows how their job is really rated.-Management is terrible. Most managers are completely inexperienced, only focused on their career and and couldn't care less about their team.-Hard wo\u2026\u00a0rk is not valued. It's all about the way you fake how much you find the company \"awesome\". There are managers who go to work at 11.30am every day and barely do any work, but because they are very good at faking their enthusiasm for the company, they are still there.- They don't want people who are honest and straightforward. They claim \"constructive criticism\" is welcome, but it's a lie. If you want to progress, you have to fake that you are ok with everything. I was once told by a manager \"criticism here is not accepted\" (guess when I decided I wanted to leave the company..).- Their attempt to brainwash people is frightening: employees have to participate in \"wow moments\" (they say,\" wow, I work for FB, the company does this and that\"..yes, it's true..), fill in the \"awesomeness index\" and give stuffed animals to people who perform well.- Work-life balance is very poor: working longer hours is the rule, your boss is on your Facebook, whatever you do is observed (remember Orwell's 1984? well, the guy was totally right).- The job is quite fun but can be extremly stressful, as you deal with any kind of violent, pornographic, very graphic content and there's no concrete support whatsoever for employees. You might be told at 5.30 pm that there are still 500 reports about suicidal content lying in the queue (oh yes, you'll sleep very well that night..). No wonder most people suffer from insomnia, see psychologists and have stress related diseases.- If you work in Dublin, bear in mind the main decisions are taken in Palo Alto and you're just the operational part of the company. You may work very hard on a project and discover at the end of the quarter that people in Palo Alto have already changed the policy without saying anything and your project is useless (...\"All animals are equal but some animals are more equal than others\")- They call fast-paced environment what is most often simply a chaotic and illogical schizophrenia of decisions and counter decisions.",
+        "advice": "Be the example. Do you want to the company to be \"open and transparent\"? Well, be open and transparent.Start thinking with your own minds and allow other people to do the same.Finally, my last piece of advice is, read George Orwell and ask yourself some questions.\"If liberty means anything at all it means the right to tell people what they do not want to hear\".",
+        "pros": "- Good benefits (free food, health insurance, discounts etc)- Fun job most of the times.- Great facilities and office location.- You really learn how to work in a stressful environment and to manage different tasks.- Opportunities to grow and travel.- It looks good on your CV when you look for another job.",
+        "summary": "Very negative experience",
+        "role": "User Operations Analyst",
+        "date": "Jun 26, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Business product performance poor, highly political environment, pay low relative to market, exceptionally long hours",
+        "advice": "Test ad products before bringing to market, cultivate younger managers so that they can follow-through on your vision, scale HR to realistically be able to achieve growth goals",
+        "pros": "Prestige, work with amazing engineers",
+        "summary": "If you're not an engineer, you don't matter",
+        "role": "Anonymous Employee",
+        "date": "Jul 10, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "The hours you work and the pressure you are under make the remuneration meagre in comparison (especially seeing as share options, previously promised to balance out low salaries, are now worth so little). The post-IPO scramble has made many lose confidence in the forward thinking and strategy of top level management; lower level management often lacks the skills or will to deflect from the increasing corporate politi\u2026\u00a0cs. In engineering teams, there is a cult-like mentality towards the infallible CEO.",
+        "advice": "It's time to stop moving so fast and breaking people - think more about the long-term, and your employees who would like to remain with you.",
+        "pros": "Working in digital, social and mobile is without a doubt *the* sector to be in, in Ireland these days, which is a great plus. Your role in FB is (pretty much) safe, which is more than can be said in other realms of the advertising (or indeed business) world. You'll also meet some amazing people here, you'll forge some real friendships. In advertising teams, there is a great feeling of getting to know the right people\u2026\u00a0, doing (some of) the right things. Perks like free meals are increasingly ubiquitous, but are still nice.",
+        "summary": "Over-worked and under-valued, watching the bubble burst",
+        "role": "Anonymous Employee",
+        "date": "Aug 27, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "too much office politicsnepotism outweighs meritocracyteamwork is limited, more individualism",
+        "advice": null,
+        "pros": "vision of its founder is strong",
+        "summary": "not different from any other organization except for the benefits",
+        "role": "Anonymous Employee",
+        "date": "Oct 25, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Too many 'bad eggs' in terms of people, who 'think' they are the embodiment of enlightenment and facebook's mission, instead maintaining status-quoe and dampening people's ideas, motivation.",
+        "advice": "Be what you say you are.",
+        "pros": "Incredible benefits, a great sense of family and partnership.",
+        "summary": "A fantastic company... full of jerks.",
+        "role": "MMS",
+        "date": "Nov 21, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "A lot of bad people - huge amount of hype aout hiring the best, but rarely is the truth. A lot of arrogant peopleMASSIVE gap between Eng/Prod and the \"rest\"Remote offices are give no autonomy.Smart people doing a lot of crap workShort sighted around careersInexperienced at exec level in particular.",
+        "advice": "Hire the right people to do the right work, and let them do it. Let people in remote offices actually contribute",
+        "pros": "Its Facebook - 1.3billion users$MM are the normSome good people",
+        "summary": "Remote Offices - Be wary",
+        "role": "Anonymous Employee",
+        "date": "Dec 16, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "At times there can be very little communication intra-day between staff",
+        "advice": "Better interaction between all levels of staff",
+        "pros": "Very friendly staff, meals are very good",
+        "summary": "Satisfactory",
+        "role": "Software Engineer",
+        "date": "Jun 15, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "A red tape throughout the company as it's getting biggerHaving to deal with arrogant Client Partners in marketWork/life balance can be quite poor as it can be expected that you are available in non working hours",
+        "advice": "Recognize and reward the right people",
+        "pros": "Great perks and environment!You can have high impact with projects as long as you are pro-active",
+        "summary": "Great learning environment and company, too bad it's filled with too many arrogant people",
+        "role": "Anonymous Employee",
+        "date": "Aug 19, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Getting too big and political although the company acts as if there isn't. If you don't please the right people, it can go wrong to downhill very fast. Not what is used to be couple of years ago.",
+        "advice": "None",
+        "pros": "Free food and some of the great colleagues. Great benefits and pay is quite high",
+        "summary": "FB getting too big and political",
+        "role": "Client Solutions Manager",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Some business units do not have a good management; as everybody wants to work here, there can be a lot of backstabbing involved; \"diversity\" can be questionable, it is not always the case. HR sometimes does not listen to a lower-level employee, but an employee on a higher rank. You can earn a good salary, but spend most of your time at the company (lack of work-life balance).",
+        "advice": null,
+        "pros": "It is a fast-paced company, innovation, the company is very open in terms of projects",
+        "summary": "Sales & Account Management",
+        "role": "Anonymous Employee",
+        "date": "Oct 8, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Discrimination in treatment between full-time employee and contractorMicro-management working environment applied on contractor",
+        "advice": "Develop better management system, especially for contractor as everyone is working towards the same goal for the company.",
+        "pros": "Opportunities to communicate with clients who are experts in advertising on FacebookLearning about Facebook advertising solutions from the basic to comprehensive level",
+        "summary": "From the viewpoint of a contractor",
+        "role": "Contractor",
+        "date": "Mar 14, 2016",
+        "is_current": false
+    }
+]
