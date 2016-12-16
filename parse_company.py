@@ -5,6 +5,12 @@ import pprint
 min_words = 100
 
 
+def json_export(data):
+    jsonFile = open("data_analyzed.json", "w")
+    jsonFile.write(json.dumps(data, indent=4, separators=(',', ': ')))
+    jsonFile.close()
+
+
 def to_vector(profile):
     need_val = []
     value_val = []
@@ -67,4 +73,4 @@ if __name__ == "__main__":
         temp = classify_review(company)
         vector = get_personality(temp)
         dict.update({company : vector})
-    pprint.pprint(dict)
+    json_export(dict)
