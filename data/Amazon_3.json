@@ -1,0 +1,902 @@
+[
+    {
+        "rating": 3,
+        "cons": "It is a very high entropy work environment, and so far I have a pretty dim view of the lower level managers. It doesn't seem like there's much opportunity for professional growth. The professional culture is mostly male and alpha-geek-centric.",
+        "advice": "NA",
+        "pros": "Amazon is a great brand. If you tell someone you work at Amazon, outside of Seattle at least, you will inevitably hear, \"Oh, I love Amazon!\"",
+        "summary": "Great brand, great stock, poor professional growth.",
+        "role": "Software Development Engineer II",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "This requires a laundry list:-The company is getting big and bloated, which gives departments reasons to be bureaucratic. Some departments take liberty with that and it can be difficult to persuade others in the company to do work that only their department is capable of doing.-If you're entry level, don't plan on moving up the company ladder here at all. I've seen high performers sit in the same job level fo\u2026\u00a0r 7+ years. There's no structure for building your career - you have to figure out how you want to do this on your own.-A lot of the entry level work is simple and arduous, and only the managers get to do the interesting and satisfying work.-Frugality is defined as one the company's core values to a fault. Truly, being resourceful is one thing. But being cheap and preventing employees from getting resources they need to do their jobs is another.",
+        "advice": "Start defining departmental responsibilities and hold people responsible to those responsibilities. For example, if a group of software developers builds and internal software suite for another department to use, don't let that department just build it and not support it. The structureless environment at Amazon will eventually cause a lot of waste.Jeff Bezos has the vision, but I'm not sure the operations fol\u2026\u00a0ks at Amazon can carry out the mission well enough when Amazon is a 50B+ company.",
+        "pros": "Since the company is growing, there are a lot of opportunities to dig in and make a difference. If you don't have a lot of experience, it's a good place to start and learn. Additionally, the company is making history almost every day, and it's great to be part of the company's achievements.",
+        "summary": "Join if you need some experience, but stay away if you are looking for a promotion.",
+        "role": "Financial Analyst",
+        "date": "Sep 9, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Jeff Bezos is never going to retire. This means that VPs and above who are at Amazon are fully aware that they will never be CEO. It can be argued that this reduces the pool of talented leaders who are willing to work at Amazon. In my experience, the executives at Amazon tend to be less competent than at most other companies of similar size. Also, although they will claim otherwise, it's an intensely political enviro\u2026\u00a0nment. Many directors, VPs, etc can fail over an dover because they have been there forever.Carrying a pager is either neutral or a big negative. If your team has its stuff together it's minimally invasive. OTOH, if you're supporting crap pager duty can be hell.",
+        "advice": "1) start pruning the maliciously incompetant directors and VPs. Just because Jeff Bezos likes them and they've been there forever shouldn't mean they can fail upwards2) Reduce the turnover. After 4 years 90% of the people with whom I worked my first year were gone.",
+        "pros": "Really smart, motivated employees. You ship software often and can see the results of your work frequently. One year at AMZN is equivalent to several years of experience at most other companies. If you look around you can find really cool projects, many of which are greenfield and do not require supporting old code. Having Amazon on your resume will also open a bunch of doors for you. I received a never-ending stream\u2026\u00a0 of emails and phone calls from recruiters while I worked there. Generally speaking, you have a great deal of latitude in working on things that interest you.",
+        "summary": "Great Place to have worked",
+        "role": "Technical Program Manager",
+        "date": "Sep 23, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "It is a little bit overwhelming for new person.",
+        "advice": "Good training program needed.",
+        "pros": "The work is pretty chanllenging, lots of new things to learn. and the money is pretty good.",
+        "summary": "Still new in amazon, so far so good",
+        "role": "Software Development Engineer II",
+        "date": "Oct 5, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "however, they extend their frugality to its employees, plus awful operational load, crazy releasing cycles all contributes to its high turn over rate. if you are single new graduate, this is a place for you, there are fun projects for you. however if you are with family, think twice before you come.",
+        "advice": "try to save your current employees rather than spending money on recruiters",
+        "pros": "they are doing good business for sure. as a shareholder I would love to own it. their philosophy is customer centered, everything is to create the best customer experience, even at the expense of low profit margin, which I totally agree. the loyal customer base is essential.",
+        "summary": "love to be shareholder, but not employee",
+        "role": "Software Development Engineer II",
+        "date": "Oct 5, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "The company hates to promote engineers. If you want to get promoted past SDE-II you're much better off becoming a manager. Some groups have bad support burdens and management doesn't seem to care. The environment itself is pure chaos. Goals and priorities change constantly.",
+        "advice": "There is a huge gulf between Senior management and what really goes on. Lip-service is regularly paid to the idea of improving, but rarely does anything really change.",
+        "pros": "It is the place to be for e-commerce. You won't get this kind of experience anywhere else. For someone with little experience, its a great place to get a lot of responsibility quickly.",
+        "summary": "This place is still being run the same way it was when it started (with some minor improvements)",
+        "role": "Software Development Engineer III",
+        "date": "Oct 15, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Constant, time-wasting micro-management. Absurd attention to tiny details by the most senior managers and VPs, and certainly by Bezos himself. Often a sense of wasted effort when some VP's whim changes. A very decentralized organization, which can make things very political--often the loudest jerk wins the argument.",
+        "advice": "Trust employees to do their jobs better. Stop meddling. Provide actual strategic leadership, not vague ideas about \"doing better.\" Also: get your dicks out of your hands and start providing some resources for professional development: educational and training budgets, conference travel, etc. Amazon is very frugal, to the point of being stingy with pretty much every benefit other than salary.",
+        "pros": "Opportunity to work on many different projects, smart people in general. Genuinely oriented towards customers.",
+        "summary": "Micromanagement will drive you crazy, but opportunities are there.",
+        "role": "UI Designer",
+        "date": "Oct 18, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "My only real problem with Amazon was the massive time drain and how it ate into my personal life outside of \"work hours\"; 60-70 hour weeks were the norm. The team I was on owned a very high profile though and others didn't seem to have this problem. I suspect that this was a perfect storm of my own tendency toward working a lot, a manager that always wanted more, and the company culture -- maybe if you are a bit bett\u2026\u00a0er at separating work and life or the team you're interviewing with is a bit more slack you won't have the same burn out I did.Just a note: I lived across the lake which meant an additional 1.5 hours each day on the bus. While it is more expensive in the city it's probably worth it in the end. After Amazon was done with me those hours on the bus were pretty valuable.",
+        "advice": "None",
+        "pros": "The people you will be working with are amazingly clever. The \"bar raising\" approach they bring to interviews really has done a lot to keep the employee base competent.You will be building software used my hundreds of thousands of people.",
+        "summary": "Burnout is likely",
+        "role": "Software Development Engineer",
+        "date": "Oct 27, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Compensation -- get the best comp package you can when you start, because you won't get much thereafter and everything will be based on that. If you luck out with a good manager that will fight for you, you may have a chance. Otherwise, the only way to get any decent raises is to get really well known and a lot of senior management to think on you favorably (without making any enemies) so that when your name comes up\u2026\u00a0 in a ratings review meeting.Reviews -- feedback/actual performance and compensation are unrelated. Promotions are fights requiring significant documentation and a boss that likes you and a boss that likes your boss.Management is generally very hit or miss -- a good manager can make all the difference in the world and a bad manager can be only mildly damaging at best. Employee recognition (especially for non-software developers) is nonexistent unless your particular manager cares about it. As with many larger companies, the individual group you are in makes a huge difference.",
+        "advice": "I have to agree with the succession planning for Jeff suggestion in another comment was right on. Find senior execs, who are actually passionate and interested in the company, the products, and all aspects of technology.",
+        "pros": "Scale -- Amazing opportunity to have exposure to large-scale ecommerce, website, infrastructure. Truly the most top-notch security folks I have seen anywhere.Solid Company -- I believe that Amazon has a good, solid core business and that Jeff truly does have vision.Amazing colleagues -- Some really smart, good people that I have loved to work with. Exceedingly competent software development overall.\u2026\u00a0r>Vacation -- stay there long enough (7+ years) and you'll get a decent amount of vacation.",
+        "summary": "Great Experience (Amazon years = Dog years), Superb Colleagues, Plenty to Improve",
+        "role": "Anonymous Employee",
+        "date": "Oct 27, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "The hours can be long. Because a sizable portion of the business happens around holidays you might not get these off. Additionally, management can be prone to micromanage its employees. This is very frustrating at times and can suggest that there isn't a lot of trust placed in employees to make decisions.",
+        "advice": "Put more trust in employees.",
+        "pros": "The company provides a lot of opportunities to work on various projects and interact with different groups. In addition, it is fairly easy to move around to different groups. The results of your projects are very visible and you will have the opportunity to interact with management. The company has a very long-term approach and seems to be well positioned for the future.",
+        "summary": "Good long-term approach and great focus on customer",
+        "role": "Product Manager",
+        "date": "Nov 2, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Pager duty (and supporting software 24/7) as an SDE. Having to coerce other teams into helping you with things. Documentation is lacking on pretty much everything, so there is a lot of frustration starting anything new.",
+        "advice": "For the most part I think senior management is doing well, and leading the company in a good direction.",
+        "pros": "It's a well-respected company, and a lot of exciting things are happening. I think the company has a good long-term outlook",
+        "summary": "Know what you're getting into",
+        "role": "Software Development Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Limited performance feedback.....senior management tends to focus on the negatives rather than providing praise for job well done. The pace is intense, so those seeking quality of work-life balance should be forewarned.",
+        "advice": "Spend time developing others and letting them fail without fear of blame or public humiliation. Failure teaches us more than success, so allow people to fail gracefully now and then.",
+        "pros": "good career growth with exposure to a high-success way of doing business. Great to focus on the customer rather than on stock share prices.",
+        "summary": "Good place to learn, must have thick skin to stay long-term",
+        "role": "Technical Project Manager",
+        "date": "Nov 9, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Micromanagement is pervasive through out the company. This appears come from the top down of diving deep. There appears to very little trust that the smart people they hire can make the right decisions.",
+        "advice": "Learn to trust the people you hire.",
+        "pros": "The company hires really smart people and create a great product that really focuses on the end user.",
+        "summary": "Hire the best, and then empower them to make the company great",
+        "role": "Software Development Manager",
+        "date": "Nov 9, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "No career path or mentoring, middle management is very tactical, below average benefits (401k and health).",
+        "advice": "Too much of optimizing for optics, hold people more accountable for results, look at what was promised and delivered in previous year's operational plan while looking at next years. Improve health benefits and 401K, identify and mentor performers.",
+        "pros": "Entrepreneurial opportunities within company, the CEO and some of the SVPs are the very best, no red tape, smart people, stock, brand.",
+        "summary": "Fortune 500 .com",
+        "role": "Anonymous Employee",
+        "date": "Nov 16, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Not a technology company and doesn't invest like one. Given the current opportunity post recession, Amazon is in a strong place financial cash flow wise, to make investments in technology today that will bring leadership tomorrow. Of course, this is not throwing money at any project but to search for the key ones to invest in and require deep thinking while requiring the frugality in execution that is in the company'\u2026\u00a0s DNA.",
+        "advice": "Invest more for future result.",
+        "pros": "Would have been a great career opportunity for advancement, however we are all aware of the great crash of 2008 and the impact this is having on consumers. Hence this is a tough year to be in retail and a time when most management are fearful of making investments. However, this could also be a time of great opportunity for visionary leaders who are willing and able to invest with an eye on the future. How will Ameri\u2026\u00a0can consumers buy post this crash, online of course! Hence Amazon needs to position herself to lead in this future. In fact, feel responsible for driving, creating and innovating to bring this future to past. Other positives, great location, awesome discount on website products and opportunity to learn about retailing",
+        "summary": "amazon.com slow and steady",
+        "role": "Product Manager",
+        "date": "Nov 16, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Lack of formal testing organization. Production support is performed by developers (pager rotation), you'll often get paged in the middle of the night just to find out that something broke somewhere having nothing to do with what you are supporting and people have no clue whom to page. Engineers don't last long (many leave in 1-2 years), turnover is pretty high. Benefits are rather mediocre for a large company.",
+        "advice": "Treat engineers more humanely, been bullish and plain rude offends people.",
+        "pros": "Very strong IT engineering, lots of extremely smart people, plenty to learn, interesting tech challenges. Minimal formalism, engineers often have direct contacts with their business customers. Generally, there is very little balance, practically everybody I've met in different parts of organization were true professionals.",
+        "summary": "A great place to bootstrap your engineering career, but don't stay too long",
+        "role": "Senior Software Engineer",
+        "date": "Nov 16, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Due to extreme detail orientation and micromanagement, people are continously stressed. Every task is urgent and cannot wait, hence making your day-to-day life miserable. People do not respect your schedule, priorities or even health. Also people management/development is not prioritized, while everyone is more interested in getting the job done. It is very normal that you will come home with a headache and thinking \u2026\u00a0about the lenghty to do list for the day after.",
+        "advice": "Needs to work on people management skills for middle-upper management.",
+        "pros": "Customer orientation and innovation. Customers love our site and they keep coming back. It really pays off when you see a ton of compliments from customers about a product/offering. Also, having smart and driven people working around you helps develop your thinking on different aspects of the task.",
+        "summary": "Great customer experience, but can be stressful to work.",
+        "role": "Finance Manager",
+        "date": "Dec 3, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Amazon at its top S-Team level is a good ol boys club - all ivy league, male, and white - and promotions seem to follow that trend. Management actually isn't all that impressive aside from Jeff Bezos and a couple others. People are also so jaded that communication and proactivity are abysmal. Catalysts for growth are few, given worries about sales tax nexus, decline of core hard media goods, and inability to grow wel\u2026\u00a0l into non-media verticals.",
+        "advice": "Foster a more open, diverse and nice culture, and less of an alpha male Ivy League frat culture at the top.",
+        "pros": "Ability to lead initiatives since management ranks are lean.",
+        "summary": "End the good ol' boys club at the S-Team level",
+        "role": "Product Manager",
+        "date": "Dec 10, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "If you're business isn't the main focus of the company, then it can suffer, and you suffer, too. Amazon's core retail business and recent technology platform businesses took precedence over the Amazon Services busines, placing our team in a very difficult position--unable to please both our \"master\" and the client.",
+        "advice": "Apply the same customer-centric approach taken with individual customers to technology and retail partners as well.",
+        "pros": "No better place to learn about the ins and outs of e-commerce and sound web-based application development. Truly breaking ground with a scale no one else can match. I find that the lessons I learned at Amazon are useful in my current job and anticipate that I will continue to find new uses for skills honed there.",
+        "summary": "Great learning environment. Tough culture for advancement.",
+        "role": "Senior Product Manager",
+        "date": "Dec 26, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Extreme micromanagement, lack of trust among peers and management, lack of communication and team work, no work-life balance, chaotic management...and last but not least, very little room for risk taking and creativity. Every idea is scrutinized and must be justified with numbers, which brings clarity but often destroys the very essence of creativity and risk taking.",
+        "advice": "Build more trust in your people and encourage a stronger sense of team work. Encourage communication and bring some balance between customer-focus and employee-focus. Stop micromanaging and don't assume that a customer is always right :)",
+        "pros": "An opportunity to work with some of the smartest people around and a chance to see impact on a massive scale. The smallest change can impact millions of people. Every decision, every thought is driven by numbers which changes the way you think and forces you to focus on results.",
+        "summary": "A learning experience...a stepping stone for success elsewhere.",
+        "role": "Senior Product Manager",
+        "date": "Jan 4, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Long hours, little recognition if that's what you need to feel fulfilled.",
+        "advice": "Come down from 30,000 feet for just a week or so.",
+        "pros": "Improve your ability to work in a fast-paced environment.",
+        "summary": "Great place to start but wouldn't stay long-term",
+        "role": "Systems Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "-Many days when you feel like your work goes unappreciated-Understaffed, so overtime is pretty much required, despite the pay-Feel pressured in many ways to outperform-There are many days that you work overtime and are not compensated for it.",
+        "advice": "-More training and opportunities for professional growth-Stop playing favoritism and creating cliques within the group-Treat everyone fairly",
+        "pros": "-Fortune 500 company that has a strong corporate culture-Generous pay-Good organization-Useful benefits (bus pass, shuttle service between buildings)-Creative company-Cheap cafeteria-Everyone working there is pretty well-rounded and genuinely nice-Lots of opportunity for self-improvement and process improvement",
+        "summary": "-Just started, but already noticing trends",
+        "role": "Financial Analyst",
+        "date": "Jan 11, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Bad work-life balance, need to think more about employee retention and career growth.",
+        "advice": "Think harder about how to hire and retain exceptional people.",
+        "pros": "Good company, great products, forward looking and innovative",
+        "summary": "Poor employee retention",
+        "role": "Product Manager",
+        "date": "Jan 20, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The work-life balance is relatively poor--most engineers will have to carry a pager on a regular basis. Sixty hour weeks were not uncommon in my organization. I've heard Amazon referred to as a \"burn and churn\" unit and I tend to agree with that. If considering various opportunities within Amazon and work-life balance is a big issue I'd steer clear from the retail and payments groups. If you enjoy building software f\u2026\u00a0rom the bottom-up you probably won't get to do a lot of this immediately. There is a lot of legacy cruft to deal with and a lot of operational overhead is incurred as a result. I would not suggest Amazon to an engineer who is passionate about working with bleeding-edge technologies as I spent most of my time building code around application frameworks that were 5-10 years old.",
+        "advice": "I would advise senior management to treat people better. Though difficult to quantify, the attrition rate is costing the company more than anyone is willing to admit.",
+        "pros": "You will get the opportunity to work with lots of other bright people on massive scaling problems. Amazon is an excellent place to work right out of college. Your mileage will vary depending on the particular group you work in but there are lots of opportunities to move between teams once on board. I have been able to secure interviews with ease since leaving Amazon and managed to sharpen my C++ and SQL skills pretty\u2026\u00a0 dramatically while at the company. I was given a raise every review cycle during my stay at Amazon and was happy with the salary and benefits I received.",
+        "summary": "Amazon started me off on the right track",
+        "role": "Software Development Engineer",
+        "date": "Jan 26, 2009",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "60 sometimes but mostly 70 hour weeks",
+        "advice": "Be nice",
+        "pros": "To get paid a decent wage",
+        "summary": "Grey like the weather",
+        "role": "Gopher",
+        "date": "Jan 28, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Amazon is a very top-down focused company. Upper management scrutinizes and edits every small detail in a presentation or proposal, and lots of unnecessary time is spent making an unimportant item perfect. The company talks a lot about being able to think of an idea, develop it and implement on the site quickly, but there are layers upon layers of approval needed. Management definitely works a LOT of hours, and expec\u2026\u00a0ts all team members to do the same, so the work-life balance is fairly nonexistent. Employees are expected to be available at pretty much all times, but then they won't pay for a Blackberry or email-enabled phone.",
+        "advice": "Trust the people you hired!",
+        "pros": "It's pretty cool to work for a company where you can call yourself a customer and an owner. Amazon truly does think about the customer first, and all business decisions are generally made with the customer in mind. It's nice to have access to some of the creators of one of the best (if not the best) product recommendation tools. Amazon definitely has the power of a large corporate company (along with all of the red t\u2026\u00a0ape that goes with that), but that strong corporate brand name alone helps secure meetings with potential partners. The Amazon discount is small, but I suppose it's good that you get one!",
+        "summary": "Big name for the resume, but tough environment",
+        "role": "Marketing Manager",
+        "date": "Feb 16, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Launching products is considered more important than ensuring that code is robust and documenting how things work.Despite Amazon's large size it doesn't have a lot of well developed work processes & groups often have different goals & missions. This makes getting things done for a project challenging since a team that needs to do work for your project might not think it's important and might not be ab\u2026\u00a0le to accommodate your needs.It's a pretty competitive and political environment. There are people who will take credit for your work (since they are looking for their next promotion) so make sure your keep your manager informed of what you are working on.Most teams don't get it right the first time so make sure you get everything tested.",
+        "advice": "The level of internal communication is incredibly poor.",
+        "pros": "Some of the people I've had the pleasure of working with have been nice and very bright. It's really been a pleasure to work with them.Having a world class internet retailer on your resume if you are interested in the industry helps to get you noticed. Amazon has been incredibly successful (we even had a good Q4 despite the economic issues plaguing other companies) so if you do work here you can learn how it \u2026\u00a0happened. You can also see first hand how what works when your small can create a lot of internal turmoil when you get big if it doesn't change.",
+        "summary": "Amazon - a mixed bag",
+        "role": "Technical Program Manager III",
+        "date": "Feb 22, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "very little social fabric, very chaotic, lack of long-term planning",
+        "advice": "communicate and lead more",
+        "pros": "in most parts of the company, people are treated as adults. Diversity is valued, intelligence usually wins out",
+        "summary": "Why does it feel so bad to be so empowered?",
+        "role": "Senior Program Manager",
+        "date": "Feb 25, 2009",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "The hours are brutal with little regard to work-life balance, especially if the team consist mainly of unmarried engineers. Over emphasis on agile development methodologies. QA and operational (aka midnight pager beeping) burden on developers. Management not interested in career growth and is short sighted as to only being concerned about developers finishing that month's work. Lack of morale and mutual disrespect be\u2026\u00a0tween team members. Definitely not a long term workplace for the non-workaholic",
+        "advice": "Please understand that software engineers are not commodities and are real people who have a life outside. And lower the number of TPMs (technical program manager). However elaborate they say their job function is, its still is mostly about scheduling meeting rooms and reiterating things other people have already said. And don't automatically think that if a person says they are more to the \"business\" (except for the\u2026\u00a0 real business people such as the finance folks) side of things it equals them being more important to Amazon and an overall smarter person deserving a higher pay scale. Its still the awesome engineering output that keeps Amazon in the edge",
+        "pros": "The compensation package, provided you negotiate it at time of getting hired. Opportunity to work with the best e-commerce platform out there, and you will learn a LOT. Great name to have in resume",
+        "summary": "Come here to work hard, have no social life, get treated unfaily by management BUT have a bigger bank balance",
+        "role": "Software Development Engineer II",
+        "date": "Feb 28, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "People are not compensated as well as other top companies. If they had paid well, retention would be higher. There are many people who wanted to work for Amazon and did not negotiate its salary when joining as they should. Many of them assumed that if they performed well, it would be compensated with raise. However, the raise is very small. The company started to give more RSUs which is a good sign. Even with these c\u2026\u00a0hanges, RSU and cash bonus are not as competitive as other online companies.Another is, if you are not used to fast paced environment, you will feel left out.",
+        "advice": "Compensate the top performers.",
+        "pros": "Being able to work in the fast paced environment of online business. Highly talented people around. Can improve your analytical skill. The business is all about analyzing numbers whether it is pricing, inventory management, or business process re-engineering.Many people who left also agrees that they have learned a lot working for Amazon.com. The skills acquired at amazon is very useful for working in another\u2026\u00a0 companies. The business model of Amazon and how you analyze business can be applied to any other online company. Many who left were successful getting higher salary and higher job title. I am also one of them.",
+        "summary": "A great place to learn online business",
+        "role": "Product Manager",
+        "date": "Mar 5, 2009",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Long hours, average pay, upper management is perfectly happy with horrific hacks because they are never paged. Pager duty.",
+        "advice": "Let the developers come up with long term technology goals, and stop micro managing.",
+        "pros": "You will be given the chance to work out interesting problems with some great people. If you have the motivation to drive your own deadlines and you can sell yourself to an MBA everything is pretty much great.",
+        "summary": "Amazon can be great but management wants fast hacks that will page you awake.",
+        "role": "Software Development Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Pay: Amazon doesn't pay especially well in terms of salary. They have \"total compensation\" which probably includes two years' of cash bonuses after your start date and a package of RSUs which really don't start vesting for two years. My \"total compensation\" was $10K higher than my salary, which isn't bad but leaves you at the mercy of the stock price. Advancement is slow; aside from a nominal COLA-like raise once a y\u2026\u00a0ear after reviews, it can take a few years to get promoted a single level within the company, and even then the raise may not be that impressive. Basically what it comes down to is, your salary when you enter the company largely determines what your salary will be during your career there; they're mostly going to reward you with RSUs, not raises, which are really intended to keep you at the company longer.Advancement: This is a complete mystery to everyone involved. Three-plus years and I never figured it out, except that it has to do mostly with your direct manager. They're responsible for representing you in the process, so a sleazy manager who promotes you heavily is good to have a review time, but a disinterested one or a bad communicator will basically leave you hanging. Sadly, in my experience, this is how advancement and reviews work at Amazon; they don't have much to do with the quality of the work at all.Management: Management is totally mixed at Amazon; some are great, some are terrible (in my experience MBAs are let run amok, and seem primarily to promote one another, at least in my group--we had a bunch from the same school). Some people get micromanaged, some are left to their own devices. As a matter or practice, Amazon hates managing people--most managers have no more than three or four direct reports, so there's a lot of mixing things up on teams: senior employers get one employee stuck under them and that sort of thing. That's one of the main reasons the experience of management can be so mixed--there's so many people managers who may or may not actually be assigning you work that it becomes a matter of personality.Environment: The workplace is weird at Amazon--it's aggressive for sure, but not exactly a boys' club, so that's a plus. It is a very accepting of diversity place to work. But overall, there's a lot of confusion. They're constantly shifting levels of management, and theoretically everyone \"owns\" a core set of tasks or products or whatever, and there are channels that are supposed to be used to communicate with other owners and teams (\"up and over\"); in practice, this rarely if ever works, and if you want to be successful you have to friendly, reliable, and willing to take on other tasks for other people and work constructively with others, because frequently employees simply get together to solve simple, short-term problems and completely circumvent management (who prefer to have lots of agenda-less meetings to deal with problems). In that sense, Amazon is an extremely political place to work, because you constant risk stepping on someone's toes, crossing an unseen boundary, or things like that. If you're not a communicator or not friendly, this may not be the place for you. It's also a company that's basically relentlessly positive--it's typically bad for you to \"go negative.\" They don't like to blame individuals for problems; even big issues are typically dealt with with a meeting where all the stakeholders get together and divvy up blame so that no one's left with all the responsibility. In a lot of ways this is good, but by the same token people's unwillingness to risk seeming negative creates an environment where there's a lot of evasion and frequently an inability to hold poor performers accountable for their work, particularly if they're gifted at skewing metrics in their favor. Remember, it's a political place to work, and if you can't explain something to a manager in a Blackberry-friendly format, they simply do not care to learn.Career Development: Aside from the fact you'll get great experience, learn a lot, and have a great thing to put on your resume, Amazon is a horrible company for career development. Lots of people leave after only a couple years. The weak pay scale means that you can get paid more with the experience you get there, while Amazon is largely incapable of communicating anything about career development that's useful. There's lots of talk about it at review time, but no follow through. There's virtually no internal career development opportunities, especially if you're not a developer. That said, it is a company that invites moving around internally. After one year, you're free to look for other positions in the company, and most employees are perfectly happy to sit down for lunch with you and discuss what goes into their job and what their team's looking for. So basically you have to network the rest of the company if you want to get anywhere, but be aware--changing jobs does not by any means equal pay raises or advancement.",
+        "advice": "The divide between senior management and the people doing the work below is a gaping chasm. The company really likes to believe that Amazon has a horizontal rather than vertical structure--that there aren't a lot of levels of management. In practice, this is sort of true, but you will rarely if ever deal with your team leader's boss at Amazon. There may not be a lot of layers of management, but it's definitely strati\u2026\u00a0fied. Having been at the bottom of the chain, I saw quite a lot of brown-nosing going up the chain--frequently managers would work long and hard to produce theoretically objective reports and metrics that obscured complex problems. Surprisingly, in the management, there's a real opposition to complexity. If it's not possible to put in a Blackberry-friendly email format, they honestly don't seem to care about it until it blows up in their face.",
+        "pros": "In a lot of ways, Amazon's weaknesses are great reasons to work there. It's a frequently disorganized company that does high tech work on a discount retailer's margins, so there's plenty of opportunity to take on complex tasks, self-initiate projects, drive them to completion, and work across groups. One thing that's basically guaranteed is that your job description doesn't cover everything you will have to do, or wi\u2026\u00a0ll have the opportunity to do. Also, it's fairly hard to get hired there--their interviewing process is nightmarish--so you do get to work with some very smart people once you're on the inside, and have great opportunities to create new products and drive concrete solutions to complex problems. At the very least, it is a very creative environment.Once inside the company, you also have a lot of opportunity to change rolls. After a year, you're welcome to start trying to interview with different teams for new positions, and there is even the opportunity to move overseas for short-term assignments.",
+        "summary": "A confusing, stressful job for young people before they go somewhere with real career prospects.",
+        "role": "Account Manager",
+        "date": "Mar 18, 2009",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "The chaotic lean environment. On the pro side it leaves loads of room for opportunity to make a difference, which is possible. Just when you think you've made a difference by performing 15 different tasks to accomplish a goal (10 of which were not really yours to do, but you did them because there was no one else to pick it up), everything shifts in frequent re-orgs. Resources are lost, roadmaps change dramatically, \u2026\u00a0documentation is poor to non-existent, which causes lost momentum that sucks the life out of you.The lack of processes and routines. This is not true for 100% of the company, but is for many areas that one would think a company of 10+ years would have nailed. The constant reorganization of teams and leaders breaks any continuity that was established prior to the reorg. I was dumbfounded when I learned that a certain team in the company had absolutely no idea of the steps it took to issue a payment to a supplier. I think they thought it was all black magic. Project processes were another area that some key development teams made up as they went and changed quarterly. This created loads of knee-jerk reactions for many teams impacted across the company and challenged goodwill with internal relationships.HR could care less about employees. Loads of lip service from the HR teams to make you think they care. Like many other groups in the company, their individual teams don't seem to talk to one another, or know each other for that matter. It is as if each team has blinders on and they only know and perform only their function in strict confines. There is lots of \"that's not my job\" attitudes. As an example, I witnessed on more than one occasion where great performers took international assignments only to return to leave the company because the company did nothing to help reintegrate the employees. What I heard is that HR managers and recruiters did nothing to assist these employees returning from their assignments, each one saying it was not their job. It was left to the employee to figure it out themselves. So after the company spends tens of thousands of dollars to move staff around the world yet the company expects nothing in return? How dumb is that?Below market pay. Amazon is known for paying below market in terms of base salary yet expects people to work at least 50 hours per week. Many teams due to them being lean require 60+ hours a week. HR sells the entire compensation package with stock which can be great in a up market and if you live in the US. The odd thing is the mixed message they send with it: the stock makes you an owner of the company but because they call it comp, they expect you to sell each time you vest. I would rather have a larger base pay.Amazon is no different than other companies in that it has it's own dysfunctions. If you have an iron will and a high tolerance for stress, you will do well there. Use the company as much as it uses you and it will be a happy relationship.",
+        "advice": "It's not \"Day 1\" no matter how many times you say it. Those days are long gone.Get a succession team in place for Jeff. Having a single person steering the company based on his whims of what gets resourced and what does not creates too much churn throughout the company. It seems that some in senior leadership roles act as if Amazon is still in start-up mode and wants to do lots of different thing marginally r\u2026\u00a0ather than focus on doing fewer things top-notch.Treat your staff better It costs more to recruit/train new employees than it does to retain good people and that would help the free cash flow. Get someone to run a world-class HR org.",
+        "pros": "Amazon is cutting edge, innovative, well recognized, and a market leader. They have shown the world they not only can survive amongst a very competitive landscape, but thrive in a down market. That is due to world class operations, relentless focus on margin improvement, and a very frugal internal attitude. As others have mentioned, due to the speed and lean environment, it's somewhat in a disarray internally which l\u2026\u00a0eaves mountains of opportunity for self-starters to make immediate impacts to the bottom lines. Opportunities to move within the company are good and encouraged which expose you to the full scope of the business thus deepening your understanding of how all the pieces fit together, what works, and what does not.",
+        "summary": "Good place to work for awhile - but come with strong will and tenacity",
+        "role": "Senior Manager",
+        "date": "Mar 24, 2009",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Seems there are 3 different parts of the company; marketing, operations and technical...not sure if those 3 functions are as integrated as they should.",
+        "advice": "Continue to retain talent. One way is to review compensation to make sure they are competitive.",
+        "pros": "Good, profitable company to work at. It's really one of the very few retail companies that are doing well despite the current economic downturn. The company truly values and is, indeed, obsessed with serving customers...so that is a good side (maybe good for long term)",
+        "summary": "Good, solid company to launch your career",
+        "role": "Operations Manager",
+        "date": "Mar 26, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "It is a very competitive, cutthroat environment. Lots of smart people, but all are trying to hard to move ahead by any means neccessary. Many of the directors that I dealt with were very very poor people managers, but great at managing up. Not a place for the light hearted or those that need coddling.",
+        "advice": "Pay more attention to mgmts people management and leadership abilities. There is value in having people stick around.",
+        "pros": "Most everyone has an opportunity to add value at Amazon. It's definitely a culture where great ideas are appreciated and,. sometimes, acted on. You are surrounded by smart, ambitious people.",
+        "summary": "A good place to work, for a short period of time.",
+        "role": "Senior Finance Manager",
+        "date": "Mar 29, 2009",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "There is no explicit path to promotion. One day you are all of a sudden approached as a candidate for management. If you keep your nose clean, you are a candidate for a \"great new job\" with no training in how to be a manager. Like every role at Amazon, one is left to sink or swim and of course the danger of sinking as a manager is that you are taking your direct reports with you. Amazon uses \"Situational Leadership I\u2026\u00a0I\" methodologies, but one is implicitly expected to reject those philosophies as \"lame\" and \"soft\". The unspoken theme of survival at Amazon is \"zero-sum\".",
+        "advice": "Walk the talk. Amazon boasts about how working hard and being smart will lead to good things. The reality is that it is all about who you know in the company and how they feel about you.",
+        "pros": "There is no explicit path to promotion. One day you are all of a sudden approached as a candidate for management. .",
+        "summary": "Petty resentments thrive within management at Amazon.",
+        "role": "Systems Manager",
+        "date": "Apr 1, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "General salary information for jobs is not provided. I never knew what my coworkers made. When you are applying for an internal job, there is no mention of general pay scale. For me, that made it difficult when trying to gage where I wanted to go in the company. Recognition of accomplishments doesn't happen very often. For example, if you create a new tool for your team, almost no one notices. But if you make a minor\u2026\u00a0 mistake, you get in trouble with management. I suppose that could differ from manager to manager though.",
+        "advice": "Give more transparency for job progression and salary. Recognize accomplishments.",
+        "pros": "The best part is the flexible hours. The job is project based, so as long as you get your stuff done, you can come in early, late, whatever. While the job is technically an office job, you can work from home on days that you have a doctor's appointment, or if you are feeling under the weather. You get a laptop, which is nice. The BUS/Transit pass was a real nice perk. You can opt for subsidized parking if you prefer.\u2026\u00a0 You get stock grants, and good health benefits.",
+        "summary": "Great coworkers, but subpar pay and recognition.",
+        "role": "Web Development Engineer",
+        "date": "Apr 3, 2009",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Work longer hoursNot much growth opportunity in a QA roleBonuses not as good as offered by competition",
+        "advice": "None",
+        "pros": "You get to work with some of the smartest people in the industry. The environment is very competitive, you would stand out as a sore thumb if you are not performing as well as the others.The work is quite interesting depending on what aspect of Amazon you are working on. You get to work with latest technologies in the field. You are expected to be a self starter and have the ability to learn on the job and ad\u2026\u00a0apt to rapidly changing work priorities.You should be flexible with your work hours as you might be working weekend when the work is real crazy.",
+        "summary": "A great place to work if you are in a software development role",
+        "role": "Software Development Engineer In Test II",
+        "date": "Apr 4, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The work life balance is not balanced.",
+        "advice": "Less politics",
+        "pros": "It will provide you with the broadest understanding of how a business should work and will prepare you for your next experience",
+        "summary": "Resume and skill set builder",
+        "role": "Senior Control Buyer",
+        "date": "Apr 10, 2009",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "limited career advancement opportunities because there are very few levels. It's all about being on the right team with the right manager working on the right projects. It doesn't value employees. I've seen extremely high turnovers over the years.",
+        "advice": "End of the day your most valuable assets are people. Treat your people well and it will pay off.",
+        "pros": "I'm impressed with some of the company values like innovation and customer focus. Good learning experience. Not hard to move around across groups, laterally though.",
+        "summary": "Good career experience but there are companies that treat employees better",
+        "role": "Senior Product Manager",
+        "date": "Apr 23, 2009",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Burnout takes hold quickly for many employees, leading to high turnover in some departments. Amazon loves to celebrate all the new people who have joined since the last company meeting, when most are just replacing others who have left. Finding a good manager to work for is the key, but you can expect a new manager every six months to a year, which means you'll inevitably end up working for someone you don't like.\u2026\u00a0>The company used to be fun to work for when it was younger. Amazon now only hires the best of the best, which seems to have driven out all the interesting people on its way to become a well-oiled corporate machine. The average age of the company is still very young, and Amazon likes ambitious new college graduates. For those a little older, learning new skills to stay relevant in the company is something you'll have to do on your own time and money.Pager duty is a major pain. Smaller teams can expect to be on-call at least one week per month, while larger teams spread out the pain longer. Getting paged in the middle of the night for a high-severity problem that take eight hours of investigation to fix is enough to drive many to quit.",
+        "advice": "They've got great vision for the company. My favorite quote from Bezos is that, \"advertising is the price you pay for a mediocre product\", and that by treating the customer right, word of mouth makes a much more effective way to grow the business. The company has become a haven for the some of the smartest developers in the world to work at. However, Amazon needs to focus more on growing smart people for the long-ter\u2026\u00a0m rather than treating them as disposable talent.",
+        "pros": "Super-smart and very competent coworkers make it a great place for driven people to work. The CEO is not afraid to take risks and invest for the long-term, and all of the senior management are superb. The pay is relatively high, and it is possible to find a good work-life balance with some effort and setting of boundaries. Amazon runs a tight ship, which means there's always work to get done, but it also means a deve\u2026\u00a0loper has a wide scope to do far more than write code, from helping to make business decisions to managing projects.",
+        "summary": "A solid company run by competent people, but I wouldn't recommend to others",
+        "role": "Software Development Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Work-life balance is tenuous at best. Even in relaxed areas, the only way to get ahead is to put in a lot of over-time. Some areas talk of 40-hour weeks, this is what it takes to just stay afloat. This can lead to lone warriors pushing changes to team code. A lot of agile team de-evolve into ad-hoc processes. A lot of work is geared toward maintenance engineering than cutting-edge engineering; the challenge is to rem\u2026\u00a0ain stimulated. Operational support can vary from team to team, in some instances being on-call is minimal; in others it can drown you.",
+        "advice": "Amazon.com is great company overall, with a mission to serve its customers. It is not a perfect fit for myself, and not a place I wish to remain at for developing a career in the long-term due to its lack of work-life balance. While pay is extremely fair, it is not worth the stress to remain in the environment longer than 2 years.",
+        "pros": "Amazon hires very smart, reasonable people. While people are A-types, people are cooperative and willing to work toward the greater good -- customers. That said, it is _very_ customer focused with a very strong corporate culture. The technologies available to work on are world-class, albeit it can take time to learn it all as much of it is steeped in tribal knowledge.",
+        "summary": "Amazon.com, Worth 2 years of your life but not much more",
+        "role": "Software Engineer II",
+        "date": "May 16, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The hours can be long and the work can be boring (mine was). But again, it all depends on the group you're a part of. It is also clear that some people are just there \"putting in the hours\" while others really care about developing their careers and the company.",
+        "advice": "The structure of the company when I was there was very different than any other place I've seen. The company was structured more as a collection of startups than a coherent entity. This led to very strange internal billing and hour allocation practices. For instance, I wanted to implement a feature for someone who sat next to me (another developer who was a user of our product), but since he was technically on a diff\u2026\u00a0erent team we had to get management approval and so on and so forth for the additional work. What could have been solved with 15 minutes of coding took 3 weeks, several design documents, and probably collectively 10-15 hours of people's time.My advice to Amazon's senior management - grow up and get over going for the \"startup\" feel. That worked for the first few years but it isn't a sustainable model for a large company.",
+        "pros": "Amazon is a dynamic, interesting company with a unique structure. Pay is competitive, but hours are long, depending on your group. Interview for the GROUP you're working for, rather than the company itself. There is some room for mobility within groups, but the longer you're in the same one, the harder it is to move around. Some groups definitely work harder than others, and some make better software than others.",
+        "summary": "Mostly interesting - still has some growing pains.",
+        "role": "Software Development Engineer",
+        "date": "May 26, 2009",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "The base salary compare to other companies are low. For the first 2 years, we don't get very little stocks. In addition , working here can get super stressful with multiple deadline due at the same time.",
+        "advice": "Middle management at amazon should focus on balancing the company objective and doing what is right for the business. Many times, they would make a decision based on what's given to them from the execs instead of doing what is better for the company.",
+        "pros": "The best reason to stay here at amazon is the Amazon RSU. Since Amazon's stock is doing so well, employees are getting a great deal from their stocks.",
+        "summary": "Fist 2 years.. not so good",
+        "role": "Instock Manager",
+        "date": "Jun 1, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "There is never the resources given to build things properly. Rather there is continuous pressure to build things as soon as possible and just apply band aids rather than addressing underlying issues. The internal tools are pretty poor and you can easy waste as much time fussing with getting them working right as you do actually building things.",
+        "advice": "Stop starving all the retail development teams of new headcount.",
+        "pros": "No monoculture or bureaucracy - within your team you have a lot of control over what tools you use. The quality of SDEs is pretty high. No \"architects\" or \"research teams\" sucking up all the resources.",
+        "summary": "Bias For Action is Not Always a Plus",
+        "role": "Software Development Manager III",
+        "date": "Sep 1, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Very little professional development is available - you better be trained before you start the job because you won't have time to get your training elsewhere either. You'll only get promoted if you befriend Directors and above or work so long they feel sorry enough for you that they finally promote you. As a result, most competent people leave to grow their skills elsewhere and only those who can't get a job elsewher\u2026\u00a0e stay to rise into upper/middle management (e.g. most Directors, VPs, and at least half of Senior VPs are incompetent). A lot of smart people in the bottom of the org, and a few smart people at the top (e.g. Jeff Bezos) run the company and often bypass people-managers in the middle.",
+        "advice": "Why aren't there black, Hispanic, or women leaders at Amazon? Why do Indians make up a fraction of the the company's leadership team when they dominate the lower ranks? Amazon is so white and testosterone driven that whatever \"diversity\" makes it in despite not belonging to the \"good ol'boys\" network, hits a very low glass ceiling and runs! Please, check people's qualifications before promoting and hiring them versus\u2026\u00a0 doing so based on who they know and the fact they look like you. Better yet, ensure women and minorities are getting recognized for their work because the 40ish white male middle management ignore talent to do favors for their BBQ/beer buddies.",
+        "pros": "You'll get big responsibilities and opportunities if you want them. Although your salary won't grow much, top performers will see their bonuses and stock rewards surpass it.",
+        "summary": "Amazon.com provides tough challenges and safe employment",
+        "role": "Anonymous Employee",
+        "date": "Sep 21, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "I have been at the company for a long time and have had 8 different managers. My experience has been largely dependent on the quality of my manager. That can be hit or miss.",
+        "advice": "make sure that you are directing your employees to do what you are actually expecting of them. More than once, I have worked hard to do what I thought was being asked of me, only to find that my success was being measured through something else entirely.",
+        "pros": "The people here are the best and brightest that I have worked with. The level of responsibility and input into the company's direction is amazing.",
+        "summary": "Depends on who is leading your team",
+        "role": "Senior Manager",
+        "date": "Oct 15, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "bad pay - raise more .",
+        "advice": "give bonus",
+        "pros": "good place to work fun",
+        "summary": "good",
+        "role": "Anonymous Employee",
+        "date": "Oct 23, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Frugality taken to Cheapness and not investing in right things internally. High turnover rate until recession hit. Pretending to be a start up but really a corporation with increasing bureaucracy and HR ridden rather than the feeling of a company where people know each other. Not focused on individual development and growing people to next level. Have a lot of mini-cultures so a diverse culture in different departmen\u2026\u00a0t and organization which is good if you are under a progressive management hierarchy or hell if you are in the wrong organization. Do not recommend Operations organization to software developers very hectic and heavy on supporting old legacy hacked low quality software.",
+        "advice": "Your customer focus is awesome now treat your internal customers (employees) same or better than your external customers they are both your ambassadors and implementers of your future. Hire less but high quality HR people.",
+        "pros": "New exciting technology, problems and challenges. Lots of smart people. Now focused on improving developer experience and making improvements to development ecosystem.",
+        "summary": "Choatic, Hectic, Cutting Edge, Smart Corporation",
+        "role": "Software Development Engineer",
+        "date": "Oct 24, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Too many meetings that sometimes seemed like a waste of time.A lot of known issues that have not been fixed for long periods of time really surprised me.Almost everyone is overworked, putting in over 40 hours a week. Probably closer to 50, and especially senior management.Sometimes there was lack of direction, so you have to figure things out for yourself.",
+        "advice": "Focus on fixing known problems that drain more money than new projects bring in. I saw a lot of this and nobody seemed to care.",
+        "pros": "Challenging work - which means you learn a lot.Somewhat of an open door policy, where you can talk to senior management.High level of responsibility but equally rewarding financially and professionally.Lots of smart people.",
+        "summary": "Depends on what kind of manager you get...",
+        "role": "Financial Analyst Intern",
+        "date": "Nov 15, 2009",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "no work/life balancepoor people managementmanagers don't care about employees, promotions depends on manager favoritismhigh turnover, no happy employees",
+        "advice": "start taking care of the employees, we are your 'internal customers\"!!!!!",
+        "pros": "smart colleaguesinteresting projectsgood learning opportunities",
+        "summary": "Good for customers, Bad for employers",
+        "role": "Senior Program Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Unfortunately despite all the great strategy surrounding the business, the people management is absolutely terrible which I suspect will have long term negative consequences. There is little to no structure on how someone can grow which puts your fate completely in the hands of your manager or manager's manager. Obviously in any company they will always have a very strong influence in your career, but the lack of str\u2026\u00a0ucture provides you with no safety net in case you happen to land on a terrible team.There is little to no training when you start in the company, but you are expected to work your butt off and get results. It is not uncommon that managers will say that you should spend time with your families, but give you so much work that makes it almost impossible. Additionally there is little room for errors, even if you have had years of recognized achievements, a couple of months of bad luck and your thrown to the dogs.I do have to clarify it is not like this in all departments. There are pockets of good people, but overall the senior leadership simply does not focus on their employees as much as they could/should.",
+        "advice": "Simple things such as defining a function and what is expected in each level of the function would go a long way in helping people grow or at least understand why they are not growing. Evaluating managers creating a good working environment in addition to an effective one would also be helpful.Probably the root cause of what I would call Amazon's inept HR management is the fact that Jeff B simply does not spe\u2026\u00a0nd much time thinking about his employees and therefore does not put pressure on his top captains to create a hospitable working environment. If they valued the employees half as much as the customers, Amazon would be a great place to work at.",
+        "pros": "Powerful business model on core retail business that drives seemingly unlimited growth. The basic principle that the company was built on which by driving lower prices it can fuel sales, gain leverage and reduce costs from vendors to further reduce prices fuel growth, etc. is brilliant due to its simplicity. In order to be successful this model requires long term thinking and Jeff Bezos is famous for that, which allo\u2026\u00a0ws folks to focus on projects that may add a lot of value 5+ years down the road. This also leads to plenty opportunities for innovation, which are key in creating a sustainable business.Another pro is the fact that the company focuses on three things that do not change no matter what the economy does: great prices, great selection, great customer experience. No matter what the state of external elements might be, focusing on these three things gives a company an edge.Finally its obsession with customer satisfaction is a lesson to be learned. Being in that environment gives a unique perspective on how to manage a business that needs to be seen in practice to truly absorb.",
+        "summary": "Savvy business management, poor employee management",
+        "role": "Product Management",
+        "date": "Jan 10, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "1. too much time spent on stuff2. regards to all files in place, some are being to close minded.",
+        "advice": "1. challenging and helpful to write all these different topics2. As regarded, you will get lots of help from team mates when needed",
+        "pros": "1. challenging and helpful to write all these different topics2. As regarded, you will get lots of help from team mates when needed",
+        "summary": "technical subjects",
+        "role": "Technical Writer III",
+        "date": "Jan 17, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "A lot of legacy software that should be deprecated. On call support. Cross team communication can be frustrating at times.",
+        "advice": "N/A",
+        "pros": "You learn a lot. Get to work on some very complex problems. Get to use a lot of new technologies. Lots of smart people.",
+        "summary": "Good place for SDEs, can be very frustrating at times",
+        "role": "Software Development Engineer III",
+        "date": "Jan 25, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Amazon would rate significantly higher if it were located somewhere else. Unfortunately, it is located in an area that has a poor quality of life. If you are single, and unencumbered then it is not a bad place to work at all. it isn't a place to work for the long term. It's a short term gig because it is not really easy to work at Amazon and also have a life. Seattle is either crazy expensive, or just plain screwed u\u2026\u00a0p depending on where you choose to live. Bad government, makes a bad place to live. Amazon does it's best in a bad situation but it could definitely be much better.",
+        "advice": "Move the entire operation out of Washington, and put it somewhere where the cost of living hasn't gone completely out of control and where life is livable and pleasing. Put it in a place where people care about other people and not just surviving the next pay cycle, where social justice is not just a word in a book and where people actually know how to drive their cars.That said, Amazon is making money hand o\u2026\u00a0ver fist, so I guess it doesn't matter.",
+        "pros": "Work with different technologies, in a highly scalable environment. Not a lot of structure.",
+        "summary": "It's A Job",
+        "role": "Software Development Engineer",
+        "date": "Jan 26, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "LONG HOURS. Don't expect to have a social life while working for Amazon.",
+        "advice": "Offer more training to its entry-level employees.",
+        "pros": "Great benefits and compensation, good work environment",
+        "summary": "Long Hours, but the benefits make up for it",
+        "role": "Anonymous Employee",
+        "date": "Feb 8, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Slow growth. Promotions are hard to come by.",
+        "advice": "Give people room for career growth",
+        "pros": "Lots of smart people. Will learn a lot",
+        "summary": "Good place to work",
+        "role": "Business Analyst",
+        "date": "Feb 15, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Often times I was unprepared to deal with tasks at hand. I was an intern and excited to learn but felt that I didn't receive the training I needed to succeed in my role.",
+        "advice": "I would spend more time developing a better training program for interns and making sure they are given the tools needed to succeed.",
+        "pros": "One of the best parts about coming to work at Amazon was the fun and laid back environment. Dress is casual and people were allowed to bring their dogs into the office. In terms of work, most people work on teams depending on their area and work together to function as a team.",
+        "summary": "Intern Experience",
+        "role": "Financial Analyst Intern",
+        "date": "Mar 4, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "The org is massive. There is a lot of red tape to fight through to even get the simplest task done. Schedules are constantly hijacked and feature creep is rampant. The release process needs to be refined and groups held more accountable for their deliverables. Frugality is often overly practiced at the cost of productivity.",
+        "advice": "Keep up the vision, approach, and decision making. Refine the effectiveness of group interaction, accountability, and middle management. Don't be so frugal when it comes to IT and employee perks because you lose money in the long run by doing so.",
+        "pros": "Senior management makes the right decisions and promotes innovation. Its rare to fine a company with such great vision. An obsession with the customer means that more often than not the right thing is done.",
+        "summary": "Great company",
+        "role": "Software Development Engineer I",
+        "date": "Mar 18, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "too much workcheap atmospheretoo much support workbad perksno sodaeveryone is working around the clock.. no sleep",
+        "advice": "treat employees better, that is about it",
+        "pros": "pay is good, work is fun, lots of interesting things to work on, 10% discount on books and other amazon.com stuff",
+        "summary": "workaholics",
+        "role": "Anonymous Employee",
+        "date": "Mar 29, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Upper management is to be obeyed under all circumstances, which can sometimes mean that a project must switch gears or be held up waiting for senior management approval.Company has gotten so big that bureaucracy rules the day - getting resources from other teams or getting sign-off requires filling out forms, attending meetings to beg for things to get done, all while your own project must be done at breaknec\u2026\u00a0k speed.Topgrading philosophy means that bottom 10% of employees are automatically \"managed out\" of the company with no exceptions. This can sometimes mean that employees that we would hire according to the hiring bar must be fired. This also breeds a culture of fear, and doesn't inspire great work performance, but instead preening in front of managers to get good marks while throwing others under the bus.",
+        "advice": "Get rid of the topgrading in performance reviews.Do a complete overhaul of your HR department, in fact. It seems to have a culture of fear and has no concept of employee as its customer.Be aware that your requests have power enough to cause an entire org to scurry doing extra work over the weekend, so work to change the culture so that we don't fight fire drills and instead think more for ourselves.",
+        "pros": "Great pay and stocksRelaxed dress codeOpportunity to work with some of the most talented, intelligent and creative mindsThe American dream of advancing up the chain exists here, if you have smarts and driveThere are some great managers here (but also some completely awful ones)",
+        "summary": "Work with the best and the brightest - while working against difficult odds",
+        "role": "Program Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The hours are long and the breaks are extremely short. The breaks are so short that going out to lunch is not a possibility. They have strict safety rules, and it gets kind of ridiculious how they are with injury reports. If a person gets a paper cut they have to fill out 4 pages of paper work. They are really strict about line and picking rates. Just because a person gets hired on as a permanent employee doesn't mea\u2026\u00a0n that they are excempt from making rates. If you are hired late in the season you will have less likely of a chance to be made permanent, so if you are serious about the job start applying early.",
+        "advice": "An extra 5 to 10 minutes added to breaks would be a nice reward for employees. It would also be nice if they had part time shifts for people who are great workers and want to try out Amazon, but are too afraid to quit their full time jobs that they currently have.",
+        "pros": "The money is great for a temporary job! The job is good excercise, and employees have the potential to be trained on heavy lifting equipment. Plus they provide work gloves, box cutters and they don't have a restricting dress code. Facial piercings are allowed!",
+        "summary": "Temp position at an Amazon warehouse",
+        "role": "Picker/Packer",
+        "date": "Apr 22, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Unless you are a workaholic you will have to work more than you would like. You work until you get the job done. There is little praise for doing a good job. That is more expected.",
+        "advice": "Make sure you let your employees know how they are doing and what they could improve upon. Feedback is important!",
+        "pros": "You get to work for the industry leader and be on the cutting edge. Your learn a lot. You are surrounded by smart people.",
+        "summary": "Expect to work hard",
+        "role": "Financial Analyst Intern",
+        "date": "May 10, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Advancement is quick for the first couple of levels, but you can hit a proverbial wall once you get a more senior position.",
+        "advice": "I wouldn't ask that much be changed other than what's already been noted. Company is doing very well so I have no complaints.",
+        "pros": "The scale of the problems Amazon needs to solve are often unique. If you like large scale distributed systems you'll love working at Amazon. There's really very other places where you'll be able to have as much fun. Hours can sometimes be long, but well worth it.",
+        "summary": "Good place to work",
+        "role": "Senior Software Engineer",
+        "date": "May 17, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Most people at Amazon will have a lot of managers during their career. A colleague of mine had 13 managers in 4 years. Your experience at Amazon largely depends on your manager. If you have a bad manager, you will have have a bad expeience at Amazon. Poor managers do not give any feedback to their direct reports and emphasize face time over results. I know of many people whose manager actively blocked their transfer \u2026\u00a0to another group. Going to HR also does not help as they will always take the side of the manager. Also, you should expect to work long hours atAmazon.",
+        "advice": "Human resources should listen to employees and work with them to provide career opportunities. Take action against managers with multiple complaints. Many high performing employees are leaving due to poor management.",
+        "pros": "You get to work with a lot of smart, talented people.Amazon has a fast paced environment that encourages innovation.You can work on a lot of interesting projects and get to try out new ideas.",
+        "summary": "Experience depends on your manager",
+        "role": "Anonymous Employee",
+        "date": "May 18, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Golden Handcuffs really apply here. They pay to relocate you, a signing bonus, and RSUs to motivate you to stay for at least that long.",
+        "advice": "Take everything with a grain of salt. Senior(er) Manager's will often explain simple concepts to you in depth, as if you needed it. But just say yes and nod and space out and you should be fine.",
+        "pros": "Some of the smartest peers I have ever had. Problems can be complex and solving them can be very rewarding.",
+        "summary": "Area Manager Review",
+        "role": "Area Manager",
+        "date": "Jun 30, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Too much ego. folks that have been with Amazon for a few years have a better than thou complex.Lot's of smart people, but lacking a warrior ethos.Focus on external customer is maniacal, but internal is missing.Work Hard. Make History. Yes, I believe! Have Fun....ok, if it's up to me to do it on my own.",
+        "advice": "Hire more leaders. You can train and develop technical, if you build that department some day. You cannot create natural leaders. Go find some more.",
+        "pros": "Growth and opportunity, if you're willing to swing away without giving up.More potential than any other company I have ever touched (consulting or working for).Long term success of the company. I truly believe that this company is very strong and will be amongst the giants soon.",
+        "summary": "Growing..bumps along the way",
+        "role": "Human Resources Manager",
+        "date": "Jul 6, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Too much trust given to computers instead of human capital. They want algorithms to run everything and is willing to outsource much of the work to India without enough quality controls. Turnover is about 80% in 3 years.",
+        "advice": "management needs to stop stepping in to make decisions for the employees. They need to take responsibility when something goes wrong as a result of their own mistakes.",
+        "pros": "The ability to make an impact at one of the fastest growing companies in the world is exciting. You are not going to find a better resumer builder.",
+        "summary": "Decent pace, horrible management",
+        "role": "Inventory Planner",
+        "date": "Jul 29, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Everyone here is smart, so people sometimes have a problem not getting their way.No expectation that you have a personal life.Long, long hours and weekends, or you're not a team player. (Bad.)Co-workers will take credit for your ideas and work because the atmosphere is hyper-competitive.Prepare to be talked about behind your back.You'll feel emotionally and physically burnt out very quickly.\u2026\u00a0r>Amazon is not a dreamy world of brilliant hippie hipsters. It's as corporate as any place in NYC.",
+        "advice": "Like if, or leave it. This is the Amazon culture.However, would say that we have enough intelligent people here. How about hiring someone with organizational abilities or leadership qualities for a bit of balance?",
+        "pros": "You won't be working with idiots here. Amazon hires some of the brightest peolple around.If you have any leadership ability at all, you'll stand out.The place is attractive and clean.The starting compensation was way above average for my field.",
+        "summary": "It's Not A New Age Fairy Tale",
+        "role": "Manager",
+        "date": "Aug 5, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The pace you had to keep to try to meet the performance quotas was exceedingly difficult. It was impossible for most people.",
+        "advice": "No advice.",
+        "pros": "The schedule was to work four days in a row, ten hours per day, and then have three days off.",
+        "summary": "It was extremely hard to meet their performance quotas, nearly impossible.",
+        "role": "Warehouse Worker",
+        "date": "Aug 9, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Some mid and upper management personnel seem to to be in a total disconnect from the average worker, \"associate\" on the floor. It's hard to tell someone how to do something when you obviously don't know how to do it yourself.Having a college degree is one thing, having basic people skills and common sense is another.",
+        "advice": "Treat your fellow employees the same way you would want to be treated. People are not consumables, they are human beings.",
+        "pros": "Number 1 in technology, very efficient in areas such as customer service, and having the products that people want, almost regardless of what that may be.",
+        "summary": "Unfortunately, the highest pay in this area.",
+        "role": "Stower",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The company is still relatively. Many process are not perfect, and needed to be constantly updated and improved.",
+        "advice": "Some management are very opinionated, expectations are unrealistic.",
+        "pros": "Amazon has a very casual and unstructured working environment. You can wear anything to work!",
+        "summary": "Internship program is very competitive in terms of keeping interns at the company for full time positions",
+        "role": "Financial Analyst Intern",
+        "date": "Nov 15, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Slower growth ladder for technical folks.",
+        "advice": null,
+        "pros": "Very smart people, lot of opportunities to learn from peers.",
+        "summary": "Strong technical growth opportunities",
+        "role": "Software Development Engineer",
+        "date": "Dec 19, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Stuck in their ways. They always say that is not how we have done or do things. Even after saying they want innovation and change/new ideas.",
+        "advice": null,
+        "pros": "Highly respected and known brand globally.",
+        "summary": "Misleading and Stale",
+        "role": "Recruiter",
+        "date": "Dec 20, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "1) The Top Grading policy of getting rid of the bottom 10% is ridiculous. Amazon already has most of the best people. There are a lot of empty chairs. We have gotten rid of a lot of good people because they no longer met the bar. Well the bar is now too high and there are not enough candidates to fill them. We are interviewing people that we passed on years ago because we have let people go that were better then them\u2026\u00a0. Those people will be let go in less than 2 years and it will cost the company a lot of time and money. Some of the great people that were let go should be hired back over the candidates that are available now.2) People are miserable because of #1. They feel like it is only a matter of time before they are let go no matter how hard they work and how good they are. Truly a toxic environment where people are being paralyzed by feer. This is not what Jeff intended.3) Management that is excelling and moving up are the ones that operate best in this environment and play the political game. Move to a new area. Lop off a bunch of heads (of good people) and say that you have raised the bar when in fact all you have done is create chaos and fear and actually slowed down the company from becoming the greatest retailer in the world. Shame on you it will catch up to you in the long term.4) Some really great people no longer want to work here because of this enviroment and if you want to leave and go work for a company that does not treat people this way as a manager you may get type cast when in fact you do not believe in this at all.",
+        "advice": "The top grading policy should be seriously revamped. People should not be fearing for their jobs all the time especially when the company is successful as it is.",
+        "pros": "1) A successful model that will one day probably make it the largest retailers in the world,2) Pay. Employees are very well paid and it makes it hard to leave even if you are miserable.3) Very smart, talented people to work with.4) It is cool to say you work at Amazon.com5) Jeff Bezos is a visionary and always thinking 10 steps ahead. Yes Jeff it is still day 1.",
+        "summary": "Becoming a political, toxic environment",
+        "role": "Divisional Merchandise Manager",
+        "date": "Dec 24, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Poor work life balance. Heavy load of operational work (on-call duty over weekends).",
+        "advice": null,
+        "pros": "Aggresive, fast and agile work environment. Metrics driven technology. Good software infrastructure.",
+        "summary": "Fast agile place for workaholics",
+        "role": "Software Development Engineer",
+        "date": "Jan 10, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Very short term focus. Very operational and day to day issues to deal with. Bit of a sweat shop.",
+        "advice": null,
+        "pros": "Doing leading edge work (Kindle AWS). Running an internet scale business. Stock is doing well.",
+        "summary": "Very short term and a sweat shop",
+        "role": "Anonymous Employee",
+        "date": "Jan 12, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Communication is not the best.",
+        "advice": "Communication lapse and gap between middle and senior management. This gap is the next thing that needs to be addressed before Amazon can begin to meet continuous increased customer demand.",
+        "pros": "Constant change and some really cool innovative ideas and best practices. The best part of the job is the people that are the lifeblood of the organization. These people make the machine run every day of the week with passion and an energy in which never ceases to amaze me.",
+        "summary": "A rollercoaster ride that is full of chaos and firefighting.",
+        "role": "Anonymous Employee",
+        "date": "Jan 12, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "workload is heavy, if you want to work hard, there is plenty of opportunities.",
+        "advice": "no advice at all to the mgmt",
+        "pros": "the company is growing fast",
+        "summary": "neutral",
+        "role": "Anonymous Employee",
+        "date": "Jan 22, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "don't find pay to be awarded in-line with the level of responsibility, all teams under resourced (deliberately, to stimulate more efficient work practice) but this policy is bordering on sadism in some teams where we have less than half the number people that we actually require to do the job effectively.",
+        "advice": "employee more people. most people are over-worked and intelligent people who want to succeed are burning out and leaving the company. start caring about your employees and become a more humane organization.",
+        "pros": "challenging, great people, complex problems",
+        "summary": "very challenging, high expectations, almost zero possibility of work/life balance if you want to succeed",
+        "role": "Instock Manager",
+        "date": "Feb 13, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Executives set ridiculous stretch goals and burn people out trying to achieve them. They have an endless appetite but don't always fund their mandates.",
+        "advice": "Prioritize! You can't have everything all at once. Rigorously force sponsors of new business innovations to make their business case and stack rank the opportunities.",
+        "pros": "Very dynamic work environment, always something new to do. We do some amazing stuff and the release cycles are quick.",
+        "summary": "Crazy busy and unreasonable expectations, but fun at times.",
+        "role": "Senior Program Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "There is actually no process in place for any thing. For growing company, it is time they have some of the basic processes in place. Employees can then spend more time doing their job rather than spending time developing such a process for themselves. Since the process is ad hoc, any changes to the system results in spending some more time in adapting the individual process to the system.",
+        "advice": "Same as above",
+        "pros": "If you like your work time spent in actually 'doing' your job and not divide it between attending various planning meetings, then this is a place to be.",
+        "summary": "Work atmosphere is very agile and dynamic.",
+        "role": "Technical Writer",
+        "date": "Mar 19, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "- Bureaucratic- Retail/operational based culture- Quirky methodology- Over paranoid- Company focus on tactics more than long term strategy",
+        "advice": null,
+        "pros": "- Good compensation- Great technology- Start up mentality- Fast pace- Detail oriented- Multinational corporation with global reach",
+        "summary": "Not a great experience.",
+        "role": "Anonymous Employee",
+        "date": "Mar 21, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "some teams and some work becomes uninteresting, because of the pursuit of keeping things run better rather than inventing new ways to do the same thing or new things to do. management can easily become boring and impersonal when the managers are incapable or uninterested in making real positive changes and take some risks. many middle-tier managers should be fired or demoted for that reason.",
+        "advice": "don't just be content with meeting the redefined operational plans. you need to encourage something different and unexpected from your team and do that with your heart, not the leadership principles.",
+        "pros": "still quite fun since it allows teams to run more independently with clear ownership and reasonable autonomy.",
+        "summary": "Learned a lot from smart people, but really depends on the team you are in",
+        "role": "Software Development Manager",
+        "date": "Apr 4, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Very political, where you feel like a cog in a machine. The management seems to think that tenured employees are very replaceable. Lots of political nonsense which creates a general lack of morale.",
+        "advice": "Stop the attrition, focus on development of your employees. We're not replaceable and the overall work environment is getting steadily worse with each employee that leaves.",
+        "pros": "Challenging environment, which is changing from an enterprise level Biz dev environment into full on call center",
+        "summary": "Bar keeps getting raised - Very Political",
+        "role": "Account Executive",
+        "date": "Apr 18, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Developers are not valued as much as in other placesAgile often turns into \"ridiculously disorganized\"Raises are relatively lowWorst benefits I've ever seen",
+        "advice": "When you and recruiters complain about how hard it is to find good people consider that many 'good people' simply don't apply or respond to Amazon. Mainly because of the bad rep it accrued due to issues mentioned above.Start treating developers better and improve the benefits.",
+        "pros": "Lots of very smart talented people aroundOpportunity to make products used by millions around the worldWorking on new, interesting technologiesStartup-ish and agile, far less bureaucracy than in other big companies",
+        "summary": "Great place to work but...",
+        "role": "Anonymous Employee",
+        "date": "Apr 23, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Pathway promotion program makes it difficult to be promoted from withinPersonal time is challengingPay if fair, but not indistry leading",
+        "advice": "Improve promotional oportunites from Tier I up to Senior management",
+        "pros": "Leader in industry.Innovative - always challenging traditional thinkingGreat benefits",
+        "summary": "Fast paced, agressive, innovative culture but hard to balance family & career",
+        "role": "Area Manager",
+        "date": "Apr 26, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "bad medical benefits. Very chaotic to work. on call is a burden on work life balance. Amazon is a customer friendly company but not an employee friendly company",
+        "advice": "Dont treat the employees like a commodity",
+        "pros": "Good stock grants(granted when stock was cheap).",
+        "summary": "Its ok",
+        "role": "Software Engineer III",
+        "date": "Apr 29, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "As opposed to most other tech companies, Amazon is a low cost RETAILER. Amazon teams are notoriously short staffed, from high turnover and from intentionally lean budgets. Be prepared to work 80+ hours a week, flat out, week after week. It\u2019s common to work weekends, and overnight. With the rapid fire pace, Amazonians are always taking shortcuts. That means crappy initial code, poor QA and no documentation (isn\u2019t a go\u2026\u00a0od thing when you have high turnover). I can\u2019t understate how intense, stressful and unbalanced the work-life is here.Amazon offers none of the extravagant benefits that other tech companies do. You get health insurance, and that\u2019s about it. (there are annual stock grants tied to your review performance, but most consider this to be part of your wage compensation). Oh, and you get a total of $100 off of Amazon sold products per year. Yippie!In addition to lacking any balance, the environment is highly politically and hierarchy-based, and filled with newbie tech managers, many of whom have no managerial skills or experience (remember the high turnover).By running the company with an anemically lean staff, paying no benefits and squeezing every bit of life out of their employees, Amazon saves money\u2026 a lot of money. So much so, that they can throw a little of it back in the form of industry leading pay rates (if you negotiate for it). But don\u2019t be fooled by the carrot, once you a lured in, you\u2019ll get hit with the stick.",
+        "advice": "Take a cue from Google, Microsoft and other and significantly improve the horrible work-life balance at the company. Burning through employees as if they are an unlimited resource might be one to do it, but investing in your people, reducing turnover, retaining those with tribal knowledge and experience will do a lot more for the company's success in the long run.",
+        "pros": "Amazon pays better than other tech companies, such as Google or Microsoft. Signing bonuses of $50k are common for mid-level positions, and up to $100k signing bonuses occur with regularity. It\u2019s usual half in cash, half in stock grants. The cash is over two years, the stock over four.",
+        "summary": "Amazon is a dynamic fast-paced environment that offers many opportunities, but little in the way of work-life balance.",
+        "role": "Technical Program Manager",
+        "date": "May 7, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "compensation is on the lower sidebesides, no great benefits for interns apart from the usual ones like relocation allowance or corporate housing, luggage transfer allowance, travel allowance.",
+        "advice": null,
+        "pros": "a wholly-owned subsidiary of Amazon.com Inc.Developed the amazon cloud player (San Francisco) and amazon appstore for android (Lake Forest)startup-like culture - fast growth, challenging work",
+        "summary": "challenging and productive",
+        "role": "Software Development Engineer Intern",
+        "date": "May 12, 2011",
+        "is_current": true
+    }
+]
