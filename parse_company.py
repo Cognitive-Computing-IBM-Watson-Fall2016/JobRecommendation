@@ -5,7 +5,7 @@ min_words = 100
 
 
 def json_export(data):
-    jsonFile = open("data_analyzed_1.json", "w")
+    jsonFile = open("data_analyzed.json", "w")
     jsonFile.write(json.dumps(data, indent=4, separators=(',', ': ')))
     jsonFile.close()
 
@@ -57,7 +57,7 @@ def classify_review(com):
     return result
 
 if __name__ == "__main__":
-    companies = ['Facebook', 'Google', 'LinkedIn']
+    companies = ['Google', 'Facebook', 'LinkedIn', 'Amazon']
     dict = {}
     for company in companies:
         temp = classify_review(company)
