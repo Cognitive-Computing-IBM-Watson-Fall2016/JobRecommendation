@@ -1,6 +1,9 @@
 import json
-import numpy as np
-import pprint
+
+def json_export(data):
+    jsonFile = open("person_tweet.json", "w")
+    jsonFile.write(json.dumps(data, indent=4, separators=(',', ': ')))
+    jsonFile.close()
 
 if __name__ == "__main__":
     min_words = 100
@@ -14,21 +17,15 @@ if __name__ == "__main__":
     person = []
     for facet in profile['tree']['children']:
         if facet['id'] == 'personality':
-            pprint.pprint()facet
-            for item in facet['children']:
+            for item in facet['children'][0]['children']:
                 person.append(item['percentage'])
         if facet['id'] == 'needs':
-            for item in facet['children']:
+            for item in facet['children'][0]['children']:
                 need.append(item['percentage'])
         if facet['id'] == 'values':
-            for item in facet['children']:
+            for item in facet['children'][0]['children']:
                 value.append(item['percentage'])
-    X.append(need)
-    X.append(person)
-    X.append(value)
-    print 'need', need
-    print 'person', person
-    print 'value', value
-    print 'X', X
-    x = np.array(X)
-    print x
+    X = need + person + value
+    id = profile['id'].encode('utf8')
+    dict = {id : X}
+    json_export(dict)

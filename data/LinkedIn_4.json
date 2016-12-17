@@ -1,0 +1,902 @@
+[
+    {
+        "rating": 4,
+        "cons": "many routine jobs haven't been well organized yet. in many cases, one has to manually, not automatically finish the work again and again. very stressful some times",
+        "advice": "put your team members in right positions. do not waste their talents. coordinate the jobs so that the workloads are evenly distributed",
+        "pros": "good career opportunities. learn something from others, really smart and nice people around, good company culture, great C-level team. great food",
+        "summary": "exciting and valuable",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "Growing a little too fast, so there are are challengesFree food can lead to overeating : )",
+        "advice": "Keep up the good work and strive to maintain the culture that has brought us this far",
+        "pros": "We're at the forefront of transforming professional networking and career advancementFun, smart people all over the placeGreat cultureFree food, all day, every dayHoliday party was at AT&T parkFlat organization, can talk with high level execs without much efforttoo much to list here",
+        "summary": "One of the best companies to work for in the bay area.....probably the world",
+        "role": "Anonymous Employee",
+        "date": "Dec 14, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "So far, I've been assigned a task and have been on my own to direct it. This could be a positive or negative depending on personal preferences.",
+        "advice": null,
+        "pros": "Great group of friendly and smart people.Free lunch.Always striving to innovate technology.",
+        "summary": "Working at LinkedIn is a joy.",
+        "role": "Associate Web Developer",
+        "date": "Dec 15, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "the talent strategy is a little staleneed an innovative approach to attracting and retaining engineering talent (some great engineers seem to get turned down)",
+        "advice": "ensure the company execs and leaders get up from the armchair of Mt View to really make the \"global\" corporate vision of LinkedIn a reality",
+        "pros": "opportunities to transform your career are very realinnovative views on our people strategy or opportunity come from places other than HRit is a company that truly cares and appreciates its peoplegrowth = opportunity",
+        "summary": "an evolving company with opportunities for those that strive for excellence",
+        "role": "Anonymous Employee",
+        "date": "May 18, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Fast growing may incur more changes, but most of them are lead to the good direction.",
+        "advice": "More transparent with the goal and priority to all levels of employees",
+        "pros": "Fast growing business and organization. Unique position on the market. Talented people to work with.",
+        "summary": "Great company to work with",
+        "role": "Staff Software Engineer",
+        "date": "Jul 21, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "co-workers might not be as impressive as you think.",
+        "advice": "Pay engineers well to attract great individual contributors.",
+        "pros": "Company's stock is doing really well. The people at the top are really talented",
+        "summary": "very good",
+        "role": "Software Engineer",
+        "date": "Sep 13, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "I have nothing negative to review",
+        "advice": "Nothing",
+        "pros": "- Culture- Free food- Smart people- Freedom to innovate",
+        "summary": "Great startup culture in a big firm",
+        "role": "Associate Web Developer",
+        "date": "Oct 6, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "LinkedIn does solve a real need/problem out there (how to attract, recruit the best talent AND how to best target your audience to market/sell) ....and LinkedIn is leaps and bounds ahead of any \"competitor\" (though there is really no apples-to-apples comparison), but it runs into the challenge of retaining their top sales people because of how \"straight-forward\" the sale is relative to other tech-sales roles.",
+        "advice": "Keep doing what you are doing! Pay special attention to your own talent by consistently challenging and rewarding your top performers.",
+        "pros": "Great benefits for a large, public company...FREE FOOD...you will be surrounded by super-driven peers, and led by forward thinking and highly capable management.",
+        "summary": "Overall, an awesome company (especially if you are early on in your career)",
+        "role": "Senior Account Executive",
+        "date": "Feb 27, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "* For a hyper growth company, LinkedIn is surprisingly not investing enough in hiring / grooming middle managers. At times, it feels that the place works in spite of itself* Company is not doing enough to grow and promote people from within* Poor communication & coordination across different team with signs of creeping politics",
+        "advice": "Analyze the problem and not symptoms",
+        "pros": "* Great company culture focused on continuous innovation* Smart, dedicated and motivated employees* Open transparent executive team* Employee friendly",
+        "summary": "Great Company Culture, Huge Growth Potential, Needs Good Middle Managers",
+        "role": "Anonymous Employee",
+        "date": "Feb 27, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "it's getting bigger as the new hires arrive each Monday...feels like it's a matter of time before change of culture is imminent",
+        "advice": "don't let the Con above become reality",
+        "pros": "the people, the culture, the innovative programs for employees like hackday, incubator, inDay, LinkedIn for Good, the fitness program, and more!",
+        "summary": "Great culture for a getting big company",
+        "role": "Anonymous Employee",
+        "date": "Mar 20, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "it's getting bigger as the new hires arrive each Monday...feels like it's a matter of time before change of culture is imminent",
+        "advice": "don't let the Con above become reality",
+        "pros": "the people, the culture, the innovative programs for employees like hackday, incubator, inDay, LinkedIn for Good, the fitness program, and more!",
+        "summary": "Great culture for a getting big company",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Mix of talent is hit or miss. Many \"old timers\" have left the company after cashing out.",
+        "advice": "Keep investing in talent. Keep the bar high.",
+        "pros": "Big time challenges with a fast pace culture.",
+        "summary": "Fast growing company with great benefits",
+        "role": "Software Engineer",
+        "date": "Mar 21, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "That was then and this is now. The sales division is huge and you cannot keep the same culture. That's understandable as the company grows, but LinkedIn will continue to lose good people that have tenture there. If \"out with the old and in with the new\" is the current mantra, then they're abiding by it very well.",
+        "advice": "Be very careful about compromising good service to customers. The recruiting industry is very fickle. Don't be the type the of organization that just tries to fill seats with bodies. That has a very lasting effect on the overall business.",
+        "pros": "I started with LinkedIn fairly early on in the sales division so to be there during a huge growth phase was a great experience. Management was very fair, agressive and ambitious and made sure that new hires fit very well into the sales culture. It was a fun time to work there, built great relationships and enjoyed myself tremendously.",
+        "summary": "Best Company That I Ever Worked For",
+        "role": "Account Executive",
+        "date": "May 23, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "Not everybody is a rock star and sometimes the best ones have to do a lot.",
+        "advice": "Fairness is important! Award the best well so that the good ones will stay!",
+        "pros": "It is a great company. There are a lot of house-brewed open source technology for you to learn. Almost everything you use here is cutting edge so that you can probably work for many others after leaving here.I like that the company is under staffed so that the employees here can choose the big projects and make great contributions.Also the company values relationship between each other so you will feel very r\u2026\u00a0espected by your peers.",
+        "summary": "Software Engineer",
+        "role": "Software Engineer",
+        "date": "Jun 11, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Slower moving than many of their peers, more bureaucratic than they need to be, often not pushing the envelope in terms of product. Sometimes implementing too many copycat features.",
+        "advice": null,
+        "pros": "Lots of talented people, working on something worthwhile, some great technology. One of the most important companies in Silicon Valley. Has gotten better at decision making over the years.",
+        "summary": "Great strategy, a little slow moving",
+        "role": "Anonymous Employee",
+        "date": "Aug 26, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "I wish we could bring our pets to work. Fido would love it here!",
+        "advice": null,
+        "pros": "There are super smart people at LinkedIn and I'm so fortunate to work at a place that values its people, its culture, and its members. I actually enjoy getting up in the morning and making a difference in the lives of others. Plus, it's a casual, fun, open, honest, and constructive environment every day.",
+        "summary": "Love this place!",
+        "role": "Enterprise Relationship Manager",
+        "date": "Oct 3, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "This is a consensus based organization--things can be a bit slow moving. On the other hand, you are never left out of a conversation!",
+        "advice": "Realize that not all employee success looks the same. There is value in a diverse skill set.",
+        "pros": "The employees here really do believe they are changing the world. Many programs are in place to create social good and allow employees to make a difference personally as well as professionally. I've never seen a company care so much about the greater good.",
+        "summary": "Good people, good intentions",
+        "role": "Anonymous Employee",
+        "date": "Oct 4, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Politics, Additional bureaucracy, commute / 101 traffic",
+        "advice": "More bus routes. North SF folks have to weave thru the city too much.",
+        "pros": "People, flexibility, learning, stock price, transparency",
+        "summary": "Dynamic",
+        "role": "Anonymous Employee",
+        "date": "Oct 4, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "The work is high volume and fast-paced. Work-life balance can be evasive at times. But the compensation and benefits make it worthwhile.",
+        "advice": null,
+        "pros": "Among the flexible schedule and fantastic free food, the benefit that makes LinkedIn stand out is their commitment to the careers of employees. Career pathing is a regular conversation at all levels on my team and across the company. Standards are high, but the company is committed to helping you get where you want to be. They walk the walk on prioritizing talent.",
+        "summary": "Lots of work, lots of career opportunity",
+        "role": "Anonymous Employee",
+        "date": "Oct 6, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "+Processes take awhile to get recognized from the rep level to upper management+AR department needs more manpower, customer service to paying customers+New, growing company comes with growing pains; learning by trial and error vs. established practices.",
+        "advice": "Continue to treat employees like assets, maintain start up mentality.",
+        "pros": "+Amazing company culture+Opportunity for growth+Relationship Building, leadership and leverage are just as important as results+Opportunity to do great things with charity organizations and causes",
+        "summary": "Best Company I've Ever worked For",
+        "role": "Relationship Manager",
+        "date": "Oct 8, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "The organization is doing so many exciting things it can be hard to keep up with all of them! :)",
+        "advice": "Continue to embody, celebrate and foster our cultural authenticity. Keep transformation and compassion at the top of our priority list.",
+        "pros": "LinkedIn's culture (transformation-based vs. fear-based) fuels our success. BEing inspiring is easier here because it's supported and celebrated.",
+        "summary": "LinkedIn walks the walk when it comes to supporting individual, team and world transformation.",
+        "role": "Head, LinkedIn Nonprofit Solutions",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "I've been on some teams that were hyper overachievers with messed-up work/life balances. They ended up working 13 hour days and achieving less than than other teams that were more reasonable. Some of middle management just creates more work rather than facilitating.",
+        "advice": "If you want engineers to feel ownership, let them own. Include them more in yearly planning and have more say over timelines. Let engineers know it's ok to push back due to technical reasons.",
+        "pros": "Perks similar to what you would find at a company like Google: Free food with an on-site cafe, gym, dry cleaning pick-up, snack rooms, game rooms... etc. Very flexible hours and less silos than a lot of places I've worked in the past. A lot of good people willing to work with you rather than against you. Some fun challenges and great amount of mobility.",
+        "summary": "Wonderful if you're on the right team",
+        "role": "Senior Software Engineer",
+        "date": "Nov 11, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Sometimes you might think the company is laid back when it misses deadline",
+        "advice": null,
+        "pros": "Amazing work cultureGood work life balanceSmart people aroundHackdaysFoodSpeaker seriesLearning portalon going bootcamps",
+        "summary": "Amazing company to work for",
+        "role": "Software Engineer",
+        "date": "Nov 11, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "-People swear WAY too much. LinkedIn just had a \"bring your parents to work day\". I would never bring my parents or my daughter here. Way too much profanity.",
+        "advice": "Keep up the great work. Except clamp down on upper management's use of profanity. It's puerile, undisciplined, and sets a terrible tone for everyone else. I think it contributes to a subtly hostile environment.",
+        "pros": "-Very cool problems, very cool data, and I think the product is world-changing.-People around me are all top-notch -- wicked smart (and fun)",
+        "summary": "I've only been here a month, but so far I am VERY impressed!",
+        "role": "Anonymous Employee",
+        "date": "Nov 11, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Commute to and from work locationConcerned about career growth",
+        "advice": "Please consider giving RSU refreshersAdding more routes to company transportation",
+        "pros": "Great TeamWork Life BalanceLearning a lot",
+        "summary": "Great Place to work",
+        "role": "Senior Reporting Analyst",
+        "date": "Nov 11, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "commute, growing pains, can't think of anything more",
+        "advice": null,
+        "pros": "culture, employees are empowered to make an impact, some cool perks",
+        "summary": "Everyone is intelligent and passionate about their jobs. A great place to work!",
+        "role": "Marketing",
+        "date": "Dec 1, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "The marketing solutions segment suffers from consistent reorganizations which lead to suffering morale and employee attrition. The lack of product investment is creating retention issues as well. Many of the products are not effective, which may create long term harm since customers do not want to buy again.Politics have gotten very serious. It is feeling like a large corporation of over 10K employees even th\u2026\u00a0ough there are currently 4K. There have been very few promotions in the past year.",
+        "advice": "Create products that customers want, promote talented employees, and continue training the teams.",
+        "pros": "Linkedin is the best corporate job I have had so far, but took a turn for the worse. They build culture with many amazing events, offer great perks, and amazing benefits. They do treat their employees well in a growing division. Internal mobility is still achievable at this stage.",
+        "summary": "Great Growth, Extreme Politics",
+        "role": "Anonymous Employee",
+        "date": "Jan 24, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Starting to feel like a big company",
+        "advice": null,
+        "pros": "Really smart people, great product and great management team",
+        "summary": "Very talented group; becoming a big company",
+        "role": "Anonymous Employee",
+        "date": "Feb 7, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "It is getting too big.",
+        "advice": null,
+        "pros": "The people, culture and definitely the benefits are amazing.",
+        "summary": "Great culture",
+        "role": "Site Reliability Engineer",
+        "date": "Feb 17, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Terrible maternity and paternity leave - not on par with other similar companies like Facebook, Google and Yahoo! Growing pains such as reorgs, unclear career trajectories/paths, move employees around.",
+        "advice": null,
+        "pros": "Intelligent people who are passionate about their jobs, inspiring CEO, amazing culture, everyone feels empowered to make a difference, company is very efficient, great benefits (gym, delicious food, etc.)",
+        "summary": "LinkedIn is a great place to work!",
+        "role": "Anonymous Employee",
+        "date": "Mar 7, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Extremely competitive and always competing against teammates. One-size-fits-all mentality",
+        "advice": null,
+        "pros": "Great company culture, will always be challenged, lots of employee development",
+        "summary": "Great place for overachievers",
+        "role": "Relationship Manager",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "I second what others have said about career opportunities outside of Global HQ in Mountain View / Sunnyvale. If you want to do something other than Sales, you have a steep uphill battle ahead of you. And anything outside of teams that directly support the Sales Organization is out of the question.LinkedIn is a very Engineer-driven company, so most decisions are made without input from other teams or clients. \u2026\u00a0And most roles outside of Engineering pay below market standards, but this is softened somewhat by an overall strong benefits package.It's a young company, so retirement benefits flat-out suck.",
+        "advice": "Break out of the \"Bay Area Only\" mindset for teams not directly supporting the Sales team. We;re a technology company in 2014. Distance is a small barrier to overcome in order to diversify your talent base by hiring in other major markets.",
+        "pros": "Strong Culture where stated Values are adhered to at almost every level. Exceptions are few and stand out like sore thumbs. Employees are allowed a good amount of autonomy (sometimes manager dependent) and there is a level of trust between Executive Leadership and the individual contributors that I've not seen at any other company I've been at.While it's certainly no longer a start-up, Employees are given min\u2026\u00a0d share to introduce intelligent change into the organization.Great benefits package.",
+        "summary": "Not Perfect, but Pretty Damn Great",
+        "role": "Anonymous Employee",
+        "date": "Apr 28, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "low base and slow promotion",
+        "advice": "more on recognition",
+        "pros": "a lot of things to learn",
+        "summary": "busy and meaningful",
+        "role": "Anonymous Employee",
+        "date": "Apr 30, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Open, honest and constructive is the LinkedIn way...unless you actually suggest things might not be that great or that there are problems. If you do, you'll find yourself labeled as \"negative\" and a \"complainer.\" So much for feedback being a gift.There is very little upward mobility in Talent Solutions these days. Great opportunity for those starting out in sales, but If you're more experienced, you'll run ou\u2026\u00a0t of options quickly.Middle management is the weakest link. Another review mentioned \"they wouldn't be qualified to run a McDonald's\" - while that's pretty harsh, I'm not going to say that isn't far from the truth. Front line managers are great at parroting back the company line on issues, collecting your forecast, and asking \"how can I help?\" - with a few exceptions, very little value was ever added by a front line manager. Some bizarre people decisions over the past couple years. Tons of \"are you serious\" moments on the floor with the large number of political promotions. Relationships Matter.",
+        "advice": "Lots of talk about maintaining our startup culture, yet instead of promoting from within, many roles are filled by external candidates/friends that come from huge companies that don't align with LinkedIn's culture/values. And then people wonder why morale is so low?",
+        "pros": "The usual tech company perks, world class products, no real competition, sharp senior leadership/exec team.If your dream is to be a big company that is changing the world, this is the place to be. You can have a life outside of LinkedIn, which is great. It's also not as cult-like compared to places like the big G, which is a huge plus if you're a normal person.LinkedIn changed my life. Depending on wh\u2026\u00a0ere you are in your career and what you want, this may or may not happen to you as well.",
+        "summary": "Amazing Company Spoiled by Inept Management",
+        "role": "Sales",
+        "date": "May 2, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "I do not think the company can grow significantly in the near future, but they are relative steady compared to other companies.",
+        "advice": null,
+        "pros": "Good work-life balance. I also like the culture of LinedIn. They also provide many opportunities for personal growth.",
+        "summary": "Good work-life balance, culture, and opportunities",
+        "role": "Programmer",
+        "date": "May 3, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "-Performance review process not ideal (annual basis - feedback given during the year)-Starting to see overlap of work within teams/across groups-Long hours",
+        "advice": null,
+        "pros": "Culture/Leadership teamCompany pursuing untapped opportunityGreat benefits/free foodinDays",
+        "summary": "Good but not great",
+        "role": "Anonymous Employee",
+        "date": "May 16, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "It's a modern day good ol' boys network. The same people are constantly getting promoted in the sales org. Many of the executive sales leadership team and higher ranks have little to no sales experience and are often focused on non-related businesses, internal side projects or jetting off to foreign countries for what seems like frequent \"team meetings\". Pay is definitely sub par; no focus on improved compensation or\u2026\u00a0 presidents club, quotas are astronomical, new business / account executive team is heavily favored over relationship management org.",
+        "advice": "Get off your scooters",
+        "pros": "Linkedin treats you like an adult, people can be themselves, you'll have the opportunity to accelerate your career, very fun culture and most people are grateful to be here! A job you never dread going to...",
+        "summary": "Talent solutions sales",
+        "role": "Sales",
+        "date": "May 30, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Company becomes large. Too many processes.",
+        "advice": null,
+        "pros": "Good culture. New tech. Good food.",
+        "summary": "Good company",
+        "role": "Anonymous Employee",
+        "date": "Jul 25, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Too many meetings, some groups work as silos, if you're unlucky you can end up working in a \"venture\" project that never sees the light of day.",
+        "advice": null,
+        "pros": "The workplace quality and perks are excellent. The hours are pretty sane. The food is great. The company has solid values, and it's a great place for professional growth. If you're an engineer, the quality of the code is better than average and the process is not too cumbersome for a company of this size.",
+        "summary": "Not bad for a big company",
+        "role": "Anonymous Employee",
+        "date": "Aug 15, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "Too many higher management changes, pivoting to new styles and priorities.",
+        "advice": null,
+        "pros": "Great people, workspace, fast pace, and in hyper growth. Learn a lot of new things in the Social Media space.",
+        "summary": "Working at LinkedIn",
+        "role": "Anonymous Employee",
+        "date": "Aug 25, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "Too many higher management changes, pivoting to new styles and priorities.",
+        "advice": null,
+        "pros": "Great people, workspace, fast pace, and in hyper growth. Learn a lot of new things in the Social Media space.",
+        "summary": "Working at LinkedIn",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "As all companies who grow very fast mature, it tends to put more pressure on its employees. LinkedIn is no different. There was a large exodus of meaningful employees in the 2013 year. I feel the company is seen as arrogant by many of its clients, due to inflating prices and general attitude when doing business.",
+        "advice": null,
+        "pros": "I thought the pay was above market average and the everyday perks were great. The talent around me made work great everyday. Most Director and above positions were held by tremendous individuals.",
+        "summary": "Amazing Talent from top to bottom - Executive team sometimes not transparent with decision making processes.",
+        "role": "Anonymous Employee",
+        "date": "Sep 3, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "Theres an IV-drip of Kool-Aid in everyone's arm within 2 weeks of joining the company. You will likely be called out for disagreeing or bringing up any major changes. This gets tiring after a while.The Sales org as a whole has good leadership in Mike Gamson, but the more down the ranks you guy the more egotism and BS you'll run into.Also, don't expect meeting 100% of expectations to be even remotely c\u2026\u00a0lose to enough to get you anywhere. Not only are the expectations high, but there will be people who are working twice as many hours as you, getting in way earlier, and achieving the same things, and thus looking better than you. There's a culture of working long hours even after the sting by the department of labor, and there were no managerial efforts to curb this. In fact, during meetings people would be praised as \"rockstars\" for being the \"earliest to arrive\" and the \"last to leave.\" little work-life balance. Oh, you'll also be underpaid if you start in Sales Development.They also have a trend of hiring a ton of really smart, motivated people from \"target schools\" (read: Ivy League and Stanford) and then not really giving them with anywhere to go after their first year or so. I can see this ultimately leading to frustration and burn-out.",
+        "advice": "Make sure you're balancing the number and type of young \"rockstars\" with the number and type of opportunities you have for them down the road. Or better set expectations. Otherwise, keep doing what you're doing with the culture and values.",
+        "pros": "All of the previous comments about the food and the perks are true; they definitely take care of their people. The HQ is beautiful, and the new offices in Sunnyvale make you feel like you're at a ski resort. I also can't recommend the leadership highly enough; Jeff Weiner is an inspiration, and the other execs are all driving towards a shared vision. The culture and values of the company are held in high esteem and t\u2026\u00a0hey're felt throughout the organizations.I had the opportunity to see, meet, and interact with some of the most intelligent and successful people I've ever been around -- both other employees and people from the outside. LinkedIn brings in great guest speakers. The employee experience itself is awesome.I also am now able to use the LInkedIn name to do pretty much anything.I was part of the Global Sales Org, and while LinkedIn's not slowing down any time soon, it's not for everyone. It's easier to sell LinkedIn products because of the name recognition, but the sales culture needs work.",
+        "summary": "Transformative experience",
+        "role": "Sales",
+        "date": "Sep 12, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "Hard to rise up, limited promotions.",
+        "advice": "Give employees more leadership opportunities.",
+        "pros": "Fast paced, Great work-life balance, awesome place to start after college",
+        "summary": "Great Company",
+        "role": "Sales",
+        "date": "Oct 3, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Lots of process, sometimes feels corporate",
+        "advice": "Management does a great job; keeping teams informed is paramount",
+        "pros": "Office culture has high expectations for production, good perks, and treats customers well.",
+        "summary": "Great culture",
+        "role": "Sales",
+        "date": "Oct 29, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Poor planning of territories and sales forecasting. Imagining that there was more of an opportunity in places that it didn't exist. This only recently happened and adjustments to headcount were made to right the ship. Otherwise a pretty great place to make money. Who doesn't buy LinkedIn in the talent space? no one!",
+        "advice": "Keep a tight pulse on the changing markets people sell into. Create goals that are attainable and not unrealistic. The attendees to club were way lopsided because the quotas were messed up.",
+        "pros": "All the perks of working for a tech company...free food, good benefits, good work life balance. Really great people working there",
+        "summary": "Really Great Experience",
+        "role": "Enterprise Account Executive",
+        "date": "Nov 5, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "-Some management does not follow the cultural pillars",
+        "advice": "-train all managers to follow our values and cultural pillars",
+        "pros": "-Benefits are great. Culture is great, very innovative company, with fun co-workers",
+        "summary": "Great Benefits",
+        "role": "Anonymous Employee",
+        "date": "Nov 6, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Just like other companies, politics is an issue and a barricade to do better.",
+        "advice": "Stay transparent and open with all employees. Please enforce a metric system for performance as there seems to be a number of employees who don't contribute.",
+        "pros": "The perks, benefits and push to be better really makes this company different.",
+        "summary": "Very good to their employees.",
+        "role": "Program Manager",
+        "date": "Nov 26, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Not too much to complain about. My only complaint would have to be about the actual work I do. It is monotonous and thankless.",
+        "advice": null,
+        "pros": "LinkedIn is a great company to work for. The work life balance is probably the biggest benefit since it feels like they actually want you to have a life outside of work. They also supply you with great free food and always have a stocked break room full of food. Everybody working here is super friendly.",
+        "summary": "It lives up to its reputation",
+        "role": "Data Quality Analyst",
+        "date": "Dec 22, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Many tiny day-to-day work brought down the productive. Sometimes, the system can be hard to maintain due to many legacy stuff.",
+        "advice": null,
+        "pros": "There are many good engineers and researchers in the company to work with, exchanging useful ideas is very easy. Company overall also supports innovations.",
+        "summary": "Good tech company to work",
+        "role": "Anonymous Employee",
+        "date": "Jan 19, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Company is getting bigger, more overhead",
+        "advice": null,
+        "pros": "Flexibility, mobility, work-life balance, good benefits and pay",
+        "summary": "Site Reliability Engineer",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "the company continues to grow fast and does not have the same small scrappy entrepreneurial feeling it did a couple years ago. The other thing that happens when you grow fast is promote a bunch of people in to management roles with no previous experience.",
+        "advice": "Some of the management is amazing, and some is not.",
+        "pros": "great work life balance, great culture, great perks, amazing CEO, vision for the company",
+        "summary": "LinkedIn is a great place to work",
+        "role": "Consultant",
+        "date": "Apr 13, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "This isn't the little company I joined - and some of the fun and a lot of the personality is leaving the ranks and being replaced with large company models. It isn't all bad, but I definitely feel like a stranger walking around the halls.",
+        "advice": null,
+        "pros": "I've been here a while so I've seen the company change in many ways. LinkedIn offers all of the top of the line compensation and perks you'd expect in this market; although one must wonder if all the perks are necessary.",
+        "summary": "Current trajectory of the rocket ship is?",
+        "role": "Anonymous Employee",
+        "date": "Apr 13, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "-frequent changes in policies and strategies can be frustrating",
+        "advice": null,
+        "pros": "-fun, engaging people on the sales team-constant innovation-strong culture",
+        "summary": "Great People, Always Innovating",
+        "role": "Sales Development Specialist",
+        "date": "Apr 15, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "- Some of the teams are mired in bureaucracy but that's the downside of becoming a behemoth",
+        "advice": "Keep on making those big bucks!",
+        "pros": "- CEO, Jeff Weiner, is a class act. Took LinkedIn from startup to IPO, and to continued success- Company culture is something that the CEO has actively cultivated into one of the most charming environments to work for",
+        "summary": "Worked with some of the best",
+        "role": "Senior Social Media Guy",
+        "date": "Apr 22, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "G&A teams are consistently overworked",
+        "advice": "-Treat all employees consistently (expectations, compensation)-There should be more accountability with leader behaviors across the board",
+        "pros": "Perks - They treat employees like gold",
+        "summary": "Human Resources",
+        "role": "Anonymous Employee",
+        "date": "Apr 27, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "Very hard working - always on culture that makes it hard to have work/life balance - lots of growing pains as the company continues to scale - getting more political as the company grows - salaries low compared to peers due to desire to work for the company - people are often 'underleveled' compared to their experience. Resources are very tight for non revenue producing functions",
+        "advice": "Preach, don't just talk, work life balance - provide greater opportunities for development/career transformation.",
+        "pros": "Great culture - CEO that has a clear and compelling vision - the feeling of doing good (helping people find jobs) - very data driven. Great business model, and very driven leadership.",
+        "summary": "Great culture that works you hard",
+        "role": "Sales",
+        "date": "May 1, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "low salary from my experience but because I was pre-IPO it didn't matter too much. Company has grown a lot since IPO - too much hierarchy. When I started in Jan 2010 it felt like a smallish group of friends - at the end I felt like a cog in a machine.",
+        "advice": null,
+        "pros": "Great food and culture. Good health benefits. Many chances to participate in offsite events.",
+        "summary": "Good Company for experience or climb the corp ladder",
+        "role": "Anonymous Employee",
+        "date": "May 4, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "The benefits package was honestly not even worth having or even worth the time filling out. The management was horrible. And no one should any respect.",
+        "advice": "None",
+        "pros": "Very close to Home, and had excellent pay especially when your a local, full benefits, and 401k plan. I was on with the Project Crew which we were always in the feild.",
+        "summary": "LInkedIn",
+        "role": "Anonymous Employee",
+        "date": "May 5, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "There isn't a whole lot of bad things to say about LinkedIn. I was there for 4 years and hardly ever found anything to complain about.",
+        "advice": "Keep the productive 1:1's, keep attending all the trainings because they have paid off.",
+        "pros": "Great colleagues, tons of good perks, so much room for growth. For as large as they are it is a fairly flat organization.",
+        "summary": "Hands down the best company to work for!",
+        "role": "Anonymous Employee",
+        "date": "May 5, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "There isn't a whole lot of bad things to say about LinkedIn. I was there for 4 years and hardly ever found anything to complain about.",
+        "advice": "Keep the productive 1:1's, keep attending all the trainings because they have paid off.",
+        "pros": "Great colleagues, tons of good perks, so much room for growth. For as large as they are it is a fairly flat organization.",
+        "summary": "Hands down the best company to work for!",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "Company is growing at a rapid pace. Bigger Companies in general face a more structured work environment.",
+        "advice": null,
+        "pros": "* Great Brand* Great People* Great culture",
+        "summary": "Sales Development",
+        "role": "Anonymous Employee",
+        "date": "May 14, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Due to growth starting to become a bit political in some groups.",
+        "advice": null,
+        "pros": "Company is still growing at tremendous pace and plenty of work. Very collaborative environment. Benefits are fabulous.",
+        "summary": "Recruiter",
+        "role": "Anonymous Employee",
+        "date": "May 15, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Too competitive - people are not here to make friends",
+        "advice": null,
+        "pros": "Good Benefits and work life balance",
+        "summary": "Recruiting Coordinator",
+        "role": "Recruiting Coordinator",
+        "date": "May 15, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "corporate, vending machine is not free",
+        "advice": null,
+        "pros": "young, hip, free food, swag",
+        "summary": "Awesome!",
+        "role": "Anonymous Employee",
+        "date": "May 21, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Disorganized tooling, still use tons of svn, massive project although moving to micro architecture",
+        "advice": null,
+        "pros": "Lots of smart people, good food, challenging work",
+        "summary": "Good company",
+        "role": "Senior Software Engineer",
+        "date": "May 21, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Sometimes bloated vision. Many competing programs make it difficult to decide on company strategy.",
+        "advice": "Keep it up but focus on keeping employees informed on strategy and mission going forward as you continue to scale to a larger company.",
+        "pros": "Great culture, still manages to feel like a startup even though they are expanding rapidly.",
+        "summary": "Great culture, company",
+        "role": "Anonymous Employee",
+        "date": "May 22, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "unstructured, manager competence, career progression, no room for creativity",
+        "advice": null,
+        "pros": "Culture, salary, office, people, food",
+        "summary": "Sales Product Consultant",
+        "role": "Anonymous Employee",
+        "date": "Jun 30, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "- As the company has grown, more silos, less collaboration.- Engineers and product are treated more favorably than other parts of the organization. I suppose this is only a con to non-engineers.",
+        "advice": null,
+        "pros": "Culture and values; gym; free breakfast, lunch and dinner; monthly InDay; volunteer opportunities. great benefits; bi-weekly company meeting where CEO and senior staff share company accomplishments and initiatives.",
+        "summary": "Manager",
+        "role": "Manager",
+        "date": "Jul 3, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "getting too big, bureaucratic, too much process, loss of hacker culture,",
+        "advice": null,
+        "pros": "interesting work, free food, nice perks, smart engineers, lots of company events, cool speakers, lots of tech talks",
+        "summary": "Plus one",
+        "role": "Anonymous Employee",
+        "date": "Jul 7, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "Was not given a lot of agency on initial team placement. A lot of friction between teams: working on projects that require help from other teams can be miserable and stressful. People don't answer their emails. There's no company-wide documentation standards so you have to find where other people sit and physically go ask them for help with the bad code they wrote.",
+        "advice": "Shield engineers from having to spend most of their time tracking down and negotiating with other teams because that really isn't what we signed up for.",
+        "pros": "Good benefits, good compensation, interesting problems, decent codebase, teams have a lot of freedom in terms of choosing technology, engineers get to make a fair number of design choices. Decent internal mobility options.",
+        "summary": "Nice place, poor fit personally",
+        "role": "Software Engineer",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "Getting into and out of Shoreline (Mt View) can be a pain, but that's bay area traffic for you. It seemed the company was becoming more bureaucratic by the time I left, but that might've been a blip.",
+        "advice": null,
+        "pros": "The culture and the vibe at LI is great; there's a friendly \"can-do\" spirit there. Free (good) food, frequent team offsites, approachable management.",
+        "summary": "Great vibe, great perks",
+        "role": "Content Editor",
+        "date": "Jul 18, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "Sales's pressure is much high.",
+        "advice": null,
+        "pros": "Wonderful branding and company culture.",
+        "summary": "Account Executive",
+        "role": "Account Executive",
+        "date": "Jul 23, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Not a lot career growth opportunities",
+        "advice": null,
+        "pros": "Salary is good and work life balance great.",
+        "summary": "Growth pain",
+        "role": "Web Developer",
+        "date": "Jul 26, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "hacking the coding interview does not mean she/he can innovate and deliver. there are more and more people in this company are better at talking than delivering expected result.politics and the evil of ownership",
+        "advice": "raise the hiring bar. don't be afraid of hiring people better than you.",
+        "pros": "great culture and values.promising business and great space to innovategood place for young people to dev their career",
+        "summary": "should raise the bar for hiring real talented engineers/data scientists",
+        "role": "Anonymous Employee",
+        "date": "Aug 16, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Still a good deal of politics around who hangs out with who on weekends determines promotions.",
+        "advice": null,
+        "pros": "Great company to work for through and through",
+        "summary": "Great Company but still Cliqish",
+        "role": "Account Executive",
+        "date": "Aug 21, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "*Culture not as great as some say it is. Product leaders led by fear/intimidation rather than inspiration.*CEO is smart but also a little egotistical.",
+        "advice": "Get rid of the bad apples in the exec team that create a bad culture for the company.",
+        "pros": "*Very successful company - fun to be associated with LinkedIn's success*Very smart people*Well compensated due to value of the pre-IPO options",
+        "summary": "Solid employer",
+        "role": "Director",
+        "date": "Aug 24, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "1)Disorganized2)Lack of focus on day to day management",
+        "advice": "Love the vision and mission but please organize day to day management of the company",
+        "pros": "1)Nice people2)Good work life balance3) nice perks",
+        "summary": "Good culture and nice people",
+        "role": "Anonymous Employee",
+        "date": "Aug 27, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Some office politics, not easy to transfer internally, management culture is not leveled across company",
+        "advice": "Open door policy and current HR partners don't really match what the company mission is. Career growth and employee feedback is a big motivator for excellence",
+        "pros": "Culture is open, free food, great benefits, opportunity for growth (depends on your area)",
+        "summary": "Technical Service Manager",
+        "role": "Anonymous Employee",
+        "date": "Sep 2, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "- Policies should balance with growth.",
+        "advice": "Keep doing what you are doing",
+        "pros": "- Great Management- Great Perks- Smart People",
+        "summary": "Fabuluos Company to work for during growth",
+        "role": "Anonymous Employee",
+        "date": "Sep 2, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "Very intense work environment. While there is a focus on a work/life balance, a year at LinkedIn is like 2 years at any other company. People typically burn out after 2-3 years. So if you're ready for that - go for it.",
+        "advice": "i'd focus less on process and best practices and more on relationships. Coming from the sales side there was too much structure at times and too much change. While change is good some consistency helps for sure.",
+        "pros": "excellent career advancement opportunities. The company is rapidly growing and there are ton of opportunities for advancement. You can learn best practices and truly become the best in your craft.",
+        "summary": "Great company - hell of a ride",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "It is really far and the bay area is really expensive",
+        "advice": "Try to provide better free food. Food is good but not that good",
+        "pros": "There is a lot of great opportunities and other good stuff",
+        "summary": "Goood",
+        "role": "Anonymous Employee",
+        "date": "Sep 22, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Too big for large career growth unfortunately. Every day felt like the same and there was minimal professional coaching, which was a huge part of their culture in the past.",
+        "advice": "More coaching & better support for reps. Perks aren't everything",
+        "pros": "Huge company, pretty easy work environment, great perks. Massive name behind you, etc.",
+        "summary": "RM",
+        "role": "Relationship Manager",
+        "date": "Sep 24, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "- Saturated account lists with sometimes very poor businesses that can't afford expensive solutions- Competitive promotion with high expectations",
+        "advice": null,
+        "pros": "-Amazing company culture and awesome colleagues- Great perks, food, benefits, happy hours, 401k etc.",
+        "summary": "Seasoned Sales Dev",
+        "role": "Anonymous Employee",
+        "date": "Sep 28, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "The pace of work has dropped significantly. Lots of competition from Google, Facebook, Uber, Airbnb, etc means that difficult to hire best talent. Upside to stock may be limited.",
+        "advice": null,
+        "pros": "Liked the work. Pervasive use of open source software and opportunity to contribute back. The company has excellent benefits and takes care of employees.",
+        "summary": "Senior Manager",
+        "role": "Anonymous Employee",
+        "date": "Oct 3, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "Common problems with big companies, lost the start-up mentality",
+        "advice": "keep your employees interested and care for their career development",
+        "pros": "Great facility, free food, nice perks",
+        "summary": "good place to work",
+        "role": "Insight Analyst",
+        "date": "Oct 4, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "It's a large company, which means it's prone to internal politics* Fair amount of internal technical debt",
+        "advice": "Move more of engineering to SF, having to commute down to mountain view is pretty irritating.",
+        "pros": "* Great benefits, free snacks, amazing cafeteria.* Believe in the mission.",
+        "summary": "Great place to work",
+        "role": "Anonymous Employee",
+        "date": "Oct 4, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "The culture has changed a lot recently and turned into more of a standard customer service center focusing too much on productivity.",
+        "advice": "Trust your employees to act like owners and they will do a lot more for you than if trying to account for every minute of their day.",
+        "pros": "There are great benefits and most of my co-workers are great people.",
+        "summary": "LinkedIn Review",
+        "role": "Anonymous Employee",
+        "date": "Oct 13, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 4,
+        "cons": "Depending on mentor, experience can be variable",
+        "advice": null,
+        "pros": "Super good mentorship, lots of fun intern bonding events, strong sense of work community",
+        "summary": "Awesomeness of Linkedin",
+        "role": "Anonymous Employee",
+        "date": "Oct 22, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 4,
+        "cons": "Issues which come with a big company, employees have started focusing more on visibility than actual work sometimes.",
+        "advice": "Make sure that decision making is fast. Take more risks with the product.",
+        "pros": "Very smart people, excellent CEO and great business model. LinkedIn is here to stay.",
+        "summary": "Great Place to work",
+        "role": "Anonymous Employee",
+        "date": "Oct 22, 2015",
+        "is_current": true
+    }
+]

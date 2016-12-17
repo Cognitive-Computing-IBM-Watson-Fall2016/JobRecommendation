@@ -1,0 +1,902 @@
+[
+    {
+        "rating": 5,
+        "cons": "Hard for contractors to get full time roles.",
+        "advice": null,
+        "pros": "Great people, great mission, free meals :)",
+        "summary": "Great Company",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "We're getting huge. The last thing I want is for the company to turn into a Google/Microsoft/Amazon, but it might be inevitable. Luckily, the company takes preventative action to prevent the big corporate feeling... but it isn't working super well.",
+        "advice": "Keep on keepin' on. Some of the best in the biz.",
+        "pros": "I mean, it's the happiest place on Earth. It's like Disneyland except... you get paid a lot instead of the other way around. I legitimately and genuinely enjoy the people I work with and coming into work is something I look forward to after a vacation (of which we get 21 days / year). I'm not a father, but I hear if I choose to be, I get 4 months paternal leave. Comp is great, food is great, ... I never talk about wh\u2026\u00a0ere I work and what I do because I just feel so lucky to be here. It's not really fair.",
+        "summary": "Disneyland.",
+        "role": "User Experience Researcher",
+        "date": "Jun 2, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "(1) a little bit pressure",
+        "advice": null,
+        "pros": "(1) awesome technologies(2) nice food",
+        "summary": "software engineer",
+        "role": "Anonymous Employee",
+        "date": "Jun 2, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Far from SF and commute time is really long",
+        "advice": null,
+        "pros": "Moves fast on projects, efficient processes for workflow, excellent tools in place to get work done, great people, amazing benefits, wonderful work/life balance",
+        "summary": "Fantastic place to work",
+        "role": "Product Specialist",
+        "date": "Jun 4, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Nothing really except that sometime we move too fast.",
+        "advice": null,
+        "pros": "A really awesome company to work with. With it's focus on impact, it makes sure each employee get to do quality work.",
+        "summary": "Software Engineer",
+        "role": "Software Engineer",
+        "date": "Jun 5, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "don't have anything to complain about.",
+        "advice": null,
+        "pros": "Great opportunity for growth and learning. Amazing workplace and culture.",
+        "summary": "Amazing place to work",
+        "role": "Software Engineer",
+        "date": "Jun 8, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "- they talk about \"work-life blending\" instead of balance, but what this means in reality is that work generally dominates your life (along with your newsfeed)- a growing focus on financial compensation instead of intrinsic motivators- at the pace and scale of the company, an individual's perceived impact is shrinking- using user engagement metrics as a poor substitution for user sentiment / satisfaction<\u2026\u00a0br>- especially in the last few years, converging with the model of most other major companies",
+        "advice": "Focus on the ImpactMove Fast, Be BoldWhat would you do if you weren't afraid?",
+        "pros": "- change the world, nudging a billion people at a time- working with the best minds around. I graduated at the top of my class, both high school and college...and so did everyone else- they take great care of their employees needs- a pace of change, despite the company's size, that will blow you away- an unlimited set of interesting and challenging technical problems",
+        "summary": "A Spectacular Ride",
+        "role": "Engineering Manager",
+        "date": "Jun 10, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Moving fast is fun and exhilarating, but it does break a lot of things. Lots of times work is derailed due to shaky infrastructure that can get frustrating.",
+        "advice": null,
+        "pros": "The company is very open and transparent. Leadership is incredibly open about what direction the company takes and honestly answers all questions about why certain decisions were made. Everyone says \"we\" and never \"I\" or \"you\" about everything. Team atmosphere and sense of mission and belonging is infectious.",
+        "summary": "Very open and transparent",
+        "role": "Anonymous Employee",
+        "date": "Jun 11, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Internal tools need work. Company is starting to experience growing pains interns of growing too fast. I wish there were more shuttles :)",
+        "advice": null,
+        "pros": "Great perks. Company does a lot of social good. Move fast culture. Organization is flat. Great company for families. Flexible schedules",
+        "summary": "Best tech company. Period",
+        "role": "Anonymous Employee",
+        "date": "Jun 12, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "I really can't think of any it is the best placed I have ever worked. It is just incredible they really listen to you",
+        "advice": "Work on competing with google!",
+        "pros": "Great people! Fun innovative company! Great ideas! Much better than google! I worked there for almost 10 years. Great free food",
+        "summary": "Terrific place to work!!!",
+        "role": "Anonymous Employee",
+        "date": "Jun 14, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Facebook moves extremely fast -- it can be tough to stay on top of all the product/strategy changes. Innovation is extremely important to us, so we have to make sure that all of our operational teams can keep up.",
+        "advice": null,
+        "pros": "Every single day I am learning something new on the job-- I love being constantly encouraged and stretched in my role! Plus, I have the opportunity to work with people who are absolutely best in their fields.",
+        "summary": "Loving My Job",
+        "role": "Product Specialist",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "- Commuting by car to the new Seattle office from Eastside would require going through Mercer street.- Open space floor plan.- May gain weight due to free food.",
+        "advice": "Seek options to diversify business.",
+        "pros": "- A lot of smart people to work with.- Planet-scale projects.- Less meetings/planning than in other big companies.- Great benefits and perks. Free food. Laundry/dry cleaning.- Great pay.",
+        "summary": "Great company to work for",
+        "role": "Software Engineer",
+        "date": "Jun 15, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Very competitive environment, if you're not the right kind of person for this it can be challenging.",
+        "advice": "Continue doing what you're doing.",
+        "pros": "Facebook treats people really well.",
+        "summary": "Awesome",
+        "role": "Client Solutions Manager",
+        "date": "Jun 16, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "no such cons for company like facebook",
+        "advice": ":)",
+        "pros": "It much better working environment than most of the companies.",
+        "summary": ":)",
+        "role": "Product Designer",
+        "date": "Jun 17, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "It's very hard to advance your career if you want to have work-life balance. The fast pace and the high demands foster burnout in a lot of employees.",
+        "advice": "I can only speak for Management in Analytics: The load of work in Analytics is poorly distributed. Some Data Scientists have to support several products while others get away with simply keeping track of a metric.I would advice management to keep a check on the workload distribution, as a lot of the most talented data scientists see their careers stall as a result of this imbalance.",
+        "pros": "I get to work every day on interesting problems together with incredibly smart and committed coworkers. The internal tools we have in place to perform analysis are world class.",
+        "summary": "Data Scientist",
+        "role": "Data Scientist",
+        "date": "Jun 20, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "- no office in the city (so commute from SF is something one should be up for)",
+        "advice": "Build an office in the city to tap into the pool available there.",
+        "pros": "- tons of responsibility- respect for employees- learn from the best- flexible work hours- flexibility in switching teams- great perks",
+        "summary": "It is the best company to work at for new grads.",
+        "role": "Anonymous Employee",
+        "date": "Jun 22, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "There isn't much opportunity to be based outside of Menlo Park. There are a handful of offices outside of Silicon Valley (New York, LA, Seattle, abroad) but not many. That said, it's better to have the company stay small and focused than get too big and have offices scattered about.",
+        "advice": "For jobs that allow it, consider unconventional work schedules (i.e. work from home ~25% of time) to allow greater time spent with family/significant others that live outside Silicon Valley.",
+        "pros": "It's like the best group project you never worked on in college. Everyone is extremely smart, driven, capable, high octane, and wants to work hard to see the team succeed...and for the most part, everyone is genuinely kind and friendly. Office politics don't exist like they do at other companies.The quality of the benefits / perks cannot be overstated.",
+        "summary": "Business Development",
+        "role": "Anonymous Employee",
+        "date": "Jun 22, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "none, they are doing everything right",
+        "advice": "stop re org",
+        "pros": "great opportunitieslots of learninggood payinsane perks",
+        "summary": "Great place to work",
+        "role": "Community Operations",
+        "date": "Jun 24, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Really good company and no big cons..Ok.. food is not good as heard..",
+        "advice": "My manager offers me minimum help as usual.",
+        "pros": "Best company for an intern! Everything is free and there is a good hotel to live!Worked on an independent project. (This is really good compare to some interns in Canada..)",
+        "summary": "Positive Feedback",
+        "role": "Software Development Engineer",
+        "date": "Jun 29, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "The office is pretty loud",
+        "advice": null,
+        "pros": "Facebook is a great place to work",
+        "summary": "Review",
+        "role": "Anonymous Employee",
+        "date": "Jul 1, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "To my knowledge, all cons I observe are present in any other similar high tech companies",
+        "advice": null,
+        "pros": "Great corporate perks,Fast-paced company knows clearly where we are heading,Challenging but rewarding job responsibility that can really impact people",
+        "summary": "Engineer",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Turning political and into a PM heavy company",
+        "advice": null,
+        "pros": "Strong vision and passion for the company",
+        "summary": "Facebook",
+        "role": "Anonymous Employee",
+        "date": "Jul 8, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Work-Life Balance. There are very high expectations at Facebook and people work long hours.",
+        "advice": "As Facebook continues to rapidly grow, stay focused on maintaining rigorous hiring standards.",
+        "pros": "1. Culture. Facebook thrives on a collaborative, open culture where anyone can make an impact. You get to work with brilliant people who are very data driven and are open to constructive feedback on projects. It doesn't matter if you are an intern or a VP, your voice matters.2. Career Satisfaction and Growth. It's truly satisfying to work on projects that impact the nearly 1.5 billion people on Facebook's pla\u2026\u00a0tform. I've interacted with people from every major department and there are so many interesting projects. Also, I love participating in the hackathons. You get to take a break from your current work and just be creative. It's amazing!3. The Food. So the food is ridiculous at Facebook. That's all I need to say.4. Facebook's Leadership. I'm very impressed with Facebook's senior leadership. They do an amazing job of communicating with FB employees and keeping everyone motivated. Specifically, they are extremely focused on Facebook's mission of making the world more open and connected.",
+        "summary": "Incredible opportunity to innovate and learn",
+        "role": "Partnerships",
+        "date": "Jul 9, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "- some managers aren't really manager material, but just did a lateral switch for the wrong reasons- despite having some truly exceptional people, there are a number of new hires that are sub-par- work life balance varies immensely across teams, from very relaxed (10-6, mon-fri), to very ridiculous (12h+, 6+days a week)...",
+        "advice": "Continue passing down the ideals strongly across the hierarchy!",
+        "pros": "- great learning opportunities- high degree of freedom- strong sense of ownership",
+        "summary": "Great freedom",
+        "role": "Software Engineer",
+        "date": "Jul 17, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "The location of the office is the biggest drawback, it's in the middle of nowhere with no good housing nearby",
+        "advice": "Keep doing what you are doing, it's awesome working at Facebook!",
+        "pros": "1) Co-workers are all crazy talented and top of the industry2) Working on some really technically interesting and challenging problems3) Anything you do affect up to a billion people!",
+        "summary": "Best place to work at",
+        "role": "Front End Engineer",
+        "date": "Jul 18, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "bi annual self & colleague reviews",
+        "advice": null,
+        "pros": "campus perks; food, gym, etc. hardware resources.",
+        "summary": "Facebook Main Campus",
+        "role": "Client Engineer",
+        "date": "Jul 18, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Total waste of my life and potential for a evil corporate giant",
+        "advice": null,
+        "pros": "great party time at the office after work",
+        "summary": "marketing manager",
+        "role": "Anonymous Employee",
+        "date": "Jul 21, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "noisy, contractors treated differently, lots of changes",
+        "advice": null,
+        "pros": "free food, gym, culture, people, work flexibility",
+        "summary": "Contractor",
+        "role": "Culinary Recruiter and Human Resources Assistant",
+        "date": "Jul 21, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Pace is incredibly hard and demanding. Growing too fast at times. Need to slow down and put more alignment in place. Almost too transparent with our employees with information and data. They really do share a lot, there are positives and negatives to that, such as when new products get leaked to the press.",
+        "advice": "Keep doing what you are doing, putting people first at the core of our product and services. And treating your employees with great care and kindness.",
+        "pros": "Wonderful company and great benefits. Fantastic culture, a true leader in our industry and an example for other companies to follow. Great supporter of equal pay and opportunities for all.",
+        "summary": "Sales Client Partner",
+        "role": "Client Partner",
+        "date": "Jul 23, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Work-life balance, while better than most top tech companies and certainly startups, is always a struggle. Unstructured work environment is a challenge to some.",
+        "advice": "Make you employees feel like it's OK to unplug and recharge. Make employee calibrations more transparent.",
+        "pros": "Great pay, great benefits, interesting work. You get to work with some of the best engineers in the world, and the business is doing incredibly well.",
+        "summary": "Top of the Field",
+        "role": "Software Engineer",
+        "date": "Jul 23, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "The company is scaling rapidly, so while there is still a start-up culture, it's impossible to have the type of familiarity with all your coworkers and knowledge of all active projects you'd have at a smaller place.",
+        "advice": "Keep doing what you're doing!",
+        "pros": "* Open culture - no secret projects* Opportunity for growth* Access to management via weekly Q&As* Lots of learning and development courses* Encouragement to work on what you are passionate about* Perks and benefits can change according to what employees want most",
+        "summary": "Can't imagine a better workplace",
+        "role": "Technical Writer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "- Salary growth can be somewhat linear...and the y-axis (what you start off at), has more weight than it should for a young company.- Easy for performance to all clump together at the above expectations rating, which really makes it difficult to stand out.",
+        "advice": "Work more aggressively to reward hard work with proper reviews and compensation.",
+        "pros": "- Learning opportunities are really unparalleled. There are so many different 'camps', classes, and informal learning opportunities at the company. If you have an interest in a topic, most likely someone else is equally interested in teaching you about it.- Many of the little things are taken care of for you: food, laundry, shuttle, gym, etc. It does add up, from both a money and time perspective.- Managers c\u2026\u00a0are! I've had better and worse managers, but one unifying theme is that they all have good intentions, which I can't say for every manager I've had in my short career.",
+        "summary": "Amazing learning opportunities",
+        "role": "Data Scientist",
+        "date": "Jul 27, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Work life balance issues. Everything else is great",
+        "advice": "Keep focusing on user growth and product experience. Increase the perks for employees",
+        "pros": "Very good leadership. Company culture is very good. You feel valuable to the company and can work on really tough problems",
+        "summary": "Good company",
+        "role": "Anonymous Employee",
+        "date": "Jul 28, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Not much to say here!",
+        "advice": "Keep up the good work!",
+        "pros": "-Flexibility. I could choose a project and a particular area that I wanted to contribute to.-Great team. A bunch of smart people on the team, including former Google, Apple folks.-Fast. By the end of my internship we had a product almost ready for shipping.",
+        "summary": "Connectivity Lab",
+        "role": "Anonymous Employee",
+        "date": "Aug 11, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "It is and intense and demanding work environment. Many engineers work late into the night and there is an expectation that people will respond quickly, sometimes within minutes. If you don't pace yourself, you can burn out quickly.",
+        "advice": "Try to maintain the culture and incredible opportunities for engineers as the company grows. Already over the past few years, some aspects of the company have started to feel bureaucratic.",
+        "pros": "Engineers have a lot of responsibility and opportunity for impact. People say, there isn't just low handing fruit, but you will be stepping on fruit on the ground. The culture is accepting and respectful.",
+        "summary": "Thumbs up for Facebook",
+        "role": "Anonymous Employee",
+        "date": "Aug 11, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Noise and distractions in an open work environment sometimes hurts productivity sometimes. Luckily, there are couches and quiet rooms for that.",
+        "advice": null,
+        "pros": "Huge impact, Smart peers, Good food, and Hard technical challenges to list a few. I also really like the culture.",
+        "summary": "Sweet place to work",
+        "role": "Anonymous Employee",
+        "date": "Aug 13, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Sometimes there is poor work life balance",
+        "advice": "keep on killing it. Keep the organization flat",
+        "pros": "The people working there are very fun and kind.",
+        "summary": "Hardware Validation Engineer",
+        "role": "Anonymous Employee",
+        "date": "Aug 13, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Sugar-shop is hard to resistHQ Office in the middle of nowhereCommute on 101 is a painSometimes work environment gets pretty noisy with all the discussions going on around you",
+        "advice": null,
+        "pros": "Amazing peopleFreedom to do what you want, move between projectsCheerful and optimistic work-environmentFind something you want to hack/change, go do itGood foodLots of perks",
+        "summary": "Developer's heaven",
+        "role": "Anonymous Employee",
+        "date": "Aug 14, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Need to give more feedback and room for improvement.",
+        "advice": null,
+        "pros": "Amazing company where you are given lots of autonomy and trust. Great perks! Friendly and fun.",
+        "summary": "Recruiter",
+        "role": "Recruiter",
+        "date": "Aug 28, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Every now and then, you run into a bad egg who thinks they're more important than the company. But this happened much less frequently than at any other place I've worked.",
+        "advice": "Keep the company feeling small, don't let growth ruin the values we all believe in",
+        "pros": "Great place to work, high energy, and everyone is very helpful and friendly for the most part.",
+        "summary": "Summer Intern",
+        "role": "Anonymous Employee",
+        "date": "Sep 1, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "No matter where you come from, it's trafficky to get to the offices in MPK.",
+        "advice": null,
+        "pros": "The culture is the real selling point here. Facebook looks to leverage people's passions. The focus on strengths, openness and care is so refreshing.Facebook takes care of its employees to a degree I never could have imagined, and there always innovating to do even more. Here's what I take advantage of in terms of perks:Gym with a variety of fitness classes to suit anyone's interestsFree food, sourced\u2026\u00a0 sustainably, local whenever possible, with options for everyoneTo go along with above, the sweet shop full of fresh baked goodies and rotating ice cream flavorsSpa on site (you pay for the services but it's so convenient)Free laundry service up to $40/monthShuttles from all over the bay area with wifi so your day starts when your commute startsAmazing benefits and leave policies",
+        "summary": "Unreal Work Environment",
+        "role": "L&D",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "The company is getting bigger day by day.",
+        "advice": null,
+        "pros": "- Really good perks- Challenging yet fun work environment. Engineers have a lot of say in the product.",
+        "summary": "Awesome perks, smart co-workers, great environment for engineers",
+        "role": "Software Engineer",
+        "date": "Sep 2, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "I Found No Cons, A Great Company To Work With. Tough To Get A Job That's All About Facebook.",
+        "advice": "Everything Is Great, They Should Continue Till End, Online Application System Is Great, The Review Team Should Be Given More Expenditure.",
+        "pros": "Everything Is Good, Most Great Is The Free Food & Maternity Paternity 4 Months Paid Leave, No Force To Join Work Back.",
+        "summary": "Software Engineer",
+        "role": "Software Engineer",
+        "date": "Sep 8, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "work life balance could be a problem........",
+        "advice": null,
+        "pros": "a lot of perks, coworkers are nice. feeling sense of belonging there, and has a lot of events and learning classes available.",
+        "summary": "nice workplace",
+        "role": "Anonymous Employee",
+        "date": "Sep 8, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "May not end up doing something you're good at if you want to do something very specific.",
+        "advice": null,
+        "pros": "1. Interesting and challenging project for intern, compare with other tech companies like Google or Amazon2. Very open culture, easy to find help from senior developers3. Diversity",
+        "summary": "Software Engineer Intern",
+        "role": "Anonymous Employee",
+        "date": "Sep 8, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Large organization and can take longer to climb the ladder",
+        "advice": null,
+        "pros": "Great compensation, benefits and people",
+        "summary": "Great place to work",
+        "role": "Anonymous Employee",
+        "date": "Sep 9, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "growing pains, middle management, unclear expectations",
+        "advice": "give your employees room to grow. trust them.",
+        "pros": "passionate people, dynamic environment, flexible, constant change",
+        "summary": "Longtimer",
+        "role": "Anonymous Employee",
+        "date": "Sep 9, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Too much food, way too easy to gain weight.You need to make decision yourself most of the time, sometimes it's intimidating.",
+        "advice": "To be honest, nothing much to be criticized. I love my manager so much!",
+        "pros": "You met with a ton of smart and friendly co-worker and managers.You can make a lot of impact and also grow yourself.",
+        "summary": "The best company to work ever",
+        "role": "Software Engineer",
+        "date": "Sep 13, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Lots of pressure to get a lot done. Not for people who can't take the heat.",
+        "advice": null,
+        "pros": "There is always someone who can help you with any problem you have, if you just ask. There's also free food.",
+        "summary": "Difficult, but lots of support",
+        "role": "Anonymous Employee",
+        "date": "Sep 14, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "not a lot of mentorship.",
+        "advice": null,
+        "pros": "lot of room for impact, lot of challenging technical problems.",
+        "summary": "facebook review",
+        "role": "Software Engineer",
+        "date": "Sep 14, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "There are a lot of people who touch each project making it hard to execute quickly.",
+        "advice": "Keep rewarding XFN collaboration.",
+        "pros": "The Perks are nice, but what is very valuable is the people I work with. Everyone is top notch and I'm learning a lot every day.",
+        "summary": "Smart People, Great Culture",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "FB is a large company and with that, it is sometimes hard to see the impact of the work given.",
+        "advice": null,
+        "pros": "FB tries to eliminate regular discomforts one can experience in less progressive corporate employment. Management is easy-going but in return one is expected to do quality work.",
+        "summary": "High Quality Employment",
+        "role": "Software Engineer Intern",
+        "date": "Sep 15, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "- Was placed on a team despite not having the skills that the team needed- Bootcamp could be a little bit more comprehensive",
+        "advice": "The intern program is great, but make more efforts to make sure people are on teams that interest them.",
+        "pros": "- Felt like I made an impact even in 3 months- Great benefits, even for interns (meals, microkitchens, health allowance, etc)- Transparent path to full time offer",
+        "summary": "Software Engineering Intern",
+        "role": "Software Engineering Intern",
+        "date": "Sep 15, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Not getting paid every second of our lives ... it kinnda sucks, but hey",
+        "advice": "Pay us every second of our lives",
+        "pros": "Free food and free everything",
+        "summary": "Awesome",
+        "role": "Anonymous Employee",
+        "date": "Sep 15, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "There's no work life balance here.",
+        "advice": null,
+        "pros": "Definitely the interns at Facebook are doing much more impactful projects than interns at Google, Microsoft etc",
+        "summary": "Impactful Intern Project",
+        "role": "Anonymous Employee",
+        "date": "Sep 18, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "One of the consequences of the flat, disparate teams and \"move fast\" philosophy is that multiple teams may be duplicating work and competing internally, or just faltering in a disorganized fashion.",
+        "advice": "Could use more company-wide training on manager / managee relationships. Could use better design thinking and process integrated into org, sometimes need to slow down and think properly to save re-building costs.",
+        "pros": "It's like a microcosm of the real world. The organization can be fast and chaotic. It's up to the individual to find information, resources, and make things happen. It's great that one person can find support and quickly get resources allocated to their cause if it's justified.",
+        "summary": "Find Your Own Destiny",
+        "role": "Product Designer",
+        "date": "Sep 18, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "It can be difficult at times keeping up with everything we need to know as we grow. We're also spreading out more - both globally and in HQ at Menlo Park. We need to make sure that we do our best to stay connected and maintain what's special about Facebook even with this growth.",
+        "advice": "Continue being open to new ideas.Continue believing in a transparent culture.Continue to keep our hiring bar high so that we bring in the best talent.",
+        "pros": "Amazing, smart people who are actually kind and want to collaborate vs. avoid it.Open and transparent cultureAbility to grow your career",
+        "summary": "Working at Facebook",
+        "role": "Human Resources Director",
+        "date": "Sep 21, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "It may be hard to adjust in the first few months if you're used to working in a traditional company. You can't sit in a corner and work alone - cross functional teamwork and building relationships are the norm. Facebook is always in the public spotlight, and this is one of the things you'll have to learn to deal with if you want to work here. And you'll have to get used to spending more time on Facebook. :-)",
+        "advice": "Keep doing what you're doing.",
+        "pros": "Great company with an amazing culture. You work hard, the pace is fast, expectations are high, and change is constant, but Facebook really looks after its employees and provides a diverse array of opportunities for self development, cross-functional training and career growth. The CEO meets with all employees once a week and answers anyone's questions.Most people here are energetic and passionate about their \u2026\u00a0work and seriously focused on making an impact. The work environment is physically (and culturally) very open: open spaces, no offices, casual dress, etc. Work/life balance is respected and encouraged and you have the flexibility to work in the way that best matches your individual style and needs. Face-to-face communication is highly valued but meetings are generally focused on not time-wasting activities. Anyone can suggest a new feature or improvement and be part of the team that makes it happen. There is a lot of opportunity for high performers to grow their careers. The compensation, benefits and perks are truly above par.One of the most important things for me is the open culture and the way Facebook encourages employees to find and be our authentic selves, and to listen to the voices of others who may be different from ourselves. The company works very hard to create a diverse and welcoming environment for all.",
+        "summary": "Amazing company to work at",
+        "role": "Program Lead",
+        "date": "Sep 21, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "A lot of product ideas get killed and never ship, which is usual for a company this size as you can't just ship half-baked products.",
+        "advice": null,
+        "pros": "Compensation, Great talent, a lot of space to be creative and submit ideas, not a lot of hierarchy and politics yet, ability to switch teams easily.",
+        "summary": "Amazing place",
+        "role": "Product Designer",
+        "date": "Sep 21, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "1. Work can sometimes be overwhelming for some people. However, to me, it seems like it is a product of their own working style. No doubt, there is a lot of work going on at a rapid pace, but you are always free to complete it at your own pace and your team is always there, ready to help you.2. Limited number of PTOs: Although they are more than most companies out there in the industry, but they are still low.",
+        "advice": "1. Keep doing what you are doing. Employees are the key to the success of Facebook and making them feel important is what has kept the company going till now.2. The DNA of Facebook consists of the best of the people out there. Maintain it that way and never lower the bar for hiring new employees.",
+        "pros": "1. No other company can compete with the Bootcamp. It's like a Red Carpet experience minus the glamour. You literally \"decide\" what you want to work on after working on real projects.2. Brilliant people to work with.3. Awesome work culture.4. Even though it's a large company, you still feel important.5. You are encouraged to move fast, without taking pressure which is an awesome combination, especiall\u2026\u00a0y for a Software Engineer.6. Awesome management, HR and all the supporting teams. They really make the life easy.",
+        "summary": "Love everything about Facebook",
+        "role": "Software Engineer",
+        "date": "Sep 21, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "really cannot find any Cons...",
+        "advice": null,
+        "pros": "open culture, move fast, cutting-edge tech, awesome benefit, the best company in the world",
+        "summary": "Software engineer",
+        "role": "Software Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "None that I can think of.",
+        "advice": "Keep it up.",
+        "pros": "Mark is an amazing visionary and CEO. He makes hard calls and has a very long-term perspective.",
+        "summary": "Amazing company, management, coworkers and product.",
+        "role": "Anonymous Employee",
+        "date": "Sep 22, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "- Lots of hiring from outside that layer long-term employees under several managers- There are a few \"Golden Children\" inside the company who can essentially do no wrong and will always be given control of the most interesting/valuable projects. They are either buddies with Zuck/Sheryl or were actual startup veterans who were brought in from the outside. Either way, it's near impossible to become a significant pl\u2026\u00a0ayer in the company without that \"golden\" anointment.",
+        "advice": "Keep kickin' butt!",
+        "pros": "- Incredibly transparent when it comes to company priorities and initiatives- Great access to leaders in the company. Nobody is too big to talk to.- Touches basically all of internet-connect humanity, which is nice.- Playing on the largest-scale chess board in the world against the top 4-5 tech companies",
+        "summary": "Young Adult Wonderland w/ Golden Children",
+        "role": "Marketing",
+        "date": "Sep 23, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Well, it only paid an honorarium which didn't amount to much, but it was the prestige of having done the job that mattered.",
+        "advice": "Consulting",
+        "pros": "I was one of few! I was paid to observe and report while I'd rather get mentally involved! I love to get involved in the brain-power decision making , but I like being a staff consultant to a leader who makes the final decision. In other words, I like being the brains behind the power that makes the final decision! I merely provide the simple and dry facts.",
+        "summary": "Consultant",
+        "role": "Daily Consumer & User",
+        "date": "Sep 28, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "There really isn't that many cons I can think of working here",
+        "advice": null,
+        "pros": "good environment to be working with people, the company provides a really relaxed atmosphere",
+        "summary": "account executive",
+        "role": "Anonymous Employee",
+        "date": "Sep 28, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Some people drink the Kool-Aid too much and think we're perfect.",
+        "advice": null,
+        "pros": "I came from Google, which was amazing. But I love the culture and atmosphere here even more.",
+        "summary": "Even better than Google.",
+        "role": "Anonymous Employee",
+        "date": "Sep 28, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "You can gain weight within your first few weeks there - the Facebook 15. But hopefully with that free gym, you'll be able to eat healthy and be healthy!",
+        "advice": null,
+        "pros": "The company cares about you well being (as shown by the food, the social events, everything is basically provided for you). But then it's also a bit difficult to have work life balance because of it, because you're expected to be doing your best regularly.",
+        "summary": "Great company",
+        "role": "Anonymous Employee",
+        "date": "Sep 29, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "+ Some people find it hard to find a life/work balance, but following the guidance of the more experienced people it can be easy, just need to cut through the BS and focus on impact",
+        "advice": "Focus on Impact",
+        "pros": "+ Amazing growth potential, at no other place could I have moved up so quickly so fast+ Everyone focuses on Impact all the time, if it's not worth doing then we don't do it+ Learn from some of the best in the world at what they do+ Unbeatable pay, benefits, work environment, and culture",
+        "summary": "Amazing Place",
+        "role": "Data Engineer",
+        "date": "Oct 1, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "No cons are worth detailing in comparison to the massive positives at Facebook today. Facebook just needs to keep up the good work maintaining that culture as they continue to scale.",
+        "advice": null,
+        "pros": "The privilege working in a highly dynamic and engaging environment while bring surrounded by some of the smartest co-workers in the business. A truly open company that cares about it workers and consumers.",
+        "summary": "Advertising",
+        "role": "Agency Partner",
+        "date": "Oct 3, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "It's too early for me to tell. I hear rumblings that justifying code cleanup can be difficult since there's no neat metric for it.",
+        "advice": null,
+        "pros": "Facebook encourages openness in all spheres, professional and personal. Be yourself - don't lead a double life where you are dull & droid-like at work, then are someone different at home.",
+        "summary": "Nirvana",
+        "role": "Software Engineer",
+        "date": "Oct 4, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "- comp isnt as high as other companies",
+        "advice": null,
+        "pros": "- flexibility to make your role your own- open culture (truly open doesn't just say it is)- appreciates their employees- perks and benefits are amazing- company feels like family- work life balance is appreciated and respected",
+        "summary": "Truly the best company to work for",
+        "role": "Recruiter",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Depending where you live, the commute - but the commuter resources are really strong.",
+        "advice": "Stay flexible.",
+        "pros": "#1: The people. The flexibility. The challenges/growth potential. Life@ - Our benefits program.",
+        "summary": "Empowered to Do What I Love",
+        "role": "Recruiting Lead",
+        "date": "Oct 5, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "-Always attached to Facebook. Let's face it, I did this before I started working here anyway.-Lots of information. Sometimes it can be tough to keep track of all of the things that are changing. We have internal groups for everything and it can get a little intense trying to follow it all.",
+        "advice": null,
+        "pros": "-Things move very fast here and they are constantly changing. This might not be considered a pro for those who are resistant to it but I think it helps keep the job fresh. I've been here for almost 3 years now and never once have I felt that my work has gotten stale. I think this is very important for facilitating personal and professional growth.-The people I work with every day are not only some of the smartest\u2026\u00a0 people I know, but they are my friends and people I chose to hang out with outside of work. Facebook encourages all employees to be their authentic selves which translates to a much more relaxed and social work environment. It's work hard play hard and it's awesome being able to work people you actually want to spend time with.-The perks are unreal. Everything from free food and laundry to awesome healthcare plans. It's actually kind of ridiculous. Their focus is on convenience benefits to help with work life balance.",
+        "summary": "Love this place!",
+        "role": "University Recruiter",
+        "date": "Oct 5, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "- Longer days (but you like what you do)- Handful of entitled people",
+        "advice": "I think management does really well from the top (Zuck) down to line managers. Incredibly transparent, honest and genuinely invested in employees",
+        "pros": "- Coworkers are all smart and passionate people- Managers truly care about their employees- Flat organization- Amazing perks- Great benefits- Schedule is very flexible- Transparency",
+        "summary": "Best place to work",
+        "role": "Anonymous Employee",
+        "date": "Oct 5, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "-you have to open your personal FB page up to co-workers (hard!)- makes sense that you use the product your company makes, but it's such a co-mingling of personal and professional lives.- there seems to be a group of the before and afters- who struggle to understand the company has grown and will not go back to the first 100 employees! This leads to a sense of entitlement and not playing as a team.- commute. \u2026\u00a0UGH-Need to do better with giving back (as a company and as employees). I know our CEO has donated gazillions- but we need programs that allow employees to donate and have funds matched, and allow employees to volunteer their time.-More focus now that it's a larger company with 10K employees, on career growth and development.Opportunity to do on diversity hiring and older workers- the average age has to be under 25!And a more diverse executive team...",
+        "advice": "Keep things transparent- build strong leadership so we can focus on more than one crisis at a time- bring in senior leaders w/lots of experience who've gone through the lifecycle of a company before.",
+        "pros": "Competitive pay and wonderful benefits (the food is gourmet- seriously!) FB 15 is real- we've all gained 15 pounds in the first year!Very human in how they think of their employees- it's hard to find a company in the valley that treats their greatest assets with kindness and compassion.People genuinely care about each other",
+        "summary": "This is an amazing company of kind people",
+        "role": "California",
+        "date": "Oct 5, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "The pace can be exhausting if you don't actively take time for yourself; however, managers are really good at encouraging employees to take vacation.",
+        "advice": "Continue encouraging employees to take vacation and time for themselves. Stop to recognize the incredible work that is coming out of the company at such a breakneck speed.",
+        "pros": "Very open culture; super fast-moving; incredible resources at your disposal, including managerial support + autonomy (in my experience, it's rare to truly have both); and really great benefits",
+        "summary": "Great place to grow",
+        "role": "Communications",
+        "date": "Oct 5, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "-Entitlement. After you've worked here for a while, it's easy to get entitled. I'd say 95% of employees keep their feet on the ground and appreciative and gracious about the benefits they receive, but the entitlement plus the company's culture of open feedback (\"feedback is a gift\") occasionally breeds inane complaints in internal communication groups.-That commute. If you live in SF, you'll have to hike down to \u2026\u00a0Menlo Park, and depending upon where you're coming from and how bad traffic is that day, it could be as bad as 2 hours each day. The good news: that's rare, and company-provided transportation options (shuttles with WiFi) make this as easy as possible. You do get used to it, and your time on the shuttle is your own. Sure, you can do work, but you can also nap, watch Netflix, or read.",
+        "advice": "As you grow, you'll be tempted to cut back spending on benefits-- don't. That is one of Facebook's biggest differentiators and it seriously makes many of us question leaving.",
+        "pros": "If the reviews here sound like employees are really drinking the Kool-Aid...it's because many of them are. The people at this company genuinely believe they're changing the world by connecting it, and that mission and set of values permeate everything they do.-Unbelievable benefits and compensation. Seriously, some of their benefits are mind-blowing. Gym benefits, free (really good) food everywhere, amazing h\u2026\u00a0ealthcare and family planning and daycare benefits (including a \"baby bonus\"), access to incredible company events and speakers, generous vacation time that they're constantly encouraging you to actually use, the latest phones and computers for work use, on-site doctor and dentist that are actually good...the list goes on and on.- Strong company culture and values. I've never been at a company that lives and breathes a mission so completely. Am constantly in meetings where coworkers are asking, \"Is this the right decision for the people who use Facebook?\". Even the way they treat their contingent workers (who receive better benefits than most of the tech sector's contingent employees do) makes this evident; there are internal communication groups where full-time employees are constantly asking what more we could be doing for contingent workers to show our appreciation for their work. Both internally and externally, the \"#shiplove\" mantra is strong here.-Work/life balance. You'll see some mixed reviews on this point, but I've been here a year (non-engineering role) and I've never had the level of work/life balance I've had here. I work a very consistent 9-5, and it's rare when I have to fire up my laptop at home at night or over the weekends.-Facilities. It's Facebook! The campus is gorgeous, and they allow visitors. Hosting out-of-town friends and family for lunch or dinner is a great perk.-Efficient and fast. Fewer politics than many other companies of this size. A lot of the day-to-day communication and work gets done on the Facebook platform, which is hugely efficient and easy to use system.-The future! These guys have their hands in a lot of cookie jars, and are working on some really amazing stuff. Whether you're working on things like bringing internet access to the third world, virtual reality products, artificial intelligence that will serve peoples' needs, or all of the innovative things that go on inside the regular ol' Facebook app that serves over a billion people a day, chances are you're working on something really cool.-Women's leadership. I've also never been at a company that really understands women's needs as much as Facebook does (I think we owe this to the leadership of Sheryl Sandberg, Lori Goler and Maxine Williams). They encourage an ongoing dialogue about women's issues in the workplace, have mothers' rooms all around campus, encourage us all to take a \"Managing Bias\" course (which is really eye-opening, on many levels) and even host a yearly Women's Leadership Day, which is truly empowering. They bring in amazing speakers for this event and out of everything I've experienced in my first year here, this was probably the event that stayed with me the most.",
+        "summary": "Perks Beyond Comprehension and an Opportunity to Change the World",
+        "role": "Anonymous Employee",
+        "date": "Oct 5, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "very challenging work + demanding jobs",
+        "advice": null,
+        "pros": "work on products that touch billions of people + have a chance to shape future tech like AI and VR",
+        "summary": "Better than ever",
+        "role": "Director",
+        "date": "Oct 5, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Lots of teams want to weigh in on things, but this often produces better outcomes in the long run.",
+        "advice": "Stay focused and maintain confidence.",
+        "pros": "Focused and dedicated management team. Colleagues who genuinely like being around each other. Huge opportunity to create impact even as the company has grown.",
+        "summary": "Best place I've ever worked",
+        "role": "Anonymous Employee",
+        "date": "Oct 5, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "- Incredibly lean - At least on the non-tech side of the house we could easily add 5 more HRBP's/HRG's and still be understaffed. The pro is way more opportunity for impact, the con is that you just cant get to every org, manager or employee that could be optimized with some extra attention.- Comfort in the gray - Being successful at Facebook means being comfortable without always having a process, policy, or sys\u2026\u00a0tem to fall back on. The bonus is it leaves more freedom for judgement, the down side is first ever decisions can feel like they're policy setting (even if no policy is created)",
+        "advice": "Invest in more headcount into HR Generalist's, they're the force multipliers for your HRBP's and the eventual pipeline of talent.",
+        "pros": "Dream Job:-Autonomy to work 100% independently, authority to make huge decisions that shape the business, and pretty near perfect manager and leadership support.-Quite literally the smartest, hardest working and most competent people I've worked with in every facet of the company (including start-ups, mature companies, and post-start up tech companies).- Low tolerance of BS, low tolerance of \"everything i\u2026\u00a0s amazing, everyone is perfect\" when things can be improved.- The org moves fast with people issues, low performance (when appropriate), and childish behavior (very very low tolerance for this).- Incredibly lean orgs, especially in HR, so you really have the ability to own a business from end to end.- Low tolerance for politics or front stage/back stage behavior.- Best HR team I've ever worked with including the best manager I've ever worked with. Full of high performing, no jerk, high wit peers at the top of their game.",
+        "summary": "HR Business Partner",
+        "role": "Human Resources Business Partner",
+        "date": "Oct 6, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Location in Menlo Park can be difficult for some commuting from farther parts of the Bay Area, but shuttles from many locations help a lot.",
+        "advice": "Keep it up!",
+        "pros": "I've been at Facebook for close to 1 year, and have absolutely loved my time so far. I can finally say that I've found a company that I value as much as they value me, and I plan to stay as long as they'll let me. We hire amazing people that are interested in what they do, which makes teams strong and interestingly, I work with many people that have been at the company for 5-8 years! The perks are unbelievable, from \u2026\u00a0the gym to the spa to dry cleaning to absolutely delicious food that fits everyone's needs. I'm also pleased with the compensation structure and opportunity to earn a very large bonus for high performance.",
+        "summary": "Unlike any other employer!",
+        "role": "Recruiter",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Can't really pinpoint anything to complain about. I mean after all, we have amazing benefits!",
+        "advice": "Keep doing what you're doing!!",
+        "pros": "Moving fast, awesome culture, smart people, rooftop garden, manager training, sweet stop, and music around campus cafes.",
+        "summary": "Recruiter",
+        "role": "Recruiter",
+        "date": "Oct 6, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "*we have a lot of folks reinventing the wheel with tools and processes*our tools are behind where we should be for the age of our company*for the amount of internal transparency we have, at times it still feels like we are still very disconnected",
+        "advice": "IT would be great if we could focus more on global streamlining across groups/organizations. The teams are growing so fast the teams are becoming siloed and everyone is reinventing the wheel.",
+        "pros": "*We have a very straight forward mission - to connect the world. Everyone knows it well, work is aligned to it and everyone is passionate about making it happen*the \"amenities\" really do make life easier so I can focus on getting things done*I feel like I can innovate everyday because we have SO much room to grow still*the campus has such a high energy that it makes the horrendous commute worth driving ev\u2026\u00a0eryday",
+        "summary": "One mission - and we're getting it done!",
+        "role": "Anonymous Employee",
+        "date": "Oct 7, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "The pace that everyone moves at is extremely fast, so be ready when you join. There are a lot of smart people so it's easy to feel overwhelmed at first.",
+        "advice": "Keep up the good work! Remember that a lot of people around here look up to you all. Focus on maintaining the culture and good things will continue to happen.",
+        "pros": "Some of the smartest people I've ever encountered. Extremely high expectations for everyone, but it's a good, supportive kind of pressure. Management is top-notch and really sets the tone and leads by example.",
+        "summary": "Incredible place to work",
+        "role": "Anonymous Employee",
+        "date": "Oct 8, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Not much. I would appreciate more frequent buses though.",
+        "advice": null,
+        "pros": "Great atmosphere! I really like the people there.",
+        "summary": "Review",
+        "role": "Anonymous Employee",
+        "date": "Oct 8, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "The company is getting big, and even though the company tries hard to not be affected by \"corporate\" culture, some of it is unavoidable it seems.",
+        "advice": null,
+        "pros": "Fun, challenging, collaborative. The campus is also amazing, and interns are treated very well.",
+        "summary": "Great company",
+        "role": "Anonymous Employee",
+        "date": "Oct 9, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "There isn't much downside that I've seen working there, but probably only thing that I can think of is eating too much at the free bbq.",
+        "advice": null,
+        "pros": "Such a great company to work with. The perks, the people, and the environment is something else. It was a short time there, but one of the most memorable places I have worked. it feels more like a college than being at work.",
+        "summary": "Dope company to work for",
+        "role": "Presentation Designer",
+        "date": "Oct 12, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "The only legitimate con I have about working here is meeting start times. Meetings go from 12:00-1:00 for example, with the following meeting starting at 1:00 promptly. This naturally leads to people starting meetings late.Also I get withdrawals on the weekends when at home because the food here is so good. It causes me to eat out more on the weekends and thus I don't actually save on my food bill.",
+        "advice": "Would love to modify our policy on meetings to be more in line with what I understand Google's to be: Meetings can be scheduled for 25 or 55 minutes, must always have a 5 minute window so meetings can start on time and end with reasonable gap to get to the next place.",
+        "pros": "4 months paid leave with newborns, work from home Wednesdays, unlimited high quality food, can always walk in the park on the roof if I need some fresh air. Food is consistently great.",
+        "summary": "Disneyland",
+        "role": "Data Engineer",
+        "date": "Oct 13, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Personally I love the concept of bringing my authentic self to work and being personal friends with coworkers, but I understand that it's not for everyone. I do feel that this will become more prevalent as the millennial generation becomes the majority of the workforce in the next decade.",
+        "advice": "Keep up the amazing internal comms, including weekly Q&A with Mark, quarterly strategy updates and accessibility of the management team.",
+        "pros": "Working for a mission-driven company makes for an engaged and enthusiastic workforce. Focus on impact means that you have flexibility to get work done when and how you choose. Quality of people we hire is outstanding, coupled with low egos. Love the 'focus on strengths' mentality which means your role often shifts to make sure you are spending the most time doing what you love. Lots of support and training for manage\u2026\u00a0rs at FB, although the individual contributor role is equally valued - becoming a manager is a lateral move (and a deliberate choice) at FB rather than a reward for being awesome in an IC role.",
+        "summary": "Incredible culture and benefits",
+        "role": "Anonymous Employee",
+        "date": "Oct 13, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "I presently do not have any cons.",
+        "advice": null,
+        "pros": "Facebook creates opportunities worldwide. Very innovative and forward thinking. Offers support for developers or businesses on all platforms.",
+        "summary": "Facebook",
+        "role": "Anonymous Employee",
+        "date": "Oct 14, 2015",
+        "is_current": true
+    }
+]
