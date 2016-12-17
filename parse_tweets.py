@@ -1,13 +1,13 @@
 import json
 
 def json_export(data):
-    jsonFile = open("person_tweet.json", "w")
+    jsonFile = open("person_tweet_1.json", "w")
     jsonFile.write(json.dumps(data, indent=4, separators=(',', ': ')))
     jsonFile.close()
 
 if __name__ == "__main__":
     min_words = 100
-    filename = 'test_data.json'
+    filename = 'tweet.json'
     input_file = open(filename).read()
     profile = json.loads(input_file)
     X = []
