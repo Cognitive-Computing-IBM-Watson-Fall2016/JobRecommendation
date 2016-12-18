@@ -3,7 +3,7 @@
 import os
 import click
 import flask
-from flask import Flask, request, render_template, g, redirect, Response
+from flask import Flask, request, render_template, g, redirect, Response, json 
 import json
 import numpy as np
 
@@ -60,6 +60,10 @@ def bullet():
     X = parse_tweet()
     return flask.render_template('bullet.html')
 
+@app.route('/companies')
+def companies():
+    return flask.render_template('companies.html')
+
 @app.route('/personality')
 def personality():
     id = request.args.get('tid')
@@ -76,6 +80,12 @@ def profile():
 @app.route("/get_data")
 def get_data():
     input_file = open('bullet.json').read()
+    data = json.dumps(json.loads(input_file))
+    return data
+
+@app.route("/get_companies")
+def get_companies():
+    input_file = open('companies.json').read()
     data = json.dumps(json.loads(input_file))
     return data
 
