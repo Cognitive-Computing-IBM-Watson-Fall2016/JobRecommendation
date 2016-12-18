@@ -5,12 +5,16 @@ import click
 import flask
 from flask import Flask, request, render_template, g, redirect, Response
 import json
-import numpy as np
 
 tmpl_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'templates')
 app = Flask(__name__, template_folder=tmpl_dir)
 min_words = 100
 tweet_filename = 'tweet.json'
+titles = ['big5-openness', 'big5-conscientiousness', 'big5-extraversion', 'big5-agreeableness', 'big5-neuroticism', \
+        'need-challenge', 'need-closeness', 'need-curiosity', 'need-excitement', 'need-harmony', 'need-ideal', \
+        'need-liberty', 'need-love', 'need-practicality', 'need-self-expression', 'need-stability', 'need-structure',\
+        'value-conservation', 'value-openness_to_change', 'value-hedonism', 'value-self_enhancement', 'value-self_transcendence'
+        ]
 
 
 def parse_tweet():
@@ -32,6 +36,20 @@ def parse_tweet():
     X = need + person + value
     return X
 
+
+def toJson(arr):
+    results = []
+    for i in range(0, 22):
+        temp = {}
+        temp['title'] = titles[i]
+        temp['subtitle'] = 'percentile (%)'
+        temp['ranges'] = [20, 40, 60, 80, 100]
+        temp['measures'] = [30, 60]
+        temp['markers'] = [arr[i]*100]
+        results.append(temp)
+    return json.dumps(results)
+
+
 @app.before_request
 def before_request():
     try:
@@ -43,85 +61,28 @@ def before_request():
 
 @app.teardown_request
 def teardown_request(exception):
-    """
-    close everything and reclaim resource
-    """
     try:
         print 'the session closed'
     except Exception as e:
         pass
 
+
 @app.route('/')
 def index():
     return flask.render_template('index.html')
 
-@app.route('/bullet')
-def bullet():
-    X = parse_tweet()
-    return flask.render_template('bullet.html')
 
-@app.route('/personality')
+@app.route('/personality', methods=['POST'])
 def personality():
-    id = request.args.get('tid')
-    print id
-    return flask.render_template("diagram.html", mux=3, muy=3)
+    tid = request.form['tid']
 
-@app.route('/profile',methods=['POST'])
-def profile():
-    m=[]
-    context = dict(data1=m, data2='movies')
-    return render_template("result.html",**context)   
+    return flask.render_template("personality.html")
 
 
 @app.route("/get_data")
 def get_data():
-    input_file = open('bullet.json').read()
-    data = json.dumps(json.loads(input_file))
+    data = toJson(parse_tweet())
     return data
-
-@app.route("/data")
-@app.route("/data/<int:ndata>")
-def data(ndata=100):
-    """
-    On request, this returns a list of ``ndata`` randomly made data points.
-
-    :param ndata: (optional)
-        The number of data points to return.
-
-    :returns data:
-        A JSON string of ``ndata`` data points.
-
-    """
-    x = 10 * np.random.rand(ndata) - 5
-    y = 0.5 * x + 0.5 * np.random.randn(ndata)
-    A = 10. ** np.random.rand(ndata)
-    c = np.random.rand(ndata)
-    return json.dumps([{"_id": i, "x": x[i], "y": y[i], "area": A[i],
-        "color": c[i]}
-        for i in range(ndata)])
-
-@app.route("/gdata")
-@app.route("/gdata/<float:mux>/<float:muy>")
-def gdata(ndata=100,mux=.5,muy=0.5):
-    """
-    On request, this returns a list of ``ndata`` randomly made data points.
-    about the mean mux,muy
-
-    :param ndata: (optional)
-        The number of data points to return.
-
-    :returns data:
-        A JSON string of ``ndata`` data points.
-
-    """
-
-    x = np.random.normal(mux,.5,ndata)
-    y = np.random.normal(muy,.5,ndata)
-    A = 10. ** np.random.rand(ndata)
-    c = np.random.rand(ndata)
-    return json.dumps([{"_id": i, "x": x[i], "y": y[i], "area": A[i],
-        "color": c[i]}
-        for i in range(ndata)])
 
 
 if __name__ == "__main__":
@@ -133,5 +94,4 @@ if __name__ == "__main__":
     def run(debug, threaded, host, port):
         print "running on %s:%d" % (host, port)
         app.run(host=host, port=port, debug=debug, threaded=threaded)
-
     run()
