@@ -1,0 +1,702 @@
+[
+    {
+        "rating": 5,
+        "cons": "No growth..very slow increment, depressed. N also they lay off ppl nytime",
+        "advice": null,
+        "pros": "Great atmosphere n culture n pay is good... offsites happen every 6 months..interactive work atmosphere",
+        "summary": "Key accounts manager",
+        "role": "Key Accounts Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Lots of work with San Jose, means you get well acquainted with Virtual Meetings (often 5-10 screens at a time). Can sometimes result in late meetings but they're getting better at syncing time zones.",
+        "advice": null,
+        "pros": "Really supportive and fun team environment - globally and in London. Strategy team all ex McK/BCG/Bain, super bright and fun to work with (feels a bit like consulting but without crazy hours). Lots of exciting change underway, means you get to work on some pretty far out projects. Strategy serve as swat team to CEO, so get good traction in the business.",
+        "summary": "Exciting times",
+        "role": "Strategy Manager",
+        "date": "Dec 3, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "I do not see much",
+        "advice": null,
+        "pros": "I worked for eBay almost 7+ years and it is a very good place to work.Good benefits and learning growth.",
+        "summary": "Superb place to wrok",
+        "role": "Anonymous Employee",
+        "date": "Dec 12, 2016",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Man f\u00fchlt sich st\u00e4ndig unsicher, kann leicht von einer Reorganisation betroffen werden.",
+        "advice": "Schneller auf der Produktseite",
+        "pros": "Ein Haufen talentierter Leute \u00fcberall",
+        "summary": "Ich liebe es, f\u00fcr eBay zu arbeiten",
+        "role": "Leitender Manager",
+        "date": "Sep 4, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "None. The changes are made on the platform are always good thought through",
+        "advice": "Do what you are doing",
+        "pros": "Lots of opportunities within the company world wide. Great culture and climate. One of the best companies I have ever worked for.",
+        "summary": "Great company",
+        "role": "Fraud Manager",
+        "date": "Aug 6, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Der Standort liegt etwas au\u00dferhalb von Berlin in einem Gewerbepark. Somit hat man nicht die M\u00f6glichkeit in der Pause etwas einkaufen zu gehen.",
+        "advice": null,
+        "pros": "Die Teamdynamik ist wirklich wichtig und das Arbeiten dadurch mehr Spa\u00df gemacht. Weiterhin wird mal als Praktikant bei ebay ernstgenommen und wird in wichtige Projekte mit einbezogen.",
+        "summary": "Praktikant ebay Advertising",
+        "role": "Account Manager",
+        "date": "Dec 9, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Il n'y a pas beaucoup d'inconv\u00e9nient a dire vraiment bonne entreprise rien a dire je suis tr\u00e8s gentil pour not\u00e9 :)",
+        "advice": "Rien a dire",
+        "pros": "Les personnes sont tr\u00e8s cool et intelligent alors c'est cool bonne ambiance g\u00e9n\u00e9reux en plus rien a dire tr\u00e8s bonne entreprise",
+        "summary": "Cool",
+        "role": "Manager",
+        "date": "Apr 23, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "die Lage, und daher der Lange Arbeitsweg (Europark Dreilinden)",
+        "advice": null,
+        "pros": "nettes Team, sehr gutes Arbeitsklima",
+        "summary": "!",
+        "role": "Anonymous Employee",
+        "date": "May 21, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "No growth..very slow increment, depressed. N also they lay off ppl nytime",
+        "advice": null,
+        "pros": "Great atmosphere n culture n pay is good... offsites happen every 6 months..interactive work atmosphere",
+        "summary": "Key accounts manager",
+        "role": "Key Accounts Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Lots of work with San Jose, means you get well acquainted with Virtual Meetings (often 5-10 screens at a time). Can sometimes result in late meetings but they're getting better at syncing time zones.",
+        "advice": null,
+        "pros": "Really supportive and fun team environment - globally and in London. Strategy team all ex McK/BCG/Bain, super bright and fun to work with (feels a bit like consulting but without crazy hours). Lots of exciting change underway, means you get to work on some pretty far out projects. Strategy serve as swat team to CEO, so get good traction in the business.",
+        "summary": "Exciting times",
+        "role": "Strategy Manager",
+        "date": "Dec 3, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "I do not see much",
+        "advice": null,
+        "pros": "I worked for eBay almost 7+ years and it is a very good place to work.Good benefits and learning growth.",
+        "summary": "Superb place to wrok",
+        "role": "Anonymous Employee",
+        "date": "Dec 12, 2016",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Man f\u00fchlt sich st\u00e4ndig unsicher, kann leicht von einer Reorganisation betroffen werden.",
+        "advice": "Schneller auf der Produktseite",
+        "pros": "Ein Haufen talentierter Leute \u00fcberall",
+        "summary": "Ich liebe es, f\u00fcr eBay zu arbeiten",
+        "role": "Leitender Manager",
+        "date": "Sep 4, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "None. The changes are made on the platform are always good thought through",
+        "advice": "Do what you are doing",
+        "pros": "Lots of opportunities within the company world wide. Great culture and climate. One of the best companies I have ever worked for.",
+        "summary": "Great company",
+        "role": "Fraud Manager",
+        "date": "Aug 6, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Der Standort liegt etwas au\u00dferhalb von Berlin in einem Gewerbepark. Somit hat man nicht die M\u00f6glichkeit in der Pause etwas einkaufen zu gehen.",
+        "advice": null,
+        "pros": "Die Teamdynamik ist wirklich wichtig und das Arbeiten dadurch mehr Spa\u00df gemacht. Weiterhin wird mal als Praktikant bei ebay ernstgenommen und wird in wichtige Projekte mit einbezogen.",
+        "summary": "Praktikant ebay Advertising",
+        "role": "Account Manager",
+        "date": "Dec 9, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Il n'y a pas beaucoup d'inconv\u00e9nient a dire vraiment bonne entreprise rien a dire je suis tr\u00e8s gentil pour not\u00e9 :)",
+        "advice": "Rien a dire",
+        "pros": "Les personnes sont tr\u00e8s cool et intelligent alors c'est cool bonne ambiance g\u00e9n\u00e9reux en plus rien a dire tr\u00e8s bonne entreprise",
+        "summary": "Cool",
+        "role": "Manager",
+        "date": "Apr 23, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "die Lage, und daher der Lange Arbeitsweg (Europark Dreilinden)",
+        "advice": null,
+        "pros": "nettes Team, sehr gutes Arbeitsklima",
+        "summary": "!",
+        "role": "Anonymous Employee",
+        "date": "May 21, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Lots of work with San Jose, means you get well acquainted with Virtual Meetings (often 5-10 screens at a time). Can sometimes result in late meetings but they're getting better at syncing time zones.",
+        "advice": null,
+        "pros": "Really supportive and fun team environment - globally and in London. Strategy team all ex McK/BCG/Bain, super bright and fun to work with (feels a bit like consulting but without crazy hours). Lots of exciting change underway, means you get to work on some pretty far out projects. Strategy serve as swat team to CEO, so get good traction in the business.",
+        "summary": "Exciting times",
+        "role": "Strategy Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "I do not see much",
+        "advice": null,
+        "pros": "I worked for eBay almost 7+ years and it is a very good place to work.Good benefits and learning growth.",
+        "summary": "Superb place to wrok",
+        "role": "Anonymous Employee",
+        "date": "Dec 12, 2016",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Man f\u00fchlt sich st\u00e4ndig unsicher, kann leicht von einer Reorganisation betroffen werden.",
+        "advice": "Schneller auf der Produktseite",
+        "pros": "Ein Haufen talentierter Leute \u00fcberall",
+        "summary": "Ich liebe es, f\u00fcr eBay zu arbeiten",
+        "role": "Leitender Manager",
+        "date": "Sep 4, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "None. The changes are made on the platform are always good thought through",
+        "advice": "Do what you are doing",
+        "pros": "Lots of opportunities within the company world wide. Great culture and climate. One of the best companies I have ever worked for.",
+        "summary": "Great company",
+        "role": "Fraud Manager",
+        "date": "Aug 6, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Der Standort liegt etwas au\u00dferhalb von Berlin in einem Gewerbepark. Somit hat man nicht die M\u00f6glichkeit in der Pause etwas einkaufen zu gehen.",
+        "advice": null,
+        "pros": "Die Teamdynamik ist wirklich wichtig und das Arbeiten dadurch mehr Spa\u00df gemacht. Weiterhin wird mal als Praktikant bei ebay ernstgenommen und wird in wichtige Projekte mit einbezogen.",
+        "summary": "Praktikant ebay Advertising",
+        "role": "Account Manager",
+        "date": "Dec 9, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Il n'y a pas beaucoup d'inconv\u00e9nient a dire vraiment bonne entreprise rien a dire je suis tr\u00e8s gentil pour not\u00e9 :)",
+        "advice": "Rien a dire",
+        "pros": "Les personnes sont tr\u00e8s cool et intelligent alors c'est cool bonne ambiance g\u00e9n\u00e9reux en plus rien a dire tr\u00e8s bonne entreprise",
+        "summary": "Cool",
+        "role": "Manager",
+        "date": "Apr 23, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "die Lage, und daher der Lange Arbeitsweg (Europark Dreilinden)",
+        "advice": null,
+        "pros": "nettes Team, sehr gutes Arbeitsklima",
+        "summary": "!",
+        "role": "Anonymous Employee",
+        "date": "May 21, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Lots of work with San Jose, means you get well acquainted with Virtual Meetings (often 5-10 screens at a time). Can sometimes result in late meetings but they're getting better at syncing time zones.",
+        "advice": null,
+        "pros": "Really supportive and fun team environment - globally and in London. Strategy team all ex McK/BCG/Bain, super bright and fun to work with (feels a bit like consulting but without crazy hours). Lots of exciting change underway, means you get to work on some pretty far out projects. Strategy serve as swat team to CEO, so get good traction in the business.",
+        "summary": "Exciting times",
+        "role": "Strategy Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "I do not see much",
+        "advice": null,
+        "pros": "I worked for eBay almost 7+ years and it is a very good place to work.Good benefits and learning growth.",
+        "summary": "Superb place to wrok",
+        "role": "Anonymous Employee",
+        "date": "Dec 12, 2016",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Man f\u00fchlt sich st\u00e4ndig unsicher, kann leicht von einer Reorganisation betroffen werden.",
+        "advice": "Schneller auf der Produktseite",
+        "pros": "Ein Haufen talentierter Leute \u00fcberall",
+        "summary": "Ich liebe es, f\u00fcr eBay zu arbeiten",
+        "role": "Leitender Manager",
+        "date": "Sep 4, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "None. The changes are made on the platform are always good thought through",
+        "advice": "Do what you are doing",
+        "pros": "Lots of opportunities within the company world wide. Great culture and climate. One of the best companies I have ever worked for.",
+        "summary": "Great company",
+        "role": "Fraud Manager",
+        "date": "Aug 6, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Der Standort liegt etwas au\u00dferhalb von Berlin in einem Gewerbepark. Somit hat man nicht die M\u00f6glichkeit in der Pause etwas einkaufen zu gehen.",
+        "advice": null,
+        "pros": "Die Teamdynamik ist wirklich wichtig und das Arbeiten dadurch mehr Spa\u00df gemacht. Weiterhin wird mal als Praktikant bei ebay ernstgenommen und wird in wichtige Projekte mit einbezogen.",
+        "summary": "Praktikant ebay Advertising",
+        "role": "Account Manager",
+        "date": "Dec 9, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Il n'y a pas beaucoup d'inconv\u00e9nient a dire vraiment bonne entreprise rien a dire je suis tr\u00e8s gentil pour not\u00e9 :)",
+        "advice": "Rien a dire",
+        "pros": "Les personnes sont tr\u00e8s cool et intelligent alors c'est cool bonne ambiance g\u00e9n\u00e9reux en plus rien a dire tr\u00e8s bonne entreprise",
+        "summary": "Cool",
+        "role": "Manager",
+        "date": "Apr 23, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "die Lage, und daher der Lange Arbeitsweg (Europark Dreilinden)",
+        "advice": null,
+        "pros": "nettes Team, sehr gutes Arbeitsklima",
+        "summary": "!",
+        "role": "Anonymous Employee",
+        "date": "May 21, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "No growth..very slow increment, depressed. N also they lay off ppl nytime",
+        "advice": null,
+        "pros": "Great atmosphere n culture n pay is good... offsites happen every 6 months..interactive work atmosphere",
+        "summary": "Key accounts manager",
+        "role": "Key Accounts Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Lots of work with San Jose, means you get well acquainted with Virtual Meetings (often 5-10 screens at a time). Can sometimes result in late meetings but they're getting better at syncing time zones.",
+        "advice": null,
+        "pros": "Really supportive and fun team environment - globally and in London. Strategy team all ex McK/BCG/Bain, super bright and fun to work with (feels a bit like consulting but without crazy hours). Lots of exciting change underway, means you get to work on some pretty far out projects. Strategy serve as swat team to CEO, so get good traction in the business.",
+        "summary": "Exciting times",
+        "role": "Strategy Manager",
+        "date": "Dec 3, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "I do not see much",
+        "advice": null,
+        "pros": "I worked for eBay almost 7+ years and it is a very good place to work.Good benefits and learning growth.",
+        "summary": "Superb place to wrok",
+        "role": "Anonymous Employee",
+        "date": "Dec 12, 2016",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Man f\u00fchlt sich st\u00e4ndig unsicher, kann leicht von einer Reorganisation betroffen werden.",
+        "advice": "Schneller auf der Produktseite",
+        "pros": "Ein Haufen talentierter Leute \u00fcberall",
+        "summary": "Ich liebe es, f\u00fcr eBay zu arbeiten",
+        "role": "Leitender Manager",
+        "date": "Sep 4, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "None. The changes are made on the platform are always good thought through",
+        "advice": "Do what you are doing",
+        "pros": "Lots of opportunities within the company world wide. Great culture and climate. One of the best companies I have ever worked for.",
+        "summary": "Great company",
+        "role": "Fraud Manager",
+        "date": "Aug 6, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Der Standort liegt etwas au\u00dferhalb von Berlin in einem Gewerbepark. Somit hat man nicht die M\u00f6glichkeit in der Pause etwas einkaufen zu gehen.",
+        "advice": null,
+        "pros": "Die Teamdynamik ist wirklich wichtig und das Arbeiten dadurch mehr Spa\u00df gemacht. Weiterhin wird mal als Praktikant bei ebay ernstgenommen und wird in wichtige Projekte mit einbezogen.",
+        "summary": "Praktikant ebay Advertising",
+        "role": "Account Manager",
+        "date": "Dec 9, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Il n'y a pas beaucoup d'inconv\u00e9nient a dire vraiment bonne entreprise rien a dire je suis tr\u00e8s gentil pour not\u00e9 :)",
+        "advice": "Rien a dire",
+        "pros": "Les personnes sont tr\u00e8s cool et intelligent alors c'est cool bonne ambiance g\u00e9n\u00e9reux en plus rien a dire tr\u00e8s bonne entreprise",
+        "summary": "Cool",
+        "role": "Manager",
+        "date": "Apr 23, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "die Lage, und daher der Lange Arbeitsweg (Europark Dreilinden)",
+        "advice": null,
+        "pros": "nettes Team, sehr gutes Arbeitsklima",
+        "summary": "!",
+        "role": "Anonymous Employee",
+        "date": "May 21, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "No growth..very slow increment, depressed. N also they lay off ppl nytime",
+        "advice": null,
+        "pros": "Great atmosphere n culture n pay is good... offsites happen every 6 months..interactive work atmosphere",
+        "summary": "Key accounts manager",
+        "role": "Key Accounts Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Lots of work with San Jose, means you get well acquainted with Virtual Meetings (often 5-10 screens at a time). Can sometimes result in late meetings but they're getting better at syncing time zones.",
+        "advice": null,
+        "pros": "Really supportive and fun team environment - globally and in London. Strategy team all ex McK/BCG/Bain, super bright and fun to work with (feels a bit like consulting but without crazy hours). Lots of exciting change underway, means you get to work on some pretty far out projects. Strategy serve as swat team to CEO, so get good traction in the business.",
+        "summary": "Exciting times",
+        "role": "Strategy Manager",
+        "date": "Dec 3, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "I do not see much",
+        "advice": null,
+        "pros": "I worked for eBay almost 7+ years and it is a very good place to work.Good benefits and learning growth.",
+        "summary": "Superb place to wrok",
+        "role": "Anonymous Employee",
+        "date": "Dec 12, 2016",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Man f\u00fchlt sich st\u00e4ndig unsicher, kann leicht von einer Reorganisation betroffen werden.",
+        "advice": "Schneller auf der Produktseite",
+        "pros": "Ein Haufen talentierter Leute \u00fcberall",
+        "summary": "Ich liebe es, f\u00fcr eBay zu arbeiten",
+        "role": "Leitender Manager",
+        "date": "Sep 4, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "None. The changes are made on the platform are always good thought through",
+        "advice": "Do what you are doing",
+        "pros": "Lots of opportunities within the company world wide. Great culture and climate. One of the best companies I have ever worked for.",
+        "summary": "Great company",
+        "role": "Fraud Manager",
+        "date": "Aug 6, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Der Standort liegt etwas au\u00dferhalb von Berlin in einem Gewerbepark. Somit hat man nicht die M\u00f6glichkeit in der Pause etwas einkaufen zu gehen.",
+        "advice": null,
+        "pros": "Die Teamdynamik ist wirklich wichtig und das Arbeiten dadurch mehr Spa\u00df gemacht. Weiterhin wird mal als Praktikant bei ebay ernstgenommen und wird in wichtige Projekte mit einbezogen.",
+        "summary": "Praktikant ebay Advertising",
+        "role": "Account Manager",
+        "date": "Dec 9, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Il n'y a pas beaucoup d'inconv\u00e9nient a dire vraiment bonne entreprise rien a dire je suis tr\u00e8s gentil pour not\u00e9 :)",
+        "advice": "Rien a dire",
+        "pros": "Les personnes sont tr\u00e8s cool et intelligent alors c'est cool bonne ambiance g\u00e9n\u00e9reux en plus rien a dire tr\u00e8s bonne entreprise",
+        "summary": "Cool",
+        "role": "Manager",
+        "date": "Apr 23, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "die Lage, und daher der Lange Arbeitsweg (Europark Dreilinden)",
+        "advice": null,
+        "pros": "nettes Team, sehr gutes Arbeitsklima",
+        "summary": "!",
+        "role": "Anonymous Employee",
+        "date": "May 21, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "No growth..very slow increment, depressed. N also they lay off ppl nytime",
+        "advice": null,
+        "pros": "Great atmosphere n culture n pay is good... offsites happen every 6 months..interactive work atmosphere",
+        "summary": "Key accounts manager",
+        "role": "Key Accounts Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Lots of work with San Jose, means you get well acquainted with Virtual Meetings (often 5-10 screens at a time). Can sometimes result in late meetings but they're getting better at syncing time zones.",
+        "advice": null,
+        "pros": "Really supportive and fun team environment - globally and in London. Strategy team all ex McK/BCG/Bain, super bright and fun to work with (feels a bit like consulting but without crazy hours). Lots of exciting change underway, means you get to work on some pretty far out projects. Strategy serve as swat team to CEO, so get good traction in the business.",
+        "summary": "Exciting times",
+        "role": "Strategy Manager",
+        "date": "Dec 3, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "I do not see much",
+        "advice": null,
+        "pros": "I worked for eBay almost 7+ years and it is a very good place to work.Good benefits and learning growth.",
+        "summary": "Superb place to wrok",
+        "role": "Anonymous Employee",
+        "date": "Dec 12, 2016",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Man f\u00fchlt sich st\u00e4ndig unsicher, kann leicht von einer Reorganisation betroffen werden.",
+        "advice": "Schneller auf der Produktseite",
+        "pros": "Ein Haufen talentierter Leute \u00fcberall",
+        "summary": "Ich liebe es, f\u00fcr eBay zu arbeiten",
+        "role": "Leitender Manager",
+        "date": "Sep 4, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "None. The changes are made on the platform are always good thought through",
+        "advice": "Do what you are doing",
+        "pros": "Lots of opportunities within the company world wide. Great culture and climate. One of the best companies I have ever worked for.",
+        "summary": "Great company",
+        "role": "Fraud Manager",
+        "date": "Aug 6, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Der Standort liegt etwas au\u00dferhalb von Berlin in einem Gewerbepark. Somit hat man nicht die M\u00f6glichkeit in der Pause etwas einkaufen zu gehen.",
+        "advice": null,
+        "pros": "Die Teamdynamik ist wirklich wichtig und das Arbeiten dadurch mehr Spa\u00df gemacht. Weiterhin wird mal als Praktikant bei ebay ernstgenommen und wird in wichtige Projekte mit einbezogen.",
+        "summary": "Praktikant ebay Advertising",
+        "role": "Account Manager",
+        "date": "Dec 9, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Il n'y a pas beaucoup d'inconv\u00e9nient a dire vraiment bonne entreprise rien a dire je suis tr\u00e8s gentil pour not\u00e9 :)",
+        "advice": "Rien a dire",
+        "pros": "Les personnes sont tr\u00e8s cool et intelligent alors c'est cool bonne ambiance g\u00e9n\u00e9reux en plus rien a dire tr\u00e8s bonne entreprise",
+        "summary": "Cool",
+        "role": "Manager",
+        "date": "Apr 23, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "die Lage, und daher der Lange Arbeitsweg (Europark Dreilinden)",
+        "advice": null,
+        "pros": "nettes Team, sehr gutes Arbeitsklima",
+        "summary": "!",
+        "role": "Anonymous Employee",
+        "date": "May 21, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "No growth..very slow increment, depressed. N also they lay off ppl nytime",
+        "advice": null,
+        "pros": "Great atmosphere n culture n pay is good... offsites happen every 6 months..interactive work atmosphere",
+        "summary": "Key accounts manager",
+        "role": "Key Accounts Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Lots of work with San Jose, means you get well acquainted with Virtual Meetings (often 5-10 screens at a time). Can sometimes result in late meetings but they're getting better at syncing time zones.",
+        "advice": null,
+        "pros": "Really supportive and fun team environment - globally and in London. Strategy team all ex McK/BCG/Bain, super bright and fun to work with (feels a bit like consulting but without crazy hours). Lots of exciting change underway, means you get to work on some pretty far out projects. Strategy serve as swat team to CEO, so get good traction in the business.",
+        "summary": "Exciting times",
+        "role": "Strategy Manager",
+        "date": "Dec 3, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "I do not see much",
+        "advice": null,
+        "pros": "I worked for eBay almost 7+ years and it is a very good place to work.Good benefits and learning growth.",
+        "summary": "Superb place to wrok",
+        "role": "Anonymous Employee",
+        "date": "Dec 12, 2016",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Man f\u00fchlt sich st\u00e4ndig unsicher, kann leicht von einer Reorganisation betroffen werden.",
+        "advice": "Schneller auf der Produktseite",
+        "pros": "Ein Haufen talentierter Leute \u00fcberall",
+        "summary": "Ich liebe es, f\u00fcr eBay zu arbeiten",
+        "role": "Leitender Manager",
+        "date": "Sep 4, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "None. The changes are made on the platform are always good thought through",
+        "advice": "Do what you are doing",
+        "pros": "Lots of opportunities within the company world wide. Great culture and climate. One of the best companies I have ever worked for.",
+        "summary": "Great company",
+        "role": "Fraud Manager",
+        "date": "Aug 6, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Der Standort liegt etwas au\u00dferhalb von Berlin in einem Gewerbepark. Somit hat man nicht die M\u00f6glichkeit in der Pause etwas einkaufen zu gehen.",
+        "advice": null,
+        "pros": "Die Teamdynamik ist wirklich wichtig und das Arbeiten dadurch mehr Spa\u00df gemacht. Weiterhin wird mal als Praktikant bei ebay ernstgenommen und wird in wichtige Projekte mit einbezogen.",
+        "summary": "Praktikant ebay Advertising",
+        "role": "Account Manager",
+        "date": "Dec 9, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Il n'y a pas beaucoup d'inconv\u00e9nient a dire vraiment bonne entreprise rien a dire je suis tr\u00e8s gentil pour not\u00e9 :)",
+        "advice": "Rien a dire",
+        "pros": "Les personnes sont tr\u00e8s cool et intelligent alors c'est cool bonne ambiance g\u00e9n\u00e9reux en plus rien a dire tr\u00e8s bonne entreprise",
+        "summary": "Cool",
+        "role": "Manager",
+        "date": "Apr 23, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "die Lage, und daher der Lange Arbeitsweg (Europark Dreilinden)",
+        "advice": null,
+        "pros": "nettes Team, sehr gutes Arbeitsklima",
+        "summary": "!",
+        "role": "Anonymous Employee",
+        "date": "May 21, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "No growth..very slow increment, depressed. N also they lay off ppl nytime",
+        "advice": null,
+        "pros": "Great atmosphere n culture n pay is good... offsites happen every 6 months..interactive work atmosphere",
+        "summary": "Key accounts manager",
+        "role": "Key Accounts Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Lots of work with San Jose, means you get well acquainted with Virtual Meetings (often 5-10 screens at a time). Can sometimes result in late meetings but they're getting better at syncing time zones.",
+        "advice": null,
+        "pros": "Really supportive and fun team environment - globally and in London. Strategy team all ex McK/BCG/Bain, super bright and fun to work with (feels a bit like consulting but without crazy hours). Lots of exciting change underway, means you get to work on some pretty far out projects. Strategy serve as swat team to CEO, so get good traction in the business.",
+        "summary": "Exciting times",
+        "role": "Strategy Manager",
+        "date": "Dec 3, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "I do not see much",
+        "advice": null,
+        "pros": "I worked for eBay almost 7+ years and it is a very good place to work.Good benefits and learning growth.",
+        "summary": "Superb place to wrok",
+        "role": "Anonymous Employee",
+        "date": "Dec 12, 2016",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Man f\u00fchlt sich st\u00e4ndig unsicher, kann leicht von einer Reorganisation betroffen werden.",
+        "advice": "Schneller auf der Produktseite",
+        "pros": "Ein Haufen talentierter Leute \u00fcberall",
+        "summary": "Ich liebe es, f\u00fcr eBay zu arbeiten",
+        "role": "Leitender Manager",
+        "date": "Sep 4, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "None. The changes are made on the platform are always good thought through",
+        "advice": "Do what you are doing",
+        "pros": "Lots of opportunities within the company world wide. Great culture and climate. One of the best companies I have ever worked for.",
+        "summary": "Great company",
+        "role": "Fraud Manager",
+        "date": "Aug 6, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Der Standort liegt etwas au\u00dferhalb von Berlin in einem Gewerbepark. Somit hat man nicht die M\u00f6glichkeit in der Pause etwas einkaufen zu gehen.",
+        "advice": null,
+        "pros": "Die Teamdynamik ist wirklich wichtig und das Arbeiten dadurch mehr Spa\u00df gemacht. Weiterhin wird mal als Praktikant bei ebay ernstgenommen und wird in wichtige Projekte mit einbezogen.",
+        "summary": "Praktikant ebay Advertising",
+        "role": "Account Manager",
+        "date": "Dec 9, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Il n'y a pas beaucoup d'inconv\u00e9nient a dire vraiment bonne entreprise rien a dire je suis tr\u00e8s gentil pour not\u00e9 :)",
+        "advice": "Rien a dire",
+        "pros": "Les personnes sont tr\u00e8s cool et intelligent alors c'est cool bonne ambiance g\u00e9n\u00e9reux en plus rien a dire tr\u00e8s bonne entreprise",
+        "summary": "Cool",
+        "role": "Manager",
+        "date": "Apr 23, 2016",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "die Lage, und daher der Lange Arbeitsweg (Europark Dreilinden)",
+        "advice": null,
+        "pros": "nettes Team, sehr gutes Arbeitsklima",
+        "summary": "!",
+        "role": "Anonymous Employee",
+        "date": "May 21, 2016",
+        "is_current": true
+    }
+]

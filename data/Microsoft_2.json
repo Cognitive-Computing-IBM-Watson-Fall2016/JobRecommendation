@@ -1,0 +1,902 @@
+[
+    {
+        "rating": 2,
+        "cons": "Review system sucksLots of outsourcing to China/IndiaNo more BillGSteveB is no BillG",
+        "advice": "Get rid of SteveBChange the sucky review system",
+        "pros": "Free sodaGood health insuranceDecent pay",
+        "summary": "This is no longer \"BillG\"'s Microsoft",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Limited ability to move around, review process severely broken, a culture that encourages prima donna behavior.",
+        "advice": "Promote and develop great engineers and great engineering, and cut the politics.",
+        "pros": "Good benefits, lots of projects,",
+        "summary": "Lost its way",
+        "role": "Software Engineer",
+        "date": "Aug 3, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Incompetent LeadershipLack of communication between business groups across the companyPoor opportunities for growing your careerSense of being just another cog in the wheel",
+        "advice": "Resign and let someone take over who knows what they're doing.",
+        "pros": "BenefitsFlexible Work ScheduleGood opportunities for training",
+        "summary": "Corporate slog with incompetent leadership",
+        "role": "Website Manager",
+        "date": "Aug 11, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "The company has grown too large in scope and headcountBureaucracy has overtaken common senseIsolation from the industry conversation in Silicon Valley",
+        "advice": "Relocate centers of influence, power, decision-making outside of RedmondStay genuinely connected to the conversation by being physically presentInvest in more customer (enterprise and consumer) face-time",
+        "pros": "Access to the tools and resources neededFlexible work scheduleFrequent assessment of employee moraleFreedom to book and manage individual travelCorporate and social responsibility",
+        "summary": "Microsoft",
+        "role": "Anonymous Employee",
+        "date": "Aug 11, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Very political and chronyism is rampant in many groups. True creativity, out-of-the-box thinking, and agility is stiffled by the company's bloated culture leaving them constantly playing catch-up in the industry.",
+        "advice": "Microsoft is in need of fresh thinking and fresh people in leadership positions. Less politics and more action. Focus on what customers really want and not what Microsoft thinks they want/need. Consider breaking up the company to ensure business units are self-supporting and make faster decisions about what products are viable.",
+        "pros": "One of the best benefits packages in the industry. Plenty of opportunity for improvements in products and services if you can work through the politics. Bonuses can be very good for preferred employees. Generally intelligent people to work with.",
+        "summary": "Overrated but good benefits",
+        "role": "Program Manager",
+        "date": "Aug 13, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "The company has a complex compensation system besides the revenue they measure on numerous scorecard that vary quarterly. Most of these make no sense and people work the system to achieve them.The job and career opportunities are limited.",
+        "advice": "Bring the company to the new world and stop focusing on the past. Move with cloud and focus on consumers.",
+        "pros": "Good reputation and it's easy to get into the accounts. It can be challenging with consumers.",
+        "summary": "Microsoft has the name but overall not the place for career",
+        "role": "Partner Account Manager",
+        "date": "Aug 13, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "The biggest con at MSFT is the inability to move between teams. It also feels like there are too many levels of management.",
+        "advice": "Flatten the reporting structure. Split SDET into two roles, test and development of tests. Change SDETs who write test to SDE. Allow easier transfer policies.",
+        "pros": "-Benefits-Cafeteria-Good reputationIn general MS is a good place to work. The politics can sometimes be difficult to deal with, but once you learn the game it's not bad to navigate.",
+        "summary": "The SDET role",
+        "role": "Software Development Engineer In Test (SDET) II",
+        "date": "Aug 13, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "slow slow slow slow growth...growth is determined by middle management who sit in calibration meetings and fight for their people but who are themselves incompetent",
+        "advice": "fire middle management, too many power grabbing senior/middle managerdo whats right for microsoft, not whats right for uhold GM's/VP/Leads accountable",
+        "pros": "good benefits, good work environmentnice buildings and equipment",
+        "summary": "good place to be for a while, get the experience, the years and get out",
+        "role": "Anonymous Employee",
+        "date": "Aug 26, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Terrible upper managementAbysmal stock movementSmall raises / bonuses / stockA lot of politics. A whole lot of politics.Products get canned left and right depending on which VP has won favor that month.",
+        "advice": "Flatten the org tree. Managers should have many reports, not 1 or 2. There shouldn't be six layers to the VP. Be more transparent about reviews and performance in a team. Stop being so stingy with merit increases. Pay your talent better - because it is all leaving for Facebook, Google, and area start ups where there is at least some chance of making it big.Remember, 1 great coder is worth 100 mediocre ones. P\u2026\u00a0ay them as such.",
+        "pros": "Decent starting payWork for a big nameGreat BenefitsSeattle is an awesome cityLots of variety between technologies amongst the company",
+        "summary": "Write code in a silo",
+        "role": "Software Development Engineer",
+        "date": "Aug 27, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "- incompetent middle management- overbearing process- lack of agility- lots of dead wood among employees- politics and cliques",
+        "advice": "none",
+        "pros": "- good benefits and decent pay- lots of resources, e.g. great talks from MSR and visiting speakers- private offices- flexible working hours- still a lot of smart people (but definitely minority)- if you get on the right project/group there is still some interesting stuff being built",
+        "summary": "The firm",
+        "role": "Anonymous Employee",
+        "date": "Aug 31, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Too much middle management and bureaucracy to get things done. A lot of red tape and it is beginning to be an era of government agencies. If you are fresh out of school and did not make it to either Google or Amazon then this may be your last resort. Not the Microsoft that it used to be. For those coming with Industry beware for getting the short end of the stick. Dont get fooled by the salary but you need to know yo\u2026\u00a0ur level when you get in and if you come in below a principal (assuming you had > 10 years of solid experience) you did not do well in your negotiation.",
+        "advice": "You have way too many partners and middle tier management that is not needed. Senior individual contributors are stymied for growth has top heavy management (those that are beyond principal) are very self interested in their own path to a partner vs. looking out for capable seniors.",
+        "pros": "Very technology focussed org. When you are networked you are good. Health benefits are top notch and work place benefits are excellent. Salary is decent",
+        "summary": "An Ok place to work",
+        "role": "Senior Program Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Work pressure is too high",
+        "advice": "Need work life balance",
+        "pros": "Flexibility , freedom, technology, health insurance",
+        "summary": "Many things depend on team to team. Few teams are so flexible & enouraging & some not.",
+        "role": "Anonymous Employee",
+        "date": "Sep 6, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Self centered company un-sync and struggling constantly against underfunded much little competitors, stockholders don't count for managment.",
+        "advice": "if the stock price performance is much worse than your peers then you are not doing your job.",
+        "pros": "Good benefits and health insurace, overall established process and tools, good working enviroment, and decent managment.",
+        "summary": "nice place to work but it could be sinking titanic",
+        "role": "Anonymous Employee",
+        "date": "Sep 6, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Lack of growth, working in Microsoft technologies reduces your chance to change jobs, i.e. your market valuation, recent layoffs and bad performance of stocks in market.",
+        "advice": "Transparency in company strategies and open up to open source development. Internally, innovation should be evaluated properly and execution should be valued ahead of reporting.",
+        "pros": "The benefits cover almost everything, health benefit is awesome, support from company at every step and of course the name Microsoft.",
+        "summary": "Good benefits but difficult to progress",
+        "role": "Software Development Engineer In Test",
+        "date": "Sep 7, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Microsoft is going through some pains right now. It has to evolve itself and that's going to be painful. Unfortunately this likely will mean more layoffs and less certainty for people and their jobs.",
+        "advice": "This company needs to move quickly or we are going to become like IBM. Right now it's like moving the Titanic. We need to be more agile, more hungry and get strategic. Tomorrow's not going to be the same as yesterday.",
+        "pros": "The health benefits are great; the company has the resources to do things you couldn't at any other company which means plenty of opportunity if you play your cards right.",
+        "summary": "Good to start, slow moving ahead",
+        "role": "Market Research Manager",
+        "date": "Sep 8, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Very much a fear-based company.Has entered the inevitable downward spiral of once successful companies and doesn't seem to know how to stem the tide let alone reverse it. Employees are picking up on this more and more.Like most of corporate America, MS has made employment almost all about \"what have you done for me lately?\" - you're only as good as your last accomplishment and can't bank accomplisment\u2026\u00a0rs beyond your manager's whim. Co. emphasis on work life balance is, in practice, a joke - they'll work you to death and call it a normal part of the job.Co. is ovverly reliant on the whole \"you need to manage your own career\" mantra. Sure -we need to do some of it but you need to help more because after all, aren't we there to work and not constantly be looking over the fence at the next oppty - which impacts our current job?AWFUL review process others have already explained. It's the elephant in the room - everyone knows about it, complains privately and loses sleep about it but is discouraged from challenging it. No matter how HR tries to spin it everyone knows it's a biased, broken system in place to favor the few.Far too many GMs with many who are clueless as to what goes on in their orgs (beyond too many presentations from their directs) and openly play favorites.For all their talk about management skills MS has an incredible abiliity to hire and promote managers with poor or no people management skills. Since this is a soft skill MS places too little value on it - but boy, do they miss the mark here- it has everything to do with the all important bottom line. Again, lip service by upper management on how vital it is but in the trenches it's shocking how far people can climb without knowing how to manage people- to communicate with their workers..Notoriously bad at not seeing the big picture when it comes to internal ops or long term impacts to customer sets - would rather throw something on the wall (read spend $) to see if it sticks then to step back and study the situation before acting. If MS were a small company without such deep pockets they would have bankrupted themselves years ago doing this. Shockingly little sense of ROI.Politics, cliques, favoritism all rampant and slow the company's output, productivity and employee sat more than management cares to admitFar too much lip service to wanting to change and improve and no consistent will to do it.Since MS has made working there an almost strictly business proposition that's what I've done in self-defense. I'm my own business (I may work for MS but handle my career strictly in how it benefits me and not the co.) and like so many before me I'm looking to leave (despite the econonomy). Of course I keep my quiet about this (like not announcing a product release too early) and can't wait to hang my shingle elsewhere.",
+        "advice": "Management needs to develop a bi-partisan plan to tackle the many problems of this once great company before it's too late but I fear they don't have the will to do it - they're to worried about their fiefdoms.Stop relying so heavily on the attractive, young, IVY leaguers (c'mon, you know you do) who know nothing about managing people.",
+        "pros": "Some incredibly smart people to learn from, good benefits, pleasant surroundings.",
+        "summary": "Too much pressure and work load for too little compensation and lip service to work life balance. Can't wait to leave.",
+        "role": "Program Manager II",
+        "date": "Sep 11, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "PoliticsBureaucracyProcessand MUST live in 98052 for career advancement at the company while forfeiting a proximal connection to the rest of the industry in Silicon Valley",
+        "advice": "1.) Spend significantly more time in Silicon Valley (or anywhere out of Redmond, WA) and listen to what the industry and customers are saying. This applys to all levels of the organization, Steve down to Steve's doers2.) Make a serious investment to be located in the technology hub, Silicon Valley3.) Stop the process overload. You are killing our spirit, the will to compete, and ability to deliver innovative \u2026\u00a0products, services, and programs customers really want! Is it really that hard to see?",
+        "pros": "The right people and resources motivated to tackle an opprty when solid, visionary leadership is in place (there is a leak in the plumbing, sadly)The most comprehensive ecosystem of technology partners world-wide",
+        "summary": "Microsoft: you are marginalizing yourself",
+        "role": "Anonymous Employee",
+        "date": "Sep 17, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Hard to get ideas to improve processes heard by upper managementWhen a good idea does get traction, upper management takes credit for it.",
+        "advice": "Make (specific and relevant) management skills training a requirement for each promotion on management track.Make staying for one year the minimum for each upper management position.Have a on time/on budget award system in the product groups.",
+        "pros": "Cool products, great tools, great perks.",
+        "summary": "Good people, poor managers",
+        "role": "Test Manager",
+        "date": "Sep 30, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Misaligned strategy and executionHighly political organizationMisdirected managementOverlapping functionality among teams leading to redundancy and cost mismanagementDevelopers call shots without market knowledge",
+        "advice": "Align strategy with executionDiscover core strengths and stop wasting shareholder money on projects such as KinBallmer must resign or get his act together",
+        "pros": "Great Benefits - Free healthcare, access to high end health clubEmployee Purchase benefitWork with highly talented individualsFree starbucks coffee",
+        "summary": "Pros and Cons of working for Microsoft",
+        "role": "Senior Marketing Manager",
+        "date": "Sep 30, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Too much red tape and internal politics at every rung of the corporate ladder. Decisions are made in an extremely slow and inefficient manner (even relative to other Fortune 100 peers).",
+        "advice": "Learn from your recent miscues when it comes to hiring senior level management (Presidents of Divisions & SVPs). The unprecedented levels of churn at these levels don't bode well for Microsoft's future.",
+        "pros": "Flexible work hours, great medical benefits, stable environment, decent salaries (relative to peers/competitors). The brand name can help with furture employment. Cost of living in the Greater Seattle area are reasonable.",
+        "summary": "Finance Role Review",
+        "role": "Anonymous Employee",
+        "date": "Oct 2, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "As a contractor:-Unilateral reduction in pay rate at any time-Must provide your own computer-MS charges a \"Facilities charge\" to all vendors working on site-Exclusion from ALL company celebrations, product launches and awards",
+        "advice": "The way contract employees are treated promotes their treatment as \"second rate employees\" which in turn, discourages top performers from working there very long and instead tends to collect desperate people who can't find a job elsewhere.",
+        "pros": "-Orca Card-Free Beverages: Sodas, Milk, Coffee, Tea, etc-Exposure to new consumer products-Contact with knowledgeable colleagues",
+        "summary": "It ain't no fun being a Microsoft Contractor",
+        "role": "Hardware Product Engineer Contractor",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "If you are agnostic, likely not a good place to work because you see things objectively and objectivity isn't as valued here as much as you'd like. They would rather push a bloated operating system than thinking about the USERS.",
+        "advice": "Break up the company if you want to maintain any sense of control of your own destiny. Microsoft is no longer a nimble company and the competitors are helping to exploit Microsoft's weaknesses and doing a very good job at it. Get focus on a few areas rather than trying to take down every competitor out there. The current way of doing things isn't working.",
+        "pros": "For someone who is just coming into the company fresh out of college, this is a great place to work because it's far easier to mold someone young than someone truly seasoned. If you are already pro-Microsoft, then again, this would be a great place to work.",
+        "summary": "If you really want to consider Microsoft as an employer....",
+        "role": "Anonymous Employee",
+        "date": "Oct 6, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Immense volume of politics, and very few senior people do what's actually right for the company and customers, choosing instead to do what's right for them and their career. Every CVP runs their own empire, and tries to build that empire at the expense of other execs. And our SLT, our Presidents, seem to have zero interest in working with each other to deliver truly compelling customer scenarios.",
+        "advice": "We've wasted so many opportunities as a company: we had the lead in mobile and blew it, we had the tablet PC and knew the iPad was coming and did nothing due to politics, we had Windows Media Center and didn't innovate only to see Android now take the lead in working with TV OEMs, we invested billions in XBox only to end up with no coherent consumer and living room strategy, we shipped a horrible product in Vista and\u2026\u00a0 destroyed our reputation, and we made one useless billion dollar acquisition after another (Great Plans and Navision, Danger, Tellme, etc.). Now we're the punching bag of the industry and Apple is the world's most valued company instead of us, while Android uses our own playbook (run by lots of ex-Microsofties) against us. Steve Ballmer either made the key decisions leading to this situation or was complicit in them. When is our Board going to live up to their responsibility and ask Steve to move on, along with Kevin Turner and at least some of our Presidents (including at least one of the new ones)? The time for change at the top is now.",
+        "pros": "Still lots of very smart people, huge opportunity for impact given breadth of product portfolio, great opportunities to interact with customers.",
+        "summary": "A Company In Decline",
+        "role": "Senior Director",
+        "date": "Oct 9, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "-No more free health care-Takes too long to get anythign done-Too many redundancies",
+        "advice": "Need to revamp the leadership and turn the ship around to make people proud of this company again.",
+        "pros": "-\"Get your work done\" mentality allowing you to be flexible with work.-Health Care benefit (going away)",
+        "summary": "Used to be cool to work here",
+        "role": "Program Manager",
+        "date": "Oct 10, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Microsoft has great potential as an emplyee centric company but seems to place higher value on sales and market expansion than providing positive motivation for the talent that produces its products.",
+        "advice": "New goal: Say \"thank you\" in person to someone each day.",
+        "pros": "Microsoft is a giant company with ample resources and opportunity.",
+        "summary": "Lower Expectations",
+        "role": "Software Test Engineer",
+        "date": "Oct 11, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Process is at times unbearable. Advancement in career is largely dependent on 'who-you-know' game, and if you came in lower level it is very hard to advance.Changing job inside company is very hard -- you have to go through interview loop as any other external candidate, but you also have to tell your current manager about it _before_ your interview is even scheduled. Technically, manager cannot prevent you f\u2026\u00a0rom interviewing after 18 months in position, but it really brings you to uncomfortable position -- with scarcity of internal positions nowdays, there will be tens of people interviewing for one position, so there is good chance that you are not going to get it. While managers pay lip-sync to the line that they are there to support your career, you frequently become pariah in your group after you tried once to leave.",
+        "advice": "Allow easy internal transfer, without notifications to current management -- that will help break fiefdoms throughout the company.Get rid of stupid 10% review category -- either fire me or do not brand me as failure.",
+        "pros": "Benefits, benefits, benefits... Enough said. Also, if you are smart, you can stretch what you work on for weeks and nobody will notice (that's also a con, as you will eventually become lazy)",
+        "summary": "Not same Microsoft I joined",
+        "role": "Software Development Engineer II",
+        "date": "Oct 13, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "a. Compensation is below average.b. Layoffs are always looming. If you're over 40 years old be very affraid.c. Review system is just another name for \"friendship ranking\".d. Constant reorgs mean constant resets of career paths.e. Now with benefits downgrading (medical benefits will have deductibles, just like any other), MS became even more ordinary.f. Flat stock price.g. There are smart peopl\u2026\u00a0e in other companies.",
+        "advice": "Resign. In any other company, 10 years of agonizing flat stock would be more than enough to cause you to \"dedicae more time with family\". Since you've transformed MS into \"just another ordinary company\", you should be treated as such and be expelled.",
+        "pros": "a. Smart people.b. Lots of resources for, say, computers or other equipments.c. Very visible, everyone knows about Microsoft.",
+        "summary": "Just an ordinary place to work",
+        "role": "Software Engineer II",
+        "date": "Oct 17, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "- Stagnant- Work place politics- Incompetent , unimaginative leadership.- Customer comes last, boss comes first.- Low hiring bar for top management- Steve Ballmer alomg with his team of marketers and salesmen.- No passion for technology- Performance comes last in product development. Feature creep done for empire building",
+        "advice": "Fire Ballmer; get a techie to lead the company.Your boss might determine your pay but our customers pays for all of us.",
+        "pros": "You can choose to have a great work life balance; great place to work for people who are sick of moving around and are looking for a convinient , comfortable life style.",
+        "summary": "Sinking Ship",
+        "role": "Software Development Engineer",
+        "date": "Oct 17, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "* Now that Bill Gates is gone, so has the passion* A lot of politics to deal with if you want career progression past goon-level* The salary and benefits are not the greatest anymore, and getting worse* People working there are depressed or manic, and it's contagious* Nothing you build today will be as cool as the stuff they used to make in their heyday",
+        "advice": "Steve Ballmer would be fantastic in charge of sales. As CEO of a software company though he is incompetent. They should bring someone external to replace him in that position (someone who hasn't been corrupted by the rampant nepotism and politics necessary to grow to L65+ in-house nowadays).MSFT is still sick (LisaB notwithstanding), and getting sicker.",
+        "pros": "* You get to see how many world-class products are built* The salary and benefits are good enough that you don't worry about survival too much* Seattle is a great place to live",
+        "summary": "Come and stay a while! We'll make you into a paycheck-collecting cog no matter how much fire you have in you!",
+        "role": "Software Development Engineer II",
+        "date": "Oct 20, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Too much politicsNo career advancementWaste too much time managing upNo longer a meritocracyCompany lacks vision after BillG's departureRun by \"know all\" engineers",
+        "advice": "Get BillG back before you all ruin the company. It will be harder for you to attract talent if the stock price does not move.",
+        "pros": "Free SodasGood medical benefits (but not for long)Decent pay",
+        "summary": "Microsoft - Just a big name",
+        "role": "Senior Market Research Manager",
+        "date": "Oct 21, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "not a place to spend a career",
+        "advice": "Choose product areas where you want to win and invest appropriately",
+        "pros": "Interesting products, lots of bright people",
+        "summary": "Endless work",
+        "role": "Senior Program Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Very competitive, cut-throat, individual contributor-centric environment. Forget about teamwork, you always have to look out for your interest. Not an uplifting place to work..Lots of pressure, long hours, high stress and higher divorce rate are the norms at Microsoft",
+        "advice": "Encourage and promote team effort more",
+        "pros": "Lots of job opportunities to transfer throughout the company. Work hard and do well and you can really move to different fields, in different worldwide location within the company.",
+        "summary": "Good place to work for high achiever, but the stress will tak it's toll on you",
+        "role": "Anonymous Employee",
+        "date": "Oct 26, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Don't waste time trying to innovate or collaborate here. Bad for mid-career transition, high risk you will be leveled down, crammed into a pigeonhole, your expertise ignored (unless you're an engineer or Program Manager maybe) and get mired in a stifling review system. On the other hand, if you can find a way to go home at 5:00 every day and play with your kids and don't mind constant senseless reorgs, the benefits a\u2026\u00a0re great.",
+        "advice": "Break up company. Recognize that no one else thinks you're as great as you do any more.",
+        "pros": "Exposure to just about everything digital. Opportunities for global business experience. Smart co-workers. Great place to start a career.",
+        "summary": "Stay Between The Lines",
+        "role": "Group Product Manager",
+        "date": "Oct 28, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "very siloed. Matrix str. kills accountability, and fosters \"I & me first\" culture with little regard to the broader 'good'. Primary objective to to manage the 6 month review cycle by being \"yes\" wo/man for your mananger - with little consideration for business impact to the customers or to the company at large.",
+        "advice": "Focus on tactical metrics is good to run the business, but is often losing the understanding of the big picture and strategic issues. There is a greater need to validate direction. Input from the people around the world will make Redmond decisions better.",
+        "pros": "opportunity to work on some big global projects with a perspective that cuts across different customer types, channels, and strategies that can scale across multiple markets.",
+        "summary": "Management is no substitute for leadership.",
+        "role": "Director",
+        "date": "Oct 28, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Middle management is very focussed in pleasing upper management employee comes lastThe company claims istslef as the inovation company, but if you have an idea, keep it to yourself no one will listen to you (not your middle management)",
+        "advice": "The performance review process is a totall failure",
+        "pros": "Microsoft has great opportunities for individual growth if you're in the right group",
+        "summary": "Not the outside image",
+        "role": "Program Manager",
+        "date": "Oct 28, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Career growth stalls quickly if you are in one of the satellite officesToo much inter/intra group politicsSenior Management can't stick to there decisions",
+        "advice": "Make decisions on what is the right thing not how strong you areExpand satellite campuses, which will give remote employees more professional growth and career advancement opportunities which are lacking right now and a major cause of attrition",
+        "pros": "Good place to start a careerIf you are looking for career advancement go to Redmond not the satellite officesSmart PeopleGood healt benefits, 401K, ESPP etc",
+        "summary": "Good place to work but...",
+        "role": "Senior Software Development Engineer In Test Lead",
+        "date": "Nov 3, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "1) Growth is minimal.2) No reward/incentive for better performance.3) Managment is often incompetent and can be frustrating.4) You can't grow in your career without moving out of the company.",
+        "advice": "You can not put all your employees in one salary bracket and pay them equally. A merit increase of 1.5% is ridiculous when it translates to a raise of 150 USD per month.",
+        "pros": "1) Work life balance.2) Good learning opportunity.3) A good place to start your career.4) Great helth benefits.",
+        "summary": "Microsoft is not the place to grow",
+        "role": "Anonymous Employee",
+        "date": "Nov 10, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Microsoft is over 30 years old. It's had it's day in the sun and it is now a sinking ship. Read some reviews on the stock and you'll understand why. The politics here are unbearable. In-fighting between teams and groups keeps innovation down and limits the companies ability to produce any real great products. We are loosing fast to Android and the CEO seems to be totally out of his mind. Reviews are a joke. I've seen\u2026\u00a0 amazingly smart, talented people in the time I've been here let go \"because someone has to fail.\" Having a good review and thus a raise, bonus or even the ability to keep your job is highly dependent on how good your manager can argue on your behalf to upper management and even then it's a numbers game with some ridiculous calculation that ensure that 10% of the population will loose their jobs",
+        "advice": "Retire. Bring in a fresh faced CEO that actually knows something about the tech industry and where things are headed. Stop the in-fighting! It's ruining the company. Review the review process. It is utterly ridiculous.",
+        "pros": "Nice benefits. Work with amazingly talented and smart people.",
+        "summary": "Don't work here. It's not the only game in town.",
+        "role": "Anonymous Employee",
+        "date": "Nov 12, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "1. Review process SUCKS. Your promotion is decided mainly by your manager. He needs to be willing to \"fight\" for you. So, that means, you need to kiss his ass. Or at least, not get on his \"bad\" side.2. Rewards are relatively bad. You need to be in top 20% for a good reward. Otherwise, the increments won't even cover inflation.3. Some teams have really bad work-life balance and some have bankers hours. The ear\u2026\u00a0lier ones don't necessarily get any better recognition.4. Company does not encourage much innovation. There is no easy way to propose your ideas.",
+        "advice": "Fix your review process. Otherwise, you are going to lose lot of good talent to your competitors. Create ways to promote innovation.",
+        "pros": "1. Lot of different opportunities within the company2. Good people resources - lot of smart people to interact with3. Awesome benefits4. Microsoft is a great name to have on your resume",
+        "summary": "Not a bad job if you have a \"good\" lead/manager",
+        "role": "Anonymous Employee",
+        "date": "Nov 15, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "I recently left the company, after over a decade, and wish that I had done it much sooner. There is far too much middle-management, all hoping to get their name in lights, and backstabbing others along the way.The management structure and the review system both strongly contribute to an inability to innovate, and be truly proud of making a difference in the industry.Strong benefits aside, there are mu\u2026\u00a0ch, much better places to spend your creative energy, and be equally recompensed. The company used to be known as \"MICROSOFT\", and now they are simply another company.",
+        "advice": "My advice to \"management\" is to reduce yourself...stop giving yourself top 10% reviews simply because you change project names mid-stream, and find a job that you can truly add value to the industry in.",
+        "pros": "Good benefits, strong infrastructure support, still some good people.",
+        "summary": "We all have choices",
+        "role": "Senior Software Development Engineer In Test (SDET)",
+        "date": "Nov 17, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Not much work life balance. It's not a fun place. Everyone is competing against each other. I don't think my accomplishments are always noted.",
+        "advice": "You haven't done a very good job valuing my accomplishments. I sometimes feel there is some degree of cultural bias when it comes to reviews and promotions. You are constantly playing catch up to competitors. Try to get ahead of the curve.",
+        "pros": "I have excellent Benefits. I haven't had a single health care expense since starting, no premiums, deductibles, and co-pays. The legal benefit is excellent",
+        "summary": "Really boring place. No spirit.",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "PoliticalFavors fast follower strategy over innovationFlat stock price for 7 years, no chance of making money at lower levels, which causes focus on promotions rather than focus on custmers and product success.Nepotism at high levels.",
+        "advice": "Get a new CEO.Carly Fiorina was fired from HP for making one big mistake. What is Steve Ballmer still doing there? Operating systems (Vista),entertainment (Zune, Media Center), mobile (WM 6, Kin, tablet?), internet (MSN). Microsoft also has terrible (yet over-powered) people in marketing despite (or because of) Ballmer's background in marketing.",
+        "pros": "Work on products that are used by hundreds of millions of people.Enough product diversity that you can work on a wide variety of projects.Still many smart people.Best research lab in the world.",
+        "summary": "Leveling off",
+        "role": "Senior Lead Program Manager",
+        "date": "Nov 23, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "You could get away with murder if you know how to suck up to management. Technical expertise is something they think they know but how far behind the employees really are they would know only if they left the company and joined any other gig or were kicked out",
+        "advice": "Fire yourself!!",
+        "pros": "Salary and Benefits and and and....",
+        "summary": "Nice place to hatch eggs",
+        "role": "Software Development Engineer",
+        "date": "Nov 23, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "MS is floundering.Loss of talentNo innovationToo matrixed - too much like the army - too many hoops",
+        "advice": "Get rid of the dead wood - weed out these folks and start innovating again. Your losses are Apple's gain.",
+        "pros": "Great benefitsSome good peopleSome good teamsGreat cafesCan have work/life balance if you're on the right team",
+        "summary": "Not the way it used to be",
+        "role": "Manager",
+        "date": "Dec 7, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Horrible leadership was hard to stand.",
+        "advice": "Get rid of most leader and manager. Make engineering team flat.",
+        "pros": "Industry best health insurance was good.",
+        "summary": "Horrible leadership made me mad.",
+        "role": "Software Design Engineer",
+        "date": "Dec 12, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "It's become IBM on steriods. Steve has not been good for the company. Makes a great salesman, doesn't know a lot about driving true innovation and product strategy. The market has been pretty clear on that with our stock price.",
+        "advice": "To much competition between execs. To much focus on internal competition versus focus on the customer.",
+        "pros": "Benefits are good. Some of the people are still good. Microsoft use to be the place to work. There are pockets of that left, but they are slowly being suffocated by the new Microsoft which is essentially Proctor and Gamble for the software industry.",
+        "summary": "What made Microsoft great is forever gone.",
+        "role": "Senior Program Manager",
+        "date": "Dec 15, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "The bad managers I have had are really badSenior management changes direction frequently and not all senior management is on the same pageReorgs are constant so growing your career can be very difficultWork/Life balance is little more than a frequent conversation but not realistic to the workload",
+        "advice": "Unhappy teams and people spotlight a leadership problem. When this unhappiness turns into attrition, take a serious look.",
+        "pros": "Salaries are okBenefits were at one time great, but they are getting cut each year2 of the best managers that I have had in my career have been at MicrosoftThe products Microsoft creates are incredible",
+        "summary": "Microsoft is perfect for a resume builder...",
+        "role": "Program Manager II",
+        "date": "Dec 22, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Difficult culture, tough to change the way things are done, flawed review process, to much nepotism",
+        "advice": "Focus more on customer benefits and marketing, make reviews and promotions more equitable",
+        "pros": "Great porducts, smart people, lots of resources, great learning opportunities, amazing benefits, global impact",
+        "summary": "Huge potential but tough to realize",
+        "role": "Senior Marketing Manager",
+        "date": "Dec 26, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "People's performance review is determined by skip-level managers and peers of managers who have little clue what and how the employees work.",
+        "advice": "streamline and cut more teams and headcounts will significantly reduce politics in the company. encourage innovation instead of stifling it.",
+        "pros": "good benefit package. easy to get promoted if you kiss asses and follow orders blindly. constant reorg and have people who have no business sense on the top.",
+        "summary": "Too much politics",
+        "role": "Anonymous Employee",
+        "date": "Dec 26, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "- Exceedingly political- Not friendly to people who are not hard-wired to 'play the game' in order to climb the corporate ladder- Very poor leadership culture (highlighted by terrible senior leaders)- Never more than on re-org away from working for a poor manager",
+        "advice": null,
+        "pros": "- Microsoft's pay is adequate and the benefits are excellent.- There are many great individual contributors.- Once you've established a track record of success, it is relatively easy to move around the company to find new challenges.",
+        "summary": "Many years ago it was a great place to work but poor leadership and an exceedingly political culture have ruined it.",
+        "role": "Senior Program Manager Lead",
+        "date": "Dec 27, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Here's what I've learned after several years:1) There's no appreciation of your previous career experience--if you haven't done it at MS, it doesn't count. This \"Not Invented Here\" attitude impedes creative thinking.2) The performance rating system is seriously flawed--a substantial (25%) amount of your time is spent doing low-value tasks indirectly related to your job. These tasks are injected into your \u2026\u00a0performance plan so your manager has a way to measure you and compare you to others.3) **YOUR YEARLY PERFORMANCE RATING IS DETERMINED FIRST AND THEN YOU'RE INFORMED--there's no way to change a bad/erroneous review**.4) The employee calibration system forces your manager to put 10% of her team in the \"below standard\" level, meaning you're not going to be promoted for at least a year OR you're going to be \"managed out\" (fired) even if you've achieved the goals you and your manager set down in writing at the beginning of the year. This \"stack-ranking\" system into 20%-70%-10% brackets determines your the \"contribution margin\" and is based on managers' discussions, hearsay, and perceived age (discrimination). It affects how much stock--a form of deferred compensation--you get that year. Again, you have no way of changing your standing--it's all decided behind tightly-closed doors.5) It's fairly hard to change jobs--you can't interview without your manager's permission unless you've been in role 18 months. Many postings are dummy postings because a candidate's already been selected and the hiring manager has to go through the process. And most of the jobs are so specific that it's hard to jump across organizations unless you can get an insider to recommend you.6) Cost-cutting has had a negative impact on every aspect of the Company, and it's nearly impossible to get business travel approval unless you're in sales or consulting.7) For a technology company, there's far too much management overhead and this leads to slow decision-making. Very few people here are willing to stand up and to make a decision or to go out on a limb to support their position.8) Microsoft is an extremely matrixed organization and that reality often impedes your ability to get things done rapidly.9) There are few \"people managers\" at Microsoft. At levels below General Manager, \"managers\" have a **regular workload** in addition to their people management responsibilities, and this is when people management is most important and valued. At the GM level and above, it's about headcount, not individuals.10) In the U.S., the HR department offers very little career development support and no individual assistance. You're supposed to work through your manager, who may or may not know anything.11) Promotions are handed out based on excellence in your current role, budget, and business need. So, even if you've been the top performer on your team and have done everything just right, you may be stuck. Thnis is why many people leave Microsoft.12) It's very unusual to get a promotion when you get a new job--that's why they're called \"internal transfers\".",
+        "advice": "1) Redesign the employee evaluation system to reflect today's Microsoft.2) Encourage management boldness.3) I recognize the need to address health care costs but let's stop the nickle-and-diming.4) I love Steve Ballmer and believe he's committed to the Company but the stock has been flat for a decade--it's time to bring Bill G back into the fold.",
+        "pros": "1) Corporate commitment to workplace diversity (race, sex, religion, culture, etc.)2) A \"name\" company3) Not likely to go out of business soon4) Plenty of learning opportunities5) If you find the right job and the right manager, it's a great experience6) Usually good flexibility for working parents7) Smart and diversified co-workers",
+        "summary": "Think twice before accepting the Microsoft job offer",
+        "role": "Mid-level Individual Contributor",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "It's become extremely political. One bad manager can ruin your career. Senior management focuses too much on competing with Apple and Google, instead of making a better product. The review system is hell. Managers are forced to put someone in the bottom 10% \"underperformed,\" even if they have done an adequate job. Once you get that 10%, you're basically fired. If I'd been told about this review system, I would never \u2026\u00a0have gone to work as an FTE there.",
+        "advice": "Get rid of the current review system; encourage teamwork instead of individual performance; make reporting structure to the person you support, not a middle manager or executive assistant who is not part of your daily work life.",
+        "pros": "There are some great people there, if you're lucky enough to get a good team. The benefits (up till now) have been top of the chart. There is opportunity for growth, if you have a manager who believes in you.",
+        "summary": "It's either heaven or hell",
+        "role": "Anonymous Employee",
+        "date": "Dec 30, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Inconsistent management across business units. Politics plays a greater role in how people are rewarded than does their performance. The company still evaluates people on a curve, meaning that 10% of the people MUST be ranked in the bottom 10%. Even super-stars. People are very unhappy and no one feels valued at Microsoft today.Also, strategic thinking from the top is slow and only focused on \u201cme to\u201d products\u2026\u00a0. Instead, they should be innovating and bringing the next new technology to market. The company still acts like it is a start-up, with a \u201cready \u2013 fire \u2013 aim\u201d mentality. They need to conceed that they are a 43 year old company, in an exceptionally competitive environment. They can't continue to rest on thier deep pockets and fading reputation. Microsoft needs to wake-up before they drive themselves into obsolesce.",
+        "advice": "the people you work for are your most valuable asset. There is more to happiness in the workplace than free soda and great healthcare. People need to feel that their contributions at all levels are valued, and that delivery of their skills on your behalf will be recognized by management. Drop the \u201ccurve\u201d and let smart people thrive. Get rid of toxic managers and executives and become a company that embraces diversity\u2026\u00a0 instead of just taking about it.There is a reason why Google built their sizable facility in Kirkland. Once Microsofties grow tired of Microsoft\u2019s behavioral inconsistencies all they need to do is walk to the next city and Google will welcome them with open arms.",
+        "pros": "The health benefits are second to none. The Redmond and Bellevue campuses are high-tech, extremely comfortable and eco-friendly. The on-site facilities and ammenities are unprecedented. Most of the people working at Microsoft are among the smartest and most passionate people in the industry.",
+        "summary": "Chaotic - Doesn't seem quite sure what business they're in.",
+        "role": "Group Manager",
+        "date": "Dec 30, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Currently, Microsoft is so focused on cost cutting, you will have to deal with constantly eroding benefits.The culture there has become very elitist. Even the dumbest blockhead is convinced they must be brilliant or Microsoft wouldn't have hired them.There is a great deal of talk about \"Work Life Balance\", but it is just talk. There is constant pressure to work more, put in more hours, stay later, etc.",
+        "advice": "Start asking yourself why so many of your best developers are leaving. Develop an imagination and try to do something new rather than constantly trying to develop something \"just like\" some other product that is turning out to be successful, but you didn't think of.",
+        "pros": "Brand Recognition.The Microsoft Campus (regardless of which one you wind up at) will be nice.There is a great deal of flexibility with regard to which 12 hours you wish to work each day.",
+        "summary": "Don't be fooled. Microsoft was once a great place to work, but not any more.",
+        "role": "Software Development Engineer II",
+        "date": "Dec 31, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "- Top down decision making is the new Microsoft- Duplication across every division and team- Extremely high turnover to competitors (Google, Facebook, Amazon) makes it difficult to focus- Peers across the company can be found in +/- 6 levels... i.e. its unfair- Backstabbing review culture does not encourage teamwork- Massive cost-cutting has reduced many of the former perks and experiences",
+        "advice": "Admit that times have changed, cut duplication, and revamp the level system. Re-evaluate compensation relative to the industry as the large competitors have great compensation for middle levels across the board now.",
+        "pros": "- Family medical benefits are great- The vacation time is better than similar area companies, and comp time after projects is acceptable- With the right management support in place, there are amazing opportunities for compensation and advancement for very hard and dedicated workers- A place to learn how a large enterprise software company executes, this is a good and awful thing",
+        "summary": "Once was an amazing place to work, the collective caliber of excellence is no longer",
+        "role": "Senior Software Development Engineer",
+        "date": "Jan 1, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Very competitive environment even though rewards are dubious at best. Not a lot of innovation left at Microsoft. There is too much bureaucracy in decision making. Not clear vision for the future. Have not pushed on beyond Windows/Office juggernaut",
+        "advice": "Allow small team independence. Give people time to come up with new ideas. There has to be life beyond Windows and Office. Stop being reactionary. Hire some technical leadership and pay them well to come up with revolutionary ideas.",
+        "pros": "Work with smart people. Work on cool technology at times. The stock awards are nice. Able to work independently or as a team.",
+        "summary": "Satifactory",
+        "role": "Software Developer",
+        "date": "Jan 1, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Very few opportunites for a progressive career outside of corporate location in Redmond. Excessive levels of management that are out of touch with the actual business. Reviews are mostly based on subjectivity and not objective metrics.",
+        "advice": "Understand your employees are no different that the company. We want to advance our opportunities and increase our revenue as well. When the company is able to do that the employees should realize similar results. Employee compensation expecations can no longer be met with increasing stock prices since for 10 years the stock has only traded sideways.",
+        "pros": "Hands on latest software technologies",
+        "summary": "Stable employer if you only want a Job",
+        "role": "Technical Support Engineer",
+        "date": "Jan 5, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Large and small scale politics. If you upset the wrong person for whatever reason prepare to have your career derailed. The review process is a joke and widely considered a popularity contest. Being \"calibrated\" against others in your level band and requiring leadership to decide on the bottom 10% each year. You could have 10 great people on your team, but you have to single out one as a 10%'er. Which basically means\u2026\u00a0 they might as well be fired.",
+        "advice": "Completely change the review practice. Fire Ballmer and LisaB. Innovate...good grief we actually surprised people with Kinect but we need to do more.",
+        "pros": "Difficult challenges. Learn to build large scale software. Colleagues are pretty smart folks.",
+        "summary": "Overall a great learning experience. However lathargic career growth and lack of opportunities.",
+        "role": "Senior Software Development Engineer",
+        "date": "Jan 16, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "No career - just a series of \"jobs\".Very poor senior leadership. People mainly interested in holding onto their positions.Incredibly high level of politics.",
+        "advice": "Reduce the overall staff size and reduce layers of managment - it's killing the company.Enable employees to build a career.",
+        "pros": "The opportunity to change the world - although that time has gone for many positions.Great health care benefits - althought that will soon change.",
+        "summary": "Not a place to build a career, but a good place to draw a reasonable paycheck.",
+        "role": "Principal Product Manager",
+        "date": "Jan 26, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "In my ten plus years I had many, many managers, but only one manager that I would recommend to others. Management was more interested in arbitrary deadlines to impress their bosses than in delivering quality products in a realistic timeline. Worklife balance is a management mantra that never makes it into practice. My colleagues and I regularly worked long hours that crept into the weekends and negatively impacted fa\u2026\u00a0mily life. While there are training opportunities, I was too overworked to take advantage of most. Salary growth has not even keep pace with the cost of living, let alone your performance. I have chosen to seek emplyment elsewhere. It is sad, given that I had so much faith in the company. I feel let down.",
+        "advice": "Invest in training people managers to grow their people. While I still have some faith in upper management, I have little faith in lower and middle management. This perspective comes from 10+ years at Microsoft.",
+        "pros": "The company is a good place to work if you are just seeking a financially secure environment and are not concerned about advancement. For eample, the benefits poackage is generous.",
+        "summary": "Microsoft let me down",
+        "role": "Operations Program Manager III",
+        "date": "Jan 27, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Annual review process is very bad and not transparent. Middle management (leads) are the worst part here as they are mostly technical people with not much of managerial skills. That is not good news for an individual contributors.",
+        "advice": null,
+        "pros": "Benefits are good but they are repealing that in 2013. It is good place to start your career but don't stick around for more than 3 years.",
+        "summary": "Its not easy to grow career in management ladder.",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Heavily against any open source usage / involvement by employeesSerious bureaucracy, sometimes it takes moving a mountain to get the smallest things doneMassive, legacy code bases written YEARS before anyone though unit testing was a good idea, which means massive amounts of complex code with pretty much 0 test coverage, ohh and you get to tchange it all, make sure you don't regress anything or introd\u2026\u00a0uce any bugs!Convoluted build systems, source control managementLittle cross team collaboration, to the extent you have to request permission to get access to the Office PDBs (and they likely won't give you permission)Lots of arrogant people, some won't even bother responding to e-mails or will be very rude/dismissive as if it is a waste of their time. These people are usually also the creators of all the terrible mess alluded to above, so good luck convincing any of them it needs to change (since 'it' is what got them promoted at one time)Test frameworks are a horrible mess, convoluted, unreliable, arcaneBranching / code motion (FI/RI) is TERRIBLE, changes take FOREVER to propagate and when they do they inevitably leave your branch on the floor for a number of days after wardsLots of PMs that seemingly spend their day reporting on your work (and mostly taking credit for the things that go well) to management, also playing bug games to hide bugs around senior management review time and sending out update e-mails with indecipherable tube charts and ridiculous time-lines that have no basis in reality and pretty much show the opposite of what every dev says to them every day in terms of where the project is, what risks are present, etc...",
+        "advice": "Get rid of the people managers who have 0 people management skills. So many mediocre ICs choose the management route as they realize they will never make principal or higher in an IC roles. They don't do it because they possess any leadership talent or people management talent, most of them actually have negative abilities in this area, alienating the devs that are successful and causing the less talented to play pol\u2026\u00a0itical games of suck-up to try and get a good review, or at least avoid a bad one.Flatten the overall hierarchy, there are RIDICULOUS depths in the reporting chain such that what I tell my boss and what I see our VP write in a mail weeks later literally look like completely unrelated things, even when the VP is talking about the same thing/feature/area I am. It is a giant game of telephone except instead of accidental message mutation it is purposeful to avoid delivering bad news when it arises.Have your senior leaders focus on business and stop giving busy work to generate reports, meet some arbitrary ZBB date or involve yourself in bugs / individual customer interaction. You just cause fire drills and wasted time. You aren't an IC anymore (if you ever were) and though we all know you have the power to 'make things happen' you are constantly making the WRONG things happen and costing stockholders lots and lots of value.",
+        "pros": "Lots of internal mailing lists to ask questions on / keep up on technology / interestsGreat health benefitsDecent work/life balance recognition and managers accepting push back if you feel it has gotten out of whackBroad reach as some products are used by hundreds of millions of peopleSome very smart people, the ones that aren't jerks can also be very helpful / good to learn from",
+        "summary": "Huge bureaucracy, tons of legacy code, lots of senior people that think they are about 200% more clever than they are.",
+        "role": "Software Development Engineer II",
+        "date": "Feb 1, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Its a very painful place to innovate or try to push product thinking beyond reactionary \"What does Google do?\" thinking. Entirely too much focus put on \"alignment\" between products results in \"paint by numbers\" designs. Very business/engineering focused, which means we ship technical innovations that are nearly worthless to everyday users. The place bleeds talent from every pour, but the culture keeps the best thinki\u2026\u00a0ng in check - while the loudest, most senior bullies push their personal opinions into product designs. MSFT says its results-driven, but there isn't any accountability when the loud-mouths in management get it wrong. A product planning process that takes almost as long as the work to build it? Waterfall doesn't even begin to describe how slowly MSFT moves.",
+        "advice": "The company is too big, the products lack meaningful innovation and you only seem to react to innovation by competition with meaningless, watered-down half efforts. Simplify the business and the products will follow. Let the people who know how to ship great products lead the product design process. Your systems for employee evaluation and reward are a caustic, mish-mash of divisive \"me first\" incentives, unintended \u2026\u00a0consequences and an epic time waster that doesn't work for promoting the best talent and thinkers.",
+        "pros": "Great work/life balance, excellent benefits. Great place if you're not too motivated or ambitious. Everyone gets an office.",
+        "summary": "Don't fool yourself, its exactly how you think it will be",
+        "role": "Senior User Experience Designer",
+        "date": "Feb 3, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "GMs treat their teams as personal fiefdomsSenior leaders lack vision beyond immediate line-of-business profitabilityAttitude of \"dont-rock-the-boat\" \"dont-take-risks\"Nasty politics - Toot your horn, Pull Others down - to get ahead",
+        "advice": "Come up with a \"group-win-win\" reward system : Pay-for-performance breeds nasty politicsSolicit anonymous feedback on product ideas - you'd be surprisedIt is OK to use competitors products (um, phones, tablets) and learn how to design products to WOW customers.",
+        "pros": "Work with smart peopleBetter-than-average benefitsLearn good software engineering practices",
+        "summary": "Politics, Horrible review system, Living off Windows+Office cash cows, Low on innovation",
+        "role": "Senior Development Lead",
+        "date": "Feb 3, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Lack of innovation.Lots of bureaucracy.Technical skill sets obtained from this company may not be usable in other companies.",
+        "advice": "Build a more open environment for the research and development teams.Embrace more new technologies and open source software.Need more out-of-box thinking.",
+        "pros": "The health insurance and other benefits are one of the best among the industry.The company provides good work environment.",
+        "summary": "I think Microsoft is a mediocre software company",
+        "role": "Anonymous Employee",
+        "date": "Feb 6, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Very slow career growth. Some of the teams have become too big and lethargic. Not a lot of room of innovation on the job.",
+        "advice": "Provide freedom for innovation. Hire world class leaders not managers, someone who can inspire the people working in the company.",
+        "pros": "Good benefits. Stable job. Lots of teams and opportunities to work on different technologies. Great developers. Respected by other people.",
+        "summary": "Good stable job",
+        "role": "Software Development Engineer In Test (SDET)",
+        "date": "Feb 8, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Work-Life balance is terrible, but it is slowly getting better over the years. Middle management is all over the map. There are excellent managers and there are terrible managers.When your project ships, you look for a new position internally. Can't find one? You are out!",
+        "advice": "Treat Contractors better. Just because you are an FTE does not mean you have the right to treat Contractors like scum.",
+        "pros": "It is after all Microsoft. They only steal from the very best!. They are not necessarily the most innovative company (Unless you are talking about the X-Box side of things!), but they are the best marketing engine around.Benefits for FTE's are excellent",
+        "summary": "Little kingdoms",
+        "role": "Software Development Engineer In Test (SDET) II",
+        "date": "Feb 10, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "- Re-orgs - I have been in this company or almost 3 years and switched teams twice and barely got to write any code, why? Because the group cannot decide its org structure so it keeps re-orging and the developers as a result never get to really *work* on stuff. I've noticed this in two different organizations (servers & tools and Bing). Re-orgs are KILLING employee morale, wasting company money and serving no rea\u2026\u00a0l purpose.- Too much bureacracy - I have to jump through hoops to switch to a different job within the same company. Ordering a freakin' Book is a nightmare.- Bubble effect - Most people are heavily soaked in the company kool-aid and don't realize that Microsoft products are slowly getting irrelevant in the market. Some people don't even have a clue about what the competitive products are out there. People will have intellectually dishonest debates with you just to satiate their over inflated ego rather than understand what a hole the company is in.- Very low on CREATIVITY, very little ORIGINALITY. Everyone likes to do things in an certain way - its like a government job.- Lot of politics at Principal and General Manager Level. Sometimes who speaks the loudest gets ahead - although its a truism in most places but its sad to see this happen in a technical, facts driven company.- There is SOME exciting work happening, but you need to be in the right place and pray to got that you don't get re-orged out.",
+        "advice": "Stop re-orging! You are killing morale, disenchanting developers away to google/facebook/amazon and you are wasting your own moneyCut the management hierarchy.Fix your review process.. the stack ranking model is creating unhealthy competition which causes individuals to self-promote themselves rather than the product. You have prima-donnas who will argue on some nitty gritty technical detail to prove \u2026\u00a0their superiority and earn brownie points. Bring in peer review process!Pay more - you are paying way below average. Ever seen what Amazon pays?For god sakes get some originality and get in tune with the market .",
+        "pros": "Excellent Benefits - Healthcare support is excellent, I have gotten so many expensive procedures and tests done from the best doctors and not had to pay a single penny. Also great for families for this very reason **Although most benefits will erode by 2013Broad portfolio of products - If you get bored of working on office products, you can work on xbox or search (bing) or developer tools (visual studio). Mic\u2026\u00a0rosoft makes everything!Good support staff and facilities - Shuttle bus services, prime card discounts etc. etc.Good Innovative work in VERY SELECT groups. Just pray you get into one of them and never get re-orged out.",
+        "summary": "Great benefits but uninspiring work and really confused management.",
+        "role": "Software Engineer II",
+        "date": "Feb 10, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "16 years at the company and I've never seen morale so low - terrible stock performance, almost nothing in the way of salary increases or bonuses, management that is asleep at the wheel, and all my friends have IPhones and IPads. At least I get my health insurance paid for.",
+        "advice": "Slash and burn 25% of the company, grant more decision making authority and allow for less beaurocracy. Cash in your stock options while they are worth something.",
+        "pros": "The new Studio campus is cool and has great food. Store discounts.",
+        "summary": "Great, then OK, then oh well, then awful",
+        "role": "Senior Program Manager",
+        "date": "Feb 11, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Overly political in the last few years. Playing the game for promotions and favoritism is rewarded over actual talent. More of an emphasis on moving up any way possible over focus on working at being the best engineers in the world. Too many who think they are better than they really are.",
+        "advice": "Get out of the way and let the team's get to work. Get rid of that review system and reward talent for being good at what they do rather than how good they can play the system.",
+        "pros": "Very talented people. Pockets of passionate engineers. When it's good, it's very good.",
+        "summary": "Politics rule",
+        "role": "Program Manager",
+        "date": "Feb 19, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "If you work in services (Bing, Ads, MSN, etc...) then you have to put up with the most immature management team I have ever been a part of.Work/Life balance is difficult to maintain if you want to really succeed. There is often no reason for this other than poor planning, lack of direction and low quality developers.Again, if you work in services, you will find your self working along side some of the\u2026\u00a0 least capable developer teams I have ever worked with.",
+        "advice": "Hire in some strong leaders beneath Qi Lu, and fix the ads group which has languished under the yoke of inept leadership. Make sure that talent and execution is rewarded, see through the b.s. that is rampant in services.",
+        "pros": "If you work in services (Bing, Ads, MSN, etc...) then the place is pretty dynamic.The benefits are fantastic, and in comparison to Bay Area jobs the pay and even equity is pretty good if you are a decent performer.",
+        "summary": "Mind numbingly boring or rapid fire shipping with no time to think",
+        "role": "Test Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Poor management - move up the ranks too quickly without mastering the level belowPromotion based on who you make friends with not on skillReview process is shocking and brokenCulture and management style don't allow for innovation, if you want to get promoted",
+        "advice": "\"Innovate or die\" is what the internal communication posters said on the Microsoft campus. Follow exactly that. Promote people that want to work hard and push the boundaries to make Microsoft a market leader once again, and not people that make managing up their daily job while they collect a paycheck.",
+        "pros": "Benefits were great, though changingFlexibility to work from home or any locationColleagues - People in your peer group are funLocation - Redmond / Seattle is a great cityPay is sufficient",
+        "summary": "Good place to collect a paycheck if you don't have a desire to push the boundaries",
+        "role": "Product Marketing Manager",
+        "date": "Mar 2, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "The platform is way too big; company is slow to drive to current trends in the industry. Languishing in critical spaces like mobility.",
+        "advice": "Find your entrepeneurial spirit; your employees are frustrated as they are of the mindset that they now work for the newest IBM.",
+        "pros": "They're established; some still see it as a good thing to have on your resume. Customers will answer your calls, though they arent often happy with your products.",
+        "summary": "Too big, too slow, too much legacy",
+        "role": "Solution Specialist",
+        "date": "Mar 5, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Extreme job pressure to perform better/more until you burn out. If you don't perform better every year you're a gone!",
+        "advice": "Rampent incompetence at 1st and 2nd level management needs to be addressed to avoid unacceptable high burnout of employees. Not a sustainable or eithical bussiness model.",
+        "pros": "Health care benefits are the best I've every seen (save perhaps Google). Good salary, but not worth the pressure. Some opportunities for growth, but highly variable.",
+        "summary": "Good if you get along with your manager, otherwise start looking for a new job",
+        "role": "QA Engineer",
+        "date": "Mar 15, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Mismanaged, decision making process is absolutely broken, enormous internal bureaucracy, everything takes x10 amount of effort, overtime is a norm",
+        "advice": "Microsoft is turning into old, rusty American company",
+        "pros": "Pretty competitive compensation, benefits are ok",
+        "summary": "Way below my initial expectations",
+        "role": "Software Development Engineer II",
+        "date": "Mar 16, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Too many TERRIBLE managers.Lots of bias and favoritism: \"Cuteness\" helps a lot in getting ahead.Policies support managers to hire and supervise their buddies, and this leads to a lot of backbiting, key work assigned to favorites and exclusion of non-buddies.The HR reps are super-sneaky and never forthright or sincere. Despite having worked at many companies, the level of this is astounding and i wonder wh\u2026\u00a0y.managers and HR connive a lot to rank and promote \"buddies\" and get rid of people different from them. With the bad managers, a lot of the time, diversity is just something to pay lipservice to. Ballmer is no different.",
+        "advice": "Root out all the bad managers! But wait...who's gonna do that? HR? Forget it, get rid of the bad ones among them first. :)",
+        "pros": "Great name on resumeBenefits (though this changed in nov and employees now have to pay more for healthcare)Training opportunities (if your manager approves and is willing to pay for it from his budget)",
+        "summary": "Wouldve been great except for bad managers and too much two-faced cutthroat tricks played by managers and HR.",
+        "role": "Anonymous Employee",
+        "date": "Mar 16, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Traditionally the worklife in Microsoft teams are known to be relaxed and laid back, but I work in one of the new Cloud-computing related teams who tries to put new services online, and workload here as SDET is horrible. I often work 75+ hours a week in order to complete all the works. Not only me but I also hear complaints from colleagues in the same team about the workload. The workload comes in the following ways:\u2026\u00a01. Scheduling: the management will try to \"persuade\" you to compress the schedule into what fits their schedule needs, ignoring the true task time costs, and all the uncertain factors that could delay the schedule. Once you sign on that schedule, all factors that drag you down need to be paid from your own pocket -- your personal time. By forcing you to commit to such scheduling, they implicitly put you to work long hours.2. On-demand tasks: when you are signed on to work on a 1 month long project that needs 8 hours dedicated time each day, the management will try to randomly give instruction to you to take care of some random tasks, which could take 3 hours a day. At the same time they track your progress on the scheduled task.3. Incidents: you need to take care of incidents, such as cluster down or test reported failures. Which could take 4 hours for each incident. At the time you signed-up to work on a 8 hours-day pre-planned project.4. You can get promoted only if you work extra time: the management will assign you with all those routine tasks that would already take you 10+ hours a day. For promotion, as they said, you need to do something beyond routine that would impress them. That means you find another project besides your already long hours routine tasks, to get recognized.5. Code changes everywhere: as the Cloud related project is fast growing, all the components were changing, and your existing code can be broken by other people anytime. Then you need to take care of that.Besides the workload, also there is issue in:1. No core competency developed in SDET job role: even with such long hours daily working time, most things I do are low level: writing straght-forward-logic C# code (like scripts), take care of some config text files, copy-paste test failures' stack traces, start test runs, spend 5 hours to find out a way to hack the dev component to test something they didn't provide interface. I believe I won't be able to find another job after doing things like for 3 more years.2. The pay scale is definitely not worthy for this workload. I of heard people in Amazon complaining their workload due to nature of online services (fast pace, incidents, etc), but their pay is 30% higher. I think now I am doing the same amount of work as they, as at substantially lower salary.",
+        "advice": null,
+        "pros": "1. Low cost of living2. Big name company3. Close to the newest tech trend4. Well defined career path",
+        "summary": "Investment banking workload, software engineer pay scale, definitely not worthy",
+        "role": "Software Development Engineer In Test (SDET) II",
+        "date": "Mar 17, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "It is difficult to complete larger tasks as prioriites and strategies change as well as responsibilities. It is not necessarily the best place for an intrapreneur.",
+        "advice": "Allow room for leadership and creativity by acknowledging good ideas and supporting intrapreneurship.",
+        "pros": "The latest technologies exist there, so it is a good place for the curious and intelligent.",
+        "summary": "Learning opportunities were limited and colleagues were concerned over loosing their jobs.",
+        "role": "Media Specialist",
+        "date": "Mar 21, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Culture of nepotism where opportunities and work are rewarded more based off of preconceptions than performance.",
+        "advice": "Train leads on how to manage people, using qualified, outside management training vendors.",
+        "pros": "Health plan; however, that will be downgraded in 2012.",
+        "summary": "My ten years at Microsoft has been a decade of stagnation.",
+        "role": "Software Design Engineer II (SDE II)",
+        "date": "Mar 21, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "very slow company - things move vefry slowly",
+        "advice": null,
+        "pros": "good benefits and average pay - you get what you work",
+        "summary": "not too good",
+        "role": "Senior Product Manager",
+        "date": "Mar 23, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Clueless leadership at top levels",
+        "advice": "Put Ballmer out to pasture.",
+        "pros": "Benefits is still good although that ends next yr",
+        "summary": "Tired ol' dog",
+        "role": "Software Development Engineer In Test (SDET) III",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Non progressive, innovative and creative",
+        "advice": "You need to change things up big time-",
+        "pros": "Good Pay, Good Benefits, good people, good food",
+        "summary": "Non Progressive and Slow",
+        "role": "Online Community Manager",
+        "date": "Mar 30, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Bad performance management system, too many people getting hired which translates to best performers shown average with less challenging conditions. Lesser and lesser opportunities day by day and bad scheduling and management from your leads.",
+        "advice": "Except for one Milestone, where we started clean, I haven't see one milestone where we worked on schedule. Leades take huge amounts of time to make a schedule surprisingly before planning (includes design plans and test plans) and not even a single task actually fits into the schedule. They can only get away with this because of too many resources given to them. And while they do this, they screw up IC's work life ba\u2026\u00a0lance and affecting IC's career choices and opportunities.",
+        "pros": "lots of resources to advance both in technology and personality development , not necessarily these will translate to career growth.",
+        "summary": "Good experience, but beware of too much of manual work in test in certain consumer related orgs like phone ...",
+        "role": "Software Development Engineer In Test (SDET)",
+        "date": "Apr 3, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Regular employees have no respect to contractors although they have less skills set and experience.",
+        "advice": null,
+        "pros": "Not show up to work on the sunny day, work at home, and frequent Friday off.",
+        "summary": "Lacking of team work.",
+        "role": "Hardware Engineer",
+        "date": "Apr 21, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Salaries not competitive when compared to the rest of the industry (especially the Bay Area). Poor decision making from upper management. Close-mindedness towards new ideas and moving beyond what worked in the past and doesn't anymore. Very slow career growth. Extremely bureaucratic. More time spent on internal politics than on making great products or understanding the customer.",
+        "advice": "It is one thing to talk about innovation, it is a whole other game to actually be an innovator. Apple, Google, Amazon and VMWare are all leading the market because of the company's inability to move past Windows and Office and to embrace change and risk venturing outside of well-understood strategies. If microsoft is to survive in the 21st century, it needs to start setting the trend, instead of continuously biting t\u2026\u00a0he dust of already existing leaders in the field.",
+        "pros": "Great benefits package, great internal network of technology sharing, a welcoming and mellow work environment that is suitable for folks with families and slow paced lifestyles.",
+        "summary": "A good job, an average place for a career.",
+        "role": "Software Development Engineer",
+        "date": "Apr 21, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Flexible time schedule means, 'hey you can work anytime' to some peopleAlmost complete incompetence in middle managementMiddle management works 35 hours a week topsHorrible, constantly changing review system",
+        "advice": "Perform your harshest evaluations on your middle management, this is one of your largest sources of attrition at Microsoft. Bring back morale events, they are needed!",
+        "pros": "Some very smart people on my team among ICsLong hours form bondsFlexible time scheduleFree coffee, soda, sometimes food",
+        "summary": "It's been a grind",
+        "role": "Software Development Engineer In Test (SDET) II",
+        "date": "Apr 29, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Long development cycles, almost every product in Microsoft rely on long stabilization period where Test try to find bugs and Development just fix bugs. 90% of the bugs are nice to have type of bugs that would better be delivered as incremental update to product once it is releases.A lot of politices and processes specially around release management. You could fix a bug in 10 minutes and spend a month trying to ge\u2026\u00a0t it into a patchReview process rely on fitting team members on curve following normal distribution so your relationship with your manager and how much influence he/she has in addition to which part of the project management perceive as important play more factor in deciding where you land more than your actual contribution.",
+        "advice": "We need more engineer driven innovation not just huge business driven releases.We need more agile and lean processes to compete in the new worldWe need to stop thinking that what is best for windows is best for Microsoft. there are a lot of business opportunities that we lose in other parts of the company (office, development tools, servers) because our strategy of putting Windows before other platforms.",
+        "pros": "Large variety of products so you can work in any field you want. Microsoft compete in all software markestsGreat Benefits, health care, paternity and maternity leaves.Well defined career development milestones",
+        "summary": "Good Company, a lot of politics",
+        "role": "Software Development Engineer II",
+        "date": "May 11, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "A lot of disparate teams with often incompetent employees.",
+        "advice": "Cut out the sea of middle managers.",
+        "pros": "Great benefits compared to almost anywhere else.",
+        "summary": "Everyone looks out for themselves",
+        "role": "Project Manager",
+        "date": "May 24, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "There are a lot of internal politics. Projects can get cut at any moment and without warning. Not customer focused. A lot of work gets moved to offshore teams.",
+        "advice": "In the QA organization, there should be a balance of black box and white box testers. White box tests usually do not want to work on the UI/UX.",
+        "pros": "The medical benefits are unmatched. Zero co-pay and up to $15,000 of fertility treatment. However, this is all going to change next year.",
+        "summary": "Great people, lousy management",
+        "role": "Anonymous Employee",
+        "date": "May 25, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "The deathmarch to meet rediculous deadlines can really burn people out. Other times, the veil of secrecy results in unnecessary obstacles and churn.",
+        "advice": "Slow the pace a bit and give everyone a little breathing room to come up with creative solutions to the complex problems we face. The current pace is resulting in reduced quality, increased attrition and very little innovation.",
+        "pros": "The braintrust at MS is still impressive. I often feel myself challenged by group conversations. Everyone is expected to perform at 100% all the time.",
+        "summary": "Every year expectations are higher with fewer heads, less time, and same pay",
+        "role": "Senior Program Manager In IT",
+        "date": "May 29, 2011",
+        "is_current": true
+    }
+]

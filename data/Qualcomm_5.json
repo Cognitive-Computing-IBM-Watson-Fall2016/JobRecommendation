@@ -1,0 +1,902 @@
+[
+    {
+        "rating": 5,
+        "cons": "big company, so you cannot reach ahead so quickly.",
+        "advice": "Keep ot up good work.",
+        "pros": "Free soda :) kidding but still it counts.Work culture, senior employees' interaction to teach you and make you master is awesome. Different fun events through out a year is good. Benefits and pay :)",
+        "summary": "Fascinating, Challenging, Best place to start your career.",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Long hours & high expectations",
+        "advice": null,
+        "pros": "great benefits, not just talking about healthcare",
+        "summary": "Qualcomm is a great place to work, it's growing quickly globally.",
+        "role": "Anonymous Employee",
+        "date": "Jan 19, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "outlook of wireless communications is not that good",
+        "advice": "treat engineers well, give more credit to engineer other than managers",
+        "pros": "salary, job security, nice city, good weather",
+        "summary": "tough problems while nice interviewer",
+        "role": "Systems Engineer",
+        "date": "Jan 25, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Laid back, reactive nature, but that's changing. Would be good to have more socializing amongst employees. Also, bad office space, too cramped.",
+        "advice": "Be more proactive, improve office space and employee interactions through social events etc. Also, make the company more democratic, I.ie. involve the employees more in decision making.",
+        "pros": "this is a great place to work, good salary, work culture, benefits. San diego weather is awesome as well, ha.",
+        "summary": "Wonderful experience more or less",
+        "role": "Anonymous Employee",
+        "date": "Feb 8, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Qualcomm is an older company. There are not as many young employees. There are times when there is a great deal of political jostling",
+        "advice": null,
+        "pros": "Job stability, great benefits and on the leading edge of emerging technologies.",
+        "summary": "Its a very stable and challenging place to work.",
+        "role": "Senior Software Engineer",
+        "date": "Feb 15, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "quite a few middle managers on ego trips",
+        "advice": "Keep up the good work",
+        "pros": "Great benefits - pretty good review process",
+        "summary": "Good place to work",
+        "role": "Senior Staff Engineer",
+        "date": "Feb 18, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Can be very political. Too much consensus needed for everything which builds complacency. People are afraid to change things.",
+        "advice": "Force your leaders to make decisions. Many senior leaders do not lead - they just orchestrate.",
+        "pros": "Great place to work - strong benefits, nice facility, easy to make it a career opportunitiy.",
+        "summary": "Great place to work",
+        "role": "Anonymous Employee",
+        "date": "Feb 27, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Qualcomm has grown to be a large company, in particular in the last 10 years. The work culture and growth potential have, naturally, evolved accordingly. This means:(1) Although the company is innovating in multiple new technology areas, in most parts of the company, innovation is recognized and rewarded only in the more traditional (3G, 4G) technologies.(2) Qualcomm has become a very top heavy compan\u2026\u00a0y. Due to the incumbents who started in the company early, and never left, low outside opportunities in the San Diego area, and simply the company being a great place to work, the layer of SVPs and VPs is huge.(3) There is a good chance that younger and very talented engineers will be (are) frustrated, as promotions are, to a great extent, a slave of \"protocol\", which is applied in equal measure to everyone - regardless of talent. (\"Although you're outstanding, we cannot promote you in two years because on average it takes four, etc.\").",
+        "advice": "Qualcomm's executive leadership should try to develop a systematic and disciplined view of future technology strategy. The company should invest in diversifying into innovation in areas non-traditional to its core competence - which it is, but it should do so in a way that the new projects can be successfully brought to market and monetized.",
+        "pros": "Working at Qualcomm (in particular in the San Diego headquarters) offers great learning from all sources everyday - colleagues, countless seminars, technology fairs, etc. Excellent work culture for the most part, good employees are respected and rewarded.",
+        "summary": "Stimulating work environment, smart colleagues, great benefits and work/life balance - but big company growth blues",
+        "role": "Senior Staff Engineer",
+        "date": "Mar 12, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "We have lots of false negatives in our interview process, so if you don't get a job offer don't take it personally.",
+        "advice": null,
+        "pros": "You get to work with great people",
+        "summary": "Qualcomm",
+        "role": "Software Engineer",
+        "date": "Apr 15, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Slightly lower salary in bay area compared to other companies there.",
+        "advice": "Need to look at employees' pay parity with other companies and also according to the cost of living in certain areas.",
+        "pros": "Lots of growth & learning opportunities",
+        "summary": "Satisfactory but more can be done",
+        "role": "Anonymous Employee",
+        "date": "Apr 15, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Typical large corporation politics exists, but it's not difficult to figure out where, what, and who to avoid.",
+        "advice": "Continue to value and protect the work of your employees that have passion and entrepreneurial spirit.",
+        "pros": "Within Qualcomm there are many interesting projects that you have the opportunity to work on. With a good manager you can be autonomous and have a large amount of freedom to work as effective and efficient as you want to.",
+        "summary": "Many opportunities for growth possibilities within the organization.",
+        "role": "Product Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Doesn't have the brand recognition that other top companies do. Not really a con, but people from the area or field won't know what you do.",
+        "advice": "none",
+        "pros": "can work from home, come in and leave at your choosing (not strict on 9-5), great benefits, culture is amazing, huge opportunities to move into other departments",
+        "summary": "Couldn't ask for a better job",
+        "role": "Software Engineer",
+        "date": "May 2, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Tough to get a job here.",
+        "advice": "Keep the business coming...",
+        "pros": "Very professional and friendly coworkers. Everyone made me feel welcome from day one. The perks of working at Qualcomm are like nothing you will see at your normal company. All the break rooms are stocked with complimentary drinks, fruits, snacks, etc.. The pay is great ( for those who say its average they need to get real.. Very good considering the job climate right now). Health benefits are incredible. They offer \u2026\u00a0$0 deductible health benefits. This would have cost me 9k a year at my previous employer for a family plan. On site gyms with tv's. Bi annual pay bumps. Stock options. What more could you ask for?",
+        "summary": "Incredible place to work",
+        "role": "Anonymous Employee",
+        "date": "Jun 13, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Not as small a company as it once was (the small company culture is not as prevalent as it used to be), some groups are much better than others to work for, managers often have too much individual leeway with reviews when it is rare you actually work directly with your manager.",
+        "advice": null,
+        "pros": "Great benefits, competitive pay, good people, and a unique company structure and culture that sets things apart from other companies of similar size.",
+        "summary": "Great company!",
+        "role": "Software Engineer",
+        "date": "Jul 7, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "We do go through our \"crunch times\" where we are expected to put in a little more time than the normal week. This seems to be the case for anywhere, and at Qualcomm it's not nearly as bad as what I have seen at others places.",
+        "advice": "Continue to make the employees feel valued!",
+        "pros": "Qualcomm really cares about its employees. I feel like my work is appreciated and that I have a direct impact to the bottom line of the company. Qualcomm is also pretty flexible with work/life balance in that if I need to work remotely to get things done, it is pretty easy.",
+        "summary": "Great place to work",
+        "role": "Staff Hardware Engineer",
+        "date": "Jul 12, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Keeps you busy all the time!!",
+        "advice": null,
+        "pros": "Its just great to work with people in Qcom, so much to learn from the amazing ideas they have. Very friendly and non-formal environment.",
+        "summary": "Very friendly and helping",
+        "role": "WLAN Systems Engineer",
+        "date": "Jul 18, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Not easy to find the cons",
+        "advice": null,
+        "pros": "Quality of people in technology",
+        "summary": "Great place for your career",
+        "role": "Senior Staff Engineer",
+        "date": "Jul 22, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "You will be expected to work more than 40 hours per week often, and have high expectations placed on you but you will be compensated for this.",
+        "advice": null,
+        "pros": "Qualcomm has great pay and great benefits. Flexible work hours are great and the workplace environment is excellent.",
+        "summary": "Been great to work here.",
+        "role": "Design Verification Engineer",
+        "date": "Jul 29, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Can be high pressure, with long hours close to deadlines. Male dominated, and most of the men have stay at home wives, so being a single female who doesn't have someone to do the support stuff at home, it can get exhausting.",
+        "advice": null,
+        "pros": "Great management structure, supportive of innovation, provides all the resources you need to be successful, smartest coworkers I've ever had. It's a group of really smart people doing work they love with pretty much all of the resources they ask for.",
+        "summary": "The best place I've ever worked.",
+        "role": "Data Analyst",
+        "date": "Sep 6, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "No truly successful product as of now. We had a successful product but management killed it because it wasn't successful enough. The result was a massive and painful RIF.Sales regularly promises the moon with no idea how it will get delivered. Sales is regularly rewarded for this behavior.",
+        "advice": "Become more \"engineer-driven\" like the rest of Qualcomm.",
+        "pros": "We have a high energy, results oriented engineering staff.The projects have been interesting, challenging, and ground breaking.The culture is caring and optimistic. We support each other and everyone is trying to make our products the best they can be.",
+        "summary": "Innovative, dedicated people make this place a great place to work.",
+        "role": "Principal Engineer",
+        "date": "Sep 7, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "- There's a lot of pressure to succeed and continually improve (which could be good or bad).",
+        "advice": "Keep up the good work.",
+        "pros": "- Management is competent and encourages growth in employees and businesses.- No micro-managing of your time on the job or how you will do it.- Broad goals are set and you are encouraged to meet them creatively.- Lots of opportunity to develop new IP, file patents, develop really innovative products.- Pay is very good and opportunities for advancement are high. Pay adjustments and bonuses are given tw\u2026\u00a0ice per year.- Benefits are very good too. 100% family premiums for health, dental, some vision, etc.- At my site (Raleigh, NC), there's a really great gym in the building.",
+        "summary": "Great place to work if you like a challenge",
+        "role": "Senior Staff Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "You have to work ;)",
+        "advice": null,
+        "pros": "great people, projects, growth, opportunities. There's always something happening, a career growth seminar, a tech seminar, a favorite hobby, community service. They really do a good job balancing the work/life. Management caters to the needs of the employees. It goes on...",
+        "summary": "qualcomm review",
+        "role": "Software Engineer",
+        "date": "Oct 6, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "It's kind of a long time to receive the official offer.Maybe some one needs to wait for the approval of the export license to work eligibly.",
+        "advice": "Speed the process",
+        "pros": "When I made the phone interview, the interviewer was very nice to give me hints when I was not sure with the answers. For the on-site interview, people are all very nice.No tricky questions.No behavior questions with the hr people.",
+        "summary": "Very nice interview with Qualcomm",
+        "role": "Senior Engineer",
+        "date": "Oct 12, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "big company bureaucracy, try more ideas, fail faster (unlike Mirasol)",
+        "advice": "Give smart-phones to all employees.",
+        "pros": "Great location (San Diego), good management",
+        "summary": "Smart and dedicated people",
+        "role": "Senior Staff Engineer",
+        "date": "Oct 18, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "i am new here so it is not easy to tell what are cons herebut for me, it is the top choice",
+        "advice": null,
+        "pros": "good salary with very competitive compensation packagesmart people working with you who are very friendlynew challengesworking on top chips for coming smart phone",
+        "summary": "No. 1 in the mobile",
+        "role": "Staff Engineer",
+        "date": "Oct 21, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Traffic is a constant concern, coffee is another. Somewhat stringent policy compared against startup.",
+        "advice": "Maybe a soundproof room would be great way to release pressure.",
+        "pros": "Good work/life balance compared with other major IT companies. Great benefit, great insurance. San Diego with its sunshine make you just feel good.",
+        "summary": "Good work/life balance and excellent place to live",
+        "role": "Software Engineer",
+        "date": "Oct 22, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Sometimes there are long hours but never really seems that bad when you enjoy what you are doing. Living in San Diego is price but then again it is a wonderful place to live.",
+        "advice": null,
+        "pros": "good benefits and compensation, flexibility with schedule, great employees to work with, get to use the leading technologies and very open to your ideas",
+        "summary": "Qualcomm is a leading innovator in the wireless computing industry.",
+        "role": "Staff Programmer Analyst",
+        "date": "Nov 10, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "It has grown too big in a short span, management is losing control.",
+        "advice": null,
+        "pros": "No wonder why it is one of the best companies to work for. Good career development. Qualcomm really values its employees.",
+        "summary": "Sr. Engineer",
+        "role": "Senior Engineer",
+        "date": "Dec 1, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "working hours need to be more strict",
+        "advice": "need some more ideas",
+        "pros": "Salary, benefits, workplace, co workers",
+        "summary": "Great place to work",
+        "role": "Engineer",
+        "date": "Dec 4, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Sometimes need to stay overnight",
+        "advice": "More dining selection",
+        "pros": "Learn Much in your filed",
+        "summary": "Good for your career development and personal growth",
+        "role": "RF Hardware Engineer",
+        "date": "Jan 9, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "at times there is a Hectic lifestyle",
+        "advice": null,
+        "pros": "Rapidly changing environment! good perks and smart people",
+        "summary": "Great place to work at!",
+        "role": "Software Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "not sure yet, this is my first company",
+        "advice": null,
+        "pros": "good benefits, nice location san diego",
+        "summary": "Good company to work for",
+        "role": "Anonymous Employee",
+        "date": "Jan 20, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "sometimes too much work load",
+        "advice": null,
+        "pros": "challenging project and learned a lot",
+        "summary": "very good experience in my life",
+        "role": "WCDMA",
+        "date": "Jan 24, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "good very good good experience",
+        "advice": "good very good good experience",
+        "pros": "qualcomm is a really good company",
+        "summary": "good",
+        "role": "Hardware Engineer",
+        "date": "Jan 27, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "- Schedule and checks on a spread sheets can sometimes get in the way of quality of work",
+        "advice": null,
+        "pros": "- Never short of Challenging work- Get to work with very smart engineers- Satisfaction of being a part of the company that is the current industry leader- Ability to gain experience in all phases of SOC development- Great benefits package",
+        "summary": "Great Place to Work",
+        "role": "Senior Hardware Engineer",
+        "date": "Jan 31, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "With growth in size of the company, decisions are slower, there is slack in the system.",
+        "advice": null,
+        "pros": "In the end, the company makes decisions. when compared to most companies of this size, it is a relief to see them move forward with decisions (right or wrong). Thats very crucial to success.Employees are well taken care of.",
+        "summary": "One of the best of the big companies",
+        "role": "Anonymous Employee",
+        "date": "Feb 8, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "nothing to complain about here",
+        "advice": "nothing",
+        "pros": "latest technology great team smarter team",
+        "summary": "great job in san diego area",
+        "role": "Anonymous Employee",
+        "date": "Feb 11, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "nothing I can think of",
+        "advice": null,
+        "pros": "Qualcomm is the best company to work for. Good benefits, innovative, open culture, a lot of learning opportunities, potential growth within company",
+        "summary": "Qualcomm",
+        "role": "Senior Analyst",
+        "date": "Feb 22, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Difficult to switch to management role from engineering role, Company is becoming big so furture opportunities may be slow (remains to be seen)",
+        "advice": "Keep up the good work",
+        "pros": "Cutting edge work, compensation is good (not great though) due to RSU, Job security, lots of technical learning opportunities",
+        "summary": "Great Company to work for",
+        "role": "Anonymous Employee",
+        "date": "Feb 23, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "San Diego housing stock is relatively poor. If you don't need 3500 sq feet with 5+ bedrooms but want to live in a nice area without wasting your money on an HOA or Mello Roos, its pretty slim pickings.",
+        "advice": null,
+        "pros": "Great technology and generous company.",
+        "summary": "Great place to work",
+        "role": "Anonymous Employee",
+        "date": "Mar 3, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Almost nothing bad. Anything is perfect. It is a place you will never forget. The only thing is that it is kind of quiet and a little far away from downtown.",
+        "advice": null,
+        "pros": "very nice people, very beautiful place, lots of working buildings and recreation center. In a word, it is a place that you want to contribute your whole strength!benefits package is very competitive and comprehensive, providing you and your family with extensive protection and security, along with quality, life-enhancing programs. We offer medical, dental, prescription drug as well as life and other benefit progr\u2026\u00a0ams.From the website.",
+        "summary": "nice place!",
+        "role": "ASIC Design Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Extremely defined work scope, which is good but at times constraining",
+        "advice": "Keep the good work going!",
+        "pros": "Great team, encouraging management, awesome work culture",
+        "summary": "Great place to work",
+        "role": "Software Applications Developer",
+        "date": "Mar 12, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "None - this is a great place to work. You can grow your career here, and hard work will always pay off. You can come in and leave whenever you want. On site facilities such as multiple gyms, pool etc make coming to work fun!",
+        "advice": "Keep it up! Maintain an open and honest culture. Encourage a good work life balance and a culture of innovation so that Qualcomm may continue to be the leader in wireless in the future as it is today.",
+        "pros": "Great perks, people, work environment. Management encourages a great work life balance. Extra benefits like dental, medical etc. are amazing. People are friendly, happy, and helpful.",
+        "summary": "Great culture!",
+        "role": "Software Engineer",
+        "date": "Mar 21, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Some projects get cancelled or lose steam",
+        "advice": null,
+        "pros": "Benefits, smart people to work with, good management",
+        "summary": "Good learning curve.",
+        "role": "Intern",
+        "date": "Mar 24, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "No many! Perhaps more equality is needed when it comes to Admin's bonus. For some executives, this does not come onto their radar, which leaves their admin out in the cold at bonus time....while others can look forward to a bonus regularly because their exec's are tuned-in!",
+        "advice": null,
+        "pros": "Qualcomm offers an energetic, innovative and dynamic workplace. Exceptional facilities, great employee benefits, and they keep working at it, looking for ways to improve in each and every area of the Company.",
+        "summary": "Qualcomm is a wonderful user-friendly company to work for",
+        "role": "Executive Assistant",
+        "date": "Mar 25, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "I haven't seen any cons so far.",
+        "advice": null,
+        "pros": "Nice perks, awesome work culture",
+        "summary": "Excellent place to work",
+        "role": "Engineer",
+        "date": "Mar 29, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "nothing too bad to talk about. Everyone was very nice",
+        "advice": null,
+        "pros": "Everybody was willing to help you out if you have any problems. Very flat organization. you can talk to just about anyone on your floor without much trouble.",
+        "summary": "Great company, wonderful people, and beautiful city.",
+        "role": "Anonymous Employee",
+        "date": "Apr 3, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Very fast pace leads to long work hours with homework after dinner hours and high stress",
+        "advice": "Excellent leadership at top level. Bring same levels of management at mid levels.",
+        "pros": "Very Good benefits compared to industry",
+        "summary": "Great working atmosphere, fast paced and intellectually rewarding with cutting edge technology exposure",
+        "role": "Senior Manager",
+        "date": "Apr 7, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Need to make some tough decisions on under-performing businesses and projects.",
+        "advice": "Keep up the good work.",
+        "pros": "Phenomenal business model that enables a great company culture. They take care of employees and truly believe in and invest in technology innovation.",
+        "summary": "Great company in a dynamic industry",
+        "role": "Anonymous Employee",
+        "date": "Apr 9, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Tough Interview and long interview process",
+        "advice": null,
+        "pros": "Excellent Pay and good growth of company",
+        "summary": "Test Engineer",
+        "role": "Test Engineer",
+        "date": "Apr 12, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Sometimes you still have to deal with the politics of a big company.",
+        "advice": "You will get more out of your employees if you manage down instead of up.",
+        "pros": "Where I am at, we are working on the latest and greatest. I work around highly motivated, intelligent people who keep me young and challenged.",
+        "summary": "Great place to grow your career if you get in the right part of the company.",
+        "role": "Senior Staff Software Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Not I can think of",
+        "advice": null,
+        "pros": "Very good salary, benefit and work-life balance",
+        "summary": "Best Company to Work For",
+        "role": "Senior Engineer",
+        "date": "May 8, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "IT budgeting is tight which doesn't help with providing us with the tools to increase our productivity.Higher ups can get a bit political which can get in the way of collaboration.",
+        "advice": "Don't be political. Encourage collaboration. Share ideas and allow teams to work together.",
+        "pros": "Qualcomm has a great business culture and plenty of smart people to work with. Lots of opportunities if you want to work on different projects and move around the company. Discounts and some events are given out to employees. Most employees are happy to work at Qualcomm and it has good name recognition.",
+        "summary": "Solid teamwork in a friendly environment",
+        "role": "Senior Programmer Analyst",
+        "date": "May 30, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "The company has more potential to explore new business opportunities but decision making is slow and sometimes not right! The company has layer of VPs and leaders who are not working as should be to move the company to the next level. it will be better to have more energetic leaders that are sincerely want to help the company to continue its success.",
+        "advice": "Identify potential leaders and promote them to lead the company to more success.",
+        "pros": "Smart people, innovative culture, great learning opportunities, relatively small-size someone that helps in networking, reasonable managment team, secure job with less layoffs.",
+        "summary": "A great company to work for but it can be greater!",
+        "role": "Princiapl Engineer",
+        "date": "May 30, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "it will be hectic sometimes dealing with customer engineering department",
+        "advice": "Keeping doing the same.",
+        "pros": "ample amount of opportunities to work on new things and demonstrate leadership qualities. Freedom to design and develop a feature.",
+        "summary": "good company to work for",
+        "role": "Staff Engineer",
+        "date": "Jun 2, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Difficult to move to a new location.",
+        "advice": null,
+        "pros": "Great place to work ; loads of scope for learning",
+        "summary": "Best place to work for",
+        "role": "Anonymous Employee",
+        "date": "Jun 9, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Engineers spend about 50 to 60 hours a week :D. There is too much work to do.",
+        "advice": null,
+        "pros": "Good PayExcellent work atmosphereFast Paced DevelopmentThey really take good care of their engineersThe performance review system is very fair",
+        "summary": "Awesome Company for someone fresh out of college",
+        "role": "Staff Engineer",
+        "date": "Jun 16, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Can't think of any.... May be high pressure environment...",
+        "advice": "Keep up the good work",
+        "pros": "Work culture is very good. Competition is too far behind. Takes good care of employees. With fast company growth comes many career advancement opportunities.",
+        "summary": "Overall excellent experience working at Qualcommm",
+        "role": "Senior Staff Manager",
+        "date": "Jun 23, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "slackers are allowed to hang around too long. People take advantage of the employee friendly culture",
+        "advice": "Work to reward the true superstars, average employees also get the perks of bonus, stock etc., and don't put in the effort. Can be demoralizing to those who are dong the work. HR doesn't support mgt on personnel issues.",
+        "pros": "Internal training and opportunity to rotate and create a career path. great benefits and Flexibility. Management trusts you to do your job and gives you freedom to manage time. Very conscious of community image and ethics.",
+        "summary": "Innovative, highest ethics",
+        "role": "Finance Manager",
+        "date": "Jul 12, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Some of the management is stricken with the political banter of most major companies",
+        "advice": null,
+        "pros": "The work life balance here is great",
+        "summary": "Great place to work",
+        "role": "Anonymous Employee",
+        "date": "Jul 17, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "The salary could be improved.",
+        "advice": "No advice. Keep up the good work.",
+        "pros": "Good work, Great workplace environment, Smart people and good management",
+        "summary": "Amazing workplace and co-workers. Great place to work for",
+        "role": "Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "I couldn't think of any cons. It was a really wonderful experience.",
+        "advice": "Keep up the good work.",
+        "pros": "The work done by Qualcomm is really good. You can tell that the people love what they do and help you in any way possible in your tasks too. I got to work on the actual project unlike many other internships around. Amazing benefits for an intern like awesome housing, trip to San Diego etc. The management and HR is very helpful and down to earth.",
+        "summary": "One of the best experiences ever",
+        "role": "Interim Engineering Intern",
+        "date": "Aug 9, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Lack of work/life balance , top heavy management .",
+        "advice": "Business development needs an overhaul .",
+        "pros": "Excellent benefits , challenging work , flexible hoursQualcomm is an excellent company to work for , for most part Qualcomm employees are happy bunch and fun to work with.",
+        "summary": "A great company to work for.",
+        "role": "IT Manager",
+        "date": "Aug 10, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Depending on department, it can be a workoholic culture. Corporate HQ is far from city life and can be a bit sterile",
+        "advice": null,
+        "pros": "Great pay, benefits, company culture and performance review process. Employee hires tend to stay for life.",
+        "summary": "Creative and driven employees, family-type culture",
+        "role": "Anonymous Employee",
+        "date": "Aug 12, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Hard work. Most people work beyond normal work hours.",
+        "advice": null,
+        "pros": "Benefits are superb. Review twice a month, so you can get raise, bonus, stock twice a year if your review is good.",
+        "summary": "Good benefits",
+        "role": "Staff Software Engineer",
+        "date": "Aug 19, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Employees work long hours, typical of most high tech companies. Evenings, weekends, and holidays are not sacred either. At any level of the company you can be expected to be called when you are needed. This is not exactly a con but more the reality of being at a successful high tech company. It is, however, very busy and very stressful, and if you don't thrive in that kind of atmosphere then it is not the place for y\u2026\u00a0ou. There is increasingly a more political atmosphere, which is really a shame. It was probably inevitable with the growth of the company over time, but it has greatly lessened the enjoyment of the workplace overall and added to the stress level. I feel that as the company has gotten so much larger, there is not enough understanding at the executive levels of the day-to-day trials at the working level and middle management level. This has also added to the frustration of people who put so much of themselves into their work.",
+        "advice": "Try to understand the political situation better -- it really is getting in the way of good work and good decision-making. Make sure that executive management within the business units is really working for the best outcome of the company and not for their own egos or their turf.",
+        "pros": "Employees are very bright, first-rate, and have can-do attitudes. The culture of the company is excellent - employees at all levels are encouraged to exercise judgment, make decisions, provide opinions, share information across departments, and also to continue to develop their own skills in many areas. Primary employee benefits such as medical, dental, vision coverage, and compensation are first-rate, plus there are\u2026\u00a0 the additional benefits of stock options, bonuses, and many other extras. In general, this is a company that understands that their employees are their greatest asset. Many of the folks in management have good management skills. As hard as people work at Qualcomm, most people really like working there because of the dynamic and challenging environment and the sense of accomplishment and teamwork. There are very good training opportunities within the company. It would be difficult for anyone to not learn a great deal of useful knowledge and skills while working there.",
+        "summary": "High Quality Employees",
+        "role": "Director",
+        "date": "Aug 24, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "very engineer driven, less attention to non engineer roles",
+        "advice": null,
+        "pros": "Very innovative and amazing culture",
+        "summary": "Great company",
+        "role": "Project Manager",
+        "date": "Aug 25, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "I've been staring at my screen for the past 5 minutes and I am finding it very difficult to find a flaw with this company.",
+        "advice": "Keep doing what you are doing, it's working!",
+        "pros": "Visionary leader, great technology portfolio and offers opportunities to work on many different projects, rewards performance well, wide access to learning and development opportunities, very good IT systems and support, family-oriented company, good benefits, just a great company to work for filled with smart, innovative, nice humble people",
+        "summary": "Professional heaven for the smart, innovative, and ambitious",
+        "role": "Senior Learning & Development Specialist",
+        "date": "Aug 25, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "So so salary, heavy work load.",
+        "advice": "Spread out workload evenly is the key to success.",
+        "pros": "Great diversity, fast pace and fun people",
+        "summary": "Great company",
+        "role": "Senior Software Engineer",
+        "date": "Aug 27, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "- Work load may be uneven between various teams- Work life balance may not be great",
+        "advice": "- Further improve benefits / perks for employees",
+        "pros": "- Friendly atmosphere- Some of the smartest people to work with- Easy access to Middle and Upper Management- Good benefits / perks",
+        "summary": "Great company to work for!",
+        "role": "Staff Engineer",
+        "date": "Aug 28, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "If you want a 9-5 job this is not the place to be. I don't see this as a con.",
+        "advice": "Continue to be transparent. It makes for a happy work force.",
+        "pros": "The overall innovative and laid-back environment is great. Teams are collaborative and people like coming to work here. The salaries are nice, too. Overall total compensation and benefits are superb.",
+        "summary": "Great pleace to work!",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "On going construction creates lack of parking",
+        "advice": null,
+        "pros": "High level of interaction with different cross-functional teams",
+        "summary": "Good Learning Experience",
+        "role": "Engineer",
+        "date": "Sep 6, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "May be difficult to shine when surrounded by so many intelligent people.",
+        "advice": null,
+        "pros": "Relaxed environment. Cutting edge projects. Co-workers extremely helpful and encourage question asking.",
+        "summary": "Fun, Challenging, and Rewarding",
+        "role": "Internship",
+        "date": "Sep 9, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Sometimes targets are too cahllenging",
+        "advice": null,
+        "pros": "Competeive Technology in chip design and SW. Optimal invironment for best vertical integration of the RFsystems.",
+        "summary": "Smart people, excellent work place",
+        "role": "Anonymous Employee",
+        "date": "Sep 9, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Project keeps on rolling , enormous work pressure",
+        "advice": null,
+        "pros": "Working environment is very cool...",
+        "summary": "Its great company to start your career",
+        "role": "Digital Design Engineer",
+        "date": "Sep 19, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Since it's a democratic decision making environment, it's a bit slow sometimes.",
+        "advice": null,
+        "pros": "The people are really great.",
+        "summary": "Awesome",
+        "role": "Anonymous Employee",
+        "date": "Sep 25, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Full time didn't seem to have much advancement.",
+        "advice": null,
+        "pros": "They were pretty cool. 10/10 would reccomend interning there. Surfing is fun.",
+        "summary": "Intern",
+        "role": "Anonymous Employee",
+        "date": "Oct 7, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "slow grow, EXPENSIVE CITY, SMALL BONUSES compared to some tech companies",
+        "advice": null,
+        "pros": "Not too intensive, pays well, good weather city, relaxed working hours, friendly work environment",
+        "summary": "Works pretty well",
+        "role": "Anonymous Employee",
+        "date": "Oct 12, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Work can be demanding and stressful at times.",
+        "advice": null,
+        "pros": "Great benefits and work life balance",
+        "summary": "Great place to work",
+        "role": "Anonymous Employee",
+        "date": "Oct 17, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Only slightly higher salary than average.",
+        "advice": null,
+        "pros": "Balanced work-family living style if your department is not at the product cycle. Very good medicare package, especially for families with kids.",
+        "summary": "Providing self-development opportunities (as long as you're at the right place)",
+        "role": "Anonymous Employee",
+        "date": "Oct 19, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Slightly less than market rates, some divisions are top heavy, should hire more junior engineers.",
+        "advice": null,
+        "pros": "Innovative workplace, great collaboration, good benefits. Lots of perks, university feel at campus, great extra curricular activities and community efforts.",
+        "summary": "Great collaborative place to work",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Not a single complaint, nothing negative to say.",
+        "advice": null,
+        "pros": "Great benefits, great work environment, great management",
+        "summary": "Qualcomm is one of the greatest companies",
+        "role": "Anonymous Employee",
+        "date": "Oct 30, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Some of the seminars and classes are offered only in the San Diego facility.",
+        "advice": "Wherever possible, please make the seminars available via webcast.",
+        "pros": "Signing bonus, stock grants, good work culture.People celebrate each anniversary with Qualcomm by bring in several dozen donuts or other goodies.Company supplies free soft drinks and bottled water.The also put out various types of snacks crackers, popcorn,pretzels, various fruits and veggies.Company has seminars and classes often on a variety of subjects. Many of these are offered by webcast and recor\u2026\u00a0dings.",
+        "summary": "Qualcomm is a great company to work for",
+        "role": "Staff Engineer",
+        "date": "Nov 2, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Pace of product development and delivery can be rough on engineering. Being remote to San Diego is still a bit of an issue, although vastly less than 5 years ago. Not that good of a place for mediocre/run-of-the-mill engineers. Could use some improving on campus perks relative to other Bay Area options.",
+        "advice": "Expand on campus perks / building layouts / etc to better match the other companies in Bay Area.",
+        "pros": "Aggressively pushes forward on mobile across all areas, on cutting edge of mobile technology expansion. Lots of opportunity for top engineers to contribute and grow into technical leadership roles. Relative to other companies I have worked at, pretty non-political organization. Strong and fair compensation (based on company performance) across all tiers of engineering. Engineering centric org. Generally engineers are\u2026\u00a0 hard working, smart, and decent people.",
+        "summary": "Aggressive company, good compensation",
+        "role": "Staff Engineer",
+        "date": "Nov 6, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Too concentrate on your special field, few chance to get close to other work",
+        "advice": null,
+        "pros": "Good salary, working environment, training platform",
+        "summary": "Good entry level job in Qualcomm",
+        "role": "RF Test Engineer",
+        "date": "Nov 6, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "I was an intern here.. So can't comment on this..Sorry !",
+        "advice": "Doing a great job !",
+        "pros": "you get to learn a lot of things from a team of professionals",
+        "summary": "Amazing experience, helpful colleagues..Really good work atmosphere, Best place to work !",
+        "role": "Anonymous Employee",
+        "date": "Nov 8, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "There are none to complain about",
+        "advice": "Great job.",
+        "pros": "I love where I am working at.",
+        "summary": "RF support engineer",
+        "role": "RF Support Engineer",
+        "date": "Nov 16, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "does not pay similar to bay area.",
+        "advice": null,
+        "pros": "Flexi Timing, Friendly and good benefits",
+        "summary": "Good Working Environment",
+        "role": "Senior Systems Engineer",
+        "date": "Nov 18, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Can't think of any really",
+        "advice": null,
+        "pros": "superior technology, great people, great management,",
+        "summary": "great company and great people",
+        "role": "Anonymous Employee",
+        "date": "Nov 20, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "None that I can think of",
+        "advice": "Keep doing the great work!",
+        "pros": "smart people, fast moving, lots of projects to work on, good pay & benefits",
+        "summary": "Great company to work for in san diego",
+        "role": "Senior Staff Engineer/Manager",
+        "date": "Nov 26, 2013",
+        "is_current": true
+    }
+]

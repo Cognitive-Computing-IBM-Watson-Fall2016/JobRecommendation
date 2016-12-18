@@ -1,0 +1,902 @@
+[
+    {
+        "rating": 3,
+        "cons": "After being wined and dined touring China and Russia, CEO Palmisano came back to US to talk about how \"messy\" Western democracies are and immediately began shifting jobs overseas at increasing rates including selling PC company to Lenovo. There is a large bureaucracy with lots of internal fiefdoms. Company has gone from respecting employees and striving for excellence to shooting for the middle ground across compensa\u2026\u00a0tion and benefits. Work can be all-consuming and the wrong immediate management can make life miserable.",
+        "advice": "Currently at significant risk of destroying a great institution by ignoring the core values that built the long term sucess of the company for short term gains from outsourcing and compensation changes.",
+        "pros": "IBM provides a diverse set of opportunities across a wide spectrum of information technology, with considerable resources available when properly aligned. There is the ability to work on significant projects and have a global impact. The company has a long history and many creative and experienced professionals.",
+        "summary": "IBM: Great opportunities but bureaucratic",
+        "role": "Senior Software Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Work/life balance is not respected consistently. Lack of communication around difficult policy decisions. Bureaucracy of a large company can easily interfere with getting things done. Culture needs to move from controls-based to values-based in order to unleash creativity and innovation.",
+        "advice": "Engage in more straight talk with workforce regarding business performance and link to rewards. Find a way to balance required business controls with ability to be creative, innovative, risk-taking.",
+        "pros": "Breadth of career opportunities due to scale of company. Robust career development programs supporting personal growth. Good managers who take their responsibility seriously can make a huge difference in the employee experience.",
+        "summary": "Good with some provisos.",
+        "role": "Human Resources Partner",
+        "date": "Aug 2, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Politics, politics, politics. Most of the jobs are doing some kind of software maintenance. Few new/good projects to work on.",
+        "advice": "More competitive salaries would attract more people to work for IBM.",
+        "pros": "Good infrastructure, global corporation, very flexible company (hours).",
+        "summary": "OK place to work",
+        "role": "Software Engineer",
+        "date": "Aug 2, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Culture of senior staff members (Associate Partners, Partners) create a two class system of employees",
+        "advice": "Recognize expereince and talent of your resources; expereince outside of IBM is more valuable than the GBS brass thinks (in-bred culture)",
+        "pros": "Great place for young professionals to start their career. Mobile career path, provides opportunities to work in different industries, compared of bein 'stuck' in a single industry and comapny for an extended time.",
+        "summary": "Great place, but cultue needs a more pragmatic approach",
+        "role": "Management Consultant",
+        "date": "Aug 4, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "They are Poughkeepsie-centric. All opportunites for growth and advancements are given to employees at the IBM Poughkeepsie site.",
+        "advice": "Think about the needs of your employees as much as you think about increasing profits for your stockholders. Some of us have had to bring our own office supplies. We also have to do system maintenance ourselves on our workstations.",
+        "pros": "It's not the best place to work or the worst - it's a job.",
+        "summary": "It's a job ...",
+        "role": "Anonymous Employee",
+        "date": "Aug 4, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "A person can get pigeonholed on a skill and be required to perform it over and over again. Just because a person is good at something doesn't mean that they want to continue to do it forever.",
+        "advice": "Don't micro-manage. Listen to the employees when they tell you the negatives about pursuing certain lines of actions. Stop the fire drills.",
+        "pros": "Usually, there are good opportunities to learn and experience new things.",
+        "summary": "Neutral on the topic of IBM.",
+        "role": "Managing Consultant",
+        "date": "Aug 5, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Short-term mentality ... esp. with expenses.",
+        "advice": "Take a long term view -- remember \"Respect for the employee\"!!!!",
+        "pros": "Tremendous opportunities -- we have an extremely broad set of opportunities to choose from.",
+        "summary": "Opportunities abound but management is always looking to cut costs",
+        "role": "Senior Software Engineer",
+        "date": "Aug 6, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "- The belts in the company are extremely tight right now. Despite record profits, IBM is not investing the money in their employees.- Getting your job outsourced is a constant fear.- attempting to complete any task is a constant battle. The bureaucracy at IBM is worse than its reputation.",
+        "advice": "Invest in your employees (whether it be an above-inflation raise, or modern equipment to do their jobs). The company is in a great position to succeed in the industry, but the turnover rate will continue to rise without further monetary investment.",
+        "pros": "There's ample opportunity to work on cutting edge stuff. Anyone who enjoys systems programming and is good at it will have a job at IBM.",
+        "summary": "A great place to work, as long as money isn't your motivator",
+        "role": "Staff Software Engineer",
+        "date": "Aug 6, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Very large company. It is hard to network. You have to take the initiative to met people and find growth opportunities. The company focuses on the bottom line too much and sometimes ignores it's people.Projects can be mundane and boring. Billing hours is a top priority, but this is typical at most consulting firms. Bonuses are small compared to competitors.",
+        "advice": "Take more time to take care of your people. Very bottom line oriented and issues are black and white.",
+        "pros": "Brand recognition. People recognize the brand and it does carry value as a technology provider. In regards to services, it is still trying to build a reputation in other service offerings.If you are looking for stability, IBM is a great company.",
+        "summary": "Great brand, overall experiences have been fair, but not stellar.",
+        "role": "Managing Consultant",
+        "date": "Aug 8, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "The amount of time required to complete work often requires late nights, early mornings, weekends. In other words, expect to work 50+ hours on a regular basis to complete just the bare necessities of your workload. Also, formal training in a classroom environment is rarely permitted. Salary increases is quite the exception for 'good', 'reliable' workers in or out of a recession. Exceptional performers who produce int\u2026\u00a0ellectual capital and certify in various disciplines see an increase in their salary.",
+        "advice": "Monetary encouragement is a good thing for consistent performers. It goes a long way to helping the performer feel valued and motiviated to continue the long hours and demands of a supporting role.",
+        "pros": "Experience working with a global company is invaluable. Many opportunities on the consulting side to work just about anywhere in the world there are IT needs. Boasting wise - it is a world renown company which looks good in your portfolio. If you take advantage of networking opportunities you can meet some really sharp individuals who can aid you in your career growth.",
+        "summary": "Associate in Project Management Opinion",
+        "role": "Associate Project Manager",
+        "date": "Aug 12, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "There is a laser focus on managing revenues at the cost of who people are treated. Too many management layers lead to too many tools required by front line sales.",
+        "advice": "Let the sellers sell.",
+        "pros": "Team selling approach is widly used. Mobile office. Advanced products",
+        "summary": "IBM Software Sales",
+        "role": "Sales",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Easy for your job to evolve into something with no future and no way out.",
+        "advice": "Recognize that talented people are a resource in short supply and prevent the various organizations within the company from hording them. Identify talented people and ensure that they are given the opportunities to move around the company. Too often, they are considered too critical to be allowed to move and this just causes them to become boree and then take matters into their own hands and leave the company.",
+        "pros": "You can get access to a number of technology leaders. In the right place you have the ability to work on leading edge systems.",
+        "summary": "IBM is a good place to start a career.",
+        "role": "Senior Software Engineer",
+        "date": "Aug 16, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Large company with plenty of red tape. Sometimes can be very political. Working across groups and components can be challenging. There can be a lot of negotiating between groups on how to split revenue and this can hamper or completely halt a project. Different groups internally may have similar products that compete with each other.",
+        "advice": "Reward the employees who are doing the right things.",
+        "pros": "Good place for work/life balance. You have the flexibility to work from remotely or from home. Big company with many areas of opportunities to work in. The company rewards you for innovating and coming up with ideas that generate patents. The people are generally competent and easy to work with.",
+        "summary": "Good company overall.",
+        "role": "Software Engineer",
+        "date": "Aug 17, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Management was too involved... micro managing. Listened to concerns of employees, but rarely acted on them.",
+        "advice": "The employees are the best source of what can and cannot be done in a reasonable amount of time. Listen to them.",
+        "pros": "Can dress casual in shorts and a t-shirt. Laptops given to all employees for ease of moving around. Can take Laptops to meetings and keep up to date on the tasks for the day. Although it is becoming less common, I was able to have an office (not a cubicle) all to myself. This allowed for times when I could shut my door and concentrate on my work. IBM was fair in giving performance reviews, and they encouraged people \u2026\u00a0to expand beyond their normal tasks and seek promotion. Praise and kudos were freely given when an employee did good work.",
+        "summary": "Mixed feelings for IBM as a place to work",
+        "role": "QA Engineer",
+        "date": "Aug 18, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "I found IBM slow moving....also there was this \"one size that fits all mentality\" that really hurtproductivity. The biggest disappointment for me was I thought IBM was a place for growth, training andlong term employment. It really turned out to be a typical US company these days...ie no direction, notraining and the minute the stock falls there's an employee fire sale...many employees I meet saidmana\u2026\u00a0gement cared more about stock price than their welfare...i tend to agree. Also....IBM seems toshed a lot of really good talent at the entry level.",
+        "advice": "1) lots of good talent goes out the door at the entry levels because of poor entry lower management.",
+        "pros": "The best reasons to work for IBM are one, name recognition, second, the opportunity to work anywhere inthe world and finally very good advancement opportunities. I met a lot of great people.",
+        "summary": "What you see is what you get.",
+        "role": "Account Executive",
+        "date": "Aug 21, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "There is an incredible amount of overhead between the people who do the work and the level of associate partners, partners, regional managers, practice leads, practice managers, industry leads, industry VPs, competency VP, etc in the Services area. I would generate about $385,000-$555,000 every year in consulting revenue for the company, but my bonuses and raises were a joke for the kind of contribution I made to the\u2026\u00a0 company. The overhead in Services must be addressed.",
+        "advice": "Fix the Services overhead model and allow for a flatter management structure, so the practitioners doing the work are rewarded for the work they do day in and day out by leaving their family every week to on client sites to make IBM profits and make the cliets succesful.Fix the silos within IBM. As a practitioner, I was amazed at how IBM Hardware would critisize IBM Software and vice versa. Software also give\u2026\u00a0s away or trivializes the work the IBM Services does at client sites when IBM wants to sell software there, which needs to be addressed. The company does not speak with one voice nor does it act as one entity. It has gotton better, but not my much when I was there for the last 10 years.",
+        "pros": "IBM is in the cutting edge of rolling out technology solutions to meet business challenges. Whatever IBM comes out with like eBusiness, Information on Demand, Websphere, etc. is copied by the competition, but IBM is always ahead of the game. The level of technical competence is high in the right pockets, which ensures that they could always execute with the right people on the team as members or SMEs.",
+        "summary": "IBM must address the bloated management in its Global Services division",
+        "role": "Senior Managing Consultant",
+        "date": "Aug 21, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Business model assumes no need to plan for the future. In fact, business model only viable is new contracts are constantly acquired.",
+        "advice": "Avoid loss of valuable skills by reducing difficulty in cross tower transfers",
+        "pros": "Potential foot in the door for IBM development and research.",
+        "summary": "If you come in via outsourcing, make yourself visibly valuable.",
+        "role": "Advisory IT Specialist",
+        "date": "Aug 26, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "You need to be available 24/7, and the talk about work/life balance is just that - talk. While the training opportunities exist, utilization targets make them almost impossible to take advantage of.",
+        "advice": "Be more understanding of employe needs. Just becuase you decide to work 24/7, don't \"expect\" it of your employees. Everyone is willing to pitch in when necessary, but some people really do have a life outside of work.",
+        "pros": "The organization has very deep pockets, and they provide a good opportunity for knowledge learning. There is tremendous importance placed on ensuring employees have the opportunity for training, both classroom and on-the-job. And cross-functional training is encouraged as well.",
+        "summary": "It's not my father's IBM anymore",
+        "role": "HR Manager",
+        "date": "Aug 28, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Excessive overhead created by matrix organizational structure. Pressure to outsource is constant and there is little job security. 46 hour work week is expected. Employees have to fight for themselves to get recognition for work they do.",
+        "advice": "Senior management should give IT staff more recognition. Also, try to minimize situations where employees are asked to report to multiple managers at the same time for different projects.",
+        "pros": "Flexible hours and work locations. Lots of free classes available from the IBM Global Education website. The benefits are excellent. You get 18 days of vacation to start and that becomes 23 days on your tenth year.",
+        "summary": "Management is putting the squeeze on IT staff.",
+        "role": "Advisory IT Specialist",
+        "date": "Sep 1, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Anytime IBM can replace you or outsource your job (from India) for a cheaper cost to them.",
+        "advice": "You have to consider employees who are performing well and not just simply replace/outsource them for a cheaper cost.",
+        "pros": "I can work from home if I have to.",
+        "summary": "Low job stability",
+        "role": "Advisory IT Specialist",
+        "date": "Sep 2, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The lack of job security. One week im secure for years, the next week I am on the chopping block. Very nerve racking. There seems to be always a budget issue. Apparently it is possible to go from contractor status to full time regular status....but we shall see. Also there is no teaching. You need to learn the job yourself or you sink.",
+        "advice": "MAKE UP YOUR MINDS!!! I hate all of the corporate restructuring. Just let me do my job and tell me I have a job at least for another year. If not, let me know so I can go look for something else.",
+        "pros": "The pay. Good pay and easy work. I have simple projects with lots of detail. The deadlines are flexible as long as I am making progress. The pay is great but since I am with a contractor, no benefits.",
+        "summary": "good pay but high stress if you will have a job tomorrow.",
+        "role": "Computers",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "1> No salary hike, no promotions2> Not enough big projects in App Dev and Maintenance area... It's difficult to get large projects to lead/manage.3> Lots of meaningless reviews, quality assurance activities, etc.",
+        "advice": "1> Employees do expect some salary hike. After all, there is something called cost of living.2> If you're too busy to spend time with your direct reports even once a month, you should ask someone to be the manager.3> Employees need feedback. Be blunt, but be clear. Employees deserve some candor.",
+        "pros": "1> Stable organization, decent benefits, great work-from-home culture.2> Lots of groups, departments... If you don't fit somewhere, you can try your luck at another dept.3> People are respectful of other people's viewpoints",
+        "summary": "low risk, low return",
+        "role": "Delivery Project Executive",
+        "date": "Sep 3, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "You do not join IBM Software Group because you are a risk taker. This is a place for the risk adverse and it shows within the company. Many within IBM plateau. They do enough to take a paycheck but nothing more. They are not fired up to make the company grow and succeed. It is a place to hide but still take home a decent paycheck.",
+        "advice": "Get rid of dead weight. Be more aggressive on divisions' contributions to the bottom line. Especially for development teams. Reduce base pay and increase variable pay. This way individual contributors are not motivated to \"hide\" in Software Group but will leave by their own free will when compensation is commensurate with their contribution. For instance, it is not right that a rising band 8 is paid less than a band \u2026\u00a09 that is dead weight. Many managers are afraid to give out PBC 4 ratings because of legal recourse and feel a 3 is too much work over time.",
+        "pros": "Stability. The main reason to work for IBM is stability. IBM is less likely to be affected as much as other companies to swings in the job market.",
+        "summary": "Get rid of dead weight",
+        "role": "Advisory Software Engineer",
+        "date": "Sep 4, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Lack of job security, disconnect in communications as manager and employees are scattered, hard to focus when no clear objectives defined outside of contract obligations. The raise structure, iwhich is a cost savings for IBM, and does reflect the needs of it employees, it is based on market data from all of North America. It leaves it open for them to always point to an area of the country that is doing poorly and us\u2026\u00a0e that as excuse to why they are unable to pay you more money.",
+        "advice": "There is so much that needs to be done in improving IBM. They just don't seem to care for their employees, as we are all faced with price increases from fuel, energy, and food. All they seem to focus on is what everyone else is doing. It is this kind of thinking that makes a company a follower not a leader.",
+        "pros": "free e-learning, opportunity in other career paths, flexible work schedule, 401K",
+        "summary": "Large corporation that is all about the numbers, IBM is not your father's company",
+        "role": "Procurement Commodity Manager",
+        "date": "Sep 4, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Work life balance is weighted too much to work especially since we are a global economy and deal with other geos that are in different time zones. There is too much beauracracy. There are challenges to move beyond a certain level unless you are located in a lab. Too many meetings.",
+        "advice": "Listen more to people at the lower levels. Seek that information in a non-threatening or non-intimidating environment.",
+        "pros": "There are very bright people and the work is challenging. Good benefits. Opportunity to completely change career directions (e.g go from technical to sales). Management is taken very seriously. You can learn a lot and there are some very good personnel practices. Responsibility is given to people throughout the organization. The company cares about its customers and is succesful on the whole. You do get exposed to gl\u2026\u00a0obal cultures and there is commitment to diversity",
+        "summary": "IBM review",
+        "role": "Senior Engineering Manager",
+        "date": "Sep 5, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Too big, a lot of slackers. Very difficult to \"work your way up\" as all future raises will be based upon your incoming salary with a 5% promotional cap. 5% of nothing is nothing, even though the nothing is backed by an MBA (3.9 GPA). Will be moving on......",
+        "advice": "IBM preaches \"human capital - our greatest asset\"... look around, phenomenal people, exceptional talent. Tap that market - but PAY them what their worth. Enough empty salary takers based upon ability to \"get in with the right person\" - these opportunities aren't available to all. Sometimes, the less you know the less you're a threat so the more you're paid by your manager.",
+        "pros": "Work / Life balance. Work from home. Auto contribution to 401k",
+        "summary": "Have worked hard, but hard work doesn't seem to be appreciated... at least not monetarily!",
+        "role": "Project Manager",
+        "date": "Sep 7, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "salary is sometimes completely arbitary and not proprotionate to talent",
+        "advice": "work on challenging projects",
+        "pros": "salary and challenge. it is a good place to work for a fresh student out of the college but might not be a best place for seasoned developer who might want to achieve something. salary wise this is okay but not the best. work culture wise it is good. good ethics are there but it also depends on the group that you work in. some people have good skills and knowledge sharing but many do not possess that and do not know \u2026\u00a0how to keep the talent within the company. it also depends on the manager that you work under",
+        "summary": "software engineer",
+        "role": "Software Engineer",
+        "date": "Sep 7, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Most US jobs being offshored forcing those left behind to find less satisfying/interesting work or leave. Alot has changed in the past 5 years. Work-Family life balance is no longer a priority for management - \"Family First\" used to be a mantra of IBM. They have cut pay, cut work force, don't give raises and those left behind are working harder and longer hours for less pay.",
+        "advice": "Cut a couple layers of management - Do you really need 7 layers. Please treat us with respect and honesty. You demand loyalty from your workforce but give none in return.",
+        "pros": "Alot of education opportunities. Working from home.",
+        "summary": "US workers will not find a lifetime career here.",
+        "role": "IT Architect",
+        "date": "Sep 8, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Career pathing is very nebulous outside of Global Services. Expect a slow, slow progression in your career track even if you are a strong performer. Company is pretty conservative and not very entrepreniurial. Managers weren't always well trained in career coaching and development skills for employees. Although they are clear that 'you own your career', sometimes it felt more like an excuse not to have well defined c\u2026\u00a0areer tracks instead of really empowering employees. There were not a lot of opportunities to network with other groups in the company which also made it more difficult to take advantage of the size of the company in terms of growth opportunities. Salaries are OK, but don't expect much in the way of incentive compensation or substantially better pay for high performance.",
+        "advice": "Create more internal leadership development options for 'fast tracking' high potential/performance young talent in the company.",
+        "pros": "Great company reputation. Lots of different lines of business to move between over the course of a career. Pretty good as far as work life balancing, especially in terms of coming up with flexible working arrangements for people with differing needs (e.g, work from home). The stock purchase plan was pretty generous in terms of the discount versus the market. There were always a lot of training opportunities available\u2026\u00a0. There are a lot of smart people especially in highly technical parts of the company, but the business side functions were weaker in comparison. IBM still does offer the opportunity (though no longer the guarantee) of long term tenured employment.",
+        "summary": "Good company to be at, but expect a slow climb",
+        "role": "Program Manager",
+        "date": "Sep 8, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Stagnant salary and career growth. New hires fleeing due to uninpired leadership and work. Very low morale. High cost of living and not other opportunities in the area outside of IBM keeps salaries down.",
+        "advice": "Focus more on employees instead of just the bottom line and you may be surprised as the impact on the bottom line",
+        "pros": "Tremendous work flexibilty in terms of when and where to work. Depending on job may work with some of the best minds in the industry. Salary and benefits are competitive, however the cost of living in the Poughkeepsie, NY location has gotten dramaticly more expensive over the past few years but salaries haven't nearly kept up to make it worthwhile to live/work here instead of for example a place like Austin, TX.",
+        "summary": "Good job flexibility helps offset stagnant salary/career growth.",
+        "role": "Staff Software Engineer",
+        "date": "Sep 14, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Stupid upper management decisions. Recently, many IT Specailists were given a 15% pay cut and then required to work overtime to make it up. I initially did not have any issues with this as I already worked more than enough overtime to make up the 15%. But, come time for the annual raises, I was not given one despite being rated a top contributor for the last 5 years (very, very rare!). IBM has taken away the incentiv\u2026\u00a0e to work hard.",
+        "advice": "Give more $$ back to your workers and they will work loyaly. Quit making purchases of companies that don't fit within IBM.",
+        "pros": "In my position as a Senior IT Specialist, I have the ability to work from home full time and create my own flexible work schedule. As long as I get the work done, my immediate management isn't concerned about micro-managing my workload. While IBM has always provided good benefits, they have dimminished over the years. For example, the previously guaranteed pension plan is now merged into the 401K plan.",
+        "summary": "Its not the same IBM anymore.",
+        "role": "Senior IT Specialist",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The bureaucracy is painful. Way too many project managers collecting status and bothering others doing real work. Not very agile in projects. It is hard to change positions within the company. Easier to leave.",
+        "advice": "Cut out middle management. Find ways for faster development. We have too many VP's I don't know the names of. Outsourcing development to BRIC countries is understandable but make sure they are more useful than hurtful to the current developers.",
+        "pros": "It's a large company with a lot of different opportunities. If you choose you won't get bored. They also are pretty good with work/life balance.",
+        "summary": "Too much management to be agile and innovative.",
+        "role": "Staff Hardware Engineer",
+        "date": "Sep 18, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "- salary is low and raises are very low even with great year-end ratings- expectations to always work over 40 hours per week- always cutting jobs, worry all the time about lay-offs- awards are far and few between- employee morale is terrible- education is cut every year- too many approvals are needed for everything (education, expenses, OT)",
+        "advice": "- encourage 1st line management to heop employees with career development- encourage 1st line managment to give awards and announce those awards in team meetings- improve morale!! fine innovative ways to do this!",
+        "pros": "- Work from home is available and encouraged- micro-management is a minimum- good with work/life balance- respectable place to work- on the job training for technical jobs is helpful and useful for your career",
+        "summary": "IBM Global Services (ITD) rating",
+        "role": "Systems Administrator",
+        "date": "Sep 21, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Downside include offshoring, spending freezes and not enough skilled people on the accounts.",
+        "advice": "Management needs to fully review and understand the ramifications of their LEAN, offshoring, staff reduction, education-freezing and expense-reduction initiatives.",
+        "pros": "IBM is an Innovative company with lots of inventions and technologies that will further its product portfolio. There are huge opportunities for advancement given such a huge company.",
+        "summary": "LEAN and offshoring do more harm than good for customers.",
+        "role": "Service Delivery Manager",
+        "date": "Sep 22, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "You can feel just like another number. Constant threat of outsourcing has hurt morale and job security is a thing of the past. Teamwork is also lacking because at the end of the day, most employees feel like its they have to look out for themselves. Thus, atmosphere has become more cut-throat and ultimately, a lot of employees have lost any sense of loyalty.",
+        "advice": "Respect for the individual has been lost. This is a guiding principle that should be brought back.",
+        "pros": "Benefits are excellent. Job flexibility in where you work, when you work, how you work are very positive reasons to be at IBM. Also, there are very smart and engaging people to work with who have high standards and moral integrity.",
+        "summary": "Not what it used to be, but probably better than most I/T companies",
+        "role": "Project Manager",
+        "date": "Sep 23, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "- IBM now stands for \"I'm By Myself\" & \"Impersonal Business Management\" and that is how it feels to work here.- Promotions in the more senior ranks are heavily skewed towards resources that implement SAP and that came from PWC or were recruited from the outside post-PWC acquisition. If your area of expertise and/or legacy is otherwise, you have a tough time getting past engagement manager.- This is not a \u2026\u00a0management consulting practice. This is an SAP (first) and Oracle (second) ERP software implementation machine.- Base pay and bonuses are very poor (when compared with competitors).",
+        "advice": "The \"Big ERP deals at big companies\" days are over. Clients engagements will be smaller and focused on building off the ERP backbone that has already been implemented. You will need a to embrace and retain resource with a broader range of skill sets.",
+        "pros": "- Opportunities to work at some of the best companies in the world.- Consulting teams and practices in different regions of the world can and do work well together responding to a potential client's RFP and performing a client engagement (better than comparable competitors)- Outstanding relationship with SAP. SAP often pushes the client to work with IBM as the systems integrator.",
+        "summary": "Wake Up IGS Partners...the World has Changed!",
+        "role": "Associate Partner",
+        "date": "Sep 28, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Completely lost with objectives, no clarity, a lot of noise",
+        "advice": "Keep it simple! Don't play musical chair games. Pick a strategy and stick with it for a long time, which must be more than a 3 years, not every 6 months. Tactics can be short term, but changing game plan with 340,000 people every 6 months is disasterous. We don't know if we are coming or going, so keep stepping on each other. Great employees are keeping the boat afloat, or we would have sunk long time ago. Use this v\u2026\u00a0aluable asset properly! Put true leaders in charge, not old folks who keep moving fromone business unit to other without delivering what they promised. Employees are just tired of \"same thing , different day!\"",
+        "pros": "I can telecommute, that's the only reason I am staying",
+        "summary": "I am just coasting, which is too bad. I am very talented, energetic and I deliver. I can be very helpful!",
+        "role": "BDE",
+        "date": "Sep 29, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Bureacratic. Poor attention to quality. Overall software product strategy is lacking. Lots of vague, insincere, old-style rah-rah. Management tends to bring in their friends rather than hire for competency. Project schedules are set without understanding the details of what the commitments entail. The product designs tend to be overelaborated and inelegant and user-hostile. They have a rigid, waterfall product manage\u2026\u00a0ment template AND they are attempting to ram agile development into it.",
+        "advice": "Make internal processes less complicated and more self-service. It is hugely surprising how inefficient the internal processes are. Success at IBM lies in discovering what insane details and people you can just ignore.",
+        "pros": "Stable position once you are inside. The networking can be very useful. There is a culture of mentoring and networking that takes a certain amount of effort to get into, but does yield decent information.",
+        "summary": "Not really into software products.",
+        "role": "Advisory Software Engineer",
+        "date": "Sep 29, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Constant threat of your job being offshored, benefits package (especially medical) becomes more costly each year with less coverage. IBM also operates on the self-serve model of benefits, which can be difficult and frustrating to navigate.",
+        "advice": "Stop biting the hand that feeds you.",
+        "pros": "PC discounts, but you're sending your money to China (Lenovo)",
+        "summary": "Constant offshoring threat",
+        "role": "Financial Analyst",
+        "date": "Sep 30, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "IBM STG seems to be the \"black sheep\" of the various IBM divisions. The success of several other IBM service divisions is very linked to the the STG hardware and technology, and IBM's model of providing overall solutions. Unfortunately, this model would work well if all the business units were treated as one. Since this is not the case, and the corporate mandate is for STG to provide technology first and foremost to \u2026\u00a0IBM, that business unit is always getting the short end of the stick when the quarterly numbers are reported. This translates into vastly lower bonuses and profit sharing due to the lower performance numbers. If that unit treated the rest of IBM as it does the rest of its customers and charged accordingly for their services the numbers would look much better. Morale is low in the STG division due to this and the fact that when lay-offs roll around, that is the first place that gets hit. Another problem within IBM is that it still carries with it a great deal of history of how things were and get done. This creates a LOT of inertia to overcome in order to drive changes or improvement. Not that it is impossible (I speak from experience) but it does require a greater commitment of time and energy. Time tends to be a very limited resource due to the cutbacks in personal and the increase in workload. The other item that seems to really need work is the innovation reward system IBM has established. IBM rewards people for ideas and patents, but the system is set up so that it can be \"gamed\" by people who have been at it for a while. It doesn't really produce new innovations that could lead to new business opportunites as much as incremental improvements in current technologies or ideas that will reward the submitter but doesn't provide new ventures for IBM.",
+        "advice": "Morale needs to change, people walk around with the fear of the next lay-off or the people that were lost and it impacts the ability to get things done. The patent process should be reviewed and modified to really drive towards ideas that will provide new revenue streams, or a process should be implemented that reviews ideas and their marketability in order to get them licensed. IBM needs to develop a method of bring\u2026\u00a0ing STG into the greater fold of IBM and treating them more equittably or spin them off and let them pursue their own business dealings. I would bet the IBM's appreciation of STG would increase dramatically if they had to deal with them as they do with Intel or others. Lastly, the business decisions should not be based strictly on whether or not you can fill the fabs, this is a business and money needs to be made.",
+        "pros": "IBM STG offers an opportunity to work with some of the newest technologies in the semiconductor and computer hardware fronts. If you are looking for great exposure into these fields, the challenges they present, and an opportunity to work on solutions, then STG is the place to be. In addition, IBM has a strong initiative and drive to maintain the work/life balance of it's employees. The management is very supportive \u2026\u00a0in this regard and IBM offers some of the best options in the industry as well as the flexibility to make it work, hands down. IBM makes the technology available to work remotely to all of its employees and leaves it up to you to demonstrate your ability to manage that. IBM offers a great deal of opportunity for enhancing the education, both online and through traditional courses. Management is very supportive of these activities.",
+        "summary": "IBM STG needs to improve its business decisions and morale or break off into it's own independant unit.",
+        "role": "Advisory Hardware Engineer",
+        "date": "Oct 1, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "too bigmatrix managementlarge company - hard to link work effort to broader company impact",
+        "advice": "let people take more risksdiversify into adjacent areasinvest in US",
+        "pros": "breadth of opportunitiescollaborative environment - to some extentvery good benefitsflexible work schedule/work at home",
+        "summary": "OK, but...",
+        "role": "Marketing Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "You are constantly worried about loosing your job due to yearly resource actions. Not having access to the pay band puts you at a disadvantage during salary negotiations. GET WHAT YOU CAN BEFORE YOU START WORKING FOR THE COMPANY.",
+        "advice": "Pay your employees the true \"Market Value\".",
+        "pros": "Job experience, and great on your resume.",
+        "summary": "Be loyal to thy self!!",
+        "role": "Oracle Database Administrator",
+        "date": "Oct 2, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The pay is not considered the highest. The current morale is not good.There is a big push to move US jobs to Asia so you should always look to stay competitive and look at jobs that require a close presence. Many coworkers are working 60+ hours. Because of cuts, many are overworked.",
+        "advice": "Improve employee morale! Many don't believe the company still cares for it's employees.",
+        "pros": "If you are good at networking there are several opportunities as this is a huge company with operations in most countries / areas. The company is very diverse and there is increased flexibility with the regards to working remotely , from home, etc. Many employees only need a laptop and power cord to conduct their day to day. This company has been around the good and bad times and has survived as the true elephant it \u2026\u00a0has been called. The benefits package is good.",
+        "summary": "Strong company, great opportunity but low morale.",
+        "role": "Staff Software Engineer",
+        "date": "Oct 3, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Very bureaucratic and average pay wih low upside.",
+        "advice": "Give employees upside in the form of stock options and eqquity grants not just to senior management.",
+        "pros": "Flexibility. A lot of autonomy and work life balance.",
+        "summary": "IBM a company where you can balance your work life priorities.",
+        "role": "Business Development Executive",
+        "date": "Oct 3, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Getting applications deployed internally is nothing but process process process. Although 1st line manager looks out for us, he's too much by the book. Dealing with internal clients... these people should be more technical. How many times do I have to explain to some client that a self signed certificate is not an error? What stinks is that these people make more than some of our architects and developers.Ano\u2026\u00a0ther 'huge\" downside is working with developers in India. The #1 complaint is they stink at development. You end up going and forth with them a few times before they end up with something usable or you end up having to do the work yourself or assign it to someone locally. Once you do get someone in India that is on the ball, he/she moves on to another position outside the company for more pay. The cycle starts again and this is a common complaint not limited to my team",
+        "advice": "Who cares if we work in an office or not. In my dept, the senior managers are too concerned about being in the office. The teams are in the US, LA and in Asia.. what difference does it make? Teams locally are in NY, Raleigh and in various other places. Being in an office is too distracting. I have to deal with morons being loud on conference calls, folks coming by to chat when I am busy and a sucky commute. That's wh\u2026\u00a0y I stay home even though I know I am required to be in the office.",
+        "pros": "My local team is great. We have talented people, 1st line manager tends to look out for us. That's about it for me.",
+        "summary": "Talented people but we dread working here sometimes",
+        "role": "IT Specialist",
+        "date": "Oct 3, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Get caught in the wrong place at the wrong time & you're history. Mishmash of acquisitions leaves much to be desired in uniformity, quality and coherence.",
+        "advice": "Be careful of the talent level you throw out the door.",
+        "pros": "I was in Software Tech Sales, then Sales. It's not quite the sweatshop IGS can be. It varies widely though. The key is to find good spots, and ditch bad ones like the plague. Like any big company, some jobs are great, some awful, most in between.",
+        "summary": "Mature company - It's a game of musical chairs.",
+        "role": "Tech Sales/Sales",
+        "date": "Oct 3, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "\"Browbeating\" is still the classic managerial style. There is a lack of leadership and creativity in management, even though the matrixed nature of the organization really calls for it.",
+        "advice": "Find better ways of identifying contributors and rewarding them appropriate (i.e., as their individual desires would dictate)",
+        "pros": "I work from home, and I greatly appreciate the time and money it saves me. I don't commute, I don't eat out, I don't incure huge clothing bills or dry cleaning expenses. I also love the flexibility - I can work from anywhere, so I get to travel a lot. I just work during the days and have my nights and weekends to visit with friends and family or sightsee in a new place.. Also, for those who have been around awhile, w\u2026\u00a0e get plenty of vacation (I have 4 weeks now and will get 5 weeks shortly).",
+        "summary": "Stands for great things, but is an immovable object",
+        "role": "Managing Consultant",
+        "date": "Oct 5, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "I have little or no faith that any of the benefits that value to me will continue to be offered. There is too much emphasis on squeezing blood from the stone by continuing to cut costs - all in the interest of increased net income. The focus isn't on growing revenue, it's on net income ... so the costs must come down. All of that burden falls on the employees in the form of fewer resources (mostly staffing, but also \u2026\u00a0increased times to replace obsolete hardware), benefit cuts (mostly in reductions in pensions and increases in health care costs), and depressing facilities (lousy cafeterias, unpainted buildings, unrepaired sidewalks, etc). The workforce is stressed out, burned out, and worn out.",
+        "advice": "We (the employees) are a valuable asset. Treat us accordingly.",
+        "pros": "At this point, the pay is good and the vacation plan is great (for a long time employee). The technical challenges are outstanding.",
+        "summary": "Single-minded focus on cost cutting is killing the company",
+        "role": "Advisory Hardware Engineer",
+        "date": "Oct 6, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Employee manger is located some where else and there is no direct communication.Manager is the one who decide on promotion and bonus even though he does not work directly with the employee. Reimbursement for tuition is very hard.",
+        "advice": "Managers need to be more proactive with the employee.There should be more interaction in the organization since consultants work out of the office.Senior management need to consider tuition reimbursement.",
+        "pros": "I still work for IBM because I like the project and the client that I am working for. The location is perfect and I have been working with this client for the past couple of years. I have considered looking for another job but the timing is not right.",
+        "summary": "The downside of working as a consultant for a big company",
+        "role": "Consultant",
+        "date": "Oct 7, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Deceptive hiring practices - i.e., waving historic bonus performance in new hires face, while not true to actual performance. Partner practices do not support true community building of specific expertise - actually works counter to team-building because controls like utilization targets, combined with management lack of attention creates a focus on individual, self-directed practice.",
+        "advice": "Watch out for middle management. There is a lot of mismanagement that negatively impacts growth of capability and of professional skills. Minimize competitive selling between different IBM entities. I can't tell you how much wasted effort I witnessed seeing different groups at IBM try and sell similar services to the same customers. The Partner mechanism imported from PWC Consulting acquisition tends to be overly pol\u2026\u00a0itical, generates high bonus compensation for few which is not motivating for their busy consultants earning the project billings. Learn how to become more than a technology company. IBM Global Business Services has the size and capability to be the strongest BUSINESS CONSULTING company in the world. But IBM needs to get out of their own way, learn what business consulting really is and understand that technology does not drive business operations, it supports and enables business operations.",
+        "pros": "Culture of competency. Very intelligent and experienced workforce. Support for diverse workforce. Benefits are significant.",
+        "summary": "Strong company needs to focus on leading with business consulting skills...enabled with technology.",
+        "role": "Managing Consultant",
+        "date": "Oct 7, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Our performance rating system is a ridiculous leftover from when IBM needed to cut the fat. The fat is all gone, believe me! In general, this is a hard time for engineers at any company. At IBM, bonuses and raises are often pretty bad, even when the company does well.... even when you get promoted. When people leave the company, it's rare to back fill their position. In our area, we sometimes don't even back fill wit\u2026\u00a0h an offshore job.",
+        "advice": "Across the board, if true pay for performance doesn't start, I'm afraid we'll lose our best and brightest. The old rating system needs to go and be replaced with something that gives us true metrics to be judged by. Budgets for raises and bonuses need to increase. Employees should then be rewarded for two things: when the company does well and when they have done their part to make the company succeed. If both happen\u2026\u00a0, the rewards should be quite handsome. If just one happens, then maybe they could be closer to what they are like now.",
+        "pros": "The Work/Life Balance is usually pretty good. Our prescription plan is excellent. When you find the right area to work in, you can have a really good time at work every day and be proud of what you have accomplished. I hear a lot of people from different divisions say that they have GREAT people to work with. People respect you as an IBMer and know that you aren't going to mislead them. There are generations of trust\u2026\u00a0 behind you. Generally speaking, first line managers are pretty good and are kind of in the same boat as regular employees.",
+        "summary": "The Good and the Bad",
+        "role": "Staff Development Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Very big company. Easy to get lost. Very political when trying to move from one job or department to another.",
+        "advice": "Small morale boosts can go a long way. While raises and bonuses are what people really want, continuing to cut other benefits is not going keep the \"Best and Brightest\" working here.",
+        "pros": "Great benefits. Very good at promoting work/life balance. Compensation is ok - especially if you got in early. Salary hasn't changed much since I started.",
+        "summary": "Excellent benefits, but career growth is not as easy as you would expect.",
+        "role": "Anonymous Employee",
+        "date": "Oct 8, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "They will work you to the bone for months on end with no real recognition for it. For being the largest computer company on the planet, they have internal systems that can frustrate the hell out of you. IBM's first principle used to be Respect for the Individual, no more. You won't find that statement anywhere within IBM.",
+        "advice": "Stop treating us like we should kiss management's feet for the privilege of having a job and start treating us like the partners we are, the ones that are responsible for the success of the company.",
+        "pros": "In most instances, IBM allows employees to work at home which has been a blessing. The other benefits (health, dental, and vision) are among the best I have seen.",
+        "summary": "The IBM Logo Has Lost Its Sheen",
+        "role": "Consultant",
+        "date": "Oct 9, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "You are a resource, not a person to the executive team. Your manager is asked if s/he has the absolute best people on board, if not, work the less than perfect people out of the business - tell them the bar is rising and they no longer meet the requirements.",
+        "advice": "When Respect for the Individual was no longer one of our key operating principles, we ceased being IBM.",
+        "pros": "There is a lot of work to be done, because we have so many people we need to communicate with and keep up to speed.",
+        "summary": "Come be very busy, but only your immediate manager will probably care about you.",
+        "role": "Manager",
+        "date": "Oct 11, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Salary is lower than industry standards.Formal evaluation of work performed (PBC) does not truly reflect employee's performance. Evaluations are distributed based on formula. So many individuals must receive a low number no matter if they actually performed at a higher level . There are lots of ways that you must document the work that you've performed/ There is a utilization requirement wherein you end up not re\u2026\u00a0ally getting any paid time off (vacation / holiday) because you are working extra hours to make up for any \"time off\" you may be taking.",
+        "advice": "Fulfilled employees are more productive.",
+        "pros": "Flex-time and work from home options. There are lots of e-learning opportunities that you can take of advantage of on the learning @ IBM site. Opportunities to consult on a variety of topics.",
+        "summary": "IBM is not the place for you if you value compensation and an appropriate evaluation of your job performance.",
+        "role": "Consultant",
+        "date": "Oct 13, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Most of the raises, awards, etc. go to the few \"stars\", with alot of focus going to patent authors and such. Being a capable software programmer will keep your job, but only keep you up with inflation at best",
+        "advice": "spread the wealth",
+        "pros": "pay, benefits, etc are all in line with other large IT companies.",
+        "summary": "IBM, its ok",
+        "role": "Staff Software Engineer",
+        "date": "Oct 13, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Career advancement is very limited. There are too many people not moving which stagnates growth. There is no true work and life balance on most IBM accounts. As a consultant you are asked to travel a lot. Overtime is not an option, it is a requirement.",
+        "advice": "Get a better global resource strategy that includes North America workers. Cut out some of the pork in middle management. Invest in your employees in North America just like you do in GR countries.",
+        "pros": "You get some valuable experience in the area you work. You are a valued commodity for the first year or so. The IBM name is still held in high regard in the business world. So it is a good stepping stone.",
+        "summary": "IBM nice right place to start, wrong place to finish",
+        "role": "Project Manager",
+        "date": "Oct 14, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "One of many. You become lost in the crowd at times even when you shine. Often times management does not understand what you are doing. Progressing up the chain is limited because it seems people either have to die or retire.",
+        "advice": "Read a book. Get an MBA. Listen. Educate yourself.",
+        "pros": "Get to work on large projects that you would not get to work on anywhere else. I do enjoy working on very large projects. Where else would you get to work on the majority of the fortune 500 IT environments. If you take the attitude of learning from what you are doing you will get to continually learn.",
+        "summary": "Senior Technology Executive",
+        "role": "Senior IT Architect",
+        "date": "Oct 18, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The downsides are the insiduous, and it seems that the norm is take aways and doubletalk. Basically promotions and meaningful raises, at least at the worker bee level, are as rare and far between. They always have a \"believeable\" reason why raises, bonuses and premiums are so low, yet executives continue to make sure things are structured in a way that does not effect them.",
+        "advice": "Honesty, and restructure to fairly compensate everyone",
+        "pros": "Flexibility and work/life balance are the top things that keep me here. I have been with the company 20+ years and have built up 4+ weeks vacation, which is also nice. I took advantages of educational programs (offered in the past) and IBM paid for and helped me earn a degree. The old IBM was very good to work for, the new IBM will not give you one morsel more than they think they need to.",
+        "summary": "Where is Robin Hood when you need him?",
+        "role": "Project Manager",
+        "date": "Oct 19, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Career advancement and recognition are almost non-existent relative to other divisions within IBM. Other IBM divisions are recognized for their accomplishments. RSUs, options and annual awards are the norm. These things are RARE in IBM Micro. This \"other division\" recognition is hard to swallow when you realize that it is your team's accomplishments that have SIGNIFICANTLY helped the other divisions succeed. An impor\u2026\u00a0tant but not immediately necessary IBM non-benefit is the lack of a retirement health plan for new employees. Plain and simple, there is none. This is a huge downside for IBM.",
+        "advice": "Recognize the people who are developing the technology to give IBM systems the edge.",
+        "pros": "Being part of the state of the art of technology development. Being on the cutting edge. People work hard and produce in this division. It's great to work with such a talented and motivated group.",
+        "summary": "IBM Microelectronics - a great place to be from",
+        "role": "Advisory Software Engineer",
+        "date": "Oct 26, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Too internally focused, still has too much dead wood, too many layers of management",
+        "advice": "Focus on customer first, internal needs second",
+        "pros": "Stable company, strong technology, good compensation, good clients.",
+        "summary": "Mostly a good company, but too often internally focused",
+        "role": "Sales Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "lack of training, difficult to feel like you're making much of a difference",
+        "advice": "this is a company with 320k employees - of course it's going to be difficult to have much connection to your employees, or as an employee, feel connected.",
+        "pros": "good work life balance, good benefits",
+        "summary": "big wheel, small cog.",
+        "role": "IT Specialist",
+        "date": "Oct 29, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "bureaucracy, lack of recognition, layoffs, management pits employees against each other in reviews, it's a dog eat dog culture.",
+        "advice": "remember 'respect for the individual'? put it back in the values. Watson would roll in his grave knowing you took it out.how about some 'respect for the customer'?",
+        "pros": "great job flexibility, work/life balance options",
+        "summary": "Offshoring hurts customers",
+        "role": "Software Engineer",
+        "date": "Oct 30, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "the downside of working in IBM Global Services is the inability to get visibility and recognition for outstanding performances. The size of the company tend to downplay the reward based on performance. In fact, promotion had more to do with length of tenure than actual review.",
+        "advice": "Senior management should look at the workforce and reward those who are making a bigger difference",
+        "pros": "IBM is a good place to work for due to its work-life balance. It has smart people who are making well-rounded decisions for many of its projects. Therefore, it has less chance for a project failure than many other companies.",
+        "summary": "IBM could improve its culture by rewarding people more on performance",
+        "role": "Anonymous Employee",
+        "date": "Nov 2, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "My points of dislikes-not a good ladder in terms of professional growth. You are silo-ed in specific groups and very difficult to reach across.- you are evaluated on your bands and the process is too bureaucratic",
+        "advice": "make opportunities for young professional...inspire them to join IBM",
+        "pros": "Following are the best reasons I think anyone should like IBM.-Research in particular helps you innovate and also absorb your creative inputs.-Lot of highlight on work life balance (honest effort from the company)-Very flexible work hoursMy liking for IBM are mainly because of these additional reasons:-I work in research and not too many companies have industrial research labs like of IBMs. They a\u2026\u00a0re unique for carrying academia quality research in industry",
+        "summary": "Cool but not so cool either",
+        "role": "Advisory Software Engineer",
+        "date": "Nov 3, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "In my opinion, IBM doesn't want to be in the processor business. They're just trying to milk the division until it no longer helps serve Services and Software groups. I don't believe they compensate the microelectronics group fairly in terms of performance bonuses. Server group almost always gets the lowest bonuses at IBM even though the other groups revenues are based upon server group hardware.",
+        "advice": "Demonstrate that IBM has a future building processors. Right now, it's plainly obvious that IBM is in the business of the Software and Services. The third leg of hardware is shaky.",
+        "pros": "IBM Microelectronics works on some of the most bleeding edge technology projects in the industry. You'll be working on industry leading projects. IBM makes the processors in all the latest video game consoles and was a leader in developing multi-core processor designs. Their foundry and manufacturing business",
+        "summary": "IBM Microelectronics",
+        "role": "Staff Engineer",
+        "date": "Nov 3, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "IBM is such a large corporation that it is easy to get lost in it. It is often times very difficult to balance getting your work done with creating a large enough network of co-workers to get the information that you need. Having a manager only a few levels above you that you will never see and most likely never speak to is not especially endearing for making a career at IBM.",
+        "advice": "Because IBM is such a large company, any sort of gap created between employees and their managers is magnified by its size.",
+        "pros": "A large company with many opportunities to grow both horizontally and vertically. The sheer amount of resources within the company is astounding and can greatly improve your abilities and knowledge.",
+        "summary": "Incredible amount of resources, at the cost of personality",
+        "role": "IT Specialist",
+        "date": "Nov 10, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "This is not the same company it was five years ago. Poor compensation, questionable job security (especially long-term), and an ever-diminishing sense of community contribute to a massive morale epidemic. Gone are the days of pot-lucks and office pools. Now are the days of over-the-phone performance evaluation with a manager you know only by name, and \"virtual teaming\" with people you will never in your life meet fac\u2026\u00a0e to face.While the IBM name looks great on a resume, non-managerial skills are crippling. Ten years of IBM middleware technical experience gives you terrific qualifications. To work for IBM.Financial raise and bonus pools have dried up in recent years despite recent profit gains.US-based hires are few and very far between. College recruiting is a memory.Global resources, while just as pleasant and able as domestic resources, can be stifling at a professional level. The length of conference calls depends entirely on the moderator's ability to wade through accents. Emails and SameTime messages arrive in a variety of languages.Far more middle management, mandatory training, and conference calls than is efficient.",
+        "advice": "LEAN has lead to job apathy and customer dissatisfaction. Short-term profit are great for shareholders, but at risk is IBM's renowned innovation and service record. This will become very clear as the global compensation market normalizes.Narrowing company scope on support services while reducing (and eliminating) focus elsewhere puts too many eggs in one basket. Was the PC Group truly irreconcilable?I\u2026\u00a0ncreasingly substandard compensation opens the door to job poaching and pushes even non-superstar performers to greener pastures. Current focus on global resources neglects the emerging domestic talent who will drive tomorrow's innovation.",
+        "pros": "Solid benefits, good internal training (provided your your manager can afford it), varied career paths, employee discounts on business-partner goods and services, very good work-life flexibility, knowledgeable coworkers.",
+        "summary": "Indian, Brazilian, Mandarin.",
+        "role": "Database Administrator",
+        "date": "Nov 14, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Dealing with globalization may not be easy. Teams that coordinates with offshore teams often work long, strange hours. You might be expected to attend meetings (online, at home ok) as early as 7am or as late as 10pm. More agile than a company of similar size is still big. Product cycle is slow and very process oriented. Things don't get done as simple and as fast as they should. Maybe folks there are pretty set in th\u2026\u00a0eir own ways. Not the most innovative crowd. Don't be stuck in a group that is not performing. Bottom line counts a lot.",
+        "advice": "keep up",
+        "pros": "A stable, solid company, process-oriented, structured company who treats employees well. The benefit package and long PTO days are very attractive. Salary is above average, very reasonable for the type of software development work required. The work environment is very nice too. Nice campus, location, cafeteria, gym and various services on site.",
+        "summary": "good company",
+        "role": "Software Engineer",
+        "date": "Nov 16, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Too many incapable people thinking they're good. Bands (promoted levels) are very inadequate to assess a person's ability to deliver. Seen too many senior level or higher employees who are just average and not more.",
+        "advice": "get rid of the band system. past (usually unfair) promotions say nothing about the ability of anybody in this company.",
+        "pros": "In IBM, You can BS your way around if you're into that. There are too many people working on power point slides and very little on actual products. That is normally a negative unless you're one of the 90% who dial to conference calls 60% of the day while day dreaming.",
+        "summary": "IBM is eeh...",
+        "role": "Advisory Software Engineer",
+        "date": "Nov 18, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Products are rushed out the door before being ready.As a technician I have to deal with unhappy customers every day because the products are sold before being ready.",
+        "advice": "Make sure the product matches the real business need not the latest IT buzz word. SOA.???TBSM ?? - may look good to management in a demonstration but unless someone watches the screen constantly situations that need attention are going to be missed. And there is no practical way recreate it. Is that really a business solution?Get with the band 7, 8, 9 sales technicians and ask them what could be impro\u2026\u00a0ved.If we suggest improvements or fixes, by the time they are pushed up the management chain they are sanitized because the product manager dose not want you to know the truth. If it even gets to the senior management level.Even when trialing a product at a customer site, multiple problem tickets are generated. Pretty embarrassing.There are many industrial strength software solutions in the product set. But it only takes a few bad one to make is really look bad.",
+        "pros": "Good Benefits.Good first line managers.",
+        "summary": "IBM the GOOD, BAD & UGLY",
+        "role": "Senior IT Specialist",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "They don't have benefits for everyone that works there. No raise after 4 years worth of work and i had mastered my role by then and was deserving of at least a pat on the back but i got nothing and dumb manager that didn't listen to anything or anyone.",
+        "advice": "Listen to your employees even if you can't do anything about it.",
+        "pros": "They gave me an oppertunity early in my career when i was really new in the IT world. I had a friend that worked there and they gave me a chance to learn my craft with out any real experince. They also paid me more than i was work at the time, but i never got a raise after my first offer save wage for 4 years with no review.",
+        "summary": "You just a number at IBM",
+        "role": "Systems Engineer",
+        "date": "Nov 24, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Spread out across the globe. Each person for themselves. Technically incompetant leaders. Can't understand heavy accent fast talking Indians. Lacking networked architecture before software solutions are expected. Holiday party consisted of a meeting on the phone. No preliminary meetings to prepare and unite as a team for in house customer service visits.",
+        "advice": "If it truely is not in you to have your teams interest in mind, go to acting class and put on a good facade.",
+        "pros": "Home office. Varied projects. Pizza gift card one Christmas. Boss says \"go home early\" at end of day before holiday. Boss buys drinks and dinner for team 2 to 4 times a year. Flexible hours. Usually no one looking over your shoulder.Once a month team meetings.",
+        "summary": "United We Stand Divided We Fall",
+        "role": "Automation Specialist",
+        "date": "Nov 25, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "-pay increases are dismal-recognition for a job well-done is unlikely-hard to move around between divisions-hours can be ridiculous-leadership lacking, though this depends a lot on your team/division",
+        "advice": "Get more organized. Put a better management and technical leadership structure in place. Truly recognize everyone who does a good job, not just the higher-ups. Spend a little more money on making it feel like an elite place to work. Start giving out stock options again to the worker bees; it gives a feeling of ownership and appreciation.",
+        "pros": "-Tons of resources such as hardware/software/intellectual property-Flexibility in work location, hours-Reasonable expectation of stability, longevity-Possibility to move around and try different things",
+        "summary": "A good place to start. You may need to jump ship to make big $$$.",
+        "role": "Advisory Software Engineer",
+        "date": "Nov 26, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "It's a big company and with that, there is a slow bureaucracy.",
+        "advice": "I would say that the overall strategy for the company is strong. It's hard for employees to give feedback to a company when a publicly-traded company is more likely to listen to investors rather than employees. But I think any company that invests in talented employees will do well for itself. IBM could do a better job of not promoting such a workaholic culture, but, that's also a byproduct of the type of people that\u2026\u00a0 work here.",
+        "pros": "The benefits are good, and the work/life balance offerings are very strong as well.",
+        "summary": "Overall, good place to work",
+        "role": "Communications Specialist",
+        "date": "Dec 1, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The company is a behemoth, and with large scale comes processes and cold impersonality - its unavoidable. The company had laudable policies re \"people first\" and compensation, much of that has gone away. If you're outside the mainstream business, you'll likely be struggling for resources and the attention of policy makers. Much of the internal technology si not competitive with what we find on the internet, and this \u2026\u00a0is an unfortunate burden for the company. Opportunities are subject to the usual competition, do not go to IBM expecting to be a software architect without proving yourself for a decade or more of dues against a bunch of talented others.",
+        "advice": "I suspect senior management is doing a wonderful job given the problems of scale. Closest I could come to advice would be to \"figure out how to free oneself of the burden of antiquated processes.\"",
+        "pros": "If you find a position right for you on a team that is in one of IBM's core businesses, you'll probably be happy. There are lots of good people in \"Big Blue,\" some of which are extremely well connected in global terms, opening doors to potential opportunities. Strong work and leadership are likely to be recognized and leveraged and, in time, rewarded. Size and stability can raise security, which is especially useful \u2026\u00a0for people with families or other long term responsibilities. There are a broad range of businesses and roles, lateral moves into areas of preference or growth are quite possible.",
+        "summary": "IBM mixed: consider per business: market growth, reputation in that market, and employee opinions from that area.",
+        "role": "Senior Software Engineer",
+        "date": "Dec 5, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "In theory IBM should have tons of opportunity for growth (different divisions, many countries, etc.) but you get pigeon holed quickly, and find its very difficult to move up. They are like the ancient roman army or something... they just assume when the first line goes down there's tons of people to step in so you only move up by out-lasting your competition (who probably left for more money and challenges somewhere \u2026\u00a0else).",
+        "advice": "Management needs to work on really rewarding and growing their top talent. They let the best people get away because they get frustrated. I believe this is what hampers IBM from truly great performance as a company.",
+        "pros": "The education a company life IBM conprovide for employees looking to re-tool is powerful - especially in sales and management... but watch out if you're in a service delivery role because it's very challenging to get training there. The benefits are outstanding, time off for critical family issues is really remarkable but overall work/life balance is better than average.",
+        "summary": "Slow and Steady wins the race, don't expect $$$",
+        "role": "Client Executive",
+        "date": "Dec 8, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "It's very big. Because of the number of people and the 'layers' required to manage an organization as big as IBM, it's sometimes difficult to find the right person to talk to. It can be difficult to navigate through the processes to get assistance with issues related to work being performed for a client.",
+        "advice": "Bring all support back to the United States. It's VERY frustrating to call one of the help lines and talk with someone who can barely speak English.",
+        "pros": "IBM fully supports diversity in the workplace. It has strong programs in place to promote women and minorities. People managers are given wide latitude to deal with personnel problems and to work with their direct reports in resolving issues.",
+        "summary": "IBM - A Good Place to Work",
+        "role": "Senior IT Architect",
+        "date": "Dec 16, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "It's a large organization, as such, small things you do, that are also good things, get overlooked. A large portion of what you do at the company isn't determined by you at all, it's decided by people you've never met, and who've never met you. I was a supplemental employee, who didn't get converted to full time status because my manager couldn't get financial approval. What's interesting is to hear the same guy talk\u2026\u00a0ing about the $14000 he just spent on business class plane tickets to go to India. Thanks a lot pal, that was almost half my salary you spent on something you should have done with a phone call.",
+        "advice": "Convert your supplemental workforce into full time employee's, mostly just so you'll stop losing talented, passionate workers.",
+        "pros": "You get to say your work for IBM. It's a large organization, and as such, their are opportunities for people who are good at knowing where to look. I felt that at IBM I was given a lot of opportunities to get the job done and see firsthand what impact my actions had on the bottom line. I worked with talented people who seemed happy to share their experiences with me, and to help me grow. Being an IBMer does come with\u2026\u00a0 a sense of pride, and it's evident with almost everyone you work with. My only regret is that i couldn't work for IBM longer.",
+        "summary": "I worked for IBM.",
+        "role": "Deskside Support Representative",
+        "date": "Dec 18, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "The major down-side is definitely work/life balance. Although IBM advertises a great balance, you'll only find this being used by those whose roles are not essential. Any valued leader will find themselves faced with understanding the big picture. This applies to the matrixed organization, product design, team dynamics, market direction, and even client satisfaction. Due to the large nature of the company, understand\u2026\u00a0ing and working with the previously mentioned aspects takes much time... more than 8 hours in a day. There are many within the company that simply do not go this far in their understanding and their work/life balance is probably great... however it places a burden on others in charge who have to make up for their shortcomings.",
+        "advice": "Please try to weed out the non-performers who seek management titles because they are inept at their current job. There are to many of these people who get through.....",
+        "pros": "- Job flexibility. If you are determined to excel in your position then a world of options are opened to you. The complexity and far reaching nature of the company allows one to gain expertise that isn't even a part of their job description. If done right, one can mold their career and create a position suited for themselves.- Technology. If you are in a development/test role then you have access to just about al\u2026\u00a0l hardware/software available. Any OS, programming language, tape drive, hard drive tech, networking infrastructure.. etc... is there.- Benefits. Compared to many other companies, the benefits (medical, 401k, options....) are among the top.",
+        "summary": "Great opportunities for learning but little work/life balance",
+        "role": "Advisory Software Engineer",
+        "date": "Dec 20, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Way too stifling, way too much NIH (Not Invented here), too proud to realize that other companies passing them by, too bureucratic to change what's necessary to turn the boat. Unless you were there through the heydays, compensation totally inadequate and doesn't even come close to keeping up with competition. (That doesn't change much with organizational advancement, either.) Make sure you get a good salary on the wa\u2026\u00a0y in, it won't change much, regardless of your oerformance.",
+        "advice": "Make real processes that work and drive them all the way home so they achieve full efficacy and buy-in. There are way too many 'processes' that are just band-aids over the top of an older process that was never removed but didnt' work effectively. People entirely overwhelmed with 397 different processes none of which work like they are supposed to.",
+        "pros": "Good place to start, having name on resume opens a lot of doors. Don't stay more than 4 years. Management really pretty good about giving you time off for family/personal issues. First-line managers really seem to appreciate empoyees, very limited in their abilty to do much for their employees.",
+        "summary": "Good place to start, would not recommend becoming a 'lifer 'with current direction.",
+        "role": "Engineer",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "No training, upper management is clueless and trying to get rid of american workforce",
+        "advice": "The amount of knowledge being let go so jobs can be shipped overseas can never be replaced and the people in the overseas units will not be able to handle the job.",
+        "pros": "Benefit package, lower management recognition",
+        "summary": "Clueless at the top",
+        "role": "Senior IT Specialist",
+        "date": "Dec 26, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Everything moves slow slow slow. Forget about pushing anything through quickly.",
+        "advice": "Help people challenge themselves. If somebody wants to switch roles, figure out how to let them go without hurting your team. Keeping people down is the best way to lose them.",
+        "pros": "IBM is a great place to work if you want a stable job where you don't have to work too hard. You could do well working 9am - 5pm and slowly making your way up the food chain. It's also very easy to hide out in a role for years without anybody looking too closely at you.",
+        "summary": "Stable place to work with little excitement or challenges.",
+        "role": "Technical Specialist",
+        "date": "Dec 26, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Being the size that it is, political and networking skills are as important ( perhaps even more important ) than technological skills. Do not depend on management to outline a career path, you are on your own. Low-level managers are generally too busy answering to their managers to help employees. Also remember that profit is number one at IBM. This company is about making a dollar first and how to use technology and\u2026\u00a0 current trends in the pursuit of that goal. IBM is first and foremost a business. This may be a good company for an MBA, not necessarily for an engineer.Specifically as a staff software engineer, some of the downsides are long hours, little input to the decision making process and little consideration for work/life balance. Remember, it's a privilege to work at IBM !( OK, yes, I'm a little bitter. )",
+        "advice": "My advice to senior management would be to pay more attention to the human elements. I've seen too many examples of the dollar being more important that the employee. The end result is devaluing the employees.",
+        "pros": "IBM has a great reputation. The company has a long and deep history in the computing hardware and software industry. Working at IBM as an engineer, you have the opportunity to work with a lot of smart and talented people and you have access to the latest technologies and information. Company also has a good benefits package and average or above salaries.",
+        "summary": "In IBM, you are on your own.",
+        "role": "Staff Software Engineer",
+        "date": "Dec 28, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Uncompetitive pay. Management communication lacks frankness.",
+        "advice": "to stop losing your talented employees, make the pay competitive with the industry.",
+        "pros": "Opportunities are endless. Mobility between jobs is highly encouraged. Work/Life balance is fantastic. Exposure to global business as well as socio-cultural challenges.",
+        "summary": "IBM Software Group",
+        "role": "Product Marketing Manager",
+        "date": "Dec 28, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Upper management is in denial on a lot of issues that the client-facing employees are dealing with",
+        "advice": "You need to listen to the low-level employees more, rather than the information that get filtered up through middle layers of management. Also, you need to refocus on customer service.If you want to earn the respect of the employees you should immediately implement a plan to give ALL employees the same basic retirement plan. There is no defensible reason for Sr Executives to have a more lucrative retirement plan \u2026\u00a0than the rest of the workforce. Read Thomas Watson Junior's opinions on Executive Compensation.",
+        "pros": "Job stability is good and there are lots of opportunities for changing jobs within the company. If you can take advantage of all the benefits you can get a lot of value in addition to your pay.",
+        "summary": "Good but not great place to work",
+        "role": "IT Specialist",
+        "date": "Dec 29, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "There are still many pockets of \"good old boys.\" And, unfortunately, they still get away with things that most would consider bad, if not illegal in 2008. There is still a serious lack of communication between various matrixed management and this impacts answers' to employees questions. You may get a different answer each time. Another downside is the increased managing of earnings. Many sales people leave because of\u2026\u00a0 retroactive quota increases, the feeling that they cannot impact their quotas/ objectives and that there is no career path for sales. The account executives rule the roost and this is the epicenter of the good old boys territory. You will see few women in these positions and if you do, they are still openly mocked behind their backs. IBM touts values, but sometimes has a difficult time implementing these. They will protect managers above employees in all circumstances. Fairness and respect for the individual are lacking.",
+        "advice": "Install a measurement system that weeds out the good old boy networks, discipline those who do not comply with IBM values or place the company at risk, and promote and pay people competitively. Nearly everyone is dissatisfied with their pay and can make more elsewhere. IBM is losing talented individuals every day (a 2.5 year IBMer with 4 patents just got laid off). The new generation of leaders is frustrated by the o\u2026\u00a0ld networks & clubs. They are frustrated with the business being run on antiquated systems. It is time to modernize 'mahogany row' in Armonk.",
+        "pros": "The international brand recognition of IBM is a plus. You don't have to \"sell\" IBM before you sell a product. The benefits are very good globally, although you pay for them. The allure is the ability to move within the company, gaining tenure and having multiple careers. Many people have done this and it is truly possible. Another good reason to work for IBM is that as a company, the training programs are superior. S\u2026\u00a0o, you can build skills, have access to much educational information and participate in mentoring relationships. IBM has been a leader in research and ideas, so people listen. There are some unique benefits like award trips, thank you awards from peers, special VP awards, etc. that really do recognize people. Having a good manager who will work with you to grow and place you in your next role is essential.",
+        "summary": "Good Old Boys Still Thrive at IBM",
+        "role": "Sales Specialist",
+        "date": "Dec 30, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Strategic corporate investments that are not carefully thought thru. Corporate PR that gets ahead to corporate capabilties. Senior executive cliques. Upward communication demanded but very little strong downward communication. Frequent requirements for providing the same information and reports in different formats to different people.",
+        "advice": "Move faster to stay ahead of the competition.",
+        "pros": "Exposure to leading-edge technology. Very strong R&D capabilities. Great peers to work with. Strong intellectual capital capabilities. Opportunity to do diverse work.",
+        "summary": "Evaluate Carefully",
+        "role": "Anonymous Employee",
+        "date": "Dec 30, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Opportunities for career advancement aren't obvious, but opportunities to get stuck doing tedious work are frequent.",
+        "advice": "Be more open about the declining investment in declining revenue areas. Supporting legacy technology is an IBM strength. Saying exactly how much is planned for declining areas is okay.",
+        "pros": "Work and life balance, vacation flexibility, location flexibility.",
+        "summary": "Love the flexibility, but feel like the career advancement playbook is kept secret.",
+        "role": "Staff Hardware Engineer",
+        "date": "Dec 31, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "compensation rollbacks through pay and other benefitsEducational and experiential resources (PEOPLE) not well utilized unless part of the favored clickToo big and cumbersome with multiple layers of management to turn the ship in a timely mannerGroup \"Think\"",
+        "advice": "Utilize introspective analysis and apply fundamental thinking .....sometimes the best answers are simple and right in front of us.",
+        "pros": "IBM has always supported employee opportunities to learn and grow through academia, ie; educational continuation 100% paid for by the company when enrolled in a degree program",
+        "summary": "Corporate alterations of long standing values erode trust, employee confidence and the drive to continue on.",
+        "role": "Engineering Manager",
+        "date": "Dec 31, 2008",
+        "is_current": true
+    }
+]

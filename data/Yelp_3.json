@@ -1,0 +1,902 @@
+[
+    {
+        "rating": 3,
+        "cons": "Stressful, boring, no real skills learned. You are a telemarketer.",
+        "advice": "make more creative positions for talented graduates",
+        "pros": "Environment is cool, free food all day, young staff (if that's what you're into)",
+        "summary": "Cool if you like sales",
+        "role": "Sales Trainee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Must be okay with rejection...lots and lots of rejection.",
+        "advice": "Understand the square peg, round hole concept a little better.",
+        "pros": "Upbeat company culture, fun young group of people, stocked kitchens, kegs, happy hours",
+        "summary": "Great job for the right fit",
+        "role": "Junior Account Executive",
+        "date": "Jul 22, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "- Company has a lot of growing pains - Management is very inexperienced and unprofessional- They discourage you from taking vacation and you can't work from home- High pressure position with very little job security- Felt like I was working in a Frat house",
+        "advice": "Value your employees more and maybe they will stay longer than a year.",
+        "pros": "- They do a good job promoting company culture- They give you a lot of tools to help make sales- Management is very transparent about where you stand- Stock options (although they are hard to come by now)",
+        "summary": "Decent place for a first job",
+        "role": "Account Executive",
+        "date": "Jul 22, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "I had no idea I would be in a call center. I was over-qualified for this position and was wooed by the coolness of the company. I have to do collections-type calls and talk to some extremely angry people. There is no time to make personal relationships with clients.",
+        "advice": "I don't know what to tell them. You can't stop people from yelling at AM's over the phone.",
+        "pros": "Cool work environment, awesome people, okay salary, good benefits, good training procedure",
+        "summary": "Account Manager",
+        "role": "Anonymous Employee",
+        "date": "Jul 27, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Not a lot of work-life balance.Pay is below par.Commission structure is below the industry average.Have to sell $75,000 to start even making commission.",
+        "advice": "A higher starting salary as opposed to some other perks would be nice.",
+        "pros": "The atmosphere is young, a lot of free food, and benefits are nice.",
+        "summary": "Yelp makes cold-calling as bearable. The job and pay isn't that great but the atmosphere is nice.",
+        "role": "Sales Executive",
+        "date": "Aug 11, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "The management is terrible. Floor managers are for the most part garbage. They are young and inexperienced. A lot of inner work relationships and are very clicky on the high level. Not transparent at all.",
+        "advice": "Higher older people to manage your young staff. Why would you hire managers after one year of work experience? Why would you hire 26 year old to manage people from the ages of 22-45 years old. Pay your top producers more. You are losing out on keeping top producers because your pay structure is weak at best. If you wanted to grow within, maybe not hire 50 people every month... People quit because they are not getting\u2026\u00a0 paid and can go somewhere else very quickly.",
+        "pros": "The peers you work with are awesome. You get to instantly make a lot of friends that are young and eager to work. Training is a great asset to my future",
+        "summary": "Awesome Peers, Very Shaky Management",
+        "role": "Sales Representative",
+        "date": "Sep 16, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Although they are clear about what the job entails from day one, the monotony of sitting and repeating the same conversation (unsurprisingly) can start to wear on you. Employees were also strongly typed (haha) by their departments - some valued more than others - with no interaction between. I would have enjoyed meeting people in different roles, feeling connected to the product and company as a whole.",
+        "advice": "My experience from manager to manager was so different that it's difficult to make a blanket statement about what could improve. I noticed that pairing sales people with the right manager and team could make a night/day difference in terms of performance, so it would probably be worth devoting more energy to this process - or at least encouraging reps to be proactive about their placement and development.",
+        "pros": "The company is growing quickly, which is palpable and exciting. From a sales perspective, it's fun to feel you are directly contributing to this growth. This would be a good fit for a person on the right wavelength, who lives to pull deals over the finish line. Solid benefits, outgoing and friendly coworkers, great coffee, and beautiful office space were all highlights.",
+        "summary": "For someone who fits the mold, a great place to learn and grow.",
+        "role": "Account Executive",
+        "date": "Sep 17, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "cold calls, younger management, not enough room to try things your own way even though \"you are your own CEO.\"",
+        "advice": "try not to manage all of your team members in a blanket way, different people have different needs",
+        "pros": "food, people, fun culture, young staff, cool office, upbeat music and environment,",
+        "summary": "When you're good, you're good",
+        "role": "Anonymous Employee",
+        "date": "Sep 17, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Can be very frat-esque with kegs in the office and everyone being a part of the Scottsdale nightlife scenePay structure for sales is good if you sell a TON, but if you don't you make a mere 30KYou don't hit commission until you sell 75K worth, which the average person does in 8 months or soYou're at the mercy of your \"yelpitory\" which means that if you are randomly assigned a crappy territory, your sales \u2026\u00a0plummet and your stuck with that area for many months",
+        "advice": null,
+        "pros": "Fun, youthful environmentVery hip employeesBeautiful employeesGood compensation if you're AMAZING at selling",
+        "summary": "Nice people, horrible work",
+        "role": "Account Executive",
+        "date": "Sep 26, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "It's a factory. You are a number and completely replaceable. I stayed for 2 years and was among the minority of people who I started with.",
+        "advice": "Focus less on the 'sale' and more on consultation to best fit client needs.",
+        "pros": "You will learn more about business/sales in 1 year than in 4 years of college. It's a fun work environment of young employees ranging from 21-28.",
+        "summary": "The beneficial factory",
+        "role": "Elite Sales Account Executive",
+        "date": "Oct 1, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Job is tedious and sometimes frustrating to see people get promoted who are not qualified to be managers.",
+        "advice": null,
+        "pros": "Great benefits and fun place to work.",
+        "summary": "Overall a good experience but you will know very early on if it is worth staying long term.",
+        "role": "Account Executive",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "There is a serious stigma against the company. Business owners and the public at large consider Yelp a \"bully\" who forces the businesses on the site to advertise. Can make sales difficult.The fun environment is lipstick on a pig. Repetitive cold calling on a small number of businesses wears heavily on the employees. Dress it up all you like, the job is mundane and the pay is low.\u00a0AE's are given a\u2026\u00a0 finite number of workable leads. Regions to call on are small and to start are handed out randomly.Starting base is low-38k.Management is young and inexperienced. Has a \"lord of the flies\" feel.Sales team is mostly young and keen on office gossip. High school in an office setting.",
+        "advice": "Ditch the gong.",
+        "pros": "Fun environment. Solid Health Benefits. Informal dress code.",
+        "summary": "Decent experience",
+        "role": "Anonymous",
+        "date": "Oct 2, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "If you think you will be doing anything but making cold calls all day then you have been misinformed about this position. You're success doesn't depend on how great of a sales person you are but it depends on your territory. If you're lucky you won't get a territory that has been recycled through 5 reps in the past 2 years.",
+        "advice": "Hire less people and give your current reps better leads and then maybe turnover won't be so high. Also I would hire some more senior people it feels like a frat house without and seriousness to the office.",
+        "pros": "The most obvious pro are the amazingly stocked kitchens, they have everything you need. The company has a fun culture and the office is a place that you wouldn't mind being in everyday.",
+        "summary": "Cold calling factory",
+        "role": "Account Executive",
+        "date": "Oct 8, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "The territory distribution system, racists, and frat boy mentality among managers. On a floor of 70+ sales people only two were African American until one was fired during training although he was selling well. Favoritism and being very flirty will get you a good territory. Unfortunately, the territories you get have all been worked to death and the business owners will be so annoyed they will literally threaten you.\u2026\u00a0 You will be harassing the same people over and over despite them not being able to buy due to economic reason- for example, a few businesses I was calling went out of business and I was still forced to call them up until they closed their doors and in the meantime I lost on other good leads- well actually, their inventory is no organized and they bought many fake listings that show up on your pipeline. You will literally call everyone who has ever has a yelp page and harass them until they buy. My territories were very strange- one was a total loss, a very very poor area (well known through out, actually a skid row) and the other was a bit better, and I made large sales there. It really doesn't take much talent as they would have you think to make sales- IF you get a healthy territory with inventory then you'll make sales easily. The problem is inventory is NOT always available and combined with a horrible territory and 60+ closed/fake businesses in your pipeline you are doomed. You will burn out quickly unless you are making target every month. Sounds like a great job and it can be, but it is in no way creative and you literally do the same thing every day. Every day. One of the WORST jobs I've had to endure. The HR lady Taylor really sold me on the job. I am very grateful to have gone through their training which WAS fantastic but has since changed to cycle through sales reps more quickly.",
+        "advice": "Hire more people of color, sponsor less foreign talent and hire more Americans, change their inventory- their territories have a lot of fake listings which bite into your business as a sales rep.",
+        "pros": "Benefits are great, cafe and loaded kitchen on site, great parties and perks.",
+        "summary": "Glorified aggressive telemarketing and harassment of small business owners",
+        "role": "Account Executive",
+        "date": "Oct 24, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Young and inexperienced management. Lots of politics and games. Must drink the 'kool-aid' to be approved of by the higher ups and to advance.",
+        "advice": "There are things more important than bleeding yelp when looking to advance talent. Look to reward hard work, dedication and loyalty.",
+        "pros": "100% employer paid health benefits, snacks and drinks in kitchens. Quarterly company off-sites as well as team off-sites. Co-workers become your close friends.",
+        "summary": "Best Part - Amazing Benefits",
+        "role": "Account Manager",
+        "date": "Nov 16, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "It's basically a frat party at ASU at Yelp. Some of the people in the sales department are very bright - others are some of the dimmest I've come across. Also - they treat engineers like kings, sales doesn't even come close to that.",
+        "advice": "The most humble person in the entire org is the CEO Jeremny, the management should take a look in the mirror at what goes on right beneath their noses and start to act like professionals.",
+        "pros": "Obviously a huge company, some perks like offsites, company parties, young people, party environment. Free food and drinks.",
+        "summary": "Second class sales reps to engineer",
+        "role": "Account Executive",
+        "date": "Nov 18, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Cold-calling at your desk all day, constantly getting yelled at.",
+        "advice": null,
+        "pros": "Great company culture, free food and kegs in building.",
+        "summary": "You really have to love sales to love this job.",
+        "role": "Account Executive",
+        "date": "Nov 20, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "They don't serve breakfast, lunch, or dinner. The stock is not doing that well. There doesn't seem to be a lot of growth or excitement.",
+        "advice": null,
+        "pros": "Very positive environment. Relaxed work style. Relatively small engineering body so impact is high. There is no corporate ladder, there are only engineers, managers, CTO, CEO. Overall it's a great place to work.",
+        "summary": "Yelp Review",
+        "role": "Software Engineer",
+        "date": "Nov 20, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Cold calling, Yelp's negative perception for business owners, commission structure",
+        "advice": "Stop hiring so aggressively and nurture the sales folk!",
+        "pros": "Free food, cool new office, great culture",
+        "summary": "Account Executive",
+        "role": "Account Executive",
+        "date": "Jan 28, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "It's a cold calling job so there are a lot of the same negatives associated: It is draining, really focused on metrics, not much flexibility. There isn't much of a life work balance because even though they say they don't want you to work outside of the hours at Yelp, you definitely need to in order to keep up. Starting salary is lowwww.",
+        "advice": null,
+        "pros": "Great atmosphere, I love working with my team and my manager is not overbearing and really tries to help us. There are free snacks and a lot of growth potential if you stay for a long time.",
+        "summary": "Great atmosphere, lots of learning",
+        "role": "Account Executive Trainee",
+        "date": "Jan 28, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The Account Management department is extremely understaffed. Even missing one day puts you very behind. Every day is extremely busy. A lot of your day consists of getting yelled at by unhappy business owners regarding critical reviews or the Recommendation Software which can be wearing.",
+        "advice": "Be more open to hearing employee opinions. I understand a need for a positive work environment, but so often it resulted in people not being able to voice their honest opinion and ideas to improve practices and a better work environment.",
+        "pros": "This is a great company for young, social individuals. Fully stocked free kitchen, fun work environment, and great pay and benefits for a position that does not require a bachelors.",
+        "summary": "Young, hip culture, Sales based, Understaffed, Great pay and benefits.",
+        "role": "Account Manager",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "-A lot of work with no assistant: pick up supplies, move furniture for events, etc.-No formal office during meetings",
+        "advice": null,
+        "pros": "-Great community manager for the Boston office, focused on team building and development-Helped coordinate and develop exciting events with the Yelp Elite Squad",
+        "summary": "Good but stressful environment",
+        "role": "Anonymous Employee",
+        "date": "Feb 4, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Not paid enough. commission structure could be better",
+        "advice": "Pick managers that will actually help the team get better and make more money for Yelp.",
+        "pros": "Great culture, awesome snacks. nice that they pay for your gym membership. Sweet office",
+        "summary": "meh",
+        "role": "Anonymous Employee",
+        "date": "Feb 17, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Company culture can really be a drain after a while if it's not an exact fit. Coming into work at 7:30am and hearing the latest EDM hit while you're pouring yourself a cup of coffee to get ready for 80+ calls can make you reconsider things.There's zero creativity in your job, and it's highly structured. Some people thrive on that, but if you consider yourself a creative little snowflake you should look elsewh\u2026\u00a0ere.",
+        "advice": "None.",
+        "pros": "Good benefits, changed commission structure, generally nice people, good training program and some various perks.",
+        "summary": "It's a mill...some people love working in one.",
+        "role": "Account Executive",
+        "date": "Feb 24, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "* Account Executive role is 100% sales. You will make 60-80 calls everyday that you are there trying to convince people for an appointment and then sell them advertising. You say the same thing everyday to different prospect.* Quota attainment can be difficult, especially when it territory. I used to call into the middle of Illinois where peoples rent could be the same monthly price of Yelps ads, which makes for \u2026\u00a0a difficult conversation. I found it hard to be held accountable for the same quota against people calling \"Yelpier\" areas of the country.*Lead exhaustion was another issue. Since there have been so many sales executives in the past calling on the same businesses who always say \"no\", you will feel like you are scrapping the bottom of the barrel some months.*The overly positive attitude can be too much at times.",
+        "advice": null,
+        "pros": "*Tons of younger coworkers are very friendly. I moved from the East Coast out to AZ and met tons of wonderful people. I felt that I was going into work with my friends everyday.*Great benefits and they are generous with PTO.*They certainty try to make your working environment a fun place to be. There was one time we had musical chairs in the office and the winner won an Ipad mini.* If you need help or nee\u2026\u00a0d to ask question managers are very open to taking time out of their schedule to talk to you or you can talk to some of the top reps on advice on how to improve you conversations.*You will learn how to become a great communicator and listener.* Not a bad place to work starting out fresh from college",
+        "summary": "Get's old fast",
+        "role": "Account Executive",
+        "date": "Feb 27, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "This is an extremely difficult job because 1. it's a cold calling job, and 2. it's based completely on micromanagement. Everything you do is recorded and checked on by management.",
+        "advice": "I think there should be an unlimited time off policy like many other tech companies, and there should be more flexibility about hours, lunch time, etc.",
+        "pros": "Yelp is a great place to start a career because of it's fun and young atmosphere, its transparency, and it's emphasis on career growth and professional development. For a sales career, it's also highly dependent on effort and less about hitting your number.",
+        "summary": "Entry level account executive",
+        "role": "Account Executive",
+        "date": "Mar 3, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The compensation is terrible. The stress of cold calling is real at this job.",
+        "advice": "Figure out a better way to compensate the people making you money without making them stay at the bottom of the barrel for a year and a half.",
+        "pros": "The people are awesome and the work life balance is guaranteed. The new office is amazing and training there is superb.",
+        "summary": "Great company, terrible compensation",
+        "role": "Account Executive",
+        "date": "Mar 4, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Very high work pace & can be difficult to get ahead depending on your territory assignment. Long hours & product can be difficult to sell. This job can get very draining & takes a lot out of you. If you are going to do it, be ready to commit to 8+ months before you see solid results in yourself & your work. Not for the faint of heart.",
+        "advice": "No advice to management. It is a good place to work, great environment, some really good people there. Great training program and great managers. Some managers are not ready for advancement.",
+        "pros": "Lot's of good training, room for advancement for those willing to work hard & enjoy the job. Good commission for good sales. Great management & peers. If you come in positive & hungry every day & surround yourself with like minded people you can go far.",
+        "summary": "Great place to work, especially if you are fresh out of college, young, hungry & ready to work sales.",
+        "role": "Anonymous Employee",
+        "date": "Mar 15, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Company has no direction. Its pretty much a sweat shop for young undervalued employees.",
+        "advice": "learn how to coach things other than value",
+        "pros": "Great work culture. The people are great and if you do well there is some room for growth. When I say some I mean very little.",
+        "summary": "Account Executive",
+        "role": "Account Executive",
+        "date": "Mar 27, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Some co-workers still are in the college mindset and can be annoying to be around.",
+        "advice": "Start commission immediately, rather than after hitting 30k in sales. The current policy decreases motivation to make sales.",
+        "pros": "The people here are laid back, much more than other corporate environments. However, sometimes it feels like an extension of college, which is annoying.",
+        "summary": "Good Training, Crap pay",
+        "role": "Anonymous Employee",
+        "date": "Mar 30, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "monotonousemotionally draining to make cold calls",
+        "advice": null,
+        "pros": "salesforce trainingcompany cultureteam bondingsupport",
+        "summary": "great training for those on a corporate/ sales track career",
+        "role": "Account Executive",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "I wish there was a less expensive package to sell businesses. Sometimes $$ can be tight and you want to help them somehow. Guess that's what the free products are for.Advice to ManagementI loved it at Yelp. Especially being on pilot teams and testing new approaches to sales. Keep that up. (I had to leave for personal reasons that took me to Dallas for a few years. Hoping to get back in at some point).",
+        "advice": "loved it at Yelp. Especially being on pilot teams and testing new approaches to sales. Keep that up. (I had to leave for personal reasons that took me to Dallas for a few years. Hoping to get back in at some point).",
+        "pros": "Sales to local businesses is very challenging, however it's really rewarding. Yelp's advertising product is great and knowing that you can help a small business owner compete in their market and connect with their local community is totally worth it. I also loved the hands on approach to training and development. I've worked at other jobs where they give you packets and videos and expect you to learn from those mater\u2026\u00a0ials. At Yelp they trained and helped me through 10's of different avenues.",
+        "summary": "Account executive",
+        "role": "Anonymous Employee",
+        "date": "Apr 12, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "grew too fast, management happens too fast, management isn't transparent",
+        "advice": "be more transparent, keep the culture with the growth",
+        "pros": "Great people, great benefits, great food",
+        "summary": "Account Executive",
+        "role": "Anonymous Employee",
+        "date": "Apr 16, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "- Not selective in hiring- Frat house/hook-up culture- Very high turnover- Lack of transparency- Numbers and statistics about Yelp seem inflated- Managers can be young and unqualified- Promotions are to more of the same; not much opportunity to do anything besides sales- Base pay extremely low",
+        "advice": "Stop hiring so many new people and focus on improving quality of life for the existing employees",
+        "pros": "- Great sales training- Benefits- Play music at work- Free snacks and coffee- Employees actually use the product- Learning opportunity",
+        "summary": "Good for your first sales job",
+        "role": "Account Executive",
+        "date": "Apr 21, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Low base pay and low on target earnings. You really have to drink the Kool-aid to do well. Politics. Your entire career path there is chosen in the first week.",
+        "advice": "Don't run Monday morning meetings like a Scientology convention. Don't treat employees like a number and if someone's been there a long time - they should be valued as such. Value your long time employees. Management should take the company value of \"authenticity\" more seriously.",
+        "pros": "The people. Stock. Free drinks and snacks.",
+        "summary": "Great people and perks, but low pay - feels like you joined a cult.",
+        "role": "Elite Account Executive",
+        "date": "Apr 29, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Young crowd, recent college grads, feels like college all over again.Management does not seem to be adequately trained - very much a 'boss' environment where you are told what to do, rather than coached/developed/given credit.'Team fit' often means participation in events outside of work hours, food/drinking centered, not relevant to company team-building at all.Pay is low, very low. You can't live withou\u2026\u00a0t roommates, several of them.Blurry friend/coworker distinction.Partners or +1s not invited to holiday party.Bullpen office set-up. No privacy at all- no where to take or make a phone call.Career path is very unclear.EVERYONE you know will tell you their personal story about how Yelp screwed them over! Don't even tell people where you work!",
+        "advice": "Provide better management training.Provide more competitive salaries to go along with insane cost of living.",
+        "pros": "Can be a fun environment. Great job for those fresh out of undergrad, unsure of what they want to pursue in a career. You'll make friends. Free drinks, snacks, burritos. Fun holiday parties and summer party. Great healthcare. Close to BART. Really nice building near lots of food. You gain a sense of what corporate culture is like-- to an extent. In-office barista.",
+        "summary": "If Yelp were a rapper, it'd be Eminem. Hate him, love him or don't care, you still remember when you used to be a fan.",
+        "role": "Anonymous Employee",
+        "date": "May 1, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "The pay is terrible for the cost of living in San Francisco. There are several other entry level positions that will provide the same benefits but a much larger pay scale for doing the same job. During the interview process and initial 6 months in the position you will be told there is much more room for advancement than what there really is. You are paired against 100s of other people in moving forward and it can at\u2026\u00a0 times come down to more of a popularity contest than it can how you actually perform.",
+        "advice": "Territory distribution should be done much more fairly. Give your employees a raise because no one can live off of what you are paying your employees unless they are booking over $40,000 per month. You are also growing way to quickly and not providing enough training to your newer management for them to help the new employees succeed the way they should. Focus more on the people with tenure because clearly turnover i\u2026\u00a0s very high and you should invest in the people that have also invested themselves in you.",
+        "pros": "It is a great starting point in moving your career forward. There is some room for growing within the organization. A fun atmosphere with great benefits.",
+        "summary": "Account Executive",
+        "role": "Anonymous Employee",
+        "date": "May 4, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The pay is horrendous & the actual work is awful!!It was a shame I had to leave but I resigned before I had another opportunity lined up because the job was so awful.First I'll speak about the pay, there isn't much to say except $35,000 a year is not enough live on in Chicago. The offices are downtown - do they expect all of their employees to have an hour commute and live in the suburbs. I stay downtown \u2026\u00a0but let me tell you after paying rent I had very little extra funds. They tell you that your first year you are expected to make 45-50k and that is just NOT the case and I will tell you why. Now, let me move on to why the job is awful.It is simply cold calling sales. You make 90-100 dials a day and you are supposed to be speaking with small business owners but very rarely do you get in touch with them. The metrics are 2 hours of talk time, 65+ dials a day and 3 appointments. Those metrics are impossible to meet because no one wants to talk to you, you keep getting hung up on by hostesses and business owners (in the unlikely event that you get one on the phone). Therefore the only metric you are able to easily hit is the dials. If you don't not schedule any appointments to show business owners the product then you obviously will not close a deal so, you won't make commission. To make commission you have to make $30,000+ for the company every month. The whole process is completely unrealistic and I feel as if you are set up for failure as an AE.\u2022There also isn't a lot of career opportunity or choices. Neither you're in inside sales or you're a manager - that's it.",
+        "advice": "I'm worth more than a measley $35,000 a year. Increase the base salary. Maybe then I would have been more inclined to work a little bit harder and stay longer. Low salary makes me feel as if I am not valued and I guess with the high turnover rate - maybe I am right. \"What you won't do someone else will\" ...I am fresh out of college and am currently now making 50k+ which is what I should be making!",
+        "pros": "\u2022 Yelp is a great company\u2022 The people that they hire are friendly, outgoing & have amazing personalities\u2022 My manager was wonderful and seemed to really care about my success with the company\u2022 healthcare is paid for by the company\u2022 Yelp Cafe (frappucino's, coffee, hot chocolate etc.) made by a barista all for free\u2022 Yelp kitchen - fully stocked kitchen\u2022 Employee outings - team building withi\u2026\u00a0n office & activities planned outside of office\u2022 Met & spoke with the CEO, he's a great guy that obviously cares about the company, however there is room for reform",
+        "summary": "Account Executive",
+        "role": "Account Executive",
+        "date": "May 6, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "This is still a cold calling sales job and you have to deal with the ups and downs of that. Your base pay is terrible. It is quite hard to get more than a couple hundred dollars a month in commission, statistically speaking.",
+        "advice": "Develop a new product before the Yelp app looses popularity. A large company cannot run on one app alone.",
+        "pros": "Good benefits. Fun co-workers. Free coffee, Beer, and Foosball... You know, tech company stuff.Flexible about time off.",
+        "summary": "Account Executive Role At Yelp",
+        "role": "Anonymous Employee",
+        "date": "May 16, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "It's a really high-stress job. The company culture is great but it also can be very rigorous and demanding work at the same time.",
+        "advice": null,
+        "pros": "Such a fun and exciting environment to work with. You definitely put in long hours of work but it pays off!",
+        "summary": "Account Executive",
+        "role": "Anonymous Employee",
+        "date": "May 20, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Culture can be distracting at yelp",
+        "advice": null,
+        "pros": "The culture is great at yelp",
+        "summary": "Good first job",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "lots of pressure. growing out of start up phase",
+        "advice": "good job. could make objectives a little more clear",
+        "pros": "Loved this gig. surrounded by good people",
+        "summary": "Great JOB",
+        "role": "Anonymous Employee",
+        "date": "Jun 3, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "A lot of cold calling and talking to pissed off business owners. Very immature work environment",
+        "advice": null,
+        "pros": "If you are good at the job you can easily go up in the program. Easy to get hired if you know how to talk with people",
+        "summary": "AE Sales",
+        "role": "Account Executive",
+        "date": "Jun 5, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Recent college grads, many times first job out of college. Stagnant and limited growth opportunities. Pay. Aggressive sales approach. Sometimes your morals come into questions. Managers tactics widely range.",
+        "advice": "It would be great if there were more opportunites to work with other managers, besides 1:1 meetings. Suggestions, team swap. That way employees can not only experience other manager but another team as well.",
+        "pros": "Benefits, culture sometimes, team outing, learning the basics of sales, location",
+        "summary": "Depends what you are looking for....",
+        "role": "Anonymous Employee",
+        "date": "Jun 12, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "ton of turnover, poor pay, guarantees of comissions are not so true",
+        "advice": null,
+        "pros": "great snacks and work enviroment",
+        "summary": "Nice Enviroment, Poor Pay",
+        "role": "Anonymous Employee",
+        "date": "Jun 15, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Pay is extremely low for San Francisco, Management is pretty terrible with little to no mentors, company gets a ton of bad press",
+        "advice": null,
+        "pros": "Fun coworkers, good work experience to put on the resume",
+        "summary": "Great Starter Job",
+        "role": "Account Executive",
+        "date": "Jun 16, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Yelp is fun, it's fast-growing and it's at the best in the industry for local business directories. Advertising on Yelp makes more logical sense then it does advertising in newspapers/magazines/mailers. The problem is it's hard to move past all of the negativity in the press and the situations that come up with reviews that business owner's can't move past. At the end of the day, I can only control who I call and wha\u2026\u00a0t I say/show. If they google \"Yelp Advertising\" and see blogs and documentaries that say bad things and then never answer the phone to me I can't really control that. I hope they become bigger and better but they can't keep ignoring what people and business owners are saying - especially when business growth depends on it! They need to start looking into other revenue streams. Plus it just makes your job that much more difficult and sales is already the hardest job.The day-to-day is miserable and you have to motivate yourself to move past all of the frustration and rudeness from business owners. It's always something that YOU did wrong if you don't hit your quota but sometimes its things that just aren't within our control. But these are just typical sales concerns.",
+        "advice": "Devote more time and attention with those that are struggling on the team and with those that are new.",
+        "pros": "As much as I hate to admit it, the skills and experience I'm building up here is definitely going to help me out in the long run. The day-to-day job pretty much sucks but it sucks a whole lot less when you have a relaxed and fun atmosphere around you. Management here really cares about your advancement - your success is their success and their success mean Yelp succeed so they devote time to Manager Office Hours with\u2026\u00a0 different managers on the floor, weekly one-on-ones with your managers and the directors are extremely accessible if you ever need advice or help.",
+        "summary": "Tough But Necessary Entry-Level Job",
+        "role": "Associate Account Executive",
+        "date": "Jun 17, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Low payMirco-Management from Team Managers & Floor Directors (70+ calls per day/ 2.5 hours on the phones/ 20 pitches per month) - They can & do track your every move.Very StressfulHigh Sales QuotesAssigned TerritoriesHigh Turnover Rate (Retention is a huge problem)85% of Co-workers are miserable but fake a smile for their manager & director.Call Center or as Yelp calls it \"Sale\u2026\u00a0s HQ\"",
+        "advice": null,
+        "pros": "Free Snacks (Nuts, bagels, chips)Fun Culture (Young co-workers)Music in the backgroundFree Beer Every Day (4-7 pm)Happy Hour with the team (Once a month)Team Off-sites (Once a quarter)",
+        "summary": "Account Executive is a \"fancy\" job title for a cold calling position at Yelp.",
+        "role": "Associate Account Executive",
+        "date": "Jun 18, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Long hours only bad part",
+        "advice": null,
+        "pros": "Great company , room for growth",
+        "summary": "Great company",
+        "role": "Anonymous Employee",
+        "date": "Jun 19, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "there was a lot of cold calling",
+        "advice": null,
+        "pros": "met many great people while working",
+        "summary": "Was okay",
+        "role": "Anonymous Employee",
+        "date": "Jun 22, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "the pay the pay the pay the pay the pay the pay the pay the pay the music the kool-aid",
+        "advice": "drop the organizational behavior. be honest and forthcoming about someone's ability, about their territory, and about their career. yelp has an excellent culture, but it's also mired by it. sometimes you are not evolving, but running in place",
+        "pros": "free food, good parties, nice perks, they have an excellent training program for sales, so its a good starter job for anyone looking to break into that field",
+        "summary": "Account Executive",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Job is just cold calling all daySuccess depends a lot on territory",
+        "advice": null,
+        "pros": "Great sales trainingFun work hard play hard environment",
+        "summary": "Great work environment",
+        "role": "Anonymous Employee",
+        "date": "Jul 6, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "-No one likes to cold-call, very mentally draining",
+        "advice": null,
+        "pros": "-Awesome culture, environment, dynamic, people, etc.",
+        "summary": "Good but not great",
+        "role": "Account Executive",
+        "date": "Jul 7, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Management is not well trained and are very young, they do not train them well enough to manage a team properly. Because everyone is young it turns into a high school/college environment and is not a place for a seasoned professional to make a career. The pay is very low, even commission is low by industry standards, it seems like Yelp extorts young fresh college grad talent to profit at a low wage. They hire people \u2026\u00a0from out of state, provide a relocation check, and make you pay it back in full if you decide to quit before completing a year with a company.",
+        "advice": "grow up.",
+        "pros": "Fun co- coworkers, laid back environment, many opportunities to move up if you work very hard, great sales training program.",
+        "summary": "Fun Company, Low Pay",
+        "role": "Associate Account Executive",
+        "date": "Jul 7, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "low base pay in comparison to other sales jobs in the area. Ramp up period is extremely long, and commission is calculated on a dollar for dollar basis",
+        "advice": "Higher base",
+        "pros": "Great work environment. Advertising account executives work within advertising or multi-service agencies, acting as a link between clients and the agency. They are responsible for the coordination of advertising campaigns and therefore communicating clearly to all those involved.",
+        "summary": "Yelp in review",
+        "role": "Account Executive",
+        "date": "Jul 8, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "- really hard product to prove ROI- resistance from business owners to hear about product- wasn't a lot of training or support",
+        "advice": "listen to the business community. monitor content more strictly.",
+        "pros": "- free lunches constructed of random food items- lots of opportunity- fun social working environment- inspiring leadership",
+        "summary": "Not my favorite company, but overall OK.",
+        "role": "Account Executive",
+        "date": "Jul 29, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Patriarchal top down management style - excessive micromanagement",
+        "advice": "Listen to your employees!!",
+        "pros": "Very forward looking company for alternative energy resources",
+        "summary": "Internal Salesman",
+        "role": "Anonymous Employee",
+        "date": "Jul 31, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Cold calling can be the worst, day in and day outMuch success is based on luck and territory assignmentFavoritism runs deep\"Drink the Kool-Aid\" or basically get fired",
+        "advice": "Don't be hypocrites when disciplining employees -- Lead by example",
+        "pros": "Amazing peopleSpectacular Office Environment (but very fratty, which is a positive or negative based on personality)Great brand recognition and platformExcellent place to start a network of friends and future colleagues",
+        "summary": "Account Executive",
+        "role": "Account Executive",
+        "date": "Aug 4, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "A lot of business owners have negative experiences with Yelp. On numerous occassions I spoke with business owners over the phone and in person that told me they were told they could manipulate the reviews if they paid. This must have been an old sales tactic, but it's really done away with a large portion of the sellable business population.",
+        "advice": "Stay away from the \"anything can happen\" mentality and work towards providing valuable feedback and solutions to underperforming reps or reps that want to be on top. Don't beat around the bush, be straightforward and more professional.",
+        "pros": "This role sharpens your sales teeth and shows you how to persuade people into your way of thinking. Asking business owners who don't want to advertise on Yelp what their business goals are and why they started their business in the first place is not a sustainable business practice. The product works for businesses that it makes sense for (service, food, pro serv, some auto), but it hurts a lot of businesses too. Its\u2026\u00a0 not a consistent product with a proven track record. Good culture if you like a fratty young wolf of wallstreet vibe. Snacks are junky and make those that eat them fat. Same lunch every day. Engineers are treated as kings and sales people are treated as peasants.",
+        "summary": "Account Executive",
+        "role": "Account Executive",
+        "date": "Aug 7, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Lots of turnoverHuge amounts of effort and dedication everyday needed to succeed",
+        "advice": null,
+        "pros": "Great training- learn the whole sales cycle, hoe to think on your feet, challenge yourself everydayGreat way to hit the ground running gin a sales career and get used to what you need to do to succeed in sales, in just a year on the job",
+        "summary": "Learning Experience",
+        "role": "Account Executive",
+        "date": "Aug 11, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Not much opportunity to grow. High employee turnover rate.",
+        "advice": "To increase employee retention rate, please offer more opportunities and provide satisfactory pay (market rate) especially to those who are non-engineers.",
+        "pros": "Great place to launch your career. Yelp has excellent health benefits and company perks such as free snacks (fully stocked kitchen), monthly gym allowance, occasional team lunches and cool off sites. Most employees here are young, fresh grads.",
+        "summary": "Great place to launch your career",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "It's Yelp; it's in SOMA; lots of obnoxious sales people; average age 24; no bonuses for non sales; extremely divisive culture between tech and non-tech; low emotional intelligence for most of management",
+        "advice": null,
+        "pros": "It's Yelp; it's in SOMA; there's beer and snacks; deli meats and cheeses; great coffee; be on the tech side;",
+        "summary": "The Yelps review",
+        "role": "Anonymous Employee",
+        "date": "Aug 19, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Just like other reviewers not even sure where to start. I've been working here for over a year and was a serious believer in the job however in the last few months I can't stand it.I've had 4 team changes in the last year. That means working under FOUR different managers. A lot of managers, with exception of some senior level, are seriously so awful! Lack serious intelligence and care for their reps. Please d\u2026\u00a0o something about this! It's not all about \"trusting a process\"...sometimes there are actual issues that are out of the sales reps control like territory!As other have said, territory plays a huge role in success. I've called small towns in Canada for the last year and they have never heard of yelp. How can I meet a $20k monthly quota when I'm calling a place that knows nothing about the company and has no intrinsic need for the product? The value doesn't make sense. My advice? Start marketing and tapping into user base/business owners in Canadian/rural areas rather than having reps do the work of \"educating\". Seriously, seriously frustrating.Pay!!!! Pay more for base salary! $36k is a joke and half for start pay in San Francisco...enough said. Very telling to see upper management and execs gloss over the question of higher pay in all hands meetings. Turn over is awful and it effects the culture. Recognize it and do something rather than changing commission structure or skirting around the question when asked by your sales team.Upward mobility to other positions like management, SeatMe, and Mid market are all dependent on the rep and if you have a good manager. Success is very much put on the individual and \"trusting the process\". Sell a lot and doors will open, struggle to find your way without much guidance and your \"why\" for being there becomes less clear.Very, very draining day to day task. Some managers will question why you are taking time off which is very uncomfortable.They have a lot of resources to grow your abilities and improve language on the phone, however the overflow of information on what works and what doesn't is very overwhelming. It can feel like you are doing or saying something wrong at every possible moment when having a conversation with a business owner. It's hard to implement feedback sometimes when you have a paranoia and stress about how you should sound and what language you should say on the phone.Yelp also needs to listen to business owners and not just those who sing high praise about the advertising program. If yelp wants to continue to partner and sell to business owners, then tap into their needs and listen to their concerns rather than only selling a pipe dream in the form of yelp ads. It's so disheartening to receive emails, voicemails and phone calls from business owners about how much they hate yelp without being able to do anything for them. I feel for these people because the only time they get through to the company is when a rep calls them.Also, seriously restructure your account manager process and teams. They are the absolute worse and do nothing to support AEs and business owners.Fratty and unprofessional attitudes are real here. I have met some great people and I have also met some of the worst people ever. Choose your friends wisely and do not get romantically involved with anyone at the company if you can avoid it. The more you separate your life from work/colleague friends then the better. Less drama.",
+        "advice": "Base pay needs to go up. Marketing the company into rural/Canadian markets. Realize when a territory isn't working for a rep and act quickly. Value current employees and do all that you can to improve their work happiness like with adequate pay and commission opportunities. Promote real leaders not sales people who just put up big numbers. Implement feedback from bottom employees. If the company is based on local bus\u2026\u00a0iness then be about that and for that. Do right by the business owner.",
+        "pros": "Free food, upbeat environment, some good managers who really believe in you, very good training - you will know every thing about yelp and sales especially how to deal with very uncomfortable conversations. Also Salesforce CRM training! Free beer (I kinda don't care about that?), some good people to make as good friends, easy commute if living in the city. Headquarter office is also a really beautiful building which \u2026\u00a0no longer houses the local sales teams.This job will prepare you for the worst of it all and you can keep reminding yourself that you will hopefully never make as little of money as you are right now in your life - do this if you're 22 not 42.",
+        "summary": "Account Executive",
+        "role": "Account Executive",
+        "date": "Aug 23, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The job itself sucks. Cold calling ALL DAY with managers circulating making sure you're not doing something that isn't RGA (revenue generating activity). You get hung up on, cursed out and certain sales tactics didn't sit quite well with me. You really need to distance yourself from the person on the phone and be persistent to the point someone hangs up on you - this has even been celebrated on occasion.",
+        "advice": null,
+        "pros": "Yelp provides the right type of person to thrive in a fast paced work environment. The culture is very young and hip, meaning your job becomes your social life. Great incentives on commission and if you can handle the roll, you can end up making a lot of money and moving up through management quickly.",
+        "summary": "Great job for the RIGHT person",
+        "role": "Account Executive",
+        "date": "Aug 26, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Lots of cold calling. Sometimes I felt like I was extorting businesses.",
+        "advice": "Don't blame everything on the Account Execs",
+        "pros": "Fun environment. Free food and snacks. Great office view.",
+        "summary": "Account Executive",
+        "role": "Anonymous Employee",
+        "date": "Aug 27, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "There is decreasing autonomy as Yelp scales in size. There is a moderately slow climb to the top.",
+        "advice": "Maintain open and honest communication. Revaluate the competitiveness of compensation and incentives.",
+        "pros": "Your colleagues, benefits and strict 40 hour work week. There is a fun and relaxing aspect of the culture, however extreme loyalty is required (pro & a con?).",
+        "summary": "Good But Growing",
+        "role": "Anonymous Employee",
+        "date": "Sep 3, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "salary--starts at 36,00 --rally hard to pay rent in SF with that salary",
+        "advice": null,
+        "pros": "great sales exprience, learned a lot",
+        "summary": "Account Executive",
+        "role": "Anonymous Employee",
+        "date": "Sep 3, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "-A bit of luck and survival of the fittest. If you get a weaker territory there's a good chance you will not be successful no matter what you do-This is low level sales. The conversations are usually not intellectual and just requires you to be a pushy and aggressive salesman-Many of the sales people here are very artificial and shallow. The conversation of choice during lunch time are drugs, alcohol, working\u2026\u00a0 out, new diets and gossiping about co-workers.-A significant portion of the most successful sales reps here did not thrive in the job by behaving morally but instead use *67 to reach people and aggressively push people to sign the contract without having the best interest of the client in mind",
+        "advice": "-When deciding to hire and promote to management place more emphasis on the persons morals and character",
+        "pros": "-Great training program out of the gate and constant learning after the initial 60 days, making this a great foundation for a career in sales-The people are mostly in their 20s and relatively friendly-Management supervises us closely which is great as most of us are out of college and need a lot of training and advice-The company is trying to build a comfortable and fun atmosphere through company outings,\u2026\u00a0 yelp cafe, music etc.-They emphasize promotion from within so many opportunities if you are successful",
+        "summary": "Mixed bag",
+        "role": "Account Executive",
+        "date": "Sep 13, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Managers expect you to quit, they only care about what they look like to directors. Say you will make alot of commission but that is complete bull.",
+        "advice": null,
+        "pros": "They blind you with free food and keg beer",
+        "summary": "Frat House",
+        "role": "Account Executive",
+        "date": "Sep 14, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "- Some manages shouldn't be people managers- My boss had no career pathing for me- Inequitable pay; you'll make more here as a man",
+        "advice": "- Actually put some thought into career pathing for non-sales roles- Figure out your compensation; those diversity numbers will change faster if you pay women what you pay your men.",
+        "pros": "- Generally no one micromanaged me- Lots of autonomy- Was able to do drive my team the direction I thought it should go- Great office space, gorgeous building- Great culture; the people are why I stayed",
+        "summary": "Good-ish in some places, terrible in others.",
+        "role": "California",
+        "date": "Sep 18, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "First off, notice how I didn't really say anything about the actual job itself in the pros. That's because it sucks, but then again, it is what it is and in reality you know what you're signing up for when you take the position. Cold-calling is not for everyone. 90% of the people you call will never respect you and most of the time, they won't even view you as a human being. You're just another telemarketer trying to\u2026\u00a0 sell them something they have no interest in buying. So be ready for that feeling.- The infamous Yelp koolaid. Man, they shove it down your throat from the moment you walk in the door until the day you can't take it anymore and leave. I'll never forget my first day on the job, in training, when we were told getting this job at Yelp was harder than getting into Harvard University. No, they really said that. And it was only the beginning. You're constantly told that no other job in the world is fun and relaxed like your role at Yelp. They tell you Yelp is the greatest thing since sliced bread, even though public perception of the company continues to worsen, and look at you like you're crazy if you ever doubt the company and its capabilities. They brainwash you to believe that there is truly no other form of marketing that local businesses should ever consider. And hey, man, I get it - I'm sure sales roles everywhere are like this because you ultimately have to believe in the product, but Yelp goes way over the top here to the point where it turns a lot of employees, like myself, off.Also, on the sales floor we were constantly taught that over-talking and overselling the product demonstrated doubt in the product on our end as sales people. The thought process was the product is so great that all we had to do was present it, keep it simple and we were golden. Perhaps the management at Yelp should take this into account when they're telling us several times a month how lucky we are to have this job, how great it is, etc. You begin to realize that you, along with the rest of the sales floor, is sold by upper management on a daily basis. Things are carefully crafted and worded to put them in a more positive light to keep morale up, hints of promotions are thrown around liberally to inspire motivation and they always have an explanation/spin to negative press about the company, even if it's true. (Especially on the financial front)- Please, for the love of God, stop calling yourself a startup, Yelp. The company is way, way past that phase and is anything but at this point. It's a large public company and the employees do not have the freedoms/opportunities they would at a traditional, true startup. This goes back to the ping pong tables, kegs, casual dress etc. In reality, they're hardly, if ever used. The keg is strictly off limits until after 5:30, no one uses the ping pong table unless they're staying inside the office for lunch (which I would recommend always getting outside and getting fresh air, unless it's freezing of course) or staying late after work. They're nothing more than props to A) entice desperate college graduates on the job hunt and B) give a false sense of working at a fun, laid-back startup to current employees.Make no mistake, the sales floor is high pressure and metrics are painstakingly monitored. And depending on your manager, it can be even more stressful. Certain managers even make their reps work through lunch, which is illegal, but I guess that doesn't really matter to the company when its struggling to hit its revenue numbers like never before. I can't say it enough, Yelp is NOT a startup anymore.- Immature atmosphere. I think a lot of this goes back to the startup vibe. Most of the people on the sales floor have no idea what working at a startup is truly like, but they think they have this shiny, unique job at a \"tech company\" and it almost makes them overcompensate. We share a building with Credit Suisse and I kid you not, I would hear Yelp reps crack jokes daily about the Credit Suisse employees after they got off the elevator about their professional attire, their jobs, etc. Yes, let's make fun of the people making three times as much as we are. That makes a lot of sense.Also, the office can be extremely high school-like. Very gossipy, cliquey. All of that nonsense. Overall just lacking professionalism in that department far too often.- Territories. You're a slave to the system of territories. You will constantly be told that territories don't matter. Laugh every time you're told that. Territories absolutely matter. All of the best reps in the company have major metro areas like NYC, Boston, Chicago etc. If territories didn't matter, there wouldn't be certain managers who do shady things to get their reps the best territories possible. On top of that, because the company is under so much pressure to hit that magical billion in revenue, they are constantly hiring in large numbers. We're talking 70-80 people a class. Because of this, territories are getting smaller and accounts are being touched way too often. If you get a new territory, chances are the best accounts in it were touched no longer than 2 or 3 weeks ago.- It's very hard to sell against this company's reputation right now. The higher ups will tell you they've always had their share of obstacles, but reps who have been around since 2012 and 2013 will tell you it's noticeably more difficult than it's ever been right now. There's just too much anti-Yelp clout out there to make it all go away like they're aiming for. Most reps, like myself included, feel that if we don't close a business on the first call, we'll never close them. The reason being that they'll most likely go to Google when they're making their decision, and what they're going to see is nothing but negative. On top of that, the company as a whole is on the way down. It's not the \"next big thing\" or hot platform it was a few years ago. The stock is suffering and not going anywhere anytime soon.",
+        "advice": "Be more honest and transparent.",
+        "pros": "Oh, Yelp. What a rollercoaster you are. Let's get to it.- Overall, a lot of great people. It's a very young company, so if you're like most of the employees on the sales floor and not too far removed from college, you're going to make a lot of friends. It's a very social environment.- Great benefits. 401k, full health/medical, gym subsidy, etc.- Nice office. In one of the better areas of Manha\u2026\u00a0ttan to work (flatiron). Plenty of stuff to do around the office during lunch and after work.- Kegs, ping pong tables and fully-stocked kitchen. However, don't get too excited about these things yet. I'll address them more in the cons list.- Great place to get your feet wet, learn how to sell and a big name to put on your resume. Regardless of the public opinion of the company, you will be a hot commodity to other companies looking for sales people if you stick it out long enough.",
+        "summary": "Account Executive",
+        "role": "Account Executive",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Yelp's advertising product. It's great in theory and does work for some businesses, but Yelp is very behind when it comes to cutting edge Silicon Valley advertising. I worked at Yelp for years and there were still only 2 ad placements on the site (what about retargeting? What about targeted banners?) also got on the CPC bandwagon late.Separation of Sales Reps vs. other departments. The engineers get a clear upper\u2026\u00a0hand at the company and that's very obvious. Also very very difficult to move to any department other than Sales.",
+        "advice": "Value your sales reps. Pay them more and take their feedback. They're bringing in the money to keep this place open.",
+        "pros": "Great place to start off your career as an online advertising sales professional. Many people there are all like-minded, fun, talkative, sometimes intelligent, and generally like to party. People who work there usually make close friends they'll have for life. Gym reimbursement, free food, alcohol, lots of social connections.As a sales rep, you'll learn the basic principals of selling, advertising technology,\u2026\u00a0 and how small businesses operate. The job is truly a grind which I consider to be a pro rather than a con. You will work really hard and have frustrating days, but will have a great time if you're a social person and are willing to hit the pavement day in and day out.",
+        "summary": "Account Executive",
+        "role": "Senior Account Executive",
+        "date": "Oct 16, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "It's cold-calling, which is difficult work that requires relentless positivity and focus. Outside of sales, there isn't a lot of upward mobility for growth. Further, the base salary is only 36k to start.",
+        "advice": "Management was fantastic at Yelp, and truly cared about the longevity of its employees. Its difficult to find a way to improve the sales cycle--but better communication between the sales team and product development would have been beneficial, as the platform could use some refinement.",
+        "pros": "Great atmosphere, culture and people. The attire is casual. Management is approachable and supportive. And they offer solid benefits.",
+        "summary": "account executive",
+        "role": "Account Executive",
+        "date": "Oct 21, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "unable to advance to higher positions",
+        "advice": null,
+        "pros": "Great environment to work at the office",
+        "summary": "systems analyst",
+        "role": "Anonymous Employee",
+        "date": "Oct 22, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "More time to become acclimated.",
+        "advice": "Nothing.",
+        "pros": "Great co-workers and company atmosphere.",
+        "summary": "Good",
+        "role": "Anonymous Employee",
+        "date": "Oct 24, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "$30K base salary is well below industry standard. Very low retention rates-- people quit all the time. Compensation structure upon making commission is not very good. You will not make commission on anything each month until you book $12K. Cold calling is grueling and takes a toll on mental health and happiness. The product is very expensive ($300/month at the very least) and Yelp is antiquated in not offering a mont\u2026\u00a0h-to-month ad program. This makes it hard to sell in territories where Yelp is not a big presence.I was only in training for one month, but the class after me was in training for two months. I'm not sure why this happened-- I would have benefited from extra time in training. I was not offered additional help when it was clear that I was struggling, even after I met with my manager multiple times about the problem of not closing.My director was extremely awkward and frequently made people uncomfortable. He made no effort to get to know anyone and it was clear that he saw us as sales machines only. Management in general would pry into our personal lives and ask personal questions/make inappropriate comments. Some of my coworkers were involved in unscrupulous practices at work and management did nothing when it was reported.I often felt like a robot at work. The job is uninteresting and demoralizing unless you really like sales and don't feel attached to the work emotionally in any way. Yelp hires almost anyone so there is no guarantee of success. I wish I hadn't been hired at all so I wouldn't have had to struggle for a long time at a job I am not good at.",
+        "advice": "Don't hire just anybody-- make sure all new hires are good fits for the position, and don't assume the training will make anyone good at sales.Enforce a more professional work environment. Alcohol should not be the focus of all prizes and offsite events.Listen to AEs when they express serious concern over any aspect of the job. Continually saying \"but your metrics are great, keep it up!\" doesn't help \u2026\u00a0anyone.",
+        "pros": "Great perks: free food, frequent offsite events with team, opportunities to win prizes, casual environment, young coworkers, extensive training, excellent benefits (medical, dental, vision), $60 per month for gym membership/fitness classes, generous PTO and unlimited unpaid time off after you use up PTO.Yelp is a young, energetic environment. If you are a fast learner and good at sales, you will succeed quick\u2026\u00a0ly. I loved my manager and team. Opportunities for advancement-- but only if you're really good at the sales role. New territories are attainable if you work yours to the best of your advantage-- but you are not guaranteed a good territory.",
+        "summary": "Account Executive",
+        "role": "Account Executive",
+        "date": "Oct 28, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Really difficult to make money. $20k quota per month is roughly about $1,000 in commission, 40% of which is taxed.",
+        "advice": "Offer complimentary 1 month advertising trials for businesses with the contingency to go month to month after that. Force them to see the impact that Yelp could have on their business. Automatic billing will likely increase revenues.",
+        "pros": "Everyone is friendly, environment is fun, perfect for someone fresh out of college",
+        "summary": "Great people but really difficult to make money.",
+        "role": "Account Executive",
+        "date": "Nov 2, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "65 phone calls a day, most of which don't even result in an actual conversation with the business owner. Some managers are great, others are not... For what they pay you its not worth working there for more than a year",
+        "advice": null,
+        "pros": "Well known company, at work perks (ie. snacks, red bull, beer, etc...), carries a good reputation on your resume",
+        "summary": "Account Executive",
+        "role": "Account Executive",
+        "date": "Nov 3, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "The job is to cold call business owners that are not wanting to talk to you. the number of calls you make, and the amount of talk time you have are recorded and observed by your managers. It is incredibly competitive and job filled with constant disappointment. Not the best place for someone that judges them self on how well they're doing.",
+        "advice": "Switch up territories more often.",
+        "pros": "Great culture, great benefits, good food, good company overall to be apart of, and mentors with great attitudes. It is what you make of it.",
+        "summary": "You are a telemarketer, you are not a sales person.",
+        "role": "Account Executive",
+        "date": "Nov 4, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "no opportunity for upwards growth",
+        "advice": null,
+        "pros": "good working environment for everyone",
+        "summary": "Review",
+        "role": "Anonymous Employee",
+        "date": "Nov 10, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The sales jobs are over worked with no change in the job to add variety. Expected to work overtime to hit minimum metrics but management preaches work/home life balance where you shouldn't work overtime.",
+        "advice": "Too much reliance on the metrics and not enough focus on the conversations being had with business owners. Conflicting statements about needing to work as long as it takes to hit minimum metrics but overtime should not be used,",
+        "pros": "The culture and benefits are great to include a fully stocked kitchen and full medical. Company sponsored and paid for outings as a sales team.",
+        "summary": "Account Executive",
+        "role": "Account Executive",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "#basepaycheck. Although the stakes are high, regarding the commission eligibility, the company makes it hard for AE's in pay. For most, getting \"the swing of things\" comes by the 5th month. While getting comfortable that far in many will have been uncomfortable with the pay throughout.",
+        "advice": null,
+        "pros": "- Positive atmosphere of co-workers celebrating one another's growth.- Multiple incentives for exceptional performance.- Understanding of sales techniques, holding conversations, and handling objections from decision makers.",
+        "summary": "Sales will be sales",
+        "role": "Account Executive",
+        "date": "Nov 16, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Cold Calling, Territory Sales (unfair advantages), Low Base Salary, Commission Structure, Coworkers constantly quitting and Yelp bringing in new reps who eventually do the same.",
+        "advice": "Start at a higher base salary. Most people quit within first year because the job isn't worth the little money the reps see for the hard work it takes to sell a product that has such a bad rep in the mind of business owners we have to sell product too. I myself plan on leaving after my first year because i'm so unhappy with the pay. Its sad because the work environment and my coworkers are amazing but that doesn't pa\u2026\u00a0y the bills or make the actual job of cold calling 60+ businesses a day worth it. Yelp makes about $20,000 per rep based off minimum quota and a rep will see about $700-800 of that after taxes per month.",
+        "pros": "Stocked Kitchens, Fun Environment, Team Happy Hours, Benefits, Location, Casual Dress code, Opportunity for fast promotion if you are a great sales rep, Great Resume Booster",
+        "summary": "Good First Job after College",
+        "role": "Account Executive",
+        "date": "Nov 25, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Day to day is very similarCold-calling",
+        "advice": null,
+        "pros": "Learn great skillsAmazing EnvironmentGreat PeopleGreat Experience",
+        "summary": "Sales",
+        "role": "Assistant Account Executive",
+        "date": "Dec 8, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "-extremely monotonous. Your job is to make 80+ cold calls a day.-you are a telemarketer. Nobody likes talking with telemarketers. You will deal with that all day long.-Honestly, the job gets really boring.Cold calling all day is not interesting in any way.",
+        "advice": "Keep motivating your reps! Help them hit their goals, take them to offsites, give prizes for goal achievement. This job is crazy boring so do your part to make things interesting or Yelp will continue to lose more and more reps.",
+        "pros": "-great training-awesome for learning sales techniques, overcoming objections, talking with business owners, etc.-young, fun environment.",
+        "summary": "Only apply if you are up for 80+ cold calls a day",
+        "role": "Account Executive",
+        "date": "Dec 15, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Competitive environment to an extreme. Unhealthy amount of pressure.",
+        "advice": null,
+        "pros": "Supportive teammates and fun work culture.",
+        "summary": "Yelp Account Executive",
+        "role": "Anonymous Employee",
+        "date": "Dec 19, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "- The job gets incredibly monotonous and frustrating. Yelp is an incredibly tough sell. Business owners for the most part hate Yelp, don't know it, or love it and are already bought in. Getting a business owner to sit in front of a computer for 20 minutes is hard enough, but getting them to spend thousands of dollars on advertising with a contract is much harder.- Unfair territory/inventory rules. You'll get less\u2026\u00a0 credit for the same deal if your territory is in a small, rural area than a big city. It's also a much harder sell when these areas don't use the internet like people in big cities. Yelp is a consumer first platform, which affects sales numbers and leads to a lot of disappointed clients.- The culture really has taken a spiral since I've worked there. When the company was smaller, there was a fun loving culture where everyone knew everyone. As the company grew and the office got bigger, I would constantly see faces I've never seen before.- Low pay and unfair commission structure that doesn't make any sense. If a client cancels before their contract ends, it comes out of your commission.",
+        "advice": "Figure out ways to make sure the job isn't such an uphill battle all the time",
+        "pros": "Great people- I've made friends there that I will have for the rest of my life, If you're worried about making friends out of school and starting a new social life, this is the place to be. You have to have a great personality to work there.Amazing training and management- On the fly help. Managers will be on your calls and are always there to help you get better. You'll learn a ton here (see below) and this will\u2026\u00a0 jump start a great future in sales if you work hard.- Good snacks (although the lunch options are sub par)- Great opportunity to grow in a sales career if you hit your numbers",
+        "summary": "Great Experience Fresh Out Of College, Get Out Of There After a Year",
+        "role": "Account Executive",
+        "date": "Dec 21, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Call center where you cold call business owners ALL DAY. If you aren't good at pushing people you won't do well. Definitely a hard sales job where quotas matter.",
+        "advice": "None. The management was great. Everyone helped everyone and managers were willing and able to put in extra work for those people that needed it.",
+        "pros": "Awesome office and culture, laid back, fun, exciting, fully stocked kitchen. Everyone is nice and welcoming, people are always willing to help. Good work life balance.",
+        "summary": "Account Executive",
+        "role": "Anonymous Employee",
+        "date": "Dec 21, 2015",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "- You will pound the phone all day which is very taxing. I made 135 calls in a day at times and got nowhere",
+        "advice": "- Train managers for longer, make sure they understand that they will be developing those they manage and not just overseeing",
+        "pros": "- Kitchen, kegs, good work culture, can dress casually",
+        "summary": "Account Executive Position",
+        "role": "Account Executive",
+        "date": "Jan 4, 2016",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Not the best training, could do better",
+        "advice": "Need to keep up with the industry need a more up to date product",
+        "pros": "good company to start career",
+        "summary": "account executive",
+        "role": "Illinois",
+        "date": "Jan 5, 2016",
+        "is_current": false
+    }
+]
