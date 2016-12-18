@@ -3,7 +3,7 @@
 import os
 import click
 import flask
-from flask import Flask, request, render_template, g, redirect, Response
+from flask import Flask, request, render_template, g, redirect, Response, json 
 import json
 
 tmpl_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'templates')
@@ -82,6 +82,18 @@ def personality():
 @app.route("/get_data")
 def get_data():
     data = toJson(parse_tweet())
+    return data
+
+
+@app.route('/companies')
+def companies():
+    return flask.render_template('companies.html')
+
+
+@app.route("/get_companies")
+def get_companies():
+    input_file = open('companies.json').read()  # YOU NEED TO REPLACE THIS
+    data = json.dumps(json.loads(input_file))
     return data
 
 
