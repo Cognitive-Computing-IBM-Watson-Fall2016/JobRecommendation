@@ -1,0 +1,902 @@
+[
+    {
+        "rating": 5,
+        "cons": "Salary hikes are on the lower side",
+        "advice": null,
+        "pros": "Awesome place to work at .Good work life balance. Nice people , Nice managers",
+        "summary": "Awesome Place to work at",
+        "role": "Senior Consultant",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Salary increases are slow, and salary bands don't move for people already inside the company. Also, some other similar size companies seem to have other extra compensations we don't: Christmas bonus, holiday bonus, etc.",
+        "advice": "Keep up on the salary to people",
+        "pros": "Market salary, great working conditions. Also the opportunity to build a career. Good health & dental insurance",
+        "summary": "Oracle is one of the best places I have ever worked in my 16 year career. They have good working environment.",
+        "role": "Principal Software Engineer",
+        "date": "Sep 25, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "The size of the company my be a problem when you attempt to promote improvements. Compensation reviews are almost necessarily associated to promotion. In principle, this is good to give incentive to development but eventually force changes for worse.",
+        "advice": "Does not get tied to the status quo.",
+        "pros": "Best of the breed technology in many different industries, technologies and activities. A interested employee can navigate and find the right spot on which he can match the company's interest with the best contribution he can offer at that moment in life.",
+        "summary": "Wide space to conciliate work and personal realization",
+        "role": "Anonymous Employee",
+        "date": "Sep 25, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Large company and one can be lost. At times one needs to be self motivated to find a place and path to align and grow.",
+        "advice": null,
+        "pros": "One of the fastest growing companies with a aggressive management strategy.Great work experience. It is company that can provide a lot of opportunities to learn and build ones skills.",
+        "summary": "Good working years",
+        "role": "Principal Consultant",
+        "date": "Sep 26, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Middle management should be more employee oriented. nice to work here. nice culture. friendly environment nice.very thank full to be a part of oracle",
+        "advice": "Fiserv should be try to become dream company for perspective employee's. That means better compensation , better employee friendliness. Perks and other small gestures should be given to the employees that would increase the respect of the company.",
+        "pros": "her sincerity, decency, working skills. excellent attitude, nice communication ,",
+        "summary": "excellent",
+        "role": "Data Base Administrator",
+        "date": "Sep 28, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "I worked there when it was Sun Microsystems and we had several lay-offs. It was a time of upheaval and stress and from an employee's perspective, it all seemed very disorganized, and lacking vision.",
+        "advice": null,
+        "pros": "My team was great. I had a flexible schedule - they were more concerned about my work performance and I could take an appointment in the middle of the day if needed as long as I made up the time by staying late or coming in early. I had the ability to work from home at times, which really helped the work-life balance. They had great benefits, including education reimbursement and it was a place of potential career ad\u2026\u00a0vancement.",
+        "summary": "Administrative Assistant",
+        "role": "Anonymous Employee",
+        "date": "Oct 8, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "You will need to perform well in order to advance in the company",
+        "advice": "More attention to people management",
+        "pros": "Well structured, multinational company that provides plenty of career oportunities",
+        "summary": "A very good company to start in, where you have plenty of advancing oportunities",
+        "role": "Technical Support Engineer",
+        "date": "Oct 9, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Too hierarchical.Oracle being an empire in itself you need to try really hard to get recognized.Ego massaging your boss is key to your survival.No system or process to address employee grievances.No talent retention plan.",
+        "advice": "Make it more democratic.Empower HR Executives/Managers.Employee evaluation of Managers.",
+        "pros": "Internal trainings to upgrade your skills.Oracle is a big brand in job market.Get to work on the best of technologies, learn best practices and processes.",
+        "summary": "I enjoyed working at Oracle specially the culture is open and flexible, learning opportunity, big brand behind you.",
+        "role": "Business Analyst",
+        "date": "Oct 14, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "this is my own prob not gettin freinds to enjoy like in college days exept that dont have any problem in work /salary",
+        "advice": null,
+        "pros": "1 its a AAA+ company so no need to fear about recession2 good salary with no complicate work3 good job history in ma profile to search new job may b n future right now no idea about that",
+        "summary": "its really good to b here as analyst",
+        "role": "Business Analyst",
+        "date": "Oct 17, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "-None that I can think of",
+        "advice": null,
+        "pros": "+ Great atmosphere+ Flexi Time+ Subsidised food",
+        "summary": "Great people, enjoyable place to work.",
+        "role": "Software Engineer (Intern)",
+        "date": "Oct 18, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Work is specific to module",
+        "advice": "Request chance to be given to employees to explore and work on other avenues",
+        "pros": "Have a bright chance to improve Knowledge Curve.",
+        "summary": "Knowledge and enlightenment at Oracle",
+        "role": "Software Engineer",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "If you have worked for many years at the company, your salary may get behind compared to new hires.",
+        "advice": "Recognize employees who have been working for many years at the company (very knowledgeable and experienced) by taking their salaries to competitive levels compared to new hires.",
+        "pros": "There are no layoffs. You always will have something useful and productive to contribute with.",
+        "summary": "Oracle",
+        "role": "Anonymous Employee",
+        "date": "Oct 22, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Variable pay is very less.",
+        "advice": null,
+        "pros": "Manager and team is very good.",
+        "summary": "Work life balance. Nice company yo work with.",
+        "role": "Quality Analyst",
+        "date": "Oct 28, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "pay and promotion, lack of next step opportunities",
+        "advice": null,
+        "pros": "training and development, challenging and fast paced",
+        "summary": "great opportnity",
+        "role": "Anonymous Employee",
+        "date": "Oct 30, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "I would't have anything to comment",
+        "advice": null,
+        "pros": "competitive team, performance, great opportunity to develop your career",
+        "summary": "the longest longest and interesting experience within Oracle Switzerland",
+        "role": "Credit & Collections Analyst",
+        "date": "Oct 30, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Oracle is for self-starters with personal drive -- no one will hold your hand. Some people are not able to succeed within this fast-paced company.",
+        "advice": "Communication has been good lately; keep it up.",
+        "pros": "Oracle is unmatched in putting its own technology at its employees' finger tips, allowing us the ability to use the same software solutions that make our customers the best-of-the best.",
+        "summary": "Home to the best and brightest.",
+        "role": "Operations",
+        "date": "Oct 30, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Too diversified, need to promote Oracle as a whole",
+        "advice": "Too diversified, need to promote Oracle as a whole",
+        "pros": "Employees are blessed with Excellent work life balance",
+        "summary": "Very good",
+        "role": "Anonymous Employee",
+        "date": "Nov 6, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "The people management during 2008 crisis was handled very badly. The company lost its human face and yet did not save substantially in terms of salaries.",
+        "advice": "The people management during 2008 crisis was handled very badly. The company lost its human face and yet did not save substantially in terms of salaries.Either company should have handled it in a way where company looks heartless and saves money or company looks kind even at cost of money. here company looked heartless and yet did not save money.",
+        "pros": "quantum of work is what is humanely possible. If because of some reason it is not, you would be told so by the management that this particular project is estimated aggressively to eliminate competition etc. And when you are stretching to get the work done, leadership is aware of this.That typical attitude of software companies where they push managers to make people stay longer is quite less.",
+        "summary": "My experience has been very satisfying",
+        "role": "Associate Consultant",
+        "date": "Nov 13, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Currently nothing which made me feel bad",
+        "advice": null,
+        "pros": "Good work env. Good support from management",
+        "summary": "Good work env",
+        "role": "Anonymous Employee",
+        "date": "Nov 17, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Sometimes bad management and bureaucracy",
+        "advice": null,
+        "pros": "Good Company and good opportunities",
+        "summary": "Good Company and good opportunities",
+        "role": "Anonymous Employee",
+        "date": "Nov 21, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Need to work more on R & D.",
+        "advice": "Naice company to work with",
+        "pros": "Excellent job and a naice place to learn nd work",
+        "summary": "Experience in oracle retail bangalore",
+        "role": "Applications Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Focused for Financial clients only",
+        "advice": null,
+        "pros": "Exposure to best financial clients. Opportunity to proove",
+        "summary": "Good place to work",
+        "role": "Consultant",
+        "date": "Nov 29, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "I cannot think of any.",
+        "advice": null,
+        "pros": "Very good team. Excellent Work/ Life balance.Excellent technologies.",
+        "summary": "Excellent team and Awesome people and technology. Proud to work for Oracle.",
+        "role": "Senior Applications Analyst",
+        "date": "Nov 29, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Very good company to work for.",
+        "advice": "Keep doing the good work",
+        "pros": "None that I can think of.",
+        "summary": "Review",
+        "role": "Anonymous Employee",
+        "date": "Dec 2, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Relatively lower salaryNo perksY-on-Y increment is very less.Forget about the bonus,etc.",
+        "advice": "Salaries doesn't justify the talent.",
+        "pros": "High end technology and products,More free time.flexible work schedulevery co-operative colleagues, Healthy competition.",
+        "summary": "Highly technical yet very relaxed job",
+        "role": "Software Engineer",
+        "date": "Dec 4, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Nothing negative. I liked everything about oracle.",
+        "advice": "Its already doing all the right stuffs in my opinion",
+        "pros": "Its a great and challenging place to work.",
+        "summary": "Member of technical staff",
+        "role": "Anonymous Employee",
+        "date": "Dec 6, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Over Competitive and sometime aggressive",
+        "advice": "Employee appreciation",
+        "pros": "Excellent place to be if you are business oriented and want to be in tech firm.",
+        "summary": "Business REview",
+        "role": "Principal Software Engineer",
+        "date": "Dec 8, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "big company, make sure you are ok with that.",
+        "advice": "great",
+        "pros": "support, growing, many locations, good stock",
+        "summary": "Great work experience",
+        "role": "Anonymous Employee",
+        "date": "Dec 10, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "if ur manager is not supportive dere is no flexibility",
+        "advice": null,
+        "pros": "flexibility is dere but depends on ur manager if ur manager is not supportive dere is no flexibility",
+        "summary": "Security Analyst",
+        "role": "IT Security Analyst",
+        "date": "Dec 13, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Middle management is very slow. Most of them have ' take it easy approach'. If you work for a long duration in this organisation you may loose your competitive edge.",
+        "advice": "Middle managment team to be more prompt and accountable.",
+        "pros": "Good Learning Oppurtunities in the area of Enterprise Performance Management. Good work life balance. Gives an oppurtunity to enhance your skills in multiple areas.",
+        "summary": "Oracle Hyperion",
+        "role": "Anonymous Employee",
+        "date": "Dec 25, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Compensation is not competitive enough among those big ones",
+        "advice": "more flexibility for each product?",
+        "pros": "Good place to start career, a lot will be learned in this place.",
+        "summary": "Good Company",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "It all depends on your Manager",
+        "advice": null,
+        "pros": "Flexibility, working env, good pay-scale",
+        "summary": "Its' amazing",
+        "role": "Software Development Engineer In Test",
+        "date": "Dec 29, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "very bad salary and benefits",
+        "advice": "Low salary",
+        "pros": "very good technology and learning experience",
+        "summary": "Principal member of technical staff",
+        "role": "Anonymous Employee",
+        "date": "Dec 31, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "1. Low appreciation/recognition for good work2. Low transparency regards to company strategy and business on-goings3. Sometimes people are promoted only because of the number of years they spent. For e.g. the client relationship manager in New York area couldn't manage relationship with the clients like rival firms. I worked there for 2 years, and I as a consultant was managing the relationship and doing her \u2026\u00a0work. I saw her meet the client only when the project was awarded to a rival firm.",
+        "advice": "1. Appreciate good work more often to keep motivation levels high.2. Put competent people for managing client relationships3. Send periodic and transparent communication regarding happenings in the business environment",
+        "pros": "1. Quality work2. Opportunities to learn and work overseas3. Flexible and relaxed work environment - work is the only thing that matters4. No/minimum politics5. Cultural activities",
+        "summary": "Ample opportunities to grow and succeed for those who are competent, smart, and hard working",
+        "role": "Senior Consultant",
+        "date": "Jan 10, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "I don't have any cons",
+        "advice": null,
+        "pros": "benefits, pay, work life balance",
+        "summary": "Best Company to work for",
+        "role": "Anonymous Employee",
+        "date": "Jan 11, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Process and tools could be simpler",
+        "advice": "Simplify process",
+        "pros": "Career advancement and opportunity to travel",
+        "summary": "Great company with great opportunities",
+        "role": "Sales Representative",
+        "date": "Jan 11, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Possibility of non satisfaction with the compensation",
+        "advice": "Management doing a wonderful job.. Appreciate!",
+        "pros": "Extraordinary team membersGreat exposure to latest technology",
+        "summary": "I had a learning experience with Oracle that is now defining my career",
+        "role": "Applications Developer",
+        "date": "Jan 16, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "No, I don't see any disadvantages",
+        "advice": "more classes on products",
+        "pros": "bets-of-breed products. you can alway learn innovative technologies.",
+        "summary": "sales consulting. CRM products",
+        "role": "Sales Consultant",
+        "date": "Jan 21, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Quarter ends and appraisals!! injustice and politics",
+        "advice": "Ensure that the employees get what they deserve, and avoid partiality and cheep politics (specially in India)",
+        "pros": "best work environment, and practices",
+        "summary": "Oracle is a software and Hardware developing company",
+        "role": "Anonymous Employee",
+        "date": "Jan 21, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Sometime we need to work extra hour due to the customer inquiries.",
+        "advice": null,
+        "pros": "All of managers supports what I would like to do based on the Company's perspective.",
+        "summary": "I got an experience about the team building",
+        "role": "Technical Support Engineer",
+        "date": "Jan 21, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Low increments and hikesPromotions at late intervalsSlow growth",
+        "advice": "None",
+        "pros": "Amazing companyChilled out work cultureGood workNo dress code",
+        "summary": "Review",
+        "role": "Applications Engineer",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Life balance is not the best,",
+        "advice": null,
+        "pros": "Oriented result Company, opportunities to grow, recognize the achievements, the branding open doors and the environment is helpful to develop your sales abilities",
+        "summary": "Very Good and challenging",
+        "role": "Sales Director",
+        "date": "Jan 29, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Very long process and time to see our contribution to code in action.",
+        "advice": null,
+        "pros": "Flexible time. Opportunity to experiment with technical tasks.",
+        "summary": "All round satisfying and good technical learning",
+        "role": "Applications Engineer",
+        "date": "Feb 6, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "some times some management polities, that is there in all the company :)",
+        "advice": null,
+        "pros": "learning, opportunity, hike, work life balance, work envi everything was very good",
+        "summary": "Great to work",
+        "role": "Associate Consultant",
+        "date": "Feb 17, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "heavy work. but it is good. good people.",
+        "advice": null,
+        "pros": "good to work. balance lifestyle...",
+        "summary": "good",
+        "role": "QA Engineer",
+        "date": "Feb 18, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Huge organisation, therefore it would take a lot of effort and time to grow. There is no 24/7 transport and this becomes difficult for employees staying afar.",
+        "advice": "Internal promotion structure needs review.",
+        "pros": "1. Dynamic work Environment2. Fast growing company3. Global Market leader4. Good place to learn",
+        "summary": "Dynamic and Ever changing environment.",
+        "role": "Senior Credit Analyst",
+        "date": "Feb 19, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "In this line of work, travel is a must.",
+        "advice": null,
+        "pros": "Exciting projects with the biggest companies.",
+        "summary": "Always a different project",
+        "role": "Senior Principal Consultant",
+        "date": "Feb 28, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "- Technical learning can be a bit less in some profiles",
+        "advice": null,
+        "pros": "- Very good work environment",
+        "summary": "Excellent company to work with",
+        "role": "Anonymous Employee",
+        "date": "Mar 3, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "not a bad place to work at",
+        "advice": null,
+        "pros": "Not a bad place to work at.",
+        "summary": "Oracle work environment",
+        "role": "Technology Sales Manager",
+        "date": "Mar 4, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "It's a demanding environment. It takes a while to find your place but there are people around you that will be more than happy to help",
+        "advice": null,
+        "pros": "Working with Oracle will give you great idea of what \"team work\" really is. Nothing is happening without global collaboration. And when you achieve something you've got the feeling that you really contributed to company's global success.",
+        "summary": "Customer oriented, devoted to constant service improvement.",
+        "role": "Training and Process Analyst",
+        "date": "Mar 7, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Not too many, hard to move regions, approvals process can be long",
+        "advice": "shorter approval cycle would be beneficial i feel",
+        "pros": "Good pay, benefits, work environment",
+        "summary": "A great place to work and grow",
+        "role": "Demand Generation Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "appraisals are nit like other IT companies.....",
+        "advice": "Onsite exposure sholuld be given to employees",
+        "pros": "lot of learning Learning, awesome benefits benefits, nice work culture",
+        "summary": "Best company to work for !!!!",
+        "role": "Anonymous Employee",
+        "date": "Mar 10, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "You can get boxed into your small area of focus. If you like getting really deep into a area then it is not a problem, but of you want a broader exposure then getting that can be sometimes difficult.",
+        "advice": "Some of them seemed completely disconnected with the going ons within their teams. But have seen exceptions too. For those who were disconnected, I would suggest that they get ready to dig into the details of the work done by their teams.",
+        "pros": "Great place to work - flexible work hours, good compensation, good knowledgeable colleagues who are secure enough to share knowledge, no \"customer\" expectations to manage if you are in product development overall a good place for technology focused professionals.",
+        "summary": "Project Lead",
+        "role": "Project Lead",
+        "date": "Mar 13, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "there are many paper works to do",
+        "advice": null,
+        "pros": "very good place to learn new things",
+        "summary": "very good company",
+        "role": "Anonymous Employee",
+        "date": "Mar 14, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Not too much resources available",
+        "advice": "Newer and powerful laptops",
+        "pros": "Good team to work with.",
+        "summary": "Oracle",
+        "role": "Software Engineer",
+        "date": "Mar 15, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Nothing i can think of",
+        "advice": null,
+        "pros": "1. Flexibility2. great work culture3. good work",
+        "summary": "Best place to work",
+        "role": "Anonymous Employee",
+        "date": "Mar 18, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Nothing to mention as such.",
+        "advice": null,
+        "pros": "Very Good work culture.Very Good learning.Good growth possibilities.Right guidance given by the management",
+        "summary": "Wonder full place to work.",
+        "role": "Senior Recruiter",
+        "date": "Mar 18, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Lack of a real talent management program",
+        "advice": null,
+        "pros": "Good support from management teamVery dynamic environmentYou can change the way things are done",
+        "summary": "Excellent workplace and helpful colleagues",
+        "role": "Anonymous Employee",
+        "date": "Mar 18, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "we are good enough to have you",
+        "advice": null,
+        "pros": "big scale information technololy firm",
+        "summary": "oracle ebusiness",
+        "role": "Anonymous Employee",
+        "date": "Mar 19, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Specific country differences prevail over general corporate culture. There are a lot of differences between countries, specifically in EMEA.",
+        "advice": null,
+        "pros": "Very flexible company, mostly objectives basedYour career development is entirely up to you, which is a pro if you are a highly motivated individual, con if you expect your manager walk you through what you need to doRemote work is possible and generally accepted",
+        "summary": "It's entirely up to you",
+        "role": "Anonymous Employee",
+        "date": "Mar 25, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Nothing I can think of",
+        "advice": null,
+        "pros": "Awesome place to work for, Good Work life balance, Great work",
+        "summary": "One of the best place to work with",
+        "role": "Former Applications Engineer",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Salary not upto mark, as compared to other IT companies",
+        "advice": null,
+        "pros": "Excellent working culture, growth opportunities, intra company transfer option",
+        "summary": "Senior Consultant and Project Manager",
+        "role": "Project Manager",
+        "date": "Apr 2, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Not much work load and project",
+        "advice": null,
+        "pros": "Good Career opportunities is there.",
+        "summary": "Here Good and balanced Life",
+        "role": "Anonymous Employee",
+        "date": "Apr 10, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "No structured process for Annual Increments- for few divisions",
+        "advice": "Communicate Clear growth PathConsider annual Monetary Appraisals",
+        "pros": "EmpowermentGood ExposureGlobal Work AtmosphereWorld Class Infrastructure",
+        "summary": "Optimum Work Life Balance",
+        "role": "Lead Campus Relations",
+        "date": "Apr 11, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "nothing much to tell about oracle is very good company",
+        "advice": "nothing to give from my side every thing is good",
+        "pros": "Very good company, good management and work location",
+        "summary": "Oracle",
+        "role": "IT Consultant II",
+        "date": "Apr 13, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Salaries a bit low compared to market standard but at same time not sub-standard!",
+        "advice": null,
+        "pros": "Excellent work culture a must join company for its professionalism.",
+        "summary": "Senior Applications Engineer",
+        "role": "Senior Applications Developer",
+        "date": "Apr 17, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "if you want some hard paced work environment then this is not the place to be",
+        "advice": "NA",
+        "pros": "Awesome work culture, Flexible work timings, every month you get some cultural activity, Work culture too good",
+        "summary": "awesome experience working there",
+        "role": "Associate Consultant",
+        "date": "Apr 22, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "- Not a good pay master",
+        "advice": "- Management should think about the salary they are offering to their employee is not the industry std, that too in the city like Bangalore",
+        "pros": "A company which allows to grow you in every way be it professional, personnel. better working conditions and environment. You will get to know all the things in oracle. A company which is worth to join and it believes in long term association with the employee.",
+        "summary": "A company which allows to grow you in every way be it professional, personnel. better working conditions and environme",
+        "role": "Technical Consultant",
+        "date": "Apr 26, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "It's very self service driven. If you can't do things on your own you are not going to last as long. Everything is self serve.",
+        "advice": "Keep motivating your employee's",
+        "pros": "Very solid company with very sharp people working here. I always enjoy the challenge of being an Oracle employee",
+        "summary": "Oracle work",
+        "role": "Senior Recruiter",
+        "date": "Apr 29, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "It's a very, very big company. It's mainly up to you to find your own niche, and the self service automated admin, HR and IT processes can really grind you down. It's my single big moan - got a problem with your payroll calculation, the team is in Dublin/Romania etc. Onboarding is painful because of this (although of course you have great colleagues to help you out), there is sooo much admin to get done at first. Onc\u2026\u00a0e you're through this stage though, it just becomes one of those things you have to deal with occasionally.Heavy responsibility - you need to be self-driven here. Oracle trusts you to get on and be awesome, which is great because they don't breathe down your neck, but on the other hand it can be a bit daunting. However the culture here is that you just ask for help if you need it, and people will absolutely get involved and add their strength to yours. Oracle often has big teams on deals which could be up to 10 or more people across different areas of the organisation and internationally, regularly a deal team is 4-6 people. You just have to get over it - mostly the people here *are* awesome and they don't let geographical and/or business division separation stand in the way too much. You will spend a lot of your life on conference calls, unfortunately. If you speak any extra languages I imagine that could win you a LOT of friends :)Communication - there is so much of it in the form of corporate emails, newsletters, Town Hall meetings, 'event days' etc., that eventually you begin to tune it out, which is a shame. But there's a point where you learn what you can and can't ignore, mostly. Apparently we even have a TV studio lurking somewhere on the premises but I have no idea where or what it's for...!Overall, though, these are not massive issues. They're probably not avoidable in such a large organisation, and are very much surmountable.If you like to operate as a lone wolf, if you like tons of flexibility and don't like adhering to a job description, you probably won't enjoy it here. People are very much cogs in the machine, but quite honestly it's a lot of fun being a cog in this machine.",
+        "advice": "You're doing it right. Thanks.",
+        "pros": "Working with bright, enthusiastic peopleGorgeous offices in Reading and LondonProfessional approachLoads and loads of training.Cool technology.I've been here almost a year and so far it's simply one of the best companies I've worked for. Oracle is a very big place, and your experience will very much depend on your direct line manager and their manager. Luckily enough my direct manager is excel\u2026\u00a0lent, and his manager (responsible for Europe) is also a superstar. There's a lot of passion for what we do, the developers are great (and really helpful if you need a bit of custom work doing to prep for a demonstration). Investment is being ploughed into the product and further acquisitions are being integrated at a massive rate of knots. A huge amount of training is available to you, including cross-product training if you can charm your manager into agreeing it!Work/life balance - I work from home or on site most of the time but I speak to my manager nearly every day by phone. I go into the office about once a week, and feel just as welcomed as the desk jockeys! The restaurant is great - food is delicious, but it's not particularly cheap. Lots of people bring lunch in anyway so it's up to you.Teamwork: Oracle is very big on teamwork. And that generally means working with people who you may have only just met (or not even met yet via phone/web), often on big deals, and often internationally. I'm regularly amazed and grateful for how helpful people are. Recently a colleague needed help on a very short notice, high-value deal. Our whole team dropped everything else and for 48 hours we all worked on it. So, a real sense of teamwork. It is absolutely vital to build your own personal network of friends and allies across different areas of the business as it makes finding your way around/getting extra resources loads easier.Career opportunities: Honestly, it's too soon for me to tell, really as I haven't had my first appraisal yet. But I will say there are stacks of training courses for all sorts of things (not just products but business skills etc) so on that basis I'm going to say pretty good so far.Benefits: Super flexible. You are allocated a certain number of points, and you can basically spend the points on whatever is best for you. Extra holidays (up to 43 days!), health insurance, dental cover, childcare, critical illness insurance, a fancy car, there are lots of options. Pension scheme is generous. Reasonably good car leasing scheme - or you can just go and purchase your own car and any unspent benefit points are paid out as cash instead so it sort of functions as a car allowance.Also, Oracle pays for a concierge service, lots and lots of corporate discounts for all sorts of goods/services, and you can drop your dry cleaning off in any of the main buildings in Reading and a company will clean and return it. Not free, but very reasonably priced. If I was office based I'd probably use it.Transport: Free bus service running between Thames Valley Park and Reading town centre which is very handy, especially for the train station. Loads of car parking at the main Oracle campus.Expenses: If you submit a claim on Monday (assuming your manager approves it quickly) you could well have the cash in your bank account by Thursday. This is the fastest of any company I've ever worked for, and I appreciate it a lot - working in the field for Oracle means running up a substantial expense bill, and they pay each claim individually rather than making you wait for it to appear in payroll, so you can claim every week if you want. Very cool.",
+        "summary": "Fantastic so far. Great colleagues, loads of training, cool technology.",
+        "role": "Solutions Consultant",
+        "date": "Apr 30, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "More delegated work and very much believed in innovation than the current market strategies and very much practicality of the feasibility of the projects and approvals",
+        "advice": "Nothing to share, best of working..",
+        "pros": "Good work culture and best solutions for the different ideas and more fun and lot of competitive spirit and good management ways and very honest and most exxciting environment",
+        "summary": "Best place for peace of mind and very cool environment to work and have great pleasure of working there in oracle",
+        "role": "Senior Member of Technical Staff",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Work flexibility could be improved",
+        "advice": "Could use more feedback to and from employees",
+        "pros": "Good Benefits, nice work environment",
+        "summary": "An employer with many opportunities",
+        "role": "Anonymous Employee",
+        "date": "May 5, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Bad pay . Salary increments are very minimal.",
+        "advice": null,
+        "pros": "Good work culture and work life balance",
+        "summary": "Applications Engineer",
+        "role": "Applications Developer",
+        "date": "May 7, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "At times invades your personal time and can be ruthless about it.",
+        "advice": "Reduce the number of LOBs and departments. A little more freedom to local organizations",
+        "pros": "Keep my knowledge up to date and keep me fighting fit.",
+        "summary": "Freedom to taken on different roles and challenges",
+        "role": "Anonymous Employee",
+        "date": "May 11, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Maintains very tight controls and some decision that could be taken at BU level too has to go for the highest levels of approvals.The company has and is bloating with multiple acquisitions some of them really providing cutting edge and breakthrough technologies that can position Oracle in greatly advantageous position the market, However, integration of these acquired technologies in to their main steam offer\u2026\u00a0ing is rather slow.C&B specifically is seen as the biggest challenge seen by the mid/senior management, partly due the fact the salary ranges of an acquired product/service company gets merged with the Oracle standard salary ranges. And this doesn't take in to account the acquired companies domain expertise / skill sets and leaves little to no room for managing future increments of the acquired talent, and slowly you start seeing loosing them to competition. And this impacts the longterm positioning and integration of the acquired technologies in to the main stream prodcuts.",
+        "advice": "There is a lot of product overlaps, but when position it to a customer, the field Sales and Account teams MUST come together and represent as \"ONE Oracle\" to the customer and NOT compete internally, address and position products that best fits customers requirements considering protecting their longterm investments on products and technologies from Oracle.C&B team to align offering in line with the techno\u2026\u00a0logy/industry domains to remain competitive from the time an acquired company gets fully merged in to main stream Oracle, failing to do so results in loss of talent acquired by shelling huge monies.",
+        "pros": "Excellent work environment. Provides opportunities for growth internally. Excellent Brand Value. Very strong leadership team at the corporate.",
+        "summary": "Very positive! Oracle is strongly positioned (product & technology) to give IBM run for it's money.",
+        "role": "Senior Manager",
+        "date": "May 13, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Almost no exposure to non-Oracle technologies.",
+        "advice": null,
+        "pros": "Management was very active in team building activities, which motivated the team members to perform their tasks cohesively. Flexible work hours is a plus point.",
+        "summary": "One of the best MNC to work in India",
+        "role": "Systems Analyst",
+        "date": "May 14, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Might find a bit of inertia to push things around way quickly.",
+        "advice": "Keep doing great!",
+        "pros": "Variety mix of technology. You choose your area(s) to prove and excel yourself.",
+        "summary": "It gives you an opportunity to be world class. Gives you enough work challenges to keep you at par with emeging industry",
+        "role": "Development Manager",
+        "date": "May 15, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "sales presurre, high qoutas, sometimes 12-15 continous working hours to achieve goals",
+        "advice": null,
+        "pros": "good enviorment, good comp plans, knowledge share good, 35% travel time, rated between top 5 within nice places to work",
+        "summary": "great",
+        "role": "Sales Representative",
+        "date": "May 17, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Should care more about the life balance",
+        "advice": null,
+        "pros": "Great products and sales team",
+        "summary": "Great products and sales team",
+        "role": "Territory Manager",
+        "date": "May 19, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "Less bonus.Slow increment in salary",
+        "advice": null,
+        "pros": "Flexible work timing.Lot of opportunity to learn",
+        "summary": "QA Engineer",
+        "role": "QA Engineer",
+        "date": "May 26, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Since compensation is tied to sales target sometime you miss your bonus numbers but it's true for all the organizations as well. Increment is not sure every year.",
+        "advice": "Keep up the good work",
+        "pros": "I really like the work life balance this team provides. Here are few positives like Flexibility, Highly technical team members, focused selling methodology, great products to work on.",
+        "summary": "Oracle Pre-Sales team work culture",
+        "role": "Principal Consultant",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Nothing much ..... HR can be more interactive",
+        "advice": "Good work",
+        "pros": "positive attitude with lot of support",
+        "summary": "Excellent company",
+        "role": "Applications Engineer",
+        "date": "May 29, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Compensation wise I am in the same place as I was 6 years ago.... No significant hike. New hires less than my designation get my salary multiplied by 2 or 2.5My advise is not to come to oracle in your too early stages of your career. Come here when you already have 10 year of experience in a good position and ofcourse compensation.",
+        "advice": "Your loyal employees are suffering from your compensation plans which are different from the new hires. Please save the organization and do justice.",
+        "pros": "A lot of scope to explore new things, you will be with the best in the World. Your ideas are respected and you can balance work and personal life very nicely. An admiring place for any learner.",
+        "summary": "I have been with oracle for about 6 years now and here are my comments",
+        "role": "Senior Sales Consultant",
+        "date": "May 30, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Unrealistic management looking at the world from their ivory tower.",
+        "advice": "Get grounded, listen to your team and customers.",
+        "pros": "Great technology innovator, daring to try different things or approach which sometimes appeared to be eccentric. Hard driving, 200% numbers focus.",
+        "summary": "Not for the Fainthearted",
+        "role": "Sales Representative",
+        "date": "Jun 4, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Work life balance suffers a bit",
+        "advice": null,
+        "pros": "Vast business portfolio. You can move internally.",
+        "summary": "Great employer. very good place to work",
+        "role": "Solutions Architect",
+        "date": "Jun 6, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Salary on the lower side",
+        "advice": "Please look at market salaries and avoid internal parities.",
+        "pros": "Good learning, Work Life Balance",
+        "summary": "Good Comp",
+        "role": "Product Manager",
+        "date": "Jun 12, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "Depends on the area that you work.",
+        "advice": null,
+        "pros": "Good work environment, excellent benefits, good opportunities, development and life balance.",
+        "summary": "Oracle is an excellent place to work",
+        "role": "LA Senior Recruiter",
+        "date": "Jun 14, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 5,
+        "cons": "hard to think of one....but they should move employees around different technologies based on employee preferrence. Sometimes employees are forced to move around.",
+        "advice": "Keep it going!!!",
+        "pros": "Amazing people to work with, great flexibilty at work. Company takes care of its employees and spends a lot too. Carrer growth too is fantastic. With a great work life balance, this will be an ideal company if you are into a long haul.",
+        "summary": "Great experience",
+        "role": "Senior Software Engineer",
+        "date": "Jun 17, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "High load of work. Too many hierarchical levels to get involved in a business decision. Performance appraisal criteria is a grey area, people often get surprised with the results.",
+        "advice": "Let's streamline internal processes in order to get things done faster.",
+        "pros": "Good salary and benefits, specially if you're a sales person. There are many opportunities in terms of work, since they deal with many different niches (E.g.: CRM, BSS, OSS, etc). It is also possible to pursue a career abroad since they have projects in many countries using their products. Company culture is ok as well.",
+        "summary": "Good place to work",
+        "role": "Principal Consultant",
+        "date": "Jun 19, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 5,
+        "cons": "I have never felt any.",
+        "advice": "They must give hike every year. :-)",
+        "pros": "Oracle's work environment,culture,senior management is all very good.",
+        "summary": "Oracle has no comparison. Oracle is the best.",
+        "role": "Database Administrator",
+        "date": "Jun 24, 2013",
+        "is_current": true
+    }
+]

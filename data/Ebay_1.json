@@ -1,0 +1,792 @@
+[
+    {
+        "rating": 1,
+        "cons": "Great place to be if you want to be stabbed in the back, feel like part of the cattle call. There are some very nice people, but overall, it's a cut-throat, antagonistic, environment where most hate their jobs and just stay until their stock vests.",
+        "advice": "Hire people that care about people and it will trickle down. That means, it starts with YOU. Understand the necessity of people having to take care of themselves, have a life and balance outside of work. Be flexible with schedules and expectations.",
+        "pros": "Lots of smart people, good place to gain skills, learn from others. But mostly? Good to have on your resume; It impresses people!",
+        "summary": "Good for your resume, bad for your ego.",
+        "role": "Product Manager",
+        "date": "Jun 11, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Politics, business groups working in silos, a lack of understanding of how to evolve the business.",
+        "advice": "Stop promoting your own kind and find experts who understand the business... not just promoting the company line. Have the testicular fortitude to stop hiding behind the platform and make real, substantive changes to the user experience. Stop dreaming up promotional lines and then try to build the product after the fact.",
+        "pros": "To find out why you shouldn't work for a large corporation in SV. eBay embodies the very worst aspects of a large corporation while promoting itself as somehow smaller, more intimate, more in touch with regular people. The company's party line and bottom line to not sync.",
+        "summary": "OY VEY!",
+        "role": "Senior Program Manager",
+        "date": "Jun 12, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "All work and no play. Work-life is good if you want all work and no life!",
+        "advice": "Treat people with respect",
+        "pros": "Looks good on the resume",
+        "summary": "A sweat shop",
+        "role": "Senior Software Engineer",
+        "date": "Jun 23, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "You won't learn a thing because management is completely incompetant and will end up blaming you for their own stupidity. Dilbert cartoons won't seem funny any longer because you'll be living them. The technology sucks big time and systems don't talk to each other more frequently than they do.",
+        "advice": "Leave. Go ruin someone else's company.",
+        "pros": "It looks good on your resume and because they are idiots they'll just keep throwing more money at you to get you to stay (if you even want to stay).",
+        "summary": "Ebay - the stuff Dilbert cartoons are made of.",
+        "role": "Human Resources",
+        "date": "Aug 25, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "eBay provides a dysfunctional, passive-aggressive work environment, where people are very uncomfortable giving and getting feedback. Many employees are not very good at their jobs but they don't seem to care about improving themselves, and they aren't given the information that would help them do so. They come to work to progress their own careers by doing visible internal projects, rather than focusing on real custo\u2026\u00a0mer-facing projects. And they are rewarded for this!There's a general lack of knowledge and curiosity about new and developing technologies, and most of the company seems to be stuck on doing things the old way. If it worked so well before, so why change? And these are the people responsible for creating and improving new products for customers. They don't know about technology and don't seem to care.New employees are often treated as completely inexperienced, even if they've worked in the industry for years. If you don't have any eBay work experience, you apparently don't know what's going on in the world.The focus on work-life balance is a plus, but it's also a minus. There is actually too much focus on preserving one's non-work life, to the extent that work is not really made rewarding and meaningful.Many people responsible for making decisions on the lower-levels of things seem to be rather indecisive, especially in the middle of major changes going on. Decisions are made and reversed so often, that the original intent of them is lost entirely. Long-term goals are rare or completely non-existent, because apparently it's only important to worry about the next few months.Internal processes are heavy and bloated, and there are so many steps to go through and varying tools to use, that a lot of time is wasted on administrative details. Larger companies are not known for being quick to react, but this is ridiculous.",
+        "advice": "The only way to fix eBay is to overhaul the entire company and internal processes, as well as hire all new people. You need people who care about doing a good job and making good products, and you don't have that now. The processes hinder any sort of creativity or true product development, and people are rewarded for just doing the minimal amount of work.",
+        "pros": "eBay offers good pay and benefits, as well as a focus on work-life balance. The south campus is located in a nice area of San Jose and Campbell, with a good selection of local businesses nearby (good for all the lunches you'll be eating off-campus).",
+        "summary": "If you're considering a job at eBay, look elsewhere.",
+        "role": "Interaction Designer",
+        "date": "Sep 3, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Senior management is very out of touch with the market - both for customers and employees. They now resort to fear tactics to retain employees who get interesting jobs - you don't see the great companies like GE or P&G rage on their stars' next job opportunities, and that's why those companies' alums proudly carry those banners for life. It is now a company that is trying not to lose, but they've given up winning\u2026\u00a0 long ago.",
+        "advice": "Retire. Find replacements who can comfortably lead a business that is by its nature not command-and-control.",
+        "pros": "If you're willing to kowtow to management, you can get great career advancement opportunities. Pay has become reasonably good as the loss of droves of good employees has forced them to throw money at good people. And the work matters - people still make a living on eBay and it's rewarding to be a part of that.",
+        "summary": "Used to be a great place to work, now it's just a job",
+        "role": "Senior Director",
+        "date": "Sep 3, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "eBay use to be a fun place to work. Donahoe has made eBay a miserable debacle and it's getting worse every day. He is the most stubborn hard-headed boss I have ever worked for!I never thought I would say this, but I miss Meg!Come back Meg!!!!!",
+        "advice": "Quit! We don't like your changes!Employee's, sellers, buyers, AND Wallstreet, are all disatisfied with the way you have ruined a once \"Good\" company!!How can one man ruin so many people's lives?",
+        "pros": "Nowdays, great benefits is all that's left. I'd high-tail it out of there if it wasn't for the benefits.",
+        "summary": "John J. Donahoe does NOT know how to run a company!",
+        "role": "Software Engineer",
+        "date": "Sep 8, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Hugely political, and managers are not very aware of who the good coders in the group are. Also, it's predominantly a marketing organization, so developers get stepped on. Also, it's heavily process oriented, but now we're trying to become more \"agile\". So now we have an \"agile waterfall\", which is just an awful awful idea. It just means that product managers can slack off far more.",
+        "advice": "Fire all the PMs and about 80% of the developers. Start attracting real talent.",
+        "pros": "There really aren't any, unless you have a family and like being the one eyed man in the land of the blind. Also, if you get in good with your manager, it's very easy to slip between the cracks and slack off.",
+        "summary": "Horrible for engineers.",
+        "role": "Senior Software Engineer",
+        "date": "Sep 11, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "A super political work environment - I've worked at banks with less political BS. Very top heavy. There is lots of talk about \"innovation\" and \"work life balance\", it is all lip service. Innovation does not happen here (not even in the labs or search), work life balance is a joke - I have to tell a story re: WLB - at one of the (very very frequent) organizational all hands meetings, management decided to talk about t\u2026\u00a0he \"work life balance\" initiative, it was a 9am meeting and, shock, I was there - because I was up all night working around a severe bug in the ridiculous V3 code base; so I started nodding off in the meeting - that's irony for you.in the nominal 40 hour work week, I would spend a minimum of 15 hours in meetings. Every week. Every. Single. Week. And for about 3 weeks every quarter, I would spend over 25 hours a week in meetings.If for some reason you have to work with the CS teams in SLC, god help you. The single most back-biting group of vermin I've ever seen. Just horrendous.",
+        "advice": "Any time you make a decision, choose the opposite; you cannot possibly do worse.To the BOD - fire Donahoe, bring back JJ or Rajiv.",
+        "pros": "I worked there for nearly 5 years. It was just barely acceptable when I started. It was hopeless when I left. If you're in marketing, you will probably love it. Engineering and Product Management will hate you with a burning passion, but eBay is a marketing company that happens to (be forced to) do tech.",
+        "summary": "Nearly 5 years there - what was I thinking",
+        "role": "Senior Staff Software Engineer",
+        "date": "Sep 12, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Too many changes, too often! Makes for major instability and lack of confidence in the company.",
+        "advice": "Senior Management is clueless, it's time to get some real ebay sellers on the team of advisers before all these changes are made.",
+        "pros": "Creative freedom, flexibility in work hours.",
+        "summary": "Ebay needs to get back to what made it great, being a unique force in the online marketplace.",
+        "role": "Independent",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "1. Disorganization2. Shifting Priorities3. Leadership that consumed too much of its own Koolaide and can't see reality.4. The cost of living in the Bay area, is too high for the salaries and benefits to make working for eBay a serious long term proposition.",
+        "advice": "My impression of Donahoe is higher than most. He inherited Meg's train wreck.",
+        "pros": "The multicultural environment is great, and people do gain valuable insight into their respective areas of expertise.My department is staffed by wonderful, hardworking, intelligent people.",
+        "summary": "The Power of Three / People are Basically Good / Windorphines ('Nuff said).",
+        "role": "Senior Manager",
+        "date": "Sep 21, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "What started out to be a great position (I was there for over 10 years), turned out to be one of the worst jobs I have ever had. The management is a joke; very incompetent. Outsourcing is at the highest level I have ever seen, which resulted in poor service to the members. Although the hourly pay was decent, the severance package was an absolute joke (it equated to ONE WEEK per year of service).",
+        "advice": "Get rid of all the outsourcing, lower fees and get back to the way it was in the good old days.",
+        "pros": "Having the ability to telecommute. The pay, in comparison to other companies for the same position, is above average. The benefits were terrific, especially the stock options (even though they aren't worth anything now).",
+        "summary": "eBay truly sucks.",
+        "role": "Customer Support",
+        "date": "Oct 3, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Executive staff is making so many changes that it is hard to understand and also worse to hear the customers complaining.No direction. People leaving at a fast clip. Not sure if this is a way for upper managermet to reduce headcount but it sure feels that way.",
+        "advice": "Both customers and internal employees feel that the new executive staff has no idea of the turmoil being caused. Change is good but too much change is causing too many issues.Stop changing to become something your're not. Focus on the auction market. It's fun and customers enjoy this format.Secure the transactions. Quit making excuses about so little fraud. In reality it maybe true, but the customers don;t fe\u2026\u00a0el that way and it is their opionions that matters the most.Go back to what eBay is all about. Allowing the little guy to be able to sell next to the big guy.",
+        "pros": "eBay has great benefits. It is second only to Google for perks.Measured pace for work.",
+        "summary": "Focus on you customers and not change too quickly",
+        "role": "Architect",
+        "date": "Oct 4, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "No job security, I was just laid off! Always hearing complaints from both buyers and sellers, you can't make anyone happy! Also hearing complaints from management and co-workers. Pretty much a lot of complaints from everyone right now.",
+        "advice": "Do not try to make so many changes all at once and force changes on the buyer and seller community! Both groups are alienated right now so this explains the poor business performance.",
+        "pros": "Casual work environment and flexibility to set my own project goals. Ability to take time off as required to attend my children's extra curricular events and activities.",
+        "summary": "Laid off",
+        "role": "Former Employee",
+        "date": "Oct 7, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Poor leadership at the top and inconsistent strategy. Highly political environment. Strategies and structures change often and there is no understanding of what it might take to operate differently. A large number of consultants working on all kinds of things adds to the politics, strategy shifts and meetings.",
+        "advice": "Stop repeating the same \"change\" statements and figure out what really has to be done to change the system. Stop the powerpoint meetings and let the people actually make some real decisions.",
+        "pros": "Decent pay, a recognized name and bagels on Wednesdays. The company still has some great smart people after the latest cuts.",
+        "summary": "No Operating Skill at The Top",
+        "role": "Anonymous Employee",
+        "date": "Oct 10, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Inane quarterly reviews, where original thinking and any level of risk taking is frowned upon. Whatever you do...don't propose that you jostle the 'Golden Goose'. Management plays up the culture of innovation from the Pierre legacy and then repeatedly underfunds anything having to do with true innovation. They They're driven by PR spin and fear without looking inward to the talented people who used to work there.",
+        "advice": "ACTUALLY USE THE SITE. Most executives have their admins buy things for them on eBay, and haven't really used the site enough to experience the fraudulent BS, OR the hellish customer service experience. Rather, they drive the ship based on surveys and market research and spreadsheet data. If they actually got their eyes off of the quantitative culture and focused on the qualitative elements for TWO seconds, they woul\u2026\u00a0d have an appreciation for what the users/ sellers have been screaming about for years. YEARS! this is not a new trend that has emerged. It's not as though they were blind-sided by the downturn of eBay. It has been coming since 2005.",
+        "pros": "The best reason to work for eBay is to gain insight into what it is like to work for a company that is being managed by executives who are completely out of touch with their customers and overall trends on the web. IF YOU'RE A GLUTTON FOR LIVING IN A CASE STUDY IN THE MAKING...",
+        "summary": "eBay Execs - Stop drinking your own Kool-Aid. eBay used to be cool. Now, it's cool to HATE eBay. Your Fault.",
+        "role": "Senior Director",
+        "date": "Oct 16, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "executive incompetence (no vision/strategy, ability to execute, lack of communications), lack of professional development, low morale",
+        "advice": "Lay out a clear strategy and what it takes to win for employeesDevelop a balance between helping the seller and buyers outTreat employees as an asset instead of just protecting your own self-interestsDevelop new core values since there is a disconnect between current values and your actions",
+        "pros": "Wed bagel dayFree drinks",
+        "summary": "Rudderless company",
+        "role": "Finance Manager",
+        "date": "Oct 20, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "ebay used to be the most wonderful place in the world. I was very PROUD to work for ebay. When Meg Whitman \"walked\" into her position and the new hires began their take over, everything the early employees ( remotes) worked so hard for was quickly dissolved and pushed down the drain. I began to see that ebay was on its way of being a monster, and then of course the evil greedy monster it is today.",
+        "advice": "I would advise Senior Management today to go back to where they came from. But it is too late now, ebay is already on the road/path to destruction.",
+        "pros": "I would not recommend or suggest to anyone to work at ebay today. Years ago I would have, but certainly not today. A group of people scattered around the United States ( early ebay employees referred to as \"Remotes\" ) made ebay a very strong respectable marketplace. The Remotes worked VERY HARD and put in many LONG HOURS. The Remote employee was proud and happy back in the early days before Meg Whitman. The Remotes w\u2026\u00a0ere NEVER properly recognized for the hard work and dedication to this company. Ask someone today who or what is/was a remote ebay employee and what did they do, and believe you me, not one single person can properly address that question. WHY? Because they simply do not know....they were not there! Oh the storys we all could tell, but it has been suggested we all keep quiet.",
+        "summary": "The real ebay is now DEAD and GONE",
+        "role": "Customer Support",
+        "date": "Oct 24, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Constant changes that make absolutely no sense by senior management. Hard to watch a couple of out-of-touch executives run this company into the ground. It's like watching a train wreck in slow motion. Unethical business practices, including padding the number of listings to manipulate the numbers for stockholders. Unfair practices with the sellers, who actually put eBay where it is today and thanks to Mr. Donahoe, t\u2026\u00a0hey are leaving the site in droves to do business with our competitors.Donahoe prefers to spend billions to buy miscellaneous companies and lay-off thousands of dedicated and qualified employees. What gives?",
+        "advice": "Fire Donahoe & go back to original business model and what we do best, auctions.",
+        "pros": "There used to be many and now there are only a few.",
+        "summary": "Donahoe is single-handedly driving eBay into the ground.",
+        "role": "Anonymous Employee",
+        "date": "Oct 28, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Constant customer complaints due to idiotic upper management changes to the core of the business. Most Ebay employees agree with the customers that our recent changes are running off great sellers and buyers alike.",
+        "advice": "Fire Donahoe and bring in someone which will restore Ebay to the great online community it used to be. Stop forcing Paypal on everyone and restore fair feedback towards bad buyers. The casual sellers are being run off and we are bringing in a new breed of corrupt buyers which are learning how to work the system to steal from the Sellers. Reduce fees back to a responable level. Our fees are so high now it's not profit\u2026\u00a0able for many sellers to continue here.",
+        "pros": "Coworkers great to work with.",
+        "summary": "The Ebay we all grew to love is gone and replaced with a cheap imitation fo Amazon.",
+        "role": "Account Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Management! Micro-management, ignorance of the real issues, decision making processes that ignore the consumer. The execs do not invest in suggestions or feedback from frontline workers who, on a *daily* basis deal with the issues the membership faces. We know the complaints, we know what pain points need to be addressed. Every once in a while, we are approached by Director / VP level management to review our feedbac\u2026\u00a0k on what our membership wants, yet absolutely nothing is every done with this feedback. Ever. We have brought up suggestions upteen number of times to have it glossed over.",
+        "advice": "Listen once in a while. And listen without the \"management tinted sunglasses\". A lot of fantastic ideas are looked over simply because they don't have the ability to generate instant income.",
+        "pros": "The people! If it wasn't for my coworkers, I would have jumped ship ages ago.",
+        "summary": "No longer the company I started working for",
+        "role": "Customer Service Representative",
+        "date": "Nov 6, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Bad management decisions, poor morale, inadequate training, no foreseen potential for growth, not much potential for salary increase, potential layoffs, no job security, unfair treatment, prejudicial policies. eBay is nothing now compared to what it was 3 years ago, it was actually fun to work here then. Sad to say, but not so much anymore.",
+        "advice": "Reverse the bad policies you have put into place & get some real employee training in place. Bring back the community values that made eBay a leader in the global marketplace.",
+        "pros": "There are no best reasons to work for eBay., except to make ends meet until something better comes along. If I could afford to quit, I would resign in a heartbeat. There are thousands of workers out there just like me who want a better workplace and who want to work for the eBay that used to exist.",
+        "summary": "No one should have to endure this place",
+        "role": "Customer Support",
+        "date": "Nov 10, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Company has lost any sense of what the original ebay community represented. The company has completely lost its vision. The community values that made ebay a fun, friendly, vibrant community are gone, replaced by greed and corporatism. Business schools will study ebay as a model of failure.",
+        "advice": "Fire Donohoe immediately.",
+        "pros": "Sorry, But I cannot really think of anything very positive to say here. Ebay WAS a great company. Absolutely revolutionary. It literally changed the way the world did business by providing a truly level venue for the free market to operate worldwide. However, the fun friendly spirit of ebay is dead. It is a corporate zombie hell.",
+        "summary": "Fire Donohoe",
+        "role": "Customer Support",
+        "date": "Nov 25, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "It used to be good, but it's just not anymore. It's sad. I am ashamed now to say that I work for eBay. Most sellers hate eBay now for what we have done to them--ruining their livelihood and businesses in order to try to become Walmart Junior or Amazon Lite. They are leaving in droves, and I don't blame them. If eBay could go back to what it was before JD took over, we MIGHT have a chance in the long term. The stock p\u2026\u00a0rice tells all, if you aren't already aware of all that is going on.",
+        "advice": "Take a good, hard look at the changes you've been making. You are destroying a once-great company. The sellers are our customers, and we are treating them like dirt. For that, they are leaving...and that is detrimental to our bottom line.",
+        "pros": "It used to be good, but it's just not anymore. I can't think of any \"best reasons\" anymore. It used to be fun, but now it's a nightmare.",
+        "summary": "John Donahoe -- One Mistake After Another",
+        "role": "Customer Support",
+        "date": "Nov 26, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Very high stress level. High degree of micromanagement. Insanely high productivity metrics. The only way to meet their productivity metrics is to do at least 3 chats at the same time (but never tell a customer you have another chat going or you'll be written up as \"unprofessional\").Only 3 out of about 20 people on my team were even getting the \"meets expectations\" rating for productivity, yet eBay kept increa\u2026\u00a0sing the metrics anyway. Promotions go to the wrong people (i.e. A handicapped female with no experience instead of a qualified, knowledgable employee). They participate in outsourcing to India. eBay became a company I was ashamed to admit I worked for. They have developed a bad reputation due to all the fraud on the site, high fees, and their poor customer service.They prefer quantity over quality for customer service. Management frequently held off site lunch \"meetings\" leaving no one to help if an issue came up with a customer that required escalation. Supervisors and Team Leads would avoid escalations as much as possible and were never helpful. Supervisors and Team Leads were hypocritical, would not listen to the concerns of their team, and always put business first. Salary is only average. Several long time employees either quit or were fired due to eBay's ridiculous productivity metrics. Several supervisors gave me empty promises and false hopes of providing training to help get promoted during my years of employment. Couldn't clock in more than 5 minutes early or 5 minutes late without receiving a hit on attendance.Some employees had to share desks. No roaming profiles on PCs. If you moved to a different location, your PC would not come with you so you'd have to setup all over from scratch, like a new employee (and moving to new desks was quite frequent). Very limited user account on PCs. Very poor annual raises. Only get one floating holiday. eBay upper management is out of touch with customers and front line employees.No opportunity to gain skills you could use at other jobs - you use internal tools which are useless when changing jobs. The help line was rarely helpful. When eBay missed Wall Street goals for the first time, regular employees did not get a bonus, but the CEO (Meg Whitman at the time) received a one million dollar bonus.",
+        "advice": "Realize that front line employees are people too, not robots. Front line employees are in direct contact with thousands of customers daily; customers who often times determine their continued use of the site based on the customer service they receive. Stop outsourcing to foreign countries! Start caring about quality service! Bring back what eBay used to be. Management has lost sight of what really matters - eBay user\u2026\u00a0s.",
+        "pros": "Good medical benefits package (in 2006). On site gym. Unlimited free drinks from vending machines. Dual LCD monitors at every workstation, telecommuting available with company provided laptop. Very good Herman Miller chairs for every employee in the office. Close proximity to freeway interchange in Draper. My coworkers were great to work with (not any supervisors or team leads though).Until my position was ou\u2026\u00a0tsourced (in 2004), they were a company I was proud to say I worked for. I would even wear company attire. They provided use of Macro Express which was very helpful in providing \"personal\" canned responses. The Supervisors and Team Leads had frequent off site lunch \"meetings\" which is great if you're a Supervisor or Team Lead. Quarterly profit sharing bonuses based on performance if Wall Street goals are met or exceeded. Dedicated phone rooms for local calls. Decent sized break rooms with big screen TVs. Several dedicated meeting rooms. No cubicles (instead \"lasagna\" type seating). You get a 1 month sabbatical after 5 years of employment - if you can last there that long (I came up about a year short).",
+        "summary": "eBay was great to work for until around 2004 when everything started to crack and and fall to pieces.",
+        "role": "Customer Service Representative",
+        "date": "Dec 2, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "they offer paid time off but never make it available, the shifts are awful and there is never any room for change.",
+        "advice": "Give better shift times, make paid time off available PTO is useless if you cannot use it. Things are becoming too regimented used to be a relaxing atmosphere and an enjoyable place to work but now things are tightening up the place is becoming more and more like a call center where the turn over rates are through the roof, and every aspect of your shift is micromanaged.",
+        "pros": "It's a paycheck which I suppose is good.....",
+        "summary": "Things used to be good",
+        "role": "Customer Support",
+        "date": "Dec 8, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "A management that doesn't listen, thinks they are always right and has no clue what made eBay so great.",
+        "advice": "Quit! or actually start listening to your employees and your customers. Fire the top heavy level of management who have made things so complicated that nothing gets done.",
+        "pros": "The Benefits and the bagels",
+        "summary": "Not what it used to be.",
+        "role": "Customer Service Representative",
+        "date": "Dec 26, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "eBay no longer seems to respect the people who helped build the company.There are too many \"young turks\" with MBAs and an appalling lack of creativity all working from the exact same playbook.eBay management does not listen to the members or staff.Disruptive innovation is disruptive and almost never innovative.True innovation is buried until someone with seniority can claim it as an or\u2026\u00a0iginal idea.10+ meetings a week is ridiculous.",
+        "advice": "Please just sit down and listen for a moment.There are people who vested in eBay long before any of you appeared on the scene who know what the roots of the company are and how it grew.Do not discount the collective advice of literally hundreds of thousands of people who were able to make eBay a success.Your sellers are often renegades who never fit in the box. Many are independent people who \u2026\u00a0don't like a lot of rules and structured work environments. Part of eBay's attraction for sellers was the ability to define their own work. Your sellers have a wealth of experience ranging from simple, occasional sellers to highly educated and accomplished businessmen, so stop trying to make a one size box to fit all, it will never fly.Not everyone wants to be a power seller.Your buyers are1) looking for a bargain : Those looking for a bargain will find it online. Please don't make selling on eBay so expensive and complex that the sellers cannot compete with other online sources. Free shipping is fine, but everyone understands that there is nothing free about it.2) looking for a collectible item: Those looking for a collectible know the going price of that item, they are the experts. The truly unique one of a kind items will find their own price point. Those items will always attract interest and business. Don't make eBay a gigantic store with no place for the rare items that energize the community and capture attention, remember our roots.3) looking for something they can't find elsewhere: The flea market is an essential part of the eBay experience. Please don't let your perceptions of what is worthwhile color the marketplace.4) looking for a simple, safe shopping experience: Please don't try to predict what people are trying to find and how they will use it when they shop on eBay. It would be better to teach people how to search than force them into search patterns based on corporate perceptions.Do not forget eBay's community values.Please remember the more rules you make, the more time and money you have to spend on enforcement.",
+        "pros": "Many of the people who work at eBay are the brightest and best in the industry. If you want to network with others who understand how it all works, you might want to consider eBay.",
+        "summary": "Please Listen eBay",
+        "role": "Communications Specialist",
+        "date": "Dec 26, 2008",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Management is horrible. They do not listen to there employees. Very hardheaded. The company is being run into the ground led by Donahoe and his cronies. We interact with ebays customers on a daily basis. We hear the complaints and problems user are facing when they use the site. Management is unwilling to change there boneheaded policies to better there site. Very soon I think there will be no more ebay.",
+        "advice": "Listen to your employees ideas. We are interacting with your customers on a daily basis.",
+        "pros": "Fun Co Workers. Not Much Else. Its a job",
+        "summary": "Bad Job",
+        "role": "Customer Service Representative",
+        "date": "Dec 28, 2008",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Bad managment. Bad decision making. Nepotism. Cronyism. Soul-extraction by means of a contrived value system. Lack of respect for honest work. Its been years since I came to work smiling. Now I count every moment until I can leave. If you get a job at eBay be prepared to give all you have and expect nothing in return.",
+        "advice": "I'd tell you to pack it in but you've bred smaller versions of you that are waiting to take your place. Look for your soul, eBay. Too many changes are executed just to make somone's quarterly review look impressive.",
+        "pros": "eBay still looks good on a resume. Just try not to roll your eyes when asked about your experience there at a job interview. There are also small pockets of good people that you will encounter that will help keep you sane. eBay has a really good benefits package, better than anywhere else I have worked.",
+        "summary": "Money can't fix what's broken here",
+        "role": "Serving the EBay Kool-Aid to Others",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Management is threatened by education and does not tolerate asking questions. If you do not agree with any decision made by management, you are no longer \"towing the line.\" Suggestions into how thing can be better run are seemingly ignored or management makes you out to not be a \"team player,\" however, if your idea is good it will be implemented, but your name will never come up.",
+        "advice": "You pay for your employees to go to school, it might be nice for you to utilize what you paid for. I remember when eBay used to do a wonderful job at career pathing - now it has been made clear to most everyone that there is nowhere to go at eBay unless you are best friends with other management. Management only hires friends, and in several cases - family. I have seen wives hiring husbands for upper level jobs and f\u2026\u00a0ound several times great candidates were passed over because they took the hiring supervisor, fishing.",
+        "pros": "eBay has great benefits and seems to start at pay a little above the industry standard.",
+        "summary": "Great place to get a start, and then leave................. FAST!!!!!!",
+        "role": "Top Seller Account Manager",
+        "date": "Jan 21, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "taking complaints that w can'r resolve because of policy's we can't change",
+        "advice": "Start listening to your customers...the sellers. EBAY will be no more very soon!",
+        "pros": "just a paycheck no other reason",
+        "summary": "Management has no clue!",
+        "role": "Customer Service Representative",
+        "date": "Jan 22, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "everything else. completely disorganized, no business ownership, work is duplicated because communication is so poor within the company and nobody knows who does what. promotions are arbitrary because job roles are unclear and not well defined.",
+        "advice": "you're finally starting to move in the right direction by listening to your customer. good job, geniuses. now you've earned your overpaid salaries.",
+        "pros": "work / life balance is good. free bagels on wednesdays. free fruit on tuesdays. free soft drinks every day. free ping pong. free gym. good benefits. office supplies abound. free acetaminophen. mail room will ship out all packages -- very convenient.",
+        "summary": "don't believe the Fortune 100 best companies to work for hype...",
+        "role": "Product Manager",
+        "date": "Jan 29, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "The stock has not performed well recently. Stock options with strike prices are a thing of the past. We are getting restricted stock instead. There is a silver lining -- stock appreciation isn't as important as it once was. Some uppity new hires come into the company with all of these ideas and think they know better than management. We get them in line soon enough though.",
+        "advice": "You are doing a fabulous job. I hope to join you soon.",
+        "pros": "My pay here is better than any of the offers that I have received recently. The business model is unstoppable due to network effects. The best talent come here. Harvard MBAs are well represented. Upper management is making the site more professional and less like a flea market. I don't have to pay attention to whiny small sellers complaints anymore.",
+        "summary": "Status quo rocks!",
+        "role": "Director, Half.com & Media",
+        "date": "Mar 14, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "No management transparency. Secretive about promotions and horrid working conditions. 2-3 people stacked in cubes with no cube walls. Many unspoken rules about how your performance is measured and how promotions are rewarded.",
+        "advice": "more transparency. learn how to manage downward rather than only upwards. most managers were promoted in short timeframe and therefore may lack experience in managing people.",
+        "pros": "Free Bagel WednesdaysFree Soda'sThe eBay name takes you a long way on resumes.",
+        "summary": "An outdated work environment - managers need to get a clue as to what motivates people/employees.",
+        "role": "Internet Marketing Manager",
+        "date": "Mar 30, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "First of all, I am quite amazed about how accurate some of these reviews are. I'd like to confirm these reviews as most of it its the honest truth. Promotions are given out unfairly. Lots of favoritism. Hard work is not rewarded. So much secrecy around promotions. No open communication. Horrible work conditions. Senior managers definitely don't know how to lead or motivate their employees. Senior managers only out fo\u2026\u00a0r themselves and only manage upwards. Pay is not competitive and up to par with industry standards.",
+        "advice": "I've learned a lot about company politics. You can't get ahead here without playing the political game. It's not what you know, its who you know. No point in working hard if it won't pay off. It's all about getting on the director's good side. If you don't change your ways, you will lose a lot of great talent very soon. No one trusts upper management. You will end up with a lot of unhappy, disgruntled, unmotivated em\u2026\u00a0ployees who will leave.",
+        "pros": "Free Gym. Free sodas. Bagel Wednesdays. There are foosball tables, ping pong tables, boccie ball court etc but it's in the middle of 4 tall buildings and no one plays.",
+        "summary": "Honest Review About Poor Leadership",
+        "role": "Internet Marketing",
+        "date": "Apr 3, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Communication is nil. Quit changing things. Listen.",
+        "advice": "Listen to the people who use Ebay on a daily basis.",
+        "pros": "It is a regular paycheck in hard times",
+        "summary": "Quit changing things that don't need changing.",
+        "role": "Sales",
+        "date": "May 4, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Their are different programmes from each department yet they are never connected together.",
+        "advice": "Bring in new thinkers",
+        "pros": "Very nice people work at eBay and very smart people do also.",
+        "summary": "Confusing place to work.",
+        "role": "Anonymous Employee",
+        "date": "May 31, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Management is the worst in the world.They treat us like we are babies.Pay is lousy compared to others.",
+        "advice": "Fire John J Donahoe. We need to go back to our roots and stop pretending we are Amazon. It's not working.",
+        "pros": "I can use the restroom when I need to.I get free bagels on Wednesdays.Sometimes someone listens to me in management.",
+        "summary": "Go back to our roots.",
+        "role": "Anonymous Employee",
+        "date": "Aug 2, 2009",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Some organizations are rogue.Upper Management doesn't seem to care about these useless rogue organizations inside eBay",
+        "advice": "Evaulate each team's effectiveness, cut the useless organizations.",
+        "pros": "Generally a good company to work for.",
+        "summary": "Generally good , but there are plenty of rotten apples",
+        "role": "Staff Software Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "After having worked at other big silicon valley companies, I was shocked at the micro management culture at eBay.",
+        "advice": "Don't work there if you want any sort of work life balance.",
+        "pros": "Good pay, but not worth it.",
+        "summary": "Micro management culture",
+        "role": "Project Manager",
+        "date": "Aug 24, 2009",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Used ot be a good company, but new management screwed it up with foul decisions and complete lack of understanding in the marketplace economy. I'm sure the management team have never done any business before.",
+        "advice": "Senior management - you have obviously never done any serious business before. You don't know how it's like to run a small business, so please get some experience before you foul it up anymore.",
+        "pros": "Promotes time off, family-ness, understands that you have a life -- if you're not an engineer. Rarely fires people for not contributing to anything in his/her line of work. In another word, you can easily slack off.",
+        "summary": "Management = Dorks",
+        "role": "Senior Program Manager",
+        "date": "Sep 28, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Bureaucracy, politics and nepotism interfere with productivity and expediency. Each day feels like a riding a slow boat to China, kind of like driving over multiple speed bumps in a shopping mall parking lot. This company is a typical American corporatocracy.",
+        "advice": "Explain please why American companies are considered as 'money receptacles' for the benefit of top executives, and why employees are underpaid peasants?",
+        "pros": "Posh exercise facilities and two cafeterias.",
+        "summary": "Dissatisfying job experience.",
+        "role": "Content Manager",
+        "date": "Nov 1, 2009",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "eBay will suck the life out of you. My projects requires teams to put in 16+ hours per day on a regular basis. Management needs to roll up their sleeves instead of taking 30 day sabbaticals, working from home and leaving at 3pm while team are working to 3am.",
+        "advice": "See your teams as an asset, understand that burning out employees and teams just to get your bonus is not a strategy that will keep ebay on the map.",
+        "pros": "Good benefits, latest technology, very strong software release processes, able to purchase MS products for very low cost, very green company.",
+        "summary": "Work here if you do not want a personal life",
+        "role": "Project Manager",
+        "date": "Jun 15, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Management team is not very competent. Too many re-org and re-structure. Too may political fights between teams and people, which makes those who are doing real work helpless.",
+        "advice": "Change the management team. Cut off those incompetent managers. Minimize politics. Make people feel stable inside. You are a large corporation, not a start-up. A sense of stablization is great.",
+        "pros": "One of the biggest e-Commerce websites in the world. Have the opportunity to try a lot of things. Feel cool about working for an auction site where everyone can participate.",
+        "summary": "eBay experience review",
+        "role": "Internet Marketing Manager",
+        "date": "Jul 19, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Reviews and performance is not based on merit, individual effort, business acument, or dedication to the job or company. Very poor senior and middle management. They're lazy and self-fish. They have very poor leadership skills and are never held accountable for personnel development. Talented people have been and will continue to leave. Culture has gotten worse over the past 3yrs.",
+        "advice": "There are alot of people that are very knowledgable but you persisently FAIL to recognize their contributions to the business. That is why execution of business results suck. Wake up. The company really needs a change agent.",
+        "pros": "Good benefits, love what it allows ordinary people to do, fabolus business model, nice campus. Semi stable place to work. It seems to be a diverse culture, lots of lesbians in management positions compared to other companies.",
+        "summary": "you will not be judged based on merit, efforts, knowledge, or dedication",
+        "role": "Marketing Manager",
+        "date": "Sep 6, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "It's been going downhill since 2005. Especially in the last 2 years. Don't expect to be listened to or treated like a human being. You are simply there to answer calls and if you're unhappy, you're replaceable in this economy.",
+        "advice": "Stop mistreating people and start listening. Ever since you decided to put the customer first, you've been putting the employees last. There needs to be more balance. You need to give your employees a reason to be good employees. Happy employees make happy phone calls and thus happy members. Give us a reason to care about the members rather than treating us like peons.",
+        "pros": "Good benefits. Some good people, if you're looking for friends. It's not a fun place to work, but there are fun people who work there if you want to expand your social circle.",
+        "summary": "Was a great place to work up until about 2005.... now it's hell.",
+        "role": "Anonymous Employee",
+        "date": "Sep 10, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "terrible management,losing marketshare, highly political",
+        "advice": "None I can think of - needs a complete rehaul",
+        "pros": "learn a lotfast pacedecent benefitsdecent work life balance",
+        "summary": "Not a place to be in 2010",
+        "role": "Anonymous Employee",
+        "date": "Sep 29, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Parking is tight. Space in general is tight. There is effectively no choice in health insurance, with Kaiser being the only HMO and only one PPO and one CDHP plan. Upper management is profoundly ignorant of its employees: would you acquire a startup without at least talking to the most highly compensated workers in addition to the founders? The HR/security/stock/accounting systems are disparate. MS Exchange is the co\u2026\u00a0rporate email standard, with all the limitations that implies. Several MILLION lines of Java in the codebase, with no hope of changing. The performance review process is from the '90s, managers review their subordinates, full stop. Bonus, stock, and ESPP are all on a protracted 7-14 month schedule, slow moving like everything else.",
+        "advice": "Carve off autonomous business/operating units, starting with recent acquisitions, only combining services where the economy of scale makes sense from BOTH sides. Never forget that sellers are you real customers, since they pay the fees.",
+        "pros": "The salary is acceptable. The campus is conveniently located. The benefits are adequate. Generous combination of 401k matching, bonus, stock, and ESPP.",
+        "summary": "Startup got acquired.. eBay is a typical big company, ultra-slow to move and therefore stuck in the past.",
+        "role": "Software Engineer V",
+        "date": "Dec 10, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Watch out for this company. As big as they are, they have no problems making you feel like you want to work there the rest of your life. As soon as you go above and beyond and initially are rewarded for your actions, they discover you are making too much money and start weeding these \"good employees\" out with any minor detail they can possibly find to fire you WITHOUT NOTICE OR VERBAL WARNING. A good example is a for\u2026\u00a0mer 2-yr award-winning employee was fired on the spot for forgetting his batch that lets him in and used a friend's badge to let him in the door. His alternative was to drive over to a different building to get a temp badge which of course would have resulted in a write-up for being late because he had to follow protocol to go over to an entirely different building to get the temp badge. Several managers have also been fired on the spot with ridiculous reasons just so Ebay can bring in \"new victims\" and repeat the process.",
+        "advice": "LEARN THE VALUE OF AN AWARD WINNING EMPLOYEES INSTEAD OF GIVING YOUR MANAGERS KICK-BACKS FOR IMPROVING THEIR DEPARTMENT BOTTOM LINE FOR THEIR OWN PERSONAL GAIN.",
+        "pros": "Good incentives, benefits, etc. etc. Nice office",
+        "summary": "Great at first - then absolutely without any security whatsoever",
+        "role": "Problem Resolution Representative",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "A work culture struggling due to extreme internal politics and low foresight. The company is struggling to shrug off its 15 years of bureaucratic setup.You really cannot get anything done without struggling against a myriad of management approvals which will never come. The upper management has extremely low foresight in how important it is to give developers chances to work with the technology that is encour\u2026\u00a0aging and innovative.Case in point is the lack of a \"developer relations team\" at a company of a size of 16000 employees and a good percentage of 16k being developers.Overall, in my opinion, the higher management doesn't see the company as a technology company. It is more of a e-commerce business company. This is in contrast to Amazon which at core remains one of the most technically advanced companies and considers itself a technology company at its heart.",
+        "advice": "Start thinking of eBay as a technology company rather than a business company employing engineers else a fate like Yahoo is not too far.",
+        "pros": "Good place if you want to get a paycheck without doing much.",
+        "summary": "Dismal",
+        "role": "UI Engineer",
+        "date": "Feb 25, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Ridiculous custom framework you must use. Outdated version control system. Developers don't seem to be interested in working with better/new tools. High stress environment, and deadlines that must be met or else. Truly crummy tools to work with, must restart the server for everything.",
+        "advice": "Really, the tools that developers must use at eBay are just sad. If you want to progress as a technolog company, you need to be on the pulse of web development. Get rid of the painful processes, and bring in fresh blood and ideas. Don't limit developers to standard ebay technologies.",
+        "pros": "Brand recognition, legendary internet community, company makes an attempt to be green.",
+        "summary": "The worst tools you'll ever work with",
+        "role": "Software Engineer",
+        "date": "Mar 14, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Lack of follow-up communication from mgmt & team leaders. Depts. within organization seem to have a disconnect with each other and their people. Technology not that great anymore so this should raise a red flag for those folks thinking on coming on board. Lots of politics within this company. The higher up on the toteem pole the less you have to watch your back. Philosphy of a majority of people working there is \u2026\u00a0watch your back. Not a great working environment anymore. Mgmt's philosphy, people are expendable. I know this all seems harsh but honestly can't recommend working at eBay the way it is now.",
+        "advice": "I hear the words that mgmt cares about its people etc. but your words don't seem to follow their actions.",
+        "pros": "Good cafeteria and nice campus. If you want low pay, unfriendly environment I recommend this company.",
+        "summary": "No longer the great company it use to be. Technology old..Very,very political",
+        "role": "N/A",
+        "date": "Mar 15, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Impossible to get promoted in black-box, popularity-based system. No raises for most people for at least the last 3 years. Stock price has until very recently been in the toilet, so equity comp isn't worth that much. Stingy maternity benefits barely beyond what the state mandates. And managers are TERRIBLE. Managers aren't evaluated on how well / poorly they manage others, aren't required to have any training, and ha\u2026\u00a0ve complete control over the course of their direct reports' evaluations and progress. If you have the bad luck of getting a bad manager, watch out - the best thing to do is to leave the company (seriously, this is the advice I've heard Sr. Directors give other people). Which is, ironically, also the best way to get promoted.People aren't valued, so there's no effort to develop or retain individuals. eBay has been struggling as a company for years, so management frequently re-orgs trying to do better; people who end up in jobs they never asked for aren't helped. Managers don't care about what people ultimately want to get out of their jobs, but they also don't care when people naturally decide to leave. This would be easier to stomach if there was a harder-edged culture, but it's a very consensus-based, be-nice-to-everyone, slow-paced appearance. Managers fake concern, but they only care about themselves.eBay Marketplaces is a cool place conceptually to work, but the experience is a slow death every day....you don't want to work there, but it does beat unemployment.",
+        "advice": "The VPs and Sr Directors who have joined eBay in the last 2-3 years are trying to turn things around, which is promising. Evaluate those who've been there longer - there are some real snakes in the grass and incompetents masquerading about who will let their people fail rather than intervene. And all of them need to be held to higher leadership and management standards. Measure people fairly and transparently. Flatte\u2026\u00a0n the org structure so \"managers\" have at least 3 direct reports. Care about people, or phase out the fake-caring pseudo-culture.",
+        "pros": "Free bagels on WednesdaysCasual dress culture",
+        "summary": "One disappointment after another",
+        "role": "Business Unit Employee",
+        "date": "May 11, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Highly political environment. to succeed, it is more like who you know than what you did.The Testing Org needs a major overhaul - Resources are never allocated on time for critical projects (there is never enough budget mysteriously, as the Org keeps getting Top-Heavy!), stressing the entire team! This is not the place for top talent!Too much stress - avg QA/QE Tester works late nights and weekends to\u2026\u00a0 make up for bad decisions made in the mgmt chain, making it hard to recommend this company to top talent.Promotions to deserving employees are delayed, resulting in avoidable attrition.",
+        "advice": "- analyze the wave of attrition and do meaningful anonymous exit interviews.- Hire more people who actually do the work, especially in Testing (QA) org, instead of more & more middle & top management.- spend more money on promoting deserving Individual contributors!",
+        "pros": "*good place to learn about the eCommerce business as well as Technical know how in Java/J2EE technologies.* good benefits package* mobile teams are set for defining future",
+        "summary": "highly political.",
+        "role": "Senior Software Engineer",
+        "date": "May 12, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Management (not really top execs but more pertaining to my org from Director level downwards) is not really adept at making important decisions quickly at crucial moments. Evaluation are not really performance based, and often get bumped up based on the level of experience to support promotion. Does not really matter if you are performing great, if you are not experienced enough within the company you will have to wa\u2026\u00a0it for a good rating.",
+        "advice": "Provide timely feedback to employees and explain reasons behind decisions they make. Transparency is crucial and trust needs to be maintained both ways. Have reasons better than \"Employee X worked 4 months more than you in this company, hence we cannot promote you\". If your team is doing well, and is growing it probably has something to do with the hardwork your employees put in. Recognize the efforts, and reward the\u2026\u00a0m accordingly.",
+        "pros": "Good workplace resources. Several facilities available (gym, basketball court etc)Some very good projects to work on, multiple environments and technologies to explore.",
+        "summary": "Unfair and incompetent management",
+        "role": "Software Engineer II",
+        "date": "Jul 27, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Clueless management. I worked there for a year and moved desks/supervisors 7 times. They hire over 200 ppl August through October every year and fire them all for no reason May through July. They look for a little tiny reason to fire you. You can't even go offline to use bathroom ..\"that's what breaks are for\"This company is a joke. I'm happy not to be associated with this company longer.",
+        "advice": "Get at least SOME college degree. If you have a question your supervisor will be the last person you want to ask for an advise. They have no idea what's going on whatsoever. They don't even know company policy and can't answer a simple question.One of the supervisors was running around the department with birthday balloons and cards all the time. If you have an escalation call- she would never take it and would a\u2026\u00a0sk you to ask someone else as she was busy signing a birthday card. Upper management should be monitoring supervisors and not agents that go out of their way to do the best they can while their supervisors are watching youtube videos...",
+        "pros": "N/A ... Oh wait, \"bagel days\" haha. You get free bagels every Wed.free sodawell , I guess that's about it",
+        "summary": "The worst company I've ever worked for",
+        "role": "Customer Service Representative",
+        "date": "Aug 8, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Management team is largely promoted from within, as a result suffers from group think and is incompetent. Very limited opportunity to grow unless you are willing to move to San Jose. Bonuses and review system is basically a lottery.",
+        "advice": null,
+        "pros": "Excellent pay and benefits. Very open-minded community.",
+        "summary": "Unsatisfying",
+        "role": "Anonymous Employee",
+        "date": "Oct 23, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Lack of quality projects to work on.Need to brown nose the architects in order to work on anything significant.Management is new to the company and runs the team like their personal fiefdom.Constant re-prioritization due to missed deadlines and lack of a roadmap.Management are more focussed on their pet projects and there is a good chance you might have to work on one of these.The team maintains a\u2026\u00a0 revolving door for almost all engineering positions except one or two positions. The people occupying these positions tend to call the shots ripping/re-factoring code written by others and acting as almighty gatekeepers to the codebase.Management does not seem to respect employees.",
+        "advice": "Management at the highest levels need to take an immediate look at the teams with the highest attrition rates and address the shortcomings of the lower management (getting rid of them would be the best bet) before the teams disappear.",
+        "pros": "ProsGenerally regarded within ebay as one of the better teams to work for.Good equipment.",
+        "summary": "Ebay search is one of the worst places I have worked at in past 6-7 years",
+        "role": "Senior Software Engineer",
+        "date": "Mar 28, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Over time, too much politics has crept in. A lot of new management from Microsoft/Yahoo(trend started late 2011/2012).- Follow Agile process to death! Daily standup meetings, and PjMs plan each step of the agile process. Takes the fun out of coding.- Has become too political, people pushing own agenda- Too much churn in management, priorities keep shifting- Incompetent middle management layer- Spe\u2026\u00a0cially avoid the backend and ranking teams, too much redundant work being done.- Most teams just doing rewrites that last multiple years, not much scope of creativity.- Typical projects last ~6-8 months and even multiple years and are usually redundant by the time they are done.- work/life balance sucks- read your contract carefully, they can fire you at will anytime- common practice to get rid of old timers every few years",
+        "advice": null,
+        "pros": "It used to be a great place to work, where a small team had a big impact. Lots of challenging problems to solve and opportunity to impact millions of users.",
+        "summary": "Too much politics !",
+        "role": "Senior Staff Software Engineer",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Avoid the search backend team..they have been working on a rewrite of the search engine for past 2 years and still haven't launched even a first version..All star engineers have been fired or been victims of internal politics. The management has brought in new VPs and management who are their friends but have no experience running a silicon valley company.The upper management/CTO are completely blind to this...am\u2026\u00a0azing how they can't see that the ship is sinking as the key people are leaving and its being run by low-performing political jockies..",
+        "advice": "Get new VP level management from startups, need new enthusiasm and not failed managers from microsoft...",
+        "pros": "Average benefits, average salary. Ok place to stick around if you're an average engineer and can't get into any top tier companies or startups. Reflected in the people working there..mostly people who've been there for 10 years, or fresh grads who didn't get a job anywhere else or VPs that have failed at microsoft or yahoo..",
+        "summary": "Avoid the Search Teams like the plague !",
+        "role": "Senior Software Engineer",
+        "date": "Apr 2, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Archaic technology, atrocious middle management, rampant cronyism, very process-heavy, overstaffed, terrible free coffee (not to mention not a single healthy drink except the sugar laden soft drinks)",
+        "advice": "Get rid of most of the middle managers who are totally clueless about technology yet make it a crusade to force their way on the engineers reporting to them. Conduct anonymous manager reviews but ensure their direct reports that things are truly anonymous - there is a huge lack of trust among engineers. Weed out the bad managers before this cancer grows and kills the patient!",
+        "pros": "Big salary and ESPP program is pretty good",
+        "summary": "Terrible place for a software engineering job",
+        "role": "Member of Technical Staff",
+        "date": "Jun 22, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "totally treated me like a criminal after the layoff. Would not even let me go back to my desk for my personal items.",
+        "advice": "Show some common sense when dealing with people",
+        "pros": "There are no pros for this company after the way I was treated upon dismissal.",
+        "summary": "Bad Human Resourses when dealing with people",
+        "role": "Staff Photographer",
+        "date": "Sep 27, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "The supervisors that did not care or would tell you that you were a different race because your hair was different than what a normal person should have.",
+        "advice": "To get rid of a lot of their current supervisor's and get some that will actually do their job and not single you out because you have differences",
+        "pros": "The great members were great, dealing with them and helping with their issues",
+        "summary": "Supervisors are bad at this company...",
+        "role": "CSA",
+        "date": "Oct 22, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "The cons were very much like any place. Jobs would be filled by people that you may not respect. You think you could do better, but you don't get the job. I went elsewhere and got a better paying job in the same field for which I was rejected at this company. I could complain, but that does happen at other places, right?It's not a business to business company, so your interactions with \"clients\" aren't quite \u2026\u00a0as professional as they are with b2b companies. eBay sellers can be a little trashy. One angry women calling in told me that I was nothing, dirt, etc., and that she was very important because she made $65,000 / year. At least she was above the 50th percentile, but she certainly showed that the majority of eBayers aren't the brightest clients. There are some good positions in Draper, but for the most part it's just call center type stuff and those who work in good positions would be working amongst the call center people. Be prepared for some zoo-like bathrooms.",
+        "advice": "Being a middle manager is hard, so I don't have any advice for middle management in Draper.Some of the top-level management in Draper and from San Jose was a bit flighty. Lot's of meetings with lots of buzzwords. I felt like management (excluding the c-level positions) wasn't very intelligent. I could see them better running a retail department at Macy's instead of running a corner of eBay.",
+        "pros": "The health insurance and 401k matching (100% match of up to 25% of your salary with immediate vesting - potentially 50% of your salary value into your 401k every year) was some of the best I've ever seen.",
+        "summary": "The Draper office doesn't have that much opportunity",
+        "role": "Senior Marketing Account Manager",
+        "date": "Nov 13, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "In 14 years of IT I have never come across more egotistical management. Managers have no clue what they are talking about and you being a slave have no authority to question them. Top it off with really bad office politics. As one manager from Google once told me they have very little respect for developers with Ebay on their resume.You start each day thinking it could not get any worse and then the \"smart\" m\u2026\u00a0anager just raises the stupidity bar to a whole new level. I can barely control my laughter thinking about what all I have seen and heard.Need proof? Most of the good reviews on Glassdoor are all from managers (this is a management hell hole if you know what I am saying ;) ).This is the first time in my life that I have really felt the urge to write a review. A very well deserved review.",
+        "advice": "Fire 80% of clueless managers.",
+        "pros": "Great place for management trainees (sucks for developers).Most teams have no work or too much work.Big company.Get to meet all shades of characters.",
+        "summary": "Poor management",
+        "role": "Code Monkey",
+        "date": "Nov 21, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Greedy, hard to move up. Very little opportunities for advancements. Long hours , uncertain future of the firm. Several people have left in the last couple that I have been here. Bad management and strategy. Firm has no other strategy of advancement other than squeezing everything from employees and its customers",
+        "advice": "Greed does not equate to success",
+        "pros": "None. There is nothing exceptional about ebay. The benefits are same as most other firms or less in some case.",
+        "summary": "Customer Relations MAnager",
+        "role": "Customer Service Representative",
+        "date": "Nov 21, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "working with selfish self-centered egotistical power sucking fools who are power mad",
+        "advice": "weed out the egos",
+        "pros": "it's eBay and that's a good thing",
+        "summary": "A good company with a plethora of bad self-indulged egotistical power-sucking fools",
+        "role": "Marketing Analyst",
+        "date": "Dec 9, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "bloated management, too many layers. Promotions are hard to come by unless you play the political game. Leaders are measured by how well they manage upwards not how well they manage people. Too much Microsoft thinking and process has crept in via all the Microsoft employees in leadership and middle management.. A culture of risk management and consensus driven culture keeps real innovation from happening.",
+        "advice": "Grow the next gen of talent instead of introducing more layers. Talent is being snapped up by other companies in the valley. Career opportunities and growth are few and far between.",
+        "pros": "Fortune 100 company, recognized brand, collegial coworkers",
+        "summary": "too much politics and process at ebay",
+        "role": "Product Manager",
+        "date": "Feb 21, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "eBay search is run in a very disorganized fashion. They are developing new search engine which only few folks are allowed to touch. Rest of the engineers are not utilized properly and no one cares for the end product. Most of engineers have left the group and many are in process to leave the group. Managers lack technical expertise and are busy in playing politics and using one against other. This was not the case ea\u2026\u00a0rlier. I will seriously advice you not to join the search group as this will be total waste of time.",
+        "advice": "Senior management (outside the search group) should really see the dynamics of this group and take some harsh actions. You cannot afford to have a search group with a short term vision of delivering cassini. There is no team which has been built and it will require some cleaning to get the group in order.",
+        "pros": "Competitive salary/ mac book. Stock is doing fine.",
+        "summary": "ebay Search is most political/ worst group I ever worked in my career",
+        "role": "Software Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Unqualified manager who keep their jobs by giving good review to their bosses.Dumb engineers who basically converted from cognizant, accenture etc, with zero talent they resort to politics",
+        "advice": "Get rid of some managers, all they know is politics, with zero management skills the only way they can keep their job is by bullying and sucking up to their bossThey encourage engineers who can give good review, all they care about is how to get next promotion, they don' care about product or innovationThey gang up and harass employees who want to change the system",
+        "pros": "Nothing specific i can think ofit works for engineers who cannot get job in a serious tech company",
+        "summary": "Psychologically damaging",
+        "role": "Staff Engineer",
+        "date": "Jul 21, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "lot of politics especially in checkout team, managers at low level are cheap and have no good technical knowledge. Expectations are very high. No work life balance.",
+        "advice": "Improve your skillset. stop the politics. Shame to have such people running such a great company.",
+        "pros": "Ebay as company is great, great vision. Higher level management is awesome.",
+        "summary": "lot of politics. very difficult for good people to thrive.",
+        "role": "Software Engineer II",
+        "date": "Aug 19, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "everything is not the way it seems. they treat people very bad",
+        "advice": "grow up",
+        "pros": "Nothing to talk about. i do not recommend you work there",
+        "summary": "Terrible company",
+        "role": "Anonymous Employee",
+        "date": "Sep 26, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "No work-life balance. Senior execs are all talk and political posturing. They are terrified of poor performance reviews. During reviews, they will go out of their way to ensure that their key staff are viewed as Rock Stars while showing callous indifference to individuals who do not report directly to them. Watching the process, it's shocking to see how their focus on grading to a curve gives them the ability to thro\u2026\u00a0w entire teams under the bus.This company is the most risk-averse group of people I have ever met. They spend all their time trying to figure out how to catch up to Amazon and think the only way to do this is to copy all of Amazon's features. Innovation is nothing more than a buzz word to this group.I've watched Engineering VPs talk about creating a world-class team but then think that the way to build morale is to spend $100,000 buying funny hats for everyone to wear at the office.",
+        "advice": "Understand that if you have no people in your organization that you personally will have no career at eBay. You strive and posture for political advancement but demonstrate an inability to bring change. It's critical that you begin to focus on how to develop your teams and understand that your personal success isn't based on your personality but on how well you lead. Be Authentic.",
+        "pros": "It's large-scale. Otherwise, there are none.",
+        "summary": "Horrible. Political and cannibalistic environment",
+        "role": "Member of Technical Staff II",
+        "date": "Oct 3, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "AtThe company has taken every incentive that gsi commerce had for the employs.low pay top out at 14.50. EBay claims to be family oriented yet forces employs to work or 6 to 7 days a week for 4 months. No holidays of except Christmas day . Management constantly threatens the employs with wright ups or termination. Doctors notes do not excuse a absence they have a point system after 5 AMD a half points you are terminat\u2026\u00a0ed. This is warehouse employment at its worst. I work a weekend shift that is suppose to be three day's a week 36 hours with four bonus hours eBay took the bonus hours and claimed that a pay increase would make up the difference but in reality I make 60 cents less a week that isn't that big of a issue the problem is that now we have to work straight time for 4 hours on our ot before we get into time and a half.now",
+        "advice": "Take care of your employs they are the reason you have a multi billion dollar company",
+        "pros": "Some good people to work with",
+        "summary": "Terrible place to work for! Terrible place to work for!",
+        "role": "Warehoues Associate",
+        "date": "Nov 6, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Leadership sees marketing as a necessary evil. Only believe in marketing they can exactly and precisely measure. Still believe that \"if you build it, they will come\" which is appropriate for a start-up, but eBay is far from a start up. Zero belief in upper funnel marketing to maintain awareness and consideration.They give the title of General Manager like candy, but the definition of a general manager include\u2026\u00a0s having full P&L responsibility. NO ONE is given that responsibility until you ge t the VP level.Definitely, categorically NOT the place to go for general management training/experience.",
+        "advice": "Clean house in Marketplaces executive ranks. There is no vision of how it will achieve the growth - which demands change. Invest in upper funnel marketing if you want to maintain awareness, consideration and traffic. If you want to build GMs, give them full P&L responsibility or stopreferring to them as GMs - it's insulting.",
+        "pros": "Good compensation. Well known company that enables small business",
+        "summary": "Run by short-sighted executives",
+        "role": "Senior Manager",
+        "date": "Feb 20, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 1,
+        "cons": "Although the company claims to support good work-life balance, my experience was the opposite. My manager threatened to \"let me go\" if I decided to take family leave to have a baby. I was able to take my family leave after talking to HR, but my manager made life difficult for me after I returned.",
+        "advice": "Please see cons section.",
+        "pros": "It is a large company with the usual benefits. I especially liked my colleagues, as they were very intelligent, thoughtful, and helpful. The work is fast-paced and impacts millions of people around the world.",
+        "summary": "Unacceptable work-life balance",
+        "role": "Anonymous Employee",
+        "date": "Mar 2, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Useless and bad upper level folks, who never care about employees. Genuine talent is not credited, rather a culture of favoritism, subservience is entertained. As no step is taken towards innovation at par with the market, will hardly ever be a place for bold new ideas or products.",
+        "advice": "1. Work on improving the morale2. Leverage & grow \"all\" of your human capital, not a particular business or location3. Have an open ear to your employees4. Restructure the complex hierarchy to simpler ones",
+        "pros": "Decent starting compensation and a good work life balance. There is some scope for visibility through competitions and events.",
+        "summary": "Complex hierarchies, hoards of useless VPs & directors, bad vision",
+        "role": "Anonymous Employee",
+        "date": "Mar 23, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 1,
+        "cons": "Lot of politics.To grow vertically, you have to be in your manager or director's good booksEngineers not open to new ideas.Everything revolves around in house ebay tools with which no work can be doneStack ranking forcefully ranks good employees low",
+        "advice": "Get rid of the stack rankingLet engineers use more open source",
+        "pros": "Good pay, work/life balance is good. Some teams are doing really good work",
+        "summary": "Lots of politics and engineers not open to new ideas",
+        "role": "Software Quality Engineer",
+        "date": "Apr 5, 2014",
+        "is_current": true
+    }
+]

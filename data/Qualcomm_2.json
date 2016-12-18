@@ -1,0 +1,902 @@
+[
+    {
+        "rating": 2,
+        "cons": "poor management skill of managers for offsite locations like santa clara",
+        "advice": "to be more transparent and must do one on ones with each member in santa clara.",
+        "pros": "Qualcomm is best for stability which is required in this economy.",
+        "summary": "bad offsite management",
+        "role": "Senior Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Long hours and lack of respect for individual from managers",
+        "advice": "Learn to respect Employess. Please treat us like human beings. Also do not create a a huge hierarchy just as a motivation tool.",
+        "pros": "Most employees are Indian and this will be advatage for you to get promoted",
+        "summary": "Qualcomm is good if you want fast promotions but long work hours will create you problems at home",
+        "role": "Staff Engineer",
+        "date": "Jan 7, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "As mentioned in other reviews, if you are not in San Diego you don't exist.",
+        "advice": "Focus an ALL employees not just San Diego. Don't sell the Qualcomm HR dream if it only exists in one place.",
+        "pros": "For the most part, the benefits. That is about it.",
+        "summary": "If it sounds too good to be true, it probably is.",
+        "role": "Software Engineer",
+        "date": "Feb 27, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Highly political. Promotions and opportunity is not based on sill level but on how you are \"liked\" by upper management. Very hostile, non-cooperative work evironment. HR is used as a tool for revenge by workers. Employees not working together, no teamwork. The problem is the people. The company is a good company but the bad seeds ruin the work environment.",
+        "advice": "Review the performance of your staff and get control of the HR department.",
+        "pros": "Location, San Diego is a great place to work. Diverse work place, many amenitites. Wireless technology leader. The workplace is a very nice place to go, with many buildings and good facilities. They have many good benifits and on paper value the employee.",
+        "summary": "Good Company, bad work environoment.",
+        "role": "Senior Manager",
+        "date": "Mar 28, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Upper management believes in its own technical skills too much. They won't branch out and won't understand new things. They understand at one level that the licensing business won't last forever, but don't actual support the people they hire who understand other businesses and technologies. The growth opportunities are also very, very limited. It's a \"time in grade\" approach to promotion.",
+        "advice": "You've hired bright people; believe them. Treating folks out of top universities with many years internal experience as if they were interchangeable cogs is both rude and foolish.",
+        "pros": "Great Benefits and very bright people. If you are lucky and working on a reasonable project, it can be fun.",
+        "summary": "Good colleagues; poor managers, and very slow career growth",
+        "role": "Principal Engineer",
+        "date": "Apr 28, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Qualcomm gives a lot of power to lower level managers and unfortunetely, not all lower level managers are good managers. Your life will be like hell if you happen to work for a bad manager.",
+        "advice": "Provide mentorship and guidance and sometimes, closer monitoring for lower level managers. Do not allow a bad manager turn his group/department into a private kingdom.",
+        "pros": "Qualcomm offers generous benefits package. Senior Management is sharp.",
+        "summary": "Good company to work for -- must make sure you have a good manager!",
+        "role": "Engineer",
+        "date": "May 9, 2009",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "poor management, HR policies / salaries not synced up throughout organization, do NOT recognize or reward hard work",
+        "advice": "reward hard work if you want to maintain high class employees, fire incompetent and idle VPs",
+        "pros": "health insurance, vacation, work/life balance",
+        "summary": "Company's getting old",
+        "role": "Senior Engineer",
+        "date": "Aug 18, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "IT management lack of experience on project executionNo room career advancementThey're scared of introducing new technology",
+        "advice": "Identify right candidate and deploy them in correct places",
+        "pros": "Well balance of work & lifeGreat benefits package",
+        "summary": "IT Pitfalls",
+        "role": "Senior Programmer Analyst",
+        "date": "Oct 2, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "The management since Jacobs the Elder left the helm has been reactionary and pure flinch, not visionary and forward leading.The benefits package is constantly downgraded from where it was when I started. Sooner than later this will get to be a problem.",
+        "advice": "Take your leadership role again, you have the resources. Don't let the size of the company bog it down. Give your employees their benefits again.",
+        "pros": "The environment is great, the people are extremely intelligent. The big paychecks pull the cream of the crop.",
+        "summary": "First rate company sliding quickly towards mediocrity",
+        "role": "Project Manager",
+        "date": "Oct 27, 2009",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Working on weekends expected depending upon project. Lack of confidence in some sales teams to win business and keep staff busy. Performance evaluations during review periods are distracting, consume lots of time, and do not always reflect individual contributors' achievements and value-add to the group. It pays to be in the right group with the right influential group leader; otherwise, your extra compensation is up\u2026\u00a0 in the air. Some divisions (QCT) within Qualcomm have NEVER had a workforce reduction/layoff. Others (QIS) have them regularly, and they happen just under the number required by federal Worker Adjustment and Retraining Notification (WARN) Act Guide to Advance Notice of Closings and Layoffs (i.e. you won't hear about the layoff in the news, but they do happen). Divisional leadership is clearly the reason.Senior Management Feedback:- not very approachable despite offer of having a 'door always open'- large delays in communicating important changes like reorganization to the team. It is highly likely that others outside the group will know before you do- some are vindictive; stay on their good side and you will be ok. cross or upset them then your career will be an endless uphill climb- some Directors spend an unusually large amount of time out of the office, coming in late and leaving early and ironically make comments on how it's unacceptable for engineers to come in late or leave early- decision-making by upper management has been dicey. employees pay for those bad decisions with tight deadlines and risky schedules- used current economic situation to inappropriately motivate/threaten employees to stay late and work harder- layoffs have led to very overloaded and stressed out team members. lots of work to do with less people, with no help in sight aside from temporary contractors",
+        "advice": "Recognize just how much work is on the plate and obtain the appropriate amount of resources to complete the work. Overloading your staff and using the economic situation to explain why staff members must put in more work has led to low team morale and high stress. Contractors are not always the answer; they must be trained, managed, monitored remotely.Stay objective at performance reviews, and stick to the fundam\u2026\u00a0ental management principals of supporting and assisting the careers of direct reports. Find ways not to lose key talent to workforce reductions. Lower your own bonuses, salary, or miscellaneous budget to retain them.",
+        "pros": "Employs lots of dedicated, talented engineers. Easygoing corporate environment.. Lots of opportunities and support for training.BENEFITS: Fully sponsored medical benefits; above average workout facilities; promotes work-life balance; free vending machine beverages; sponsored lunch if you must attend meetings during the noon hour; elegant corporate parties; competitive pay. Bonus/Merit possibilities every 6 months\u2026\u00a0. Acceptable to run errands or be out of the office for personal reasons when necessary.",
+        "summary": "The Division You Work In at Qualcomm MATTERS",
+        "role": "Program Manager",
+        "date": "Dec 13, 2009",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "team members are disrespectful and team work is only a theory. middle management does not have a clue about productivity and they take up completely unnecessary efforts; this is a radio company... if you are NOT working on a radio/chip related area, your visibility and growth is drastically reduced.Peer review process is twisted and is not a full 360 degrees. Upper management heavy. Promotions are very rare... Mi\u2026\u00a0ddle managers say \"if I have take 15-20 years to get where I am, you cant expect to grow any faster.\"",
+        "advice": "They need to encourage team work and improve productivity levels. Middle management should learn to address key issues impacting top and bottom line.",
+        "pros": "job stability; decent benefits. almost like a govt job... if you dont care about growth, this could be a nice place",
+        "summary": "stagnation",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "- ignore talented people- unfair performance reviews- compensations are too low",
+        "advice": "recognize talent on the basis of what they deliver/produce and reward them not just verbally.",
+        "pros": "- nice benefit package w.r.t healthcare- facilities provided (labs, equipment..)- flexible time schedule- branding power",
+        "summary": "not so good",
+        "role": "Engineer",
+        "date": "Feb 20, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "1. Middle management biased and filled with politics2. Often politics takes over all good ideas and isolate folks who brought them in the first place3. Communication within group is all fake (its all projection)4. People are often targeted (and there is a chance that you will be forced to think about jumping from a building)",
+        "advice": "Inculcate ethics in middle management. Most managers project themselves as fair but are very biased. VP and above level folks are good to the core. Director/Sr. Directors are often unethical and cause lot of harm to company.",
+        "pros": "1. Pays well2. Good benefits",
+        "summary": "Signs of a dieing company: Politics over innovation",
+        "role": "Senior Staff Engineer",
+        "date": "Mar 11, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "It's very difficult to move up if you're not closer to upper management. Getting promoted, or career growth opportunities are very limited. Employees usually have a feeling of having to live with unfairness in their daily lives which sucks out the motivation to do good work. Morale is low.",
+        "advice": "Be more fair to employees who are doing good work, create opportunities for career growth.",
+        "pros": "Qualcomm has a stable work environment, does not layoff people that much. The benefits package is pretty good, and it is in San Diego with very good weather.",
+        "summary": "11 interviews in one day",
+        "role": "Senior Systems Engineer",
+        "date": "Mar 31, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "1. Too much work pressure. If you want to life a long life, do not be here.2. If you want early life diabetes, BP -- welcome to QCOM.",
+        "advice": "QUIZ for upper management --1. What is Work-life balance?2. Spell Life. Can you?3. People are humans and not machines. Treat them with that dignity.",
+        "pros": "1. Proudly display the badge at QCOM2. After putting in years of life -- you might see some benefit. To be somebody from nobody -- it will take years.",
+        "summary": "QCOM work-lfe balance is BAD",
+        "role": "Principal Engineer",
+        "date": "Apr 4, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Lots of talking/meeting, not so much working and acting.Phd does not necessary means smart\"If we do this for long time, so lets' not change it\"",
+        "advice": "It is not because we are the best that we will stay the best, especially when we do not want to change.Inovation is one think, doing is another.",
+        "pros": "Really flexible on the hours.Has any company, been at the head quarter in really better than been in a satellite site.Secure (no lay off) company to work for.",
+        "summary": "it is a good mom and paps shop.",
+        "role": "Staff Engineer (QCT)",
+        "date": "Apr 10, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "The main downside to working at Qualcomm is that it is in a perpetual state of chaos. It is singularly the least organized company I have ever worked for. Qualcomm credits itself for being like a giant startup, able to nimbly adapt to customer roadmap changes, and this is good, but it makes for an environment that is extremely difficult to penetrate if you were not born at the company.Qualcomm is like a jungl\u2026\u00a0e, and your ability to wield a machete should be at the top of your tool kit. It is a cut throat, back stabbing place where everyone is trying to get credit for things they may or may not actually be responsible for achieving in order to get promoted to the next level. There is very little respect for employees as they are viewed as work horses that need to be and often are, publicly whipped in order to get the last ounce of productivity out of. Qualcomm simply does not care about your work-life balance in spite of the presence of the basketball courts and cafeteria, both designed to keep you on site as long as possible.One of the biggest surprises to me, is how atypical the program management role is when compared to the rest of the industry. Program management in Qualcomm is not a position of authority. This job is in the process of changing from a role of assistant to engineering, ie. setting meetings, taking notes, arranging food for lunch, but always remember that it is engineering that calls the shots in this company and that's the way it will probably always be. Senior (director & VP level) program management leadership is nothing short of weak and something of a joke to the other VPs, easily swatted aside, opinions not considered, and in their frustration, often turn around and pass the same treatment along to their reports.In closing, if you are thinking of joining us as a program manager, think again - don't bother, find somewhere else to work, that's what I'm in the process of doing.",
+        "advice": "Add some structure, treat your employees like people, lead middle management do their job, stop thinking of yourselves as a startup company.",
+        "pros": "I think the best thing about Qualcomm is the fact that it is one of the few companies around that is still making money, a lot of money. This company has also done a phenomenal job of convincing the city of San Diego that it is a caring, benevolent, and giving place. Qualcomm has been able to do this because it is very very rich, so can easily afford to promote itself. The benefit to employees is that they are able t\u2026\u00a0o share some of this limelight, just by working for the company. Whenever I tell someone that I work for Qualcomm, their eyes seem to glaze over, and an idolizing expression spreads across their face as they respond with \"oh really? Wow, that's cool\"",
+        "summary": "Qualcomm is not the 'caring, giving, loving' place promoted by KPBS - watch out.",
+        "role": "Staff Program Manager",
+        "date": "Apr 11, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "There is no regard for work life balance as there is one deadline after the other. The expectation is that all the goals are met without any regard for employees time/personal life.The processes in place are a big mess where even a simple tasks needs a list of process related activities.For new employees, the training and help with ramp up is non existant.",
+        "advice": "Reduce the overall process overhead to see an improvement in overall productivity.Please do not engage in re-active management. The current management style appears to be more reactive after some failure/slip happens.",
+        "pros": "The compensation is decent.if you are in the right team, one gets to work on latest cutting edge technologies.",
+        "summary": "No Work Life Balance",
+        "role": "Staff Software Engineer",
+        "date": "May 2, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "R&D lacking new initiatives, not much more to offer outside CDMA technologies, Very risk adverse towards new opportunities",
+        "advice": "Be open to new ideas. Don't be afraid to fail.",
+        "pros": "Reasonable pay and some great people work there",
+        "summary": "Not to much to say about QC",
+        "role": "Anonymous Employee",
+        "date": "May 20, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Slow in terms of giving promotionsStart-up kind of culture, Qualcomm works as a big production machine which mechanize the output from its employeesCommunication channels with in the company are poor and too much segregatedBig void in responsibilities of a managers and engineers, engineers are not involved in the planning and have almost no sayWorking late and on weekends is very common",
+        "advice": "Learn from peers",
+        "pros": "Respected company to work for.Privacy/freedom of work for an employeeVery work oriented so good learning experience",
+        "summary": "Not a company to give a life time",
+        "role": "Senior Software Engineer",
+        "date": "May 20, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "The review process is a joke. It happens twice a year and is just a way for employees to bash each other anonymously. Management would rather pit workers against each other than actually manage their employees. Expect a management re-org at least every three months. Execution of any idea there is almost non-existent. It may have been a good company at one point but it's definitely going down the tubes. For proof of t\u2026\u00a0hat look at their stock price.",
+        "advice": "Provide real leadership instead of stating that you understand behavioral management. Your utter lack of the ability to actually lead and make informed and rational decisions is scary at best.",
+        "pros": "The company has some great programs to help employees advance their own skill sets. The benefits package is nice but is not that much better than other major firms.",
+        "summary": "Poor management breeds discontent",
+        "role": "Senior Systems Analyst",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "No objective performance review; subjective/political/unfair review is the normSome groups suffer from weak software engineering capabilitiesSomehow high gay ratio due to location in San Diego -- give roots to weird HR problems & emotional actions",
+        "advice": "Don't let management health problems kill employees and the future of the company",
+        "pros": "Solid market shareStrategic positioning for near-future productsRelaxed workload",
+        "summary": "Beware of vicious Indian circles",
+        "role": "Software Engineer",
+        "date": "Sep 9, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Stagnent organization. No opportunityies for promotionForget about having a life while you work at Qualcomm CDMA. You are expected to work very late every day and on weekends too.Terrible communications from the leadership team.Terrible quality (both personal and technical) people in important positionsSalaries are below average",
+        "advice": "Some respect PLEEEASE. Consider thanking people for their hard work, instead of continuous whining about crapTreat people like tey are humans with familiesSalaries and bonuses are very low compared to the work load",
+        "pros": "Cutting edge technologyVery good benefits, although salaries are lowDepending on the project you are working on, your job is probably secure",
+        "summary": "Qualcomm CDMA used to be a good place to work. Not anymore!",
+        "role": "Staff Engineer",
+        "date": "Sep 19, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Long tenure is rewardedGrowth in terms of salary is very slowPromotions are hard to come by unless you are politically savy.",
+        "advice": "Management needs to Reward job performance not tenure.Review compensation structure in comparison to high tech and wireless industry.Take a hard look at the political nature of middle management.",
+        "pros": "Great technical people to work.IT is on cutting edge of technologyGreat BenefitsQualcomm Management promotes a colaborative culture",
+        "summary": "Good place if you want a stable job and do not mind the slow growth in moving up",
+        "role": "Anonymous Employee",
+        "date": "Nov 21, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Low growth opportunities, politics and favoritism, management not focussed on employees growth and creating new challenges.",
+        "advice": "Make necessary changes in management to align the teams to achieve the goals, listen to employees at all levels and encourage an open culture for new ideas and improving things. Reduce politics and buddy system, find the true performances and value creators and reward them. Management shouldn't reward fire fighting or senior management whose style is just yelling and screaming....",
+        "pros": "Good technical talent and cutting edge technology, fast paced and folks take pride in their accomplishments. Decent work life balance and lot of training courses for internal training.",
+        "summary": "Lot of work and sometime redundant work, always fire fighting mode",
+        "role": "Director, Engineering",
+        "date": "Mar 13, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "too many people that are busy building empires....",
+        "advice": "Quit the politics. you're part of one company. the latest reorg has splintered the company...",
+        "pros": "some good people that know what they're doing...",
+        "summary": "too many years with nothing to show for it",
+        "role": "Senior Member of Technical Staff",
+        "date": "Mar 26, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Work life balance, there is noneFlex Schedules- A FarceManagement in Finance needs an overhaulPart Time Opportunities- Non existentHR- For whoWork from home- Using wireless capabilities....say what?Politics, lots of themBuddy system for promotions & not based upon knowledge or performanceManagement uses office chatter as fact",
+        "advice": "Use the technical tools available in ALL your Software to measure EE performance, stop using opinions as the biggest measure of an EE feedback.Give reviews ON TIMEAllow ALL Employees to review direct Management 1 per year",
+        "pros": "BenefitsHealth care401KEmployee Stock Purchase PlanOptions",
+        "summary": "Started out great then headed downhill",
+        "role": "Financial Analyst",
+        "date": "May 13, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Very long hours on the toll of work-life balance, which are going unappreciated. Talents are leaving the company while managers are lowering the bar to filled up number of racks. Management seems to not have the proper background or training to be in the positions that they are in. HR is small and seen as powerless. Managers rely on fear and negative reinforcement. Internal opportunity system is a second name to a nu\u2026\u00a0ll. At our semiconductors domain San Diego is almost a city of one company. There are other semiconductors/hightech locations with more and better companies.",
+        "advice": "Study management practices.",
+        "pros": "Wireless technology. EDA tools. Computing infrastructure. Facilities.",
+        "summary": "Good technology with bad management. Do not do the mistake of moving to San Diego for Qualcomm alone.",
+        "role": "Staff Design Engineer",
+        "date": "Jun 22, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "poor management and less scope for career growth",
+        "advice": "recognize employees work better and encourage learning more..",
+        "pros": "great benefits, company is doing great.",
+        "summary": "nothing great about it",
+        "role": "Senior Engineer",
+        "date": "Aug 11, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Not a trustable environment between group.",
+        "advice": null,
+        "pros": "Good benefits and fair salary",
+        "summary": "High political/buddy system in Product & Test group",
+        "role": "Staff Engineer",
+        "date": "Oct 2, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Crappy work assignments, no concept of software development proces.",
+        "advice": "Get your act together",
+        "pros": "Good Benifits and free soda",
+        "summary": "Crappy Work",
+        "role": "Staff Software Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Mature Cash Cow. Change in work force. More and more talented people are leaving. In place are complacent VPs",
+        "advice": "Start to manage expenses as margins get squeezed",
+        "pros": "Leads in modem technology. Total solution provider",
+        "summary": "Mature Company",
+        "role": "Anonymous Employee",
+        "date": "Jan 7, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Salaries are not competitive. Bonus are bad and advancement opportunity is not much. Also, unless you know people well, its hard to move from one department to another.",
+        "advice": null,
+        "pros": "In san diego this is the best company to work for since there are not many options and among all other company it provides the best package and environment.",
+        "summary": "Its Ok!!",
+        "role": "Senior Engineer",
+        "date": "Jan 9, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "too much politics and very low productivity",
+        "advice": "layoff 50% middle level manager who do/know nothing but on meeting all the day.",
+        "pros": "have good benefit and salary",
+        "summary": "Very old \"young\" company",
+        "role": "Staff Engineer",
+        "date": "Feb 1, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Low efficient working style, Poor management",
+        "advice": null,
+        "pros": "Good salary, benefits, Cutting Edge project, good engineers",
+        "summary": "Average",
+        "role": "Systems Engineer",
+        "date": "Feb 6, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "* Less Pay* Extremely poor management* Lack of transparency* Too much stress",
+        "advice": "Too much managerial politics is ruining the future, listen to engineers because they are the core of the organization. Many experience folks are leaving the organization because of this reason. The current development model is not sustainable, give more for development for better quality of code.",
+        "pros": "* You learn a lot about wireless domain.* Great health insurance plan",
+        "summary": "Not a good place to work",
+        "role": "Software Engineer",
+        "date": "Feb 15, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "The atmosphere is very difficult and negative. There is no accountability, and it feels as if everyone is at war. In addition to the hositile environment, there are many mid-level managers that treat others like dogs. Nervous, negative yuckness is what it feels like as soon as you walk into the building (Q) , Whats worse is, your made to feel as if your contribution to the company means nothing; yyou are a dime a doz\u2026\u00a0en. The mostly all male - mid-level managers have risen above, not because of talent or super abilities, because everyone who works there is in their own rite a \"super star\", and a \"talented individual\", it is because they are ruthless. Purely mean and terrible people.",
+        "advice": "Dear QCT leaders, there are so many great things the comapny does for the employees, but all of it means nothing when the atmosphere is so aweful. Here is my suggestion:Leaders we need you to lead, we will follow your steps all the way if you take a path... any path. Accountability and forgiveness is inspiring.",
+        "pros": "Amazing technology - the products are state of the art, the environment is very fast paced and it can be a very exicting place to work. Its also very rewarding to see someone using a device you helped launch. Schedules are generally flexible, and the company provides swimming pools, full gym access to anyone who wants to use it, tennis courts, basketball courts, ping pong tables, free sodas, and if the admin in your \u2026\u00a0area is cool, you can have munchies galore.",
+        "summary": "Women Beware - its not easy being a girl.",
+        "role": "Program Analyst",
+        "date": "Apr 11, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Although work/life balance is stressed company wide, many positions and groups require extensive hours with very volatile, stressful working conditions. Some positions require more and more responsibilities the longer you are there with very limited resources. If you take the time off, you will have to put in the time you missed to keep your head above water and face the wrath of not meeting your deadlines, which, in\u2026\u00a0 turn creates more stress.Some groups have no teamwork. You get siloed into a very complicated technical position so no one on your team can back you up or even knows exactly what you do. Conversely, you may not have a full understanding of your coworker's responsibilities. Everyone is too busy for crosstraining.Upper management does not approve headcount for department head's needs.Workplace stress is common. I have been in the workforce for 22 years and my position here was by far the most stressful job I have ever had. Again, this differs from department to department and will depend on the group and manager you are working for.Interpersonal conflicts and power struggles were commonplace.Management may be very talented technically and innovatively but not have soft skills required to be a good manager.",
+        "advice": "Upper management should listen to department managers and directors regarding headcount and resources. They know the intricacies, complication, and time required for the ever expanding job requirements and duties.Hopefully upper management listens to HR about employee complaints of being overworked and workplace stress.",
+        "pros": "Benefits are superb: great medical, chiropractic, onsite gyms and health programs, catered lunches (depending on group/job), discount coupons, free Duncan Donuts coffee and sodas.Dynamic, performance driven environment creates challenge and professional development.Learn and be involved with exciting and innovative new technologies.Worked with very intelligent, talented, and sociable people.",
+        "summary": "Good professional experience and development, difficult to achieve work/life balance",
+        "role": "Project Analyst",
+        "date": "Apr 12, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "This was one of the most boring jobs I ever had. It turned out to be more of a sustaining/maintainence role. Bug fixing occupied about 80% of my time. There's very little feature development going on in San Jose. Most of the significant work is happening in India.",
+        "advice": "Put more effort into assigning work and projects to San Jose based engineers so that they'll feel as if they have a stake in the success of QCA.",
+        "pros": "The benefits at Qualcomm are very good -- free medical/dental/vision. Decent 401K match. ESPP is good too (stock is doing very well). Free gym membership. There's a good work/life balance here. Compensation is also pretty good (but I can't comment on the bonus plan).",
+        "summary": "One of the most boring jobs I've ever had",
+        "role": "Staff Software Engineer",
+        "date": "Apr 19, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Little/no reward for research or new ideas from management indicating the company is no longer interested in future technologies.",
+        "advice": "People making decisions sometimes do not have right technical background. Instead of always looking from top, please try to look from a different angle sometimes.",
+        "pros": "Industry leader, cutting-edge development, decent salary, good health insurance.",
+        "summary": "Overall ok, not great.",
+        "role": "Staff Engineer",
+        "date": "Apr 24, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Salary: Was offered lower than some start ups. HR plays hardball and leaves no room for negotiation ended up getting 6k more than originally quoted. You tend to start off with unhappy employees. Bonuses are probably industry's lowest.Team dynamics: Every group has its own kind of politics. Usually it will involve middle management, who does nothing but manage. Most of these people lack technical skills to rem\u2026\u00a0ain in company, but due to extremely bad review process, they will linger on.Most of the middle management is content to manage up and give more work to people under them. So most of the engineers leave after 2-3 years. Bad talent sticks around.",
+        "advice": "Your review process is broken. Most of the middle management has gone from working to just asking statuses and reporting to their supervisors.",
+        "pros": "Job Stability, San Diego ( can be good or bad), Good technical work if you are willing to work hard, Benefits",
+        "summary": "Great technical work, but lots of pitfalls",
+        "role": "Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Some teams and management are good but most of them lack direction and mismanage everything for the sake of agression. Technically zero people in management and overdo things.Recruit more and give more work. Once my manager counted my mails from me to track my performance on that day",
+        "advice": "Give respect and take respect.",
+        "pros": "Fast learning and some technically brilliant people.Hard working colleagues",
+        "summary": "Aggressive work environment with no respect towards employees",
+        "role": "Senior Software Engineer",
+        "date": "May 7, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "1) Managers are technically inept. Especially, there are so many directors and senior directors that you forget count of them.2)There is a lot of stress on minute issues or the same issue coming up in a different ways.3) Promotions are based on number of hours put in. No respect for quality of work but stress on quantity of work. This goes back to the point mentioned above. Since mangers are technically not s\u2026\u00a0mart, they don't have clue about time taken for a task.4)No freedom/room to work outside of your assignment. Very poor in terms of inernal group transfers.",
+        "advice": null,
+        "pros": "Very good medical and dental plan.San Diego is a good place to work.",
+        "summary": "pigeonhole",
+        "role": "ASIC Design Engineer",
+        "date": "May 10, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "This company does not rate employees' performance based on the job roles, many other X-factors are in play. Less chance to get promoted if you are already at a senior technical level.",
+        "advice": "Reward people who do the work, not those who do the talk.",
+        "pros": "Relatively good benefits if you have a family. If you are a new graduate, it is a good company to start with.",
+        "summary": "Good for people who manage people, projects, bad for people who do the real work",
+        "role": "Anonymous Employee",
+        "date": "May 12, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Financial and enterprise run using ORCL, which is a dead horse being dragged through the mud. Corporate and IT members who helped select it and run it justify it to the determent of the business. Don't suggest alternatives to the middle managers, as they won't see it.",
+        "advice": "Make a decision and move on, don't hold back the company by holding on to the boat anchor and the people who manage it",
+        "pros": "Overall corp tries to benefit everyone by adding a so called ' open corp culture'",
+        "summary": "Corp. infrastructure tied to the Titanic",
+        "role": "Senior Staff Engineer",
+        "date": "Jun 4, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "- lower than average compensation in terms of salary and stocks.- too much emphasis on political gains by directors/managers rather than emphasizing on actual engineering work.- nobody is willing to make critical decisions when it comes to risk management and setting priorities.- no specific promotion guideline, it's mostly dependent on personal relationships with upper management rather than actual contr\u2026\u00a0ibutions.- competent engineers keep leaving after getting fed up with too much politics.",
+        "advice": "Need to realize they have to hire and keep top talents to become successful in this new climate with less royalty revenue. They can't keep alienating top talents with their politics.",
+        "pros": "- medical benefits.- many onsite technology lectures.",
+        "summary": "99% politics, 1% actual engineering",
+        "role": "Staff Engineer",
+        "date": "Jun 12, 2012",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "NO work/life balance due to too few employees/too much work in many divisions.Ambiguous, conflicting, ever changing guidelines - often you have to make your best guess and you will hear. about it if you guess wrong.Amount of work expected is impossible.Open door policy is policy only. Yes, you can walk in any management door and make suggestions or ask if there is a way to improve an element of the job or\u2026\u00a0 state the metrics of the workload but you then become one of the bad guys.",
+        "advice": "Stop burning out excellent employees. People want to do an excellent job but the amount of work and the day-to-day atmosphere wears people down.",
+        "pros": "Excellent top tier executive visionGreat salary and benefits",
+        "summary": "Great benefits & salary, but worth It?",
+        "role": "Anonymous Employee",
+        "date": "Jun 12, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Favoritism in teams/groups and upper management is disorganized and inconsistent. Stressful environment with endless meetings on fixing problems rather than solving and \"doing\" something about it. Difficult to advance even if you put in lots of hours and do \"other\" peoples work. Lots of \"kissing butt\" and managers throwing people under the bus so they can look good.",
+        "advice": "Be clear on your expectations and monitor your headcount with upper management - too many managers/directors/sr directors.",
+        "pros": "Great benefits, onsite gym and activities. Great to new hires. Bonuses can be great if team works well together.",
+        "summary": "Program Analyst Senior",
+        "role": "Senior Project Analyst to Senior Program Analyst",
+        "date": "Aug 14, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Middle management incompetent and flat out has no business being managers. One nearly caused me to burn out from overworking the team (EVERYTHING was an emergency because he wanted it done fast so he could look good).Work consisted mostly of recycling code from other groups within Qualcomm - mostly in San Diego. No way to innovate! San Diego acts like their excrement smells sweeter than everybody else's and d\u2026\u00a0oes not provide support or adequate documentation for their stuff.No appreciation for past work by some senior engineering staff (not even a \"thank you\" when I left). I was never thanked by one manager even though he got a promotion thanks to my efforts and those of my colleagues.",
+        "advice": "Fire two mid-level hardware engineering managers who happen to have the same first name. None of the engineering staff likes them - only upper managers. You know who I mean.",
+        "pros": "Great benefits, flexible work environment. Immediate supervisor was terrific.",
+        "summary": "Good place to work if you don't mind recycling other people's work",
+        "role": "Senior Staff Engineer",
+        "date": "Oct 11, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Dumb colleagues and not much innovation and job might be boring , not challenging, repetitive work , boring work culture , everyone bossing around.",
+        "advice": "Recruit people with skills",
+        "pros": "Nice office location, good equipment and resources , bonus and benefits are great , Food for people working late, Commuter benefits ,",
+        "summary": "Sr.Software Egnineer",
+        "role": "Senior Software Engineer",
+        "date": "Dec 12, 2012",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Lack of technical capabilities.Advanced design claimed here is indeed average designBrain wash employee they are making impact to the engineering society but indeed just doing routing workPolitics everywhere, senior people think they know many things but just a bunch of frogs in the wellIf you are a fresh grad this is not the place for you. You will find it impossible to compete with people after coup\u2026\u00a0le years of experience in Qualcomm.",
+        "advice": "Nothing. Please keep that mindset so that other small companies have better chance to sell their IP to Qualcomm and make tones of money",
+        "pros": "Good benefitRelax work style ( if you are a well experienced professional)Work life balanced",
+        "summary": "Lack of technical capabilities, business orientated company",
+        "role": "Senior Engineer",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "No leadership from CIO and/ Enterprise Architects, every team is out for themselves.",
+        "advice": "Get a new CIO and shed layers of middle management.",
+        "pros": "Easy place to slack off and avoid actual tech iCal work, if you're into that.",
+        "summary": "IT department is lacking vision and leadership.",
+        "role": "Anonymous Employee",
+        "date": "Feb 28, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "All projects have very aggressive schedules with no breathing room between projects. No work/life balance. It's very common to work weekends, holidays, and very very long hours in general. If you have a family, this is not the right workplace for you.",
+        "advice": "Salaried workers are not your slaves. Create more realistic project schedules and don't overwork your people.",
+        "pros": "Great Pay, Good benefits, and nice people.",
+        "summary": "Beware, No work/life Balance!!!!!!",
+        "role": "Staff Engineer",
+        "date": "Mar 16, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Cost and schedule rule with quality and work life balance suffering severely in certain areas. \"Yes men\" more and more the key to advancement and survival. Delusions of divinity in certain areas. Better opportunities developing elsewhere.",
+        "advice": "Need to take a long hard look at product quality.",
+        "pros": "Excellent cash, market and historical patent position in CDMA wireless. Enormous potential for continued leadership in mobile markets.",
+        "summary": "Losing traction as patents begin to expire.",
+        "role": "Staff Engineer",
+        "date": "Mar 27, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "The key to Qualcomm is never winding up in a division that isn't in the company's future. As soon as that occurs, Qualcomm will prevent you from interviewing for other divisions, and sell you off like knick knacks at a flea market to the first buyer that comes along. For a company that has a reputation for valuing employees, turns out they do all the same things everyone else does. I guess there's no loyalty anywhere\u2026\u00a0 anymore.",
+        "advice": null,
+        "pros": "Word of mouth on Qualcomm is great. The pay, bonuses, benefits, etc., are all great while it lasts. Emphasis on \"while it lasts\". Technology moves quick, and as soon as your department is not a part of the company's future plans, that's a wrap for you.",
+        "summary": "Great until they decide your unit isn't in the company's future. Reputation for valuing employees is overhyped...",
+        "role": "Anonymous Employee",
+        "date": "Jul 22, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Working in IT at Qualcomm is filled with cons and few positives. IT staff are second class citizens, playing second fiddle to developers and \"real\" engineers. Yes they bring in the money, but a professional IT degreed engineer is not compensated or looked at in the same way as a developer. Since the \"real\" engineers are fairly spoiled, IT is constantly being pulled at their whim with little planning or time to do it \u2026\u00a0right. Highly reactive, which often results in less than optimal IT solutions. Engineers then look down upon IT for providing half-baked solutions, even when we were totally left out of any up-front planning and they need something \"yesterday\".Corporate IT is also highly siloed, and people get put in a box and rarely let out. If you are an Exchange administrator, then you have zero insight into storage, virtualization, networking, etc. Or maybe all you do is administer load balancers. Very little cross-discipline training or exposure. This stunts IT skills and IT careers. Everyone has their rice bowls, and getting major tasks accomplished that cross multiple groups is very painful. The helpdesk tries their best, but lacks good training and skilled staff. Extremely high turnover, and not very happy customers.Because the perks and company are good overall, the poor IT performers stay and rarely seem to leave. Getting HR to fire someone is nearly impossible and takes 6-9 months if not more, even if the person clearly is not even remotely performing at their level. HR is highly risk adverse, which causes major pain for staff managers and makes the teams suffer.Bottom line is if you want to work in IT, don't go to Qualcomm. If you are a skilled software developer or hardware engineer, Qualcomm may be your perfect job.",
+        "advice": "Give HR and managers more authority to much more quickly terminate staff that are clearly not towing their weight and causing morale problems. Increase IT staffing and replace the IT leadership team that values cross-functionality, diverse skills, career growth, working together, and puts aside the rice bowls. IT staff should not be second class citizens, and if they have the same degrees and years of relevant experi\u2026\u00a0ence they should be compensated the same as the \"real\" developers and engineers.",
+        "pros": "Qualcomm has world class software developers and hardware engineers that make amazing products. The company culture is to give these engineers whatever tools they need to get the job done in the right way. Some may call them \"spoiled\", but this boosts their productivity. Healthcare is nearly free (minimal co-pays, no cost premium, good coverage for other services), company culture is great, working on a lot of leadin\u2026\u00a0g edge technologies.A lot of \"Q\" this and \"Q\" that (e.g. QLife, etc.) and they order in lunch often, have free sodas and snacks, and a lot of people get real offices vice being in a cube farm. Certainly not a Google where you get completely free meals and you can bring your pet to work, but a good innovative culture. Twice a year bonuses, cash awards, and stock grants are great. Qualcomm really puts a lot of time and effort into the twice-yearly review process. They really do a 360 degree view of the person with third party input. Most thorough review process I've ever seen.",
+        "summary": "Good for Developers/Engineers, not for IT Staff",
+        "role": "IT Architect",
+        "date": "Sep 16, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "- Limited career growth - if you request a different project after completing your current assignment, you are discouraged and given boring tasks- Expected to work on one project and only project for entire duration at Qualcomm- Lots of politics - people take credit for work you do, ask for help behind directors/VPs- Line management - your review, bonus and raise are determined by a third party whom you s\u2026\u00a0ee only during review period. Your manager/tech lead has very little impact during the bonus/promotion meetings.- Compensation is very low compared to salary in Bay Area. San Diego is not that much cheaper to live- New innovation in hardware only. As a software engineer you will only be responsible for bug fixes and hacks the hardware and system team will reincorporate into the next design]- No culture. No team building events, no company events. Teams are very distant, everyone is doing their own thing. Team members don't even eat lunch together most of the time! In the 3 years I have been here, my team has only had 1 team building event and there have only been 2 company events, 1 for a 25 year anniversary",
+        "advice": "- Get rid of Line Management, it only hurts competent employees- Provide opportunities to move out of projects so employees can learn new technologies",
+        "pros": "- Learn a lot initially- San Diego is a great place to live",
+        "summary": "Limited Career Growth",
+        "role": "Engineer",
+        "date": "Sep 28, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "At least 50% of the managers are totally incompetent as managers. They are busy playing politics all day long and trying to force their agenda on others. Most managers act like individual contributors whose directs exist for the sole purpose of cleaning their leftovers.Agreeing on expectations, providing feedback, asking instead of commanding and coaching is something I haven't seen from any manager in this compa\u2026\u00a0ny. This is all a result of a poor management culture and promotion for the wrong reasons. The organizational hierarchy is so vertical that most managers have fewer than 4 directs. This means you need to to fill an awful lot of management positions from a pool for technocrats, how well can this turn out to be? Senior management is completely detached. To illustrate it, 16,000 company employees (60%) report to a single manager who sits 3 levels below the CEO.",
+        "advice": "Flatten the organization, collect feedback on your managers and start paying attention to the results, trim all those poor managers who have no idea what people management is about. Put them back in the engineer seat, where they can contribute without crippling the organization.",
+        "pros": "Good benefits, very talented engineers, not too bureaucratic for a company of its size",
+        "summary": "A political quagmire orchestrated by managers too busy proving how smart they are",
+        "role": "Business Development",
+        "date": "Oct 18, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "- a fair number of engineers have limited social and teamwork skills (to be expected based on the interview process)- work is not very challenging, mostly mindless bug fixes and porting- has fully transitioned to a big company that rewards heavy overtime but not anything else (wasn't this way originally)- promotes weak leaders who attempt to use fear (shouting, etc.) to motivate- highly directed work,\u2026\u00a0 low creativity, very strict adherence to processes (many of them weak or even detrimental to the business)- feedback for improvement no longer considered by upper management",
+        "advice": "It is a reliable place to work and earn a paycheck. The company is focused on continuing to increase the cash flow for investors, and pays little attention to making it an innovative place for an engineer to be challenged. The company cannot be faulted for that...it is what it is.",
+        "pros": "- successful company with good financial status- pockets of good people and good teams- small areas with challenging design work- flexible in work hours and schedule",
+        "summary": "Big company with limited career opportunities unless you work a lot of overtime",
+        "role": "Senior Staff Engineer/Manager",
+        "date": "Oct 30, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Cross functional teams not aligned resulting in product slips. No corporate-wide system in place for career growth, too many layers, poor team environment and low employee morale.",
+        "advice": "Provide growth opportunities to employees, resolve execution issues and power struggles with QCOM SD.",
+        "pros": "Good benefits, smart talent across most engineering teams.",
+        "summary": "Company facing execution challenges post QCOM acquisition",
+        "role": "Anonymous Employee",
+        "date": "Nov 24, 2013",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "few chance to grow, not good working atmosphere, if you are good at presenting instead of hard working, you might fit this company.",
+        "advice": null,
+        "pros": "fairly good pay, good faculty, nice location. Your first impression on your management determine your future in this company. Don't stupid thing, then you can stay as long as you want.",
+        "summary": "Qualcomm",
+        "role": "Senior Software Engineer",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Working for 16 hrs a day is bad on your health. Totally depends on your team. Because of superfast execution, quality of work is poor.",
+        "advice": "There is lot of transparency from top to bottom. There is good and bad about it. Please dont make incorrect decisions at the top.",
+        "pros": "Continuous learning is a part of the environment, Work with great minds, Opportunity to execute.",
+        "summary": "Very demanding and competitive environment",
+        "role": "Senior Design Engineer",
+        "date": "Dec 17, 2013",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "In some departments, the management chain is dysfunctional. In my particular experience, some of us at the working level were excluded and isolated from information from above but at the same time, being held accountable to act with that information. VP and SVP levels clearly lack leadership skills or the ability to leverage the people under them in an effective, unified team. Again, this is not universal across Qual\u2026\u00a0comm. It all depends on which department you end up.",
+        "advice": "Advice to the executive management: Take a close look at your senior management (SVP, VP) level and ask yourself if they have the necessary leadership and fundamental management skill to leverage the strengths of the people under their control for the good of the organization. I many cases, yes, in some cases, clearly not. Take steps to fix that situation.",
+        "pros": "At the working cross - functional level, the teamwork is phenomenal. In fact, I would say that is the key to Qualcomm's success has been the quality of the teams executing. There is a lot of mutual respect and get the job done can do attitude. A lot of smart people that work incredible hours to achieve success. I have nothing but good things to say about the people i worked with on a day-by-day basis.Good com\u2026\u00a0pensation and benefits.",
+        "summary": "Your mileage may vary depending on the management chain above you",
+        "role": "Staff Product Manager",
+        "date": "Jan 14, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "too many bosses over worked and too many favoritisms",
+        "advice": null,
+        "pros": "none everything was unpleasant and over worked",
+        "summary": "not pleasant and a lot of pressure",
+        "role": "Anonymous Employee",
+        "date": "Jan 16, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "The company culture has declined drastically in the past 5 years. This is an extremely political place to work, and if you're in with the good old boys, then you're set; if not, get ready to see your career stagnate. Reviews are not based on merit but instead on one's manager's and VP's perceptions. Very few women in senior technical roles, and very basic benefits for parents. Lactation rooms lack sinks and are adjac\u2026\u00a0ent to offices or meeting rooms. Instead of getting on board with equal maternity and paternity leave like most tech companies, the company provides the minimum mandated state leave and no more. HR is worthless; instead of addressing harassment and discrimination complaints, they state that they cannot protect the employee against retaliation (untrue in California). Multiple incidents of bullying, discrimination and harassment, even a couple of suicides, have not resulted in any attempts to improve the work environment. People are forced to come in when they are sick, work on weekends and nights, and work during vacation. Not to mention that compensation is not adjusted to market rates for employees who have been in the company for over 4 years. As a result, newer employees are paid 10-30% more than equally seasoned employees who have been loyal to the company for years. Hopefully Qualcomm can clean up its culture and get back to the great company it was - trimming the fat (and there's lots of it) will get the company back to its core values and allow it to innovate.",
+        "advice": "Stop promoting buddies - instead promote on meritStandardize the review process and have hard guidelines instead of leaving it subjectivePay all employees fairlyFigure out why people are jumping off buildings and dropping like flies in the office, and do something about it instead of acting like nothing happenedAddress complaints about discrimination and harassment instead of threatening employees wit\u2026\u00a0h retaliation",
+        "pros": "Decent healthcare benefits, ESPP, 401K matching",
+        "summary": "Great company going downhill fast",
+        "role": "Staff Engineer",
+        "date": "Mar 13, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "most of the people are not very helpful",
+        "advice": "ask one on one reviews instead of group reviews",
+        "pros": "good technologysome people are really pro",
+        "summary": "Senior",
+        "role": "Senior Software Engineer",
+        "date": "Mar 24, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Picky on documentations, high hours to push thing close by deadline",
+        "advice": null,
+        "pros": "Culture is technical oriented . Encouragement for inventions",
+        "summary": "Qualcomm - A chipset technical leader",
+        "role": "Anonymous Employee",
+        "date": "Apr 7, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "The company is a technology company that listens to its engineers but does not understand to listen to marketing or brand professionals it hires. When plans don't work they lay off entire divisions and the marketing folks are AWOL. I have many friends who lost jobs due to the company's treatment of marketing professionals, who they place no value on. Qualcomm does not understand or value marketing, brand, sales - it'\u2026\u00a0s a technology company.Many divisions are started by FOP (Friends of Paul (Jacobs) inexperienced senior management, who have no experience in marketing or branding, and come up with their own marketing ideas, fail to properly fund, follow through or persist with the marketing or brand campaigns, don't listen to the marketing experts, and then fold the division when the sales don't work out. Then they fire the marketing staff, start all over again with a new product and do the same mistakes: complete lack of consumer insight.They know technology, not consumers.",
+        "advice": "Stick to what you know - engineering and stop the pretend marketing games.",
+        "pros": "Great employee benefits, good technology.",
+        "summary": "Great company for engineers, bad place for marketing or brand professionals",
+        "role": "Marketing",
+        "date": "Apr 14, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Bad inter office politics; poor work life balance",
+        "advice": null,
+        "pros": "Good Money and other benefits.",
+        "summary": "qcom",
+        "role": "Principal Engineer",
+        "date": "Apr 28, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "too much politics and cutthroat peoplebelow average salaryno scope for growth - too many people entrenched at middle and higher levels",
+        "advice": "cut the fat - there are too many senior staff level people who do nothing but manage schedules and processes !",
+        "pros": "Big stable company, so less risk of layoffs",
+        "summary": "Going South",
+        "role": "Senior Hardware Engineer",
+        "date": "May 2, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "I fail to see a strong skill set in my coworkers. People keep asking you very basic technical questions. The promotion scheme is questionable. Some people becomes managers just because they stay in this company long enough, and unfortunately they don't have good sense in technology itself.",
+        "advice": "Make sure the interview process works for its original purpose. Make sure your senior managers are not mediocre. Make sure star employees can be identified and promoted in an accelerated speed.",
+        "pros": "Good company making proud products; good benefits; maybe the number 1 tech company in San Diego, a wonderful city.",
+        "summary": "Good company only if you are in the right team",
+        "role": "Senior Engineer",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Acquisitions happen left and right which is great for the company but bad for current employees. New management often has no real experience and are put in management roles above those that should be managers. Unfortunately, this is how departments quickly go down hill and sometimes get eliminated.",
+        "advice": "Promote those that fit the role not those that just talk about being great. If they can't even do what they ask their team to do then demote and put someone in place that can take the team to the next level.",
+        "pros": "Offer internal online courses for employees to keep up w/programs, regulations and/or learn new programs.",
+        "summary": "Management",
+        "role": "Anonymous Employee",
+        "date": "Jul 2, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "- Some QCT teams have reversed pyramid structure. Number of Senior Staff Managers > Number of Staff Managers > Number of Senior Engineers > Number of Engineers. Hence lower levels in QCT, bear the brunt of work, because except for a few technically good mid level managers, most sit in meetings all day to increase their sphere of influence.- People can steal work and claim it their own. Advertise your\u2026\u00a0 work to more folks than your lead.- Some QCT managers, have no management skill. They have the title to just increase their influence.- Matrix structure for reviews. Find the most important senior player (manager, director etc) in the team and make him/her happy. Very political place.- Do not waste any time contacting HR, they do not care. They are there to make sure that no lawsuit or issues for the company.",
+        "advice": "Enough politics and meetings, everyone until Principal should contribute technically. Sit in your office and code/design and help with actual work instead of holding meetings about meetings on work that needs to get done.",
+        "pros": "- Benefits, which you may not be fully able to use if working 14+ hours a day- Great health plan.- QCT is totally manager/lead dependent. If manager/lead is reasonable, strong and powerful, you can go places. If not, you will go nowhere, even if you work hard.- Exciting work.",
+        "summary": "Very average",
+        "role": "Software Engineer",
+        "date": "Jul 3, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Poor opportunities for progress in technical roles, no support for long term career planning, excessive levels of office politics and internal rivalry.",
+        "advice": "Be more assertive with management of acquired companies. Provide better opportunities for career development, with a greater focus on long term goals.",
+        "pros": "Reasonable work hours and wages. Opportunities to work on interesting products. Rich history of leadership in certain technologies such as cellular, mobile phones, etc.",
+        "summary": "Strong company with limited opportunities for growth.",
+        "role": "Anonymous Employee",
+        "date": "Jul 6, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Qualcomm is a VERY large company and I can only speak for I.T. As with most large companies they tend to get management heavy. Management has to justify their position and in turn spend endless hours thinking of ways to tighten the noose. Things were much more creative and relaxed several years ago, now it is like kindergarten, constant reports, time cards, metrics and such. Raises have all but ceased and the great s\u2026\u00a0tock options are now a few RSU's.",
+        "advice": "Let the great people that Qualcomm works so hard to recruit do their jobs. Stop with the constant babysitting mentality.",
+        "pros": "Great campus, great food. Challenging environment.",
+        "summary": "Used to be great!",
+        "role": "I T Engineer",
+        "date": "Jul 8, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "lots of limitation to work in the huge systemlots of limitation to work in the huge systemlots of limitation to work in the huge systemlots of limitation to work in the huge systemlots of limitation to work in the huge system",
+        "advice": null,
+        "pros": "stable companystable companystable companystable companystable companystable companystable companystable company",
+        "summary": "senior",
+        "role": "Anonymous Employee",
+        "date": "Aug 4, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "1) Need improvement on diversity2) Embrace open communication (not just talk about it but train leaders on how to do this right)",
+        "advice": null,
+        "pros": "1) Opportunities to challenge yourself2) Competitive salary3) Fair rules on international business travel",
+        "summary": "Only those in the clique survive",
+        "role": "Anonymous Employee",
+        "date": "Aug 5, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "a a lots of work",
+        "advice": "more networking a a a",
+        "pros": "okay people okay people okay",
+        "summary": "marketing assistant",
+        "role": "Marketing Manager",
+        "date": "Aug 30, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Filled with unprofessional and cutthroat people.",
+        "advice": null,
+        "pros": "Qualcomm really cares their people. Benefits are good and good work life balance.",
+        "summary": "Bad experience",
+        "role": "Software Engineer",
+        "date": "Aug 31, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "Lack of opportunities to shine and contribute outside an extremely small focus. Departments and people within departments are extremely silioed and disjointed leading to duplication of efforts or loss opportunities. People tend to focus on their narrow perceptive versus optimizing as a whole. Too much reliance on outside consultants. People too concerned and focused with trying to keep job. This is very negative for \u2026\u00a0a company with growing revenue.",
+        "advice": "Look into why employee turnover exceeds 60% within department",
+        "pros": "Upper management keeps employees informed on business direction and expectations. On site activities; gym, educational, fun and team building activities",
+        "summary": "Mixed experience, atmosphere degrading, management focused on growth",
+        "role": "Business Analyst",
+        "date": "Sep 17, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Lots of late hours and weekend work expected from most engineers and sr engineers...bad managers with bad people skills carrying out directions and pushing it down to whoever...no work life balance at all. HR will mostly take management side...I saw hired consultants not getting paid for weekend work, management wont approve their hours. Maybe ok if you are not working for QCT /Target SW division...not worth sacrific\u2026\u00a0ing family time just for the great benefit package...there are plenty of othe companies in San Diego who will pay more salary.",
+        "advice": "Develop some people skills. Treat employees as you want to be treated.",
+        "pros": "Review done every 6 months...good benefit package.",
+        "summary": "No work-life balance in QCT and Target SW division",
+        "role": "Software/Systems Test Engineer",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "too much Politics for a medium size company",
+        "advice": "to get ahead you must reduce politics.",
+        "pros": "1. Live in San Diego",
+        "summary": "Good experience, too political",
+        "role": "Software Engineer",
+        "date": "Oct 21, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Too many redundant people! It is difficult to get consensus, and Qualcomm is a very much an approval by consensus organization, to make the necessary decisions. Politics have exploded over the past year with the departure of Dr. Jacobs. Like someone else has posted, unless you are an EE you really don't have any upward mobility.",
+        "advice": "Reduce the redundant headcount. While we still have the code, we have lost the recipe. We need to get back to what made working for this company a great experience. Didn't mind working 12-15 hours before because we were respected and compensated for what we did. Now we are treated like 9-5 employees, well guess what you get when that happens.",
+        "pros": "Competitive salaries and compensation, although no longer the leader in San Diego.",
+        "summary": "It's not what it used to be!",
+        "role": "Anonymous Employee",
+        "date": "Oct 28, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Adding more pressure is not a good way to increase productivity.",
+        "advice": "managers need to improve their positive management skills.",
+        "pros": "Good technologies and good benefits",
+        "summary": "poor work life balance",
+        "role": "Staff Engineer",
+        "date": "Dec 4, 2014",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Not the same Qualcomm with great culture and good career path. That Qualcomm died 10 years ago.Top engagement has no solution how to solve market share loss and failure to collect licensing $ in ChinaPromote direct reports not by performance, withhold promotion with fictitious excusesManagement treats employees as personal assets, discourage internal transfersSalary below market rate",
+        "advice": "The easy days of collecting royalty and enjoy >40% market share in 3GPP is over. Innovate and compete effectively rather than whining \"our business model is under attack\"",
+        "pros": "Flex time, good benefitsWork on interesting projects",
+        "summary": "Company can not reverse losing trend among market changes, management has become political, abusive and backstabbing",
+        "role": "IS95",
+        "date": "Dec 23, 2014",
+        "is_current": false
+    },
+    {
+        "rating": 2,
+        "cons": "work pressure, politics, some departments has more staff than needed",
+        "advice": "lessen work load, monitor the politics in management",
+        "pros": "Technical knowledge , job security, variety of businesses",
+        "summary": "Great Company to work for",
+        "role": "Engineer",
+        "date": "Jan 3, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Better systems can be built to resolve issues fasterPaid less for the amount of work/ work hrs",
+        "advice": null,
+        "pros": "San Diego is best place to live",
+        "summary": "Best company to work for is a myth",
+        "role": "Staff Hardware Engineer",
+        "date": "Jan 4, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "Some low to middle managers treat engineers with no respect, and demanding. thinking they are the BOSS. Poor managers can make your professional life miserable.",
+        "advice": null,
+        "pros": "good benefit, and good name in the industry.",
+        "summary": "staff engineer",
+        "role": "Staff Engineer",
+        "date": "Jan 14, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "I have been employed by Qualcomm for over 10 years and I have seen my share of politics (just like anywhere). If you are a minority woman your career is most likely not going to go anywhere in this company. There is no work life balance and if you ask for that you will pay a huge price. They overwork people and those of us who barely see our families find that we will probably just get barely any salary increases. Li\u2026\u00a0ttle by little our bonuses and incentives have been reduced to almost nothing.If one transfers to other positions within the company one can't be promoted or be paid more (this rule of course is only for those of us below the manager level). I have given everything to this company and it has taken me nowhere. I went to school at night for years and worked so incredibly hard for them but as my manager once said \"hard work will take you nowhere\".They are hiring more and more people from other countries who are able to work unreasonable hours; those who are not able to do this better get out because they won't be promoted. Accounting employees are treated with no dignity.",
+        "advice": "Please know your employee's loyalty is a huge asset. Be reasonable and keep an eye on unethical (sometime illegal) treatment of employees not only for liability reasons but also because doing right is the right thing to do.",
+        "pros": "Great job benefits (medical insurance; dental; vision; ESPP; etc...)",
+        "summary": "Opportunities are not the same for all",
+        "role": "Anonymous Employee",
+        "date": "Jan 17, 2015",
+        "is_current": true
+    },
+    {
+        "rating": 2,
+        "cons": "no work-life balance, promotion/raises don't happen regularly, below market pay",
+        "advice": "provide a pathway to progress for employees, don't capitalize on H1-B",
+        "pros": "cutting edge technology, job stability, open culture, great place for new grads",
+        "summary": "hi-tech sweatshop",
+        "role": "Software Engineer",
+        "date": "Feb 3, 2015",
+        "is_current": true
+    }
+]

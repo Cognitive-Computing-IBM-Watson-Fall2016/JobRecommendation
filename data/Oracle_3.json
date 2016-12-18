@@ -1,0 +1,902 @@
+[
+    {
+        "rating": 3,
+        "cons": "Little career progressionNo clear direction from managementWork not stimulating after first few monthsSlow turnaround on productsCompany plays it safe rather than trying to push the boundaries in anything aside from DBLow 401k matching program",
+        "advice": "Management needs to reduce work on reducing bureaucracy",
+        "pros": "Flexible working hoursGreat peopleStable work environmentGood salariesAverage benefitsGreat name to have on your resume",
+        "summary": "Great resume builder",
+        "role": "Product Manager",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The company has become increasingly penny-pinchingly cost conscious, keeping a tight reign on salary, eroding health benefits, travel and entertainment - and not providing hardware for engineers - we salivate at some of the Google stories. Some of us even have CRT monitors!",
+        "advice": "Find some more staff incentives: low bonuses and stock for too many years.",
+        "pros": "Acquisitions mean that staff are geographically spread: Oracle has not insisted that staff move to HQ, so working hours and attendance are extremely flexible.",
+        "summary": "Flexible working hours: distributed teams, but increasingly undercompensated.",
+        "role": "Principal Member of Technical Staff",
+        "date": "Nov 29, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "- Pay is not that good for a large & successful company like Oracle.- Red tape and processes for every little thing. Expect long delays for any decisions.- Employees are very expendable at any time for any reason. Not a stable-job company. Employees come & go all the time.- Cheap with expenses. Hardly no budget for anything to keep employees happy.",
+        "advice": "Please don't be so cheap. Spend money where it makes sense. Don't send sales folks to las vegas for lavish sales kick-off event and at the same time cancel a simple pizza lunch for a post-release celebration for a small team of developers.",
+        "pros": "- I do have decent work/life balance. You don't need to work long hours and don't need to feel pressured to. Work hours are flexible and relaxed",
+        "summary": "Pretty average company",
+        "role": "Senior Software Developer",
+        "date": "Dec 10, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "a bit politics inside, not very innovative. Average age of employees is kind of high.",
+        "advice": "respect and encourage the ideas of young employees. More technical traning will be good.",
+        "pros": "The salaries are not bad, kind of flexiable working hours.",
+        "summary": "A fairly good place to work",
+        "role": "Anonymous Employee",
+        "date": "Dec 17, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Very tight on pay increases, even when combined with promotion.CFO has every excuse in the book not to offer pay increases. They are given all at the same time to everyone (if you will be getting one at all), rather than individually. CFO has put it off for more than a year now. Its never certain when the time will come either. Very tight on salary money overall.",
+        "advice": "Reward those who put in the effort, and do not reward those who slack. We have a lot of dead weight that I believe brings down the ability for others to be fairly rewarded.",
+        "pros": "Ability to telecommute --Allowed to work from home with laptop almost completely.Flexible working hoursGood benefits packageGood people",
+        "summary": "Starting salary decent. Pay increases hard to come by if ever. Flexible working hours, telecommuting available.",
+        "role": "Contracts Manager",
+        "date": "Dec 21, 2009",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "- Big company issues. Decisions take a lot of time to get made. Sign off authority is unclear and many managers are risk averse- Lots of fire fighting on tougher projects- Lots of travel on a remote project. Bye, bye work life",
+        "advice": "Set clear expectations and make promotions consistent",
+        "pros": "+ Work-life balance. In at 8, out at 5-6+ Interesting projects for the most part+ Job security if you have the right skill set within the firm",
+        "summary": "Large company, business as usual",
+        "role": "Principal Consultant",
+        "date": "Jan 10, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Who outside our industry knows what we do? With all the M&A our DNA is more mixed up than the average pound dog. The company is so big it's hard to figure out how to do anything outside your silo. And getting outside your sile into a new LOB is impossible.",
+        "advice": "Hello - it's been three years, how about a raise?",
+        "pros": "It's good to be part of the mongol horde. In our industry, it's a good name. Larry rocks, as always. If you can't work for Steve, Larry is the next best. The network you can build at Oracle wills spread throughout the industry over the years - everyone leaves Oracle and goes to a smaller place with a bigger title!",
+        "summary": "Stuck below a swirling mass of moderately qualified VP's",
+        "role": "Senior Director",
+        "date": "Jan 29, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Long wait time in between Pay increasesPay raises/bonus are unknown if or when they will occur and Management doesn't know eitherUnclear on objectives to receive a promotionNew Employees with less knowledge/skills may end up making more that experienced employeesEvery process must go through entire organizational chain before management can approve anything",
+        "advice": "More visibility/communication on compensation/career developmentDevelop a yearly scheduled compensation review process based on Company earningsAllow Middle/Upper management, for each unit, final approval for low cost/priority decisions",
+        "pros": "Good opportunity to work with a range of technologiesGood work/life balanceMany opportunities to gain experienceComprehensive benefit optionsGood Starting salary",
+        "summary": "Good experience, Good on a resume, but compensation is poor for longer term employees",
+        "role": "Anonymous Employee",
+        "date": "Feb 7, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Consulting seems to be Oracle's step child.Not enough projects owned by the organization so not enough leadership opportunities as you grow in your career.100% travel commitmentHigh level of job related stress",
+        "advice": "Make up your mind on what the goal of consulting organization is. Adjust your rates to market realities. Invest more on consultant training - \"on the job training\" does not always work.",
+        "pros": "Great place to learn latest Oracle technologies.Access to great Oracle software and internal tips and techniques",
+        "summary": "Lot of travel - not enough opportunities for leadership roles",
+        "role": "Consulting Technical Manager",
+        "date": "Feb 9, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Slower in SaaS and use of new technology -- you will need to keep up by tracking startup activities outside the company. Hard to do much as an executive if you're not part of the very top team.",
+        "advice": "continue to focus in vertical depth in areas that can be commercialized ... build a fresh SaaS app or acquire some of the others before that market passes you by.",
+        "pros": "Excellent experience across application software. The only real full-service CRM game in town. Making some real bets in verticalization (insurance, telco) that other enterprise companies simply won't do .. and the vertical markets are excited about it.",
+        "summary": "Siebel/Oracle employee review",
+        "role": "General Manager, Siebel",
+        "date": "Feb 11, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "The Company I worked for was acquired by Oracle - and like many big companies that acquire small, innovative, fast moving companies, they allow them to slowly die as they pick out what they want from them. In this case, a once market leading product has been left to stagnate and is now being cannablized by their competition.",
+        "advice": "Middle management was\\is great. They are still connected to the product, customers, and sales reps. However as you climb up the ladder to Senior Managment who do not have their finger on the pulse of what's happending on the ground - and are only concerned with results but don't know how to acheive them, the culture, morale, and success of the department becomes fragmented.",
+        "pros": "Oracle has great benefits, fair compensation, and many tools to help with career advancement. Having Oracle on your resume is nice",
+        "summary": "Product and Company was part of an acquistion by Oracle in 2006",
+        "role": "Sales Representative",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "There are too many sales people and \"co-primes\" jousting for the same revenue and relationships. Success is all about the accounts you are assigned versus your selling skills and work ethic. You won't know the realities about your accounts until you are in the door. The only good thing is you can get lucky when they realign accounts at the start of each fiscal year.",
+        "advice": "You could remove a layer of pre-sales management and raise shareholder value by boosting productivity. Most of the managers manage to keep a lid on overtime hours at the expense of productivity and success.",
+        "pros": "Everybody knows your name and they will at least meet you. Benefits are very good. There are lots of resources to help with sufficient skills.",
+        "summary": "Your success is completely dependent on account assignments not your selling skills",
+        "role": "Account Manager",
+        "date": "Feb 17, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Some politics within the company. Intern program was still new so not as structured as at other companies, but good effort.",
+        "advice": "Take some time to make the internship a bit more structured, and possibly some program for interns to transition into full hires with some coursework.",
+        "pros": "Good place to intern, great location. Some politics present as at other companies. Intern program was just starting out but good effort.",
+        "summary": "Summer Intern",
+        "role": "Anonymous Employee",
+        "date": "Feb 26, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "no avenues for promotionno avenues for salary increase / no bonusesupper management makes all decisions, engineers are helplesstoo family oriented, not recommended for people fresh out of collegeToo little work, makes you feel useless.Not innovative enoughpoor communication of project goals/feature set to engineers by upper management.engineers feeling tossed around from project to project\u2026",
+        "advice": "promote employees based on performance, not politics. Let engineering make decisions too. Communicate project goals to engineers faster. Listen to engineers' complaints and address them instead of ignorance.",
+        "pros": "flex working hoursworking from home allowedcompetitive paygood work-life balance",
+        "summary": "Good company to work for in terms of work-life balance, doing your job, collecting a paycheck and working on your hobby",
+        "role": "Applications Engineer",
+        "date": "Mar 15, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "no initiative from the bottom uppolitical infighting / turf warsmiddle management are old time Oracle people with no driveIT is a joke",
+        "advice": "allow initiative instead of systematically killing it.break the status quo",
+        "pros": "work life balancefacilities are great",
+        "summary": "Don't work here if you have ambitions.",
+        "role": "Senior Director Product Strategy",
+        "date": "Mar 17, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "You can do a great job for the reps and deals you are responsible for but ultimately they are not the people who decide if you get to keep your job and they have little/no input. Decisions are made by managers who often live out of the area and have no real grasp of who is doing the work or skilled at their job. They are going off 'numbers in the system'.. (i.e. those who are leveraged by sales the least and have the\u2026\u00a0 most time to simply enter hours in the system look the best on paper and they take that as the gospel without actually checking with the Sales Team).There is way too much time spent on 'internal selling' and politics. There are so many Reps mapped to every account that half of the sales cycle is internal meetings trying to protect your division of the companies portion of a much larger contract (how much of a 10M deal gets allocated to database, BI, ERP, BEA, etc) instead of selling the value to the customer.",
+        "advice": "The biggest problem Oracle has is that there is no ability to move into other areas in the company. You can get promoted within the same group but you can basically forget expanding your career by moving into another division or area. Why? Because Oracle requires your existing manager 'release you' which most managers will not do for someone they think is critical to their own success. The company is so large that th\u2026\u00a0ey basically consider it 'losing you' instead of thinking of what is best for the entire company.\u00a0It would be easier to get hired by a competitor than to move from Apps to Tech, from Commercial Accounts to Strategic, etc. Obviously the rare exception is that you are personal friends with your manager and they are willing to sacrafice for your own happiness...but the most likely scenario is that you see a position you would be interested in, then to make the transfer you have to notify your boss. Then they decline your transfer and now you are in the same position but have the joy of working for a manager who knows you wanted to\" leave them\" and doesn't consider you committed to your position anymore. I saw it happen many times.",
+        "pros": "If you have the desire you can learn a ton about different technologies, industries, and more (they own so much now its just a matter of finding the right people/resources in the Company). They expect you to be the best and value the input of the Sales Consultants. The Benefits are awesome and you are basically left to work 'on your own' and out of your house.",
+        "summary": "Great on the Resume but you 'pay for it'",
+        "role": "Sales Consultant",
+        "date": "Mar 23, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "1. lousy management2. lousy vision3. nothing gets done",
+        "advice": "1. set good vision and stick to it2. do not overwork your people3. do not be too snobby and accept responsibilities4. encourage colloborative environment5. do not make too much drama in politics",
+        "pros": "1. nice campus2. great gym",
+        "summary": "Oracle - Good vs Bad",
+        "role": "Principal Software Engineer",
+        "date": "Apr 15, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "No recognition for hard working people and talent, too much bureaucracy which stifles innovation,below average pay, good for people who want to sit and sleep all day",
+        "advice": "take care of people who perform and let go who don't. Recognize people's work and retain people who are innovative and not just staying there for ages.",
+        "pros": "Good brand name and good work life balance. Benefits are little above average. Some groups offer some challenging work, flexible work environment.",
+        "summary": "Company for Average",
+        "role": "Senior Software Engineer",
+        "date": "Apr 21, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The flip side is that you can be boxed in with no growth opportunities.",
+        "advice": "Provide opportunities.",
+        "pros": "As a writer, that's all you focus on. You're just a number. The upside to this is that you really learn how to write, as that is all you're focused on.",
+        "summary": "It's a good place to learn your craft",
+        "role": "Senior Technical Writer",
+        "date": "Apr 23, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Oracle does not pay competative salaries. There are many internal open positions but its very to move to those positions.",
+        "advice": "You should pay more competative salaries.",
+        "pros": "Great benefits, lots of technologies and customers. Very flexible in terms of remote work. In fact, the more you work from home the better.",
+        "summary": "Oracle Managers",
+        "role": "Technical Manager",
+        "date": "May 7, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Bad experience with management when transitioning from previous team to oracle team when our company got bought out.",
+        "advice": "Learn to listen to your team when it comes to issues with management style.",
+        "pros": "Great work environment if you're on the right team.Good procedures and process structure.Excellent food court selection that is subsidized.",
+        "summary": "Great company...depending on which team you're in.",
+        "role": "Software Quality Assurance",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "The class action suit of CA regarding the solution engineers has really worked against the drive of this important piece of the sales team",
+        "advice": "Continue on the path of integrating the products to provide the customer with one stop shopping. By doing so Oracle will continue to a force",
+        "pros": "Oracle is the best in crafting a comp plan to drive behavior in the sales force. With many acquisitions it offers a lot of solutions to their customers.",
+        "summary": "Dynamic Environment",
+        "role": "Account Executive",
+        "date": "May 13, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "How about the description in pro ?",
+        "advice": "Your employee treatment is going to hurt you guys sometime - Its going to just become like one of those federal offices where people come for routine pay not for passion -",
+        "pros": "You will learn alot considering that you get to work crazy hours (Essentially around the clock - with around the clock teams)Compensation(non-existent hikes or bonuses) - If you are legacy Oracle employee - one of those lucky ones that got hired directly then your salary is the worst - if you are coming through an acquisition then you can stay where you are for a while - You can count number of times any hike\u2026\u00a0s were given in the last 15 yearsOptions given out on time year after year to the top one of each team( But the management is richly rewarded - Rings any bells ?)Rules are randomly generated on the fly and everything is discretionary - based on manager and groupProduct development is run by engineers - No second opinionsYou can pretty much forget about any employee needs other than core benefits (like you need a laptop - you can get approval from the office of CFO- you need a band-aid - how about getting an approval from CEO) - wonder how you get to maintain best margins in the industryUpper management using swearing words is routine - and keeping employees happy is non-existent thought - You can just buy those workers in bulk - as the people coming in are cashed out well .... (You keep wondering you are not one of those lucky companies to get uncle larry's attention) - Time to think ?",
+        "summary": "Good place to learn - Bad Pay - Good work-life balance - Poor employee treatment",
+        "role": "Engineering Manager",
+        "date": "Jun 7, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "As a consultant the only time you are secure is when you are billing the client, if there is an upcoming holiday do not be surprised if they request you to work just a few extra hours. If you want to get ahead you will need to enhance your skills through training which you will need to do on your own time, taking time off to attend a class is silently frowned upon, they are glad to pay for training as long as you are\u2026\u00a0 still billing the client 40 hrs each week, minimum.",
+        "advice": "Stop using the economy as an excuse to postpone pay raises and promotions, this companies results have continued to go up each year while the employees are told there will be promotions or pay raises because times are tough.",
+        "pros": "This is a well known and respected company.",
+        "summary": "It takes 150% effort to get ahead.",
+        "role": "Consultant",
+        "date": "Jun 9, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Very \"top down\" culture; groups can be very siloed so it's hard to work cross-functionally; so many products, it's hard to be anything other than a specialist in one particular area.",
+        "advice": "Wish there were more opportunities to expand our skills; appreciate the educational reimbursement but it's hard to gain management's buy-in",
+        "pros": "Flexibility; open to telecommuting, people have a good sense of the boundaries between work and personal lives; nice campus in Redwood City",
+        "summary": "Siloed groups but easy to keep a good work/life balance",
+        "role": "Anonymous Employee",
+        "date": "Jun 18, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Salaries are sub par with the best in the industry. Acquisitions cause lot of churn and integration work (versus new development work) abound.",
+        "advice": "Devise a mechanism to retain talent acquired as part of acquisitions and otherwise. Recognize that when people start leaving, good people go first.",
+        "pros": "Efficient company, knows how to monetize. Many great engineers (around 20% in every team) to work with, flexible work hours.",
+        "summary": "Review",
+        "role": "Principal Member Technical Staff",
+        "date": "Jul 12, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Some really dumb people that were politically astute",
+        "advice": "Use your software stop outsourcing our jobs.",
+        "pros": "Some smart people which were a joy to work with. it is still a ti - training institute",
+        "summary": "Help us help you",
+        "role": "Program Director",
+        "date": "Jul 14, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Slow career growth in the last 2-3 years.",
+        "advice": "Share the growth with employees.",
+        "pros": "Life work balance.Work in a large group of professionals.Large yet growing company.",
+        "summary": "Second review",
+        "role": "Senior Member of Technical Staff",
+        "date": "Jul 14, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The increments and compensation package is horrible as compared to other Employers in the same area/region.",
+        "advice": "Please recognize talent and knowledge of employees and try to retain them by motivating them to perform.",
+        "pros": "It is a brand name to work for.The benefits are competitiveThe life at work is relaxed",
+        "summary": "Oracle Is a Okay Employer.",
+        "role": "Project Leader",
+        "date": "Jul 14, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Compensation. Bonuses are significantly below industry averages (no targets set, so you have no idea what you'll get). Raises are hard to come by. Promotions are easier however do not come with pay increases.Typical big company bureaucracy.In engineering, a culture of over competition between groups.Most people work hard and very long hours.",
+        "advice": "Must take care of employees. Happy employees leads to happy customers leads to happy shareholders.",
+        "pros": "Excellent business that executes like crazy, and knows how to win. Focus, energy, and passion are incredible. Experience gained here is invaluable in future jobs. Good benefits.",
+        "summary": "Great experience, winning company, but underpaid employees",
+        "role": "Marketing Director",
+        "date": "Jul 20, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Company too big to see the impact of what you do.Extremely political, not a meritocracy.Regime of fear (who will be fired next).",
+        "advice": "Divide organization into teams that can see the results of their work.Improve the competence/abilities of middle management to reduce the Machiavellian culture.",
+        "pros": "Access to all the resources you need - if you can convince management.Good benefits.\"Industry standard\" working hours.",
+        "summary": "Political",
+        "role": "Director",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Not innovative enoughHard to change team with the company",
+        "advice": "Make the company culture more dynamic and active.Don't only rely on customer's input and requirements.Innovation is ground breaking.",
+        "pros": "stable,flexible work style,acceptable benefits, especially for fresh graduates.",
+        "summary": "Good place for people who is looking for stability",
+        "role": "Applications Engineer",
+        "date": "Jul 22, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "--too easy for junior level people to move up into senior management within 2 years--too many promotions without pay raises--no pay raises in general--no more stock options--performance reviews are a complete waste of time",
+        "advice": "--reward your teams that make you look good by paying them competitively--explain why you promote someone especially when they don't have a clear track record to support it--work harder to retain top talent especially when they are ethical",
+        "pros": "--overtime pay for some groups--flexible work hours and locations--brilliant people in many different areas--incredible autonomy in some groups and teams",
+        "summary": "Stable company, getting management heavy",
+        "role": "Principal Information Developer",
+        "date": "Jul 23, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Consulting practice not mature enoughBureaucracy selling, implementing projectsDifficult hiring and compensation choices, very complicated.Separation sales and delivery consulting",
+        "advice": "Internal project to establish best practices across all business areas",
+        "pros": "Good for NorthAmerica, in some practicesBenefitsWorkload reasonable",
+        "summary": "3",
+        "role": "Consulting Director",
+        "date": "Aug 5, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "-Limited upside-Limited risk taking culture-Strong and limiting N.I.H. syndrome (i.e., \"This is Oracle\")-Those looking for entrepreneurial, cutting edge tech should go elsewhere",
+        "advice": "Much more \"direct supervisor\" training needs to be delivered in \"certification\" form. The level of \"do what I say, not what I do\" among mid-level managers and VPs is too widespread. The most senior executives at the company lead by example. Go a few levels down and there is room for improvement.",
+        "pros": "-Flexibility-Supportive environment from peers-Limited resources force creativity-Relatively \"secure\"-Opportunities to transfer internally-Structured (for those who like structure)-Very tight operational ship, financially speaking",
+        "summary": "OK place to work",
+        "role": "Director",
+        "date": "Aug 12, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "- Huge company.- Little recognition for positive achievement.- Salary falls behind market level over time.- Crunch times can be intense and schedules are managed poorly.- Little emphasis on continued learning and career development.",
+        "advice": "Start caring about employee happiness again. Treat longtime employees better; it seems the attitude is \"go ahead and leave, newbies (who cost less) are waiting to take your place.\"",
+        "pros": "- Lots of smart people.- Good overall technology to work with.- Good way to get started in business software.- Can have good work/life balance if you sacrifice advancement.",
+        "summary": "An OK place, easy to get lost in the shuffle",
+        "role": "Anonymous Employee",
+        "date": "Aug 19, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Taking care of employees and making them feel valued is not a top priority.",
+        "advice": "Keep it up",
+        "pros": "Amazing company with incredibly competent management. Come and absorb as much as you can.",
+        "summary": "Incredibly well-run company where smart people willing to work hard can learn a lot and launch a great career.",
+        "role": "Anonymous Employee",
+        "date": "Aug 23, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Extremely politicalLack of innovationFree for all place with no career path whatsoever unless you are well connected",
+        "advice": "Have a professional HR please, it does not exist right now.",
+        "pros": "Experience with processes to handle large scale software development",
+        "summary": "Average place to work - No respect for family life",
+        "role": "Principal Software Engineer",
+        "date": "Aug 23, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "There is a continus reshuffling of managers.",
+        "advice": "After working the same project for nearly 9 years and generating a continuous revenue stream. I was let go by the company without even being presented for a new project 30 days after hitting the bench.",
+        "pros": "A big company that is well respected in the industry. The salary was ok and the benifits were good.",
+        "summary": "Gone in 30 days",
+        "role": "Consultant",
+        "date": "Aug 23, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Lots of bureaucracy. It takes a tremendous amount of work to get things done.",
+        "advice": "Adopt some of Sun Microsystem's culture of innovation and moving fast.",
+        "pros": "Large company with significant impact in the industry",
+        "summary": "Miss the Sun Microsystems culture",
+        "role": "Senior Product Manager",
+        "date": "Aug 26, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Climbing up the corporate ladder can take time; salary is okay - not at par with other professionals in similar fields",
+        "advice": "Focus on the employee through his/her skillset, not how much money they are bringing in. Money will come when employee has quality...",
+        "pros": "Big name to work for; ability to move within various company organizations; training available readily via Oracle University; easy, approachable management",
+        "summary": "Good brand name to work for, but focus of Oracle is primarily money",
+        "role": "Principal Consultant",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Never seems like sr management socializes ideas with staff when making decisions which well affect large groups of employees. Do not listen to the front line or ask for recommendations on changes that could help the organization. Too removed from day to day operations. Communications is horrible, so disjointed. Too many disjointed company websites making it impossible to find anything or be consistant in answering qu\u2026\u00a0estions. Does not share the wealth. Sales makes more and more money each year (for the company) but personally am making less and less and less benefits and events. Taken away sales conference, fewer people going to sales club. Don't feel appreciated at all.",
+        "advice": "LISTEN to your employees. Reward the employees for the wealth they are making you! You made the company too big, don't punish us for it - don't discontinue company wide events because we're too big.",
+        "pros": "Access to the latest and greatest in technology. Ability to cross train in another area while working in current area.",
+        "summary": "Big Company",
+        "role": "Senior Sales Consultant",
+        "date": "Sep 2, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Very bureaucraticJob satisfaction depends on which group you work for (due to lot of recent acquisitions)Salary increases on the very low end, irrespective of how well you perform your job.",
+        "advice": "Fix the performance review process to track good employeesMake it easier for employees to grow in their role",
+        "pros": "Good work life balanceBig company job securityFlexible working scheduleGood benefits packageGood working atmosphere and collegiality among peers.",
+        "summary": "Big company drama",
+        "role": "Anonymous Employee",
+        "date": "Sep 3, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Anything outside database does not seem like the primary focus of technology productsFair amount of bureaucracy, although other large software companies I have worked for have been worseProducts are good but not always market leading outside of database.Pay raises seem to be rare",
+        "advice": "Offer more pay raises, at least to keep up with inflation. Otherwise there is very little incentive to stay long term.",
+        "pros": "Overtime is paid, bonuses are generally predictableSupportive managementWork from home when not at customer site - at least in my department.",
+        "summary": "Decent place to work",
+        "role": "Anonymous Employee",
+        "date": "Sep 6, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Upper management (at least mine) is clueless in setting the vision/strategy. There is a lot of politics which may be the case in any large company. Oracle seems to be heading towards a Comp Associates like holding company strategy of growth-by-acquisition rather organic growth by building innovative products.",
+        "advice": "Hire better business dev people at the top to define the vision/strategy. Strong engineers/architects don't make for strong visionary business leaders.",
+        "pros": "Oracle provides a great work-life balance (almost tipping the scale towards life than towards work). It is a large company and hence offers opportunity to work in different technology areas.",
+        "summary": "Ok place to work, great place to chill out",
+        "role": "Director, Software Development",
+        "date": "Sep 8, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Takes forever to get improved product functionality from Development",
+        "advice": "Reward your sales consulting team the way they deserve. They are at the forefront of selling Oracle products, and they are not being rewarded accordingly. Salaries have not been increased in 5 years and bonuses have been halved. When we were relegated to hourly status a few years ago, Management promised to make us whole but has completely ignored that promise.",
+        "pros": "Great people who are highly motivated to succeed, constantly improving product offerings.",
+        "summary": "No Raises for 5 Years",
+        "role": "Principal Sales Consultant",
+        "date": "Sep 8, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "small compensation, having trouble with sponsorship for immigrantexpensive cafetaria",
+        "advice": "everything is self service, but once I have questions, Oracle representative is very hard to contact.No thank you for any big leader if we achieve something",
+        "pros": "NIce campussanta clara campus employees have their own offices",
+        "summary": "A nice place to work",
+        "role": "Hardware Engineer II",
+        "date": "Sep 9, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Too big such that you can easily get lostToo many products and hard to understandToo much bureaucracyLittle impact unless you are senior",
+        "advice": "Continue to make acquisitions and entering markets where you think that you can be number one -- it has been very successful so far.",
+        "pros": "Very profitable companyAggressive acquisitionsLooks to be number 1 in markets it entersWell runCEO is impressive and makes workers want to back him up",
+        "summary": "It might be a good place to work, but you need to be in the right group",
+        "role": "Senior Product Manager",
+        "date": "Sep 13, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Salary hike and bonus are lagging in the industry. And out-performer may not be rewarded properly.",
+        "advice": "Need more transparent and open in policies of promotions, salary merit increases, and bonuses.",
+        "pros": "It provides stable, flexible work place and good training resources and allows switching of project/team after 2 year.",
+        "summary": "A good place to start a career in a stable work environment.",
+        "role": "Principal Software Engineer",
+        "date": "Sep 16, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Bureaucracy at its highest. Too inconspicuous. Not employee centric. Does not really care for employee like Sun/Google/Salesforce. Very very money minded (which is kinda good).",
+        "advice": "- - - - - - - - - - - - - - - - - - - -",
+        "pros": "Oracle is a typical big corp. Take the best out of it when you are in and move on in max 5 years.",
+        "summary": "Oracle big company disease",
+        "role": "Senior Software Engineer",
+        "date": "Sep 22, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Below average salary, bonus, and stock options",
+        "advice": "Better value loyal and experienced employees more than new grads. Otherwise, some day it's going to back fire.",
+        "pros": "Large company with opportunities to make career change",
+        "summary": "Good Company, but doesn't care much about its employees",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "career growth, salary, raises, promotions (you will get promoted but it has nothing to do with raises!), rigid job profiles, very slow pace of work,",
+        "advice": "i don't think they can do much about it...everyone tries hard at some point and then just used to the style.",
+        "pros": "Flexible work hrs (work from home, other country, state etc. ), job security, nice food and gym on campus, beautiful campus, not too much work pressure",
+        "summary": "Best place to work if all you need is job and balance between personal and work life..",
+        "role": "Interaction Designer",
+        "date": "Oct 12, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Oracle constantly experienced growing pains because of buying other companies and their competition therefore the support mechanism was not in place as with the original company. When I worked for Oracle a good number of my accounts had JDEdwards which was apart of the Peoplesoft deal, we did not have proper staffing or general know how in converting accounts over.The general word on the street is that your emplo\u2026\u00a0yment at Oracle will be very short lived.",
+        "advice": "It can be a difficult company to work for if manegement is not on board for teaching Oracle culture.",
+        "pros": "Great company to work for in regards to product and service recognition.",
+        "summary": "Good company to work for with the expectation that you will not be there for long if you do not have a mentor.",
+        "role": "Applications Sales Representative",
+        "date": "Oct 15, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Too much red tape. Management is very top-heavy.",
+        "advice": "It would be helpful to streamline much of the red tape. Working there feels a little like working for the federal government in that your need many levels of management approval for anything and approvals usually take a long time.",
+        "pros": "Oracle has some of the best non-monetary compensation around (i.e. Health benefits, time-off).",
+        "summary": "Oracle workplace",
+        "role": "Business Development Consultant",
+        "date": "Oct 19, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "However, the bureaucracy and overhead associated with this very hierarchical company is often rather oppressive. It would be nice to see more autonomy at lower levels.",
+        "advice": "Valuing and empowering individual contributors and lower-level managers would be worth considering to retain people and get more enthusiasm and energy out of the organization.",
+        "pros": "Working here is ok. The pay isn't bad, generally, and the projects are interesting. Benefits are good, and work/life balance is relatively easy to achieve. There's a lot to be said for a company that makes money.",
+        "summary": "Meh",
+        "role": "Engineering Manager",
+        "date": "Oct 26, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Totally uncaring and selfish senior management who think the success of the company is due to their brilliance alone, and so do not reward loyalty and the hard work of the over 100,000 employees who are actually the secret to the company's success.",
+        "advice": "Share the ungodly wealth you have amassed. Have respect for your employees and don't think they are expendable.",
+        "pros": "Great work life balance. Great to participate in a winning company. Management is brilliant.",
+        "summary": "great quality of life, low pay",
+        "role": "Anonymous Employee",
+        "date": "Oct 26, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Growth opportunities are hard to come by. Organization is top heavy. Either they all need to retire or move on to something before others can advance.",
+        "advice": "Follow Cisco in terms of org structure. You cannot have Product Management reporting into Engineering",
+        "pros": "Great place to learn, fantastic campus, nice gym!",
+        "summary": "Not for everyone",
+        "role": "Product Manager",
+        "date": "Oct 27, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "More regular communication to employees",
+        "advice": "Share more with employees",
+        "pros": "Management gives employees the tools and resources to work well.",
+        "summary": "So So",
+        "role": "Engineering Manager",
+        "date": "Oct 29, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Oracle is EXTREMELY political. Bring your sharp knives to defend yourself in the constant political battle between groups and people. Once you are in a job, it is extremely difficult to try to transfer to a better job internally.",
+        "advice": "Treat your people with more respect. Recognize that their talents and personal growth may very well coincide with the best interests of the company.",
+        "pros": "Smart colleagues, great resume value, good place to learn, great benefits. This is a great place to learn skills and develop a network that will serve you well later in your career as an entrepreneur or working at another big company",
+        "summary": "Oracle is a Great Place to Have Been (But NOT To Be Now)",
+        "role": "Anonymous Employee",
+        "date": "Oct 31, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Now owned by Oracle corporation.",
+        "advice": "Just keep running the company well.",
+        "pros": "Really good working conditions at portal.",
+        "summary": "Portal is a good place to work.",
+        "role": "Anonymous Employee",
+        "date": "Nov 9, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Was part of an acquisition company and noticed that the amount of paid time off and holiday's were quite a bit less than at previous company.",
+        "advice": "Keep going with building solutions based on SW functionality. Believe a lower performing/scalable solution at a lower price would help with capturing more of customers wallet.",
+        "pros": "Executive management is really strong at running a business and making it profitable. The benefits are good. Flexible work environment.",
+        "summary": "Principal Product Manager",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "You don't get pay raise after many years of working in the companyYou only specify in some specific tool or functionality.",
+        "advice": "Nil",
+        "pros": "Stable jobGood benefitLot of training opportunities",
+        "summary": "Nice place to work, but low pay",
+        "role": "Software QA Lead",
+        "date": "Dec 4, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "lack of proper upgrade to compensation over time.",
+        "advice": "none",
+        "pros": "good work atmosphere. work on the latest technologies.",
+        "summary": "good",
+        "role": "Anonymous Employee",
+        "date": "Dec 5, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Good reviews does not result in cost of living adjustments or raises",
+        "advice": null,
+        "pros": "A large internationally known company",
+        "summary": "Raises are hard to come by",
+        "role": "Anonymous Employee",
+        "date": "Dec 8, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "No salary increases, lousy compensation plans, unfair hierarchy of job titles versus actual work done.",
+        "advice": "Oracle should pay their valued, loyal, hard working employees that continue to excel at their job bettter. You shouldn't have to leave or threaten to leave to get a raise.",
+        "pros": "The flexibility and work/personal life balance is great. Fun and exciting job most of the time. Great people and a reliable and steady company to work for.",
+        "summary": "Oracle is a very flexible place to work, but the compensation and salary is terrible",
+        "role": "Program Manager",
+        "date": "Dec 9, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Not a place that values design/designers.",
+        "advice": null,
+        "pros": "Smart people, good salary, predictable schedule.",
+        "summary": "Uninspired products by uninspired people.",
+        "role": "Principal User Interface Designer",
+        "date": "Dec 18, 2010",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "-Not everyone in sales set up to excel-If close deals larger than deal cap size you receive a lower rate on commission (essentially you are penalized for bringing in large deals)-Major conflicts between inside and field counterparts regarding who owns the right to own deals-Lots of turnover - constant revolving door at the company-The company is relatively soulless regarding their employees. You are a\u2026\u00a0 cog in the wheel of a major corporation and are made very aware of this",
+        "advice": "Greater emphasis on employee recognition and appreciation",
+        "pros": "-Great training-Smart people-Exposure to a lot of different technology-Fantastic Enterprise Selling experience-Many opportunities available throughout the company-Great benefits-Access to loads of resources",
+        "summary": "Very intense environment - Darwinian",
+        "role": "Account Executive In Oracle Direct",
+        "date": "Dec 19, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Get your salary and bonus upfront! Too many bean counters are starting to run the show, leading to focus on expenses vs innovation and rewarding intelligence.",
+        "advice": "Pay your people. That's why they leave and then comeback!",
+        "pros": "Great tech company, allows self-motivated people to work. Knowledge base is tremendous. Long line of products, future direction is good. Movement to other groups/organizations within is promoted.",
+        "summary": "Great tech and knowledge, compensation leaves one questioning.",
+        "role": "Principal",
+        "date": "Dec 29, 2010",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "hire a lot of tempslots of jobs in Indiano clear signs of opportunities for advancement",
+        "advice": null,
+        "pros": "good payfun peoplerelaxed environmentgreat location",
+        "summary": "Interesting",
+        "role": "Contract Manager",
+        "date": "Jan 3, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "The work can become tedious and frustrating due to heavy input from the legal department when it comes to completing contracts.",
+        "advice": "Management understands the goal but could do better at keeping customers first.",
+        "pros": "Pays well, rpogressive company that trys to stay at the leading edge of technology. The people you work with are typically experts at what they do.",
+        "summary": "Proud to be part of the company but frustrating to get things done",
+        "role": "Consulting Services Director",
+        "date": "Jan 7, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Too much politics unappreciative managers",
+        "advice": "Stop the bureaucracy",
+        "pros": "Good benefits good salary 401k",
+        "summary": "Good place to work",
+        "role": "Member of Technical Staff",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Pay levels staying stagnant year after year. No profit-sharing and other options to give incentive. Not much options for receiving training.",
+        "advice": "The technology is great, but the vision and incentive that drives morale is lacking.",
+        "pros": "Great technology from Virtualization to World Class Solaris OS. Great SPARC-based Mid-level to high end systems. Pay is slightly above average.",
+        "summary": "Oracle more lean & mean than Sun Micro, lotsa work hours, great technology, pay is good though pay level is stagnant.",
+        "role": "Quality Assurance Engineer",
+        "date": "Jan 29, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "sometimes too slow pacedenterprise software designing sometimes is boring",
+        "advice": "information transparency, communication efficiency",
+        "pros": "Global recognized company, really talented people, stable and relaxing working environment",
+        "summary": "Good experience on your resume",
+        "role": "Interaction Designer",
+        "date": "Feb 8, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Need to provide competitive salaryGood benefits will help to retain good employees.Need to provide competitive salaryGood benefits will help to retain good employees.",
+        "advice": "Competitive SalaryGood benefits will help to retain good employees.Competitive SalaryGood benefits will help to retain good employees.",
+        "pros": "When I was in college itself I want to work for Oracle. I really enjoyed my oracle days.The name will help you to grow.",
+        "summary": "Good",
+        "role": "Technical Manager",
+        "date": "Feb 8, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Bureaucracy, unless you're in HQ or in an important region, you can't grow. Very slow growth and notorious for silent layoffs.",
+        "advice": "As a market leader the company is doing really well. However its important to have a clear focus which percolates to the lowest level among employees.",
+        "pros": "Leading technology company, good benefits, excellent work schedule flexibility (encourages telecommuting).",
+        "summary": "Challenging, at times interesting, at times frustrating, lots of Bureaucracy.",
+        "role": "Software Development Engineer",
+        "date": "Feb 9, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "- Deep hierarchies (common to see a Director reporting to another Director or a Director with no reports)- constant acquisitions cause confusion in lower ranks- Very top-down in terms of driving anything- doesnt care much about developer community or organic innovation (buys innovation)",
+        "advice": "- innovate and grow organically- excite employees to do new things- focus on developer community rather than only P&L",
+        "pros": "- stable company- decent benefit package- huge product portfolio- flexibility in working hours (common to see ppl come only 2 days to office)",
+        "summary": "stable but not exciting company to work for",
+        "role": "Product Manager",
+        "date": "Feb 10, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "low salary, no bonus plan",
+        "advice": "Pay more money to retain good people",
+        "pros": "tons of opportunities to learn and grow. Work Life balance.",
+        "summary": "Enjoyed working there",
+        "role": "Senior Consultant",
+        "date": "Feb 12, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Took over from Sun - the culture is completely different. SUN was open and creative and allowed work to flow in that manner - Oracle is nothing like that and it drove many good people out.",
+        "advice": "Loosen up",
+        "pros": "They are clear about how thing are to be done and you must follow those procedures.",
+        "summary": "tended to be rigid in view of processes and development methods",
+        "role": "Software Engineer",
+        "date": "Mar 1, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "lot of pressure, difficult to take vacation time, flexibility brings high availability expected and lack of a promotion or growth path",
+        "advice": "Top down communication needs to be clearer, objectives and expectations of upper management needs to be clearer.",
+        "pros": "Benefits are good, working with talented people, flexibility in schedule, work from home, no travel in current position.",
+        "summary": "You pave your own way at Oracle, the job is what you make of it, a lot of pressure to deliver high expectations.",
+        "role": "Principal Product Manager",
+        "date": "Mar 2, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Massive amounts of red tape for all aspects of work. Things are very slow moving with everything. Salary raises are 1%-3% anually, if at all (so get good starting salary knowing you won't get a decent raise). Moving to another job within the company very hard and once hired within a different department it may take 6 months for management to approve the transfer.",
+        "advice": "Allow for easier/faster movement to other positions within the company.",
+        "pros": "Great namebrand company. Good work life balance. Can work from any location such as HQ, home or field offices that are in every major global city. Annual bonuses for senior manager level can be up to 25% annual salary.",
+        "summary": "Great namebrand employer, OK pay, work life balance good",
+        "role": "Senior Manager, Marketing",
+        "date": "Mar 3, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Need to understand what people ability",
+        "advice": null,
+        "pros": "technology leading edge in both application and software",
+        "summary": "Was a great place to work before all the consolidation happen",
+        "role": "Anonymous Employee",
+        "date": null,
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "The environment is very poitical which stifles honest discussion",
+        "advice": null,
+        "pros": "Great experienceDecent compensationGreat brand for resume",
+        "summary": "Good experience",
+        "role": "Software Engineer",
+        "date": "Mar 15, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "potential for Career Growth limited,",
+        "advice": "Retain key people",
+        "pros": "Small company, flexible, good benefits",
+        "summary": "Standard software company",
+        "role": "Development Manager",
+        "date": "Mar 23, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "Long days, very high expectations, not great about promotions and salary increases (make sure you negotiate your initial salary well because that might be it for a long time with minimal change), very good benefits",
+        "advice": "Manage need for large scale re-organizations better, avoiding disruption of a teams momentum. Allowing employees a neutral forum to express ideas, feedback and constructive criticism to executive management. Better internal CRM system to track Oracle customers, products and services.",
+        "pros": "Work from home, great on resume, well known brand and reputation, great way to learn high tech enterprise software industry segment, generous sales salaries if you can meet your sales targets.",
+        "summary": "Great way to enter high tech industry, long days, high expectations, but rewards if you're your own advocate",
+        "role": "Senior Reference Manager",
+        "date": "Mar 23, 2011",
+        "is_current": false
+    },
+    {
+        "rating": 3,
+        "cons": "work long hours especially when work in consulting and professional service team. working at weekend is common. promotion is almost not possible",
+        "advice": "if you want to expand the business in offshore, balance the workload between onshore and offshore. otherwise people will start to leave.",
+        "pros": "flexible working schedule, paid well, personal development, company perk, bonus, doing project which is fun and intuitive, and many training program",
+        "summary": "10 years with Oracle",
+        "role": "Senior Systems Analyst",
+        "date": "Mar 26, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "pay for legacy employees lower than the median in the industryeating your own dogfood/drinking you own champagne is a joke",
+        "advice": "Get out of the 70's, trust in your people and ask for and consider their feedback when making decisions, care again",
+        "pros": "great peoplealways interestingM&A always brings in fresh talent and challengesBusiness focusedLooks great on resumegossip second to none",
+        "summary": "Chaotic but interesting",
+        "role": "Mid Level Manager",
+        "date": "Mar 27, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Can be very cut throat. Difficult to advance and move to other positions. Promotions and raises are difficult to come by.",
+        "advice": "Management needs to care more about employees. People need to see career progression and receive competitive raises to want to stay.",
+        "pros": "Company name, size, benefits are very good. Flexible work arrangements are a definite positive to working at Oracle. Some of the leadership is very good at mentoring.",
+        "summary": "Ok place to work, has its negative",
+        "role": "Project Manager",
+        "date": "Mar 29, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "- Heavy top-down management- No or meagre raise for years",
+        "advice": null,
+        "pros": "- Good brand name- Learning- Decent pay",
+        "summary": "Netural, some good and some bad",
+        "role": "Account Manager",
+        "date": "Apr 6, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "oracle has a bad reputation w/ customers as being difficult to do busy with.",
+        "advice": "give individual contributors more decision power",
+        "pros": "nice to work for a big name in the tech industry",
+        "summary": "Too much process and policy",
+        "role": "Sales Representative",
+        "date": "Apr 12, 2011",
+        "is_current": true
+    },
+    {
+        "rating": 3,
+        "cons": "Too driven, focused on specific",
+        "advice": null,
+        "pros": "Great Benefits, high flexibility, opportunities, positive cross team communications, strong executive leadership",
+        "summary": "One of the best company to work for!",
+        "role": "Anonymous Employee",
+        "date": "Apr 15, 2011",
+        "is_current": true
+    }
+]
