@@ -57,7 +57,7 @@ def classify_review(com):
     return result
 
 if __name__ == "__main__":
-    companies = ['Google', 'Facebook', 'LinkedIn', 'Amazon']
+    companies = ['Apple', 'Dell', 'Ebay', 'IBM', 'Intel', 'Microsoft', 'Oracle', 'Qualcomm', 'VMWare', 'Yahoo', 'Yelp']
     dict = {}
     for company in companies:
         temp = classify_review(company)
