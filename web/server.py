@@ -20,6 +20,7 @@ titles = ['big5-openness', 'big5-conscientiousness', 'big5-extraversion', 'big5-
         ]
 tweet_filename = ''
 user_vector = []
+company_scores = []
 
 
 def parse_tweet():
@@ -125,7 +126,7 @@ def twitter_analyzer(t_id):
                       )
 
     print("Profile Request sent. Status code: %d, content-type: %s" % (r.status_code, r.headers['content-type']))
-    jsonFile = open(t_id + ".json", "w")
+    jsonFile = open('./static/user/' + t_id + ".json", "w")
     jsonFile.write(json.dumps(json.loads(r.text), indent=4, separators=(',', ': ')))
     jsonFile.close()
 # --- Twitter Analysis --- end ----
@@ -134,7 +135,7 @@ def twitter_analyzer(t_id):
 # --- Distance Calculation --- start ----
 def dist_cal():
     global user_vector
-    input_file = open('companies_vector.json').read()
+    input_file = open('./static/user/companies_vector.json').read()
     companies = json.loads(input_file)  # dict
     company_scores = []  # list of 2-tuples
     user_vector_arr = np.array(user_vector).reshape(1, -1)
@@ -177,31 +178,34 @@ def index():
 
 @app.route('/personality', methods=['POST'])
 def personality():
-    tid = request.form['tid']
-    #twitter_analyzer(tid)
     global tweet_filename
-    tid = 'KingJames'
-    tweet_filename = tid + '.json'
+    tid = request.form['tid']
+    tweet_filename = './static/user/' + tid + '.json'
+    if not os.path.exists(tweet_filename):
+        twitter_analyzer(tid)
     return flask.render_template("personality.html")
 
 
 @app.route("/get_data")
 def get_data():
     parse_tweet()
-    data = to_json_person()
-    return data
+    return to_json_person()
 
 
 @app.route('/companies')
 def companies():
-    return flask.render_template('companies.html')
+    global company_scores
+    company_scores = dist_cal()
+    names = []
+    for i in range(0, min(5, len(company_scores))):
+        names.append(company_scores[i][0])
+    context = dict(data=names)
+    return flask.render_template('companies.html', **context)
 
 
 @app.route("/get_companies")
 def get_companies():
-    company_scores = dist_cal()
-    data = to_json_company(company_scores)
-    return data
+    return to_json_company(company_scores)
 
 
 if __name__ == "__main__":

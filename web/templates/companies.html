@@ -70,7 +70,6 @@
             	<div class="caption-wrapper">
             		<div class="caption-info">
               		    <h1 class="animated bounceInLeft">Top Five Matching Companies</h1>
-                        <div id="intro">Each company is given a score indicating the degree of compatibility between your personality and the company's.</div>
               		    <div class="scroll animated fadeInUp">
                             <a href="#about" class="btn btn-default"><i class="fa fa-flask"></i>Companies</a>
                         </div>
@@ -86,10 +85,29 @@
 <!-- Plot & Redirection Starts -->
 <div id="about"  class="container spacer about">
 <h2 class="text-center wowload fadeInUp">Recommended Companies</h2>
+<div id="intro">
+    <h4>Each company is given a score indicating the degree of compatibility between your personality and the company's.</h4>
+</div>
   <div id="plot"></div>
 
   <div class="process">
   <h3 class="text-center wowload fadeInUp">Do you want to know more about these companies ... </h3>
+	<ul class="row text-center list-inline  wowload bounceInUp">
+        {% if data %}
+        {% for item in data %}
+        <li>
+            <span><a href="https://en.wikipedia.org/wiki/{{item}} Inc."><i class="fa fa-lemon-o"></i><b>{{item}}</b></a></span>
+        </li>
+        {% endfor %}
+        {% endif %}
+  	</ul>
+  </div>
+</div>
+<!-- Plot & Redirection Ends -->
+<script src="{{ url_for('static', filename='js/draw_companies.js') }}"></script>
+
+<div class="container spacer about">
+  <div class="process">
 	<ul class="row text-center list-inline  wowload bounceInUp">
         <li>
             <span><a href="/"><i class="fa fa-history"></i><b>Home</b></a></span>
@@ -97,9 +115,6 @@
   	</ul>
   </div>
 </div>
-<!-- Plot & Redirection Ends -->
-<script src="{{ url_for('static', filename='js/draw_companies.js') }}"></script>
-
 
 <!-- jquery -->
 <script src="{{ url_for('static', filename='assets/jquery.js') }}"></script>
