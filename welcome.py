@@ -181,7 +181,6 @@ def companies():
     for i in range(0, min(5, len(company_scores))):
         names.append(company_scores[i][0])
     context = dict(data=names)
-    print '/companies'
     return flask.render_template('companies.html', **context)
 
 
