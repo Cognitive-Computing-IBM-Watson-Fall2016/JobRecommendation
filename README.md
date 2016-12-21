@@ -11,7 +11,7 @@ If you just wish to automatically deploy this sample to Bluemix then just click 
 Alternatively follow the steps below to get the sample code and see how to deploy manually.
 
 ##Get this application
-1. If you want to just deploy the application or run the appliaction locally, you can just clone all stuff from "deployment" branch.
+* If you want to just deploy the application or run the appliaction locally, you can just clone all stuff from "deployment" branch.
 From a terminal navigate to a location where you want this application code to be downloaded to and issue:
 ```bash
 git clone -b deployment https://github.com/Cognitive-Computing-IBM-Watson-Fall2016/JobRecommendation.git
@@ -19,7 +19,7 @@ git clone -b deployment https://github.com/Cognitive-Computing-IBM-Watson-Fall20
 or download the zip file containing this code.
 
 
-2. If you want to see all the code, including the analysis part and some other related data, please clone from "master" branch.
+* If you want to see all the code, including the analysis part and some other related data, please clone from "master" branch.
 ```bash
 git clone -b master https://github.com/Cognitive-Computing-IBM-Watson-Fall2016/JobRecommendation.git
 ```
@@ -28,15 +28,15 @@ or download the zip file containing this code.
 ##Run locally
 Navigate into the file you just clone. Then run the following command in terminal to run the code locally.
 
-1. Install dependency packages:
+* Install dependency packages:
 ```script
 pip install -r requirements.txt
 ```
 
 
-2. Run the code:
+* Run the code:
 ```script
- python welcome.py
+python welcome.py
 ```
 
 
@@ -78,9 +78,9 @@ Once the application is deployed and started open a web browser and point to the
 
 **welcome.py** - the python application script. This is implemented as a simple [Flask](http://flask.pocoo.org/) application. The routes are defined in the application using the @app.route() calls. This application has a / route and a /myapp route defined. The application deployed to Bluemix needs to listen to the port defined by the VCAP_APP_PORT environment variable as seen here:
 ```python
-port = os.getenv('VCAP_APP_PORT', '5000')
+port = os.getenv('VCAP_APP_PORT', '6998')
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=int(port))
 ```
 
-This is the port given to your application so that http requests can be routed to it. If the property is not defined then it falls back to port 5000 allowing you to run this sample appliction locally.
+This is the port given to your application so that http requests can be routed to it. If the property is not defined then it falls back to port 6998 allowing you to run this sample appliction locally.
