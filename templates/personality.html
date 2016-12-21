@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Job Recommendation</title>
+
+<!-- Google fonts -->
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
+
+<!-- font awesome -->
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+<!-- bootstrap -->
+<link rel="stylesheet" href="{{ url_for('static', filename='assets/bootstrap/css/bootstrap.min.css') }}" />
+<link rel="stylesheet" href="{{ url_for('static', filename='css/search_bar.css') }}">
+
+<!-- draw diagram -->
+<script src="https://d3js.org/d3.v3.js"></script>
+<script src="{{ url_for('static', filename='js/bullet.js') }}"></script>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/bullet.css') }}">
+
+<!-- animate.css -->
+<link rel="stylesheet" href="{{ url_for('static', filename='assets/animate/animate.css') }}"/>
+<link rel="stylesheet" href="{{ url_for('static', filename='assets/animate/set.css') }}"/>
+
+<!-- gallery -->
+<link rel="stylesheet" href="{{ url_for('static', filename='assets/gallery/blueimp-gallery.min.css') }}">
+
+<!-- favicon -->
+<link rel="shortcut icon" href="{{ url_for('static', filename='images/favicon.ico') }}" type="image/x-icon">
+<link rel="icon" href="{{ url_for('static', filename='images/favicon.ico') }}" type="image/x-icon">
+
+
+<link rel="stylesheet" href="{{ url_for('static', filename='assets/style.css') }}">
+
+</head>
+
+<body>
+<div class="topbar animated fadeInLeftBig"></div>
+
+<!-- Header Starts -->
+<div class="navbar-wrapper">
+      <div class="container">
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation" id="top-nav">
+          <div class="container">
+              <div class="navbar-collapse  collapse">
+              <ul class="nav navbar-nav navbar-right scroll">
+                 <li class="active"><a href="">Personality Analysis Result</a></li>
+                 <li class="active"><a href="">Job Recommendation</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+<!-- #Header Starts -->
+
+<div id="home">
+<!-- Slider Starts -->
+<div id="myCarousel" class="carousel slide banner-slider animated flipInX" data-ride="carousel">
+      <div class="carousel-inner">
+        <!-- Item 1 -->
+        <div class="item active">
+          <img src="{{ url_for('static', filename='images/back2.jpg') }}" alt="banner">
+            <div class="carousel-caption">
+            	<div class="caption-wrapper">
+            		<div class="caption-info">
+              		    <h1 class="animated bounceInLeft">Personality Analysis</h1>
+              		    <div class="scroll animated fadeInUp">
+                            <a href="#about" class="btn btn-default"><i class="fa fa-flask"></i>Personality</a>
+                        </div>
+              		</div>
+              	</div>
+            </div>
+        </div>
+      </div>
+    </div>
+<!-- #Slider Ends -->
+</div>
+
+<!-- Plot & Redirection Starts -->
+<div id="about"  class="container spacer about">
+<h2 class="text-center wowload fadeInUp">Analysis Results</h2>
+  <div id="plot"></div>
+
+  <div class="process">
+  <h3 class="text-center wowload fadeInUp">Which company is most suitable for you ... </h3>
+	<ul class="row text-center list-inline  wowload bounceInUp">
+   		<li>
+            <span><a href="/companies"><i class="fa fa-leaf"></i><b>Recommend</b></a></span>
+        </li>
+        <li>
+            <span><a href="/"><i class="fa fa-history"></i><b>Home</b></a></span>
+        </li>
+  	</ul>
+  </div>
+</div>
+<!-- Plot & Redirection Ends -->
+
+<script src="{{ url_for('static', filename='js/draw_personality.js') }}"></script>
+
+<!-- jquery -->
+<script src="{{ url_for('static', filename='assets/jquery.js') }}"></script>
+
+<!-- wow script -->
+<script src="{{ url_for('static', filename='assets/wow/wow.min.js') }}"></script>
+
+
+<!-- boostrap -->
+<script src="{{ url_for('static', filename='assets/bootstrap/js/bootstrap.js') }}" type="text/javascript" ></script>
+
+<!-- jquery mobile -->
+<script src="{{ url_for('static', filename='assets/mobile/touchSwipe.min.js') }}"></script>
+<script src="{{ url_for('static', filename='assets/respond/respond.js') }}"></script>
+
+<!-- gallery -->
+<script src="{{ url_for('static', filename='assets/gallery/jquery.blueimp-gallery.min.js') }}"></script>
+
+<!-- custom script -->
+<script src="{{ url_for('static', filename='assets/script.js') }}"></script>
+
+</body>
+</html>

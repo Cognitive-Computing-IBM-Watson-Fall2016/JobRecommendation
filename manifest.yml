@@ -1,0 +1,9 @@
+applications:
+- path: .
+  memory: 1G
+  instances: 1
+  domain: mybluemix.net
+  name: job recomm
+  host: job-recomm
+  disk_quota: 1024M
+  buildpack: python_buildpack

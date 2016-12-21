@@ -1,0 +1,645 @@
+{
+    "warnings": [],
+    "tree": {
+        "children": [
+            {
+                "children": [
+                    {
+                        "category": "personality",
+                        "percentage": 0.9836574887548096,
+                        "children": [
+                            {
+                                "category": "personality",
+                                "name": "Openness",
+                                "sampling_error": 0.03949711,
+                                "id": "Openness",
+                                "percentage": 0.9094780725159208,
+                                "children": [
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.6427743723860888,
+                                        "id": "Adventurousness",
+                                        "sampling_error": 0.03311216,
+                                        "name": "Adventurousness"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.6474530858099201,
+                                        "id": "Artistic interests",
+                                        "sampling_error": 0.0692239,
+                                        "name": "Artistic interests"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.4819964436430365,
+                                        "id": "Emotionality",
+                                        "sampling_error": 0.02634522,
+                                        "name": "Emotionality"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.11812828194346059,
+                                        "id": "Imagination",
+                                        "sampling_error": 0.04457761,
+                                        "name": "Imagination"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.9596846819036298,
+                                        "id": "Intellect",
+                                        "sampling_error": 0.03829571,
+                                        "name": "Intellect"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.4997090855827913,
+                                        "id": "Liberalism",
+                                        "sampling_error": 0.06873399,
+                                        "name": "Authority-challenging"
+                                    }
+                                ]
+                            },
+                            {
+                                "category": "personality",
+                                "name": "Conscientiousness",
+                                "sampling_error": 0.05549541,
+                                "id": "Conscientiousness",
+                                "percentage": 0.9509908596267493,
+                                "children": [
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.9391430151307361,
+                                        "id": "Achievement striving",
+                                        "sampling_error": 0.06905805,
+                                        "name": "Achievement striving"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.9344966225067093,
+                                        "id": "Cautiousness",
+                                        "sampling_error": 0.05942426,
+                                        "name": "Cautiousness"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.9640363177774808,
+                                        "id": "Dutifulness",
+                                        "sampling_error": 0.03374364,
+                                        "name": "Dutifulness"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.648439686208636,
+                                        "id": "Orderliness",
+                                        "sampling_error": 0.04575811,
+                                        "name": "Orderliness"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.9609832301326682,
+                                        "id": "Self-discipline",
+                                        "sampling_error": 0.0441163,
+                                        "name": "Self-discipline"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.9211887567176734,
+                                        "id": "Self-efficacy",
+                                        "sampling_error": 0.07220646,
+                                        "name": "Self-efficacy"
+                                    }
+                                ]
+                            },
+                            {
+                                "category": "personality",
+                                "name": "Extraversion",
+                                "sampling_error": 0.03830742,
+                                "id": "Extraversion",
+                                "percentage": 0.9836574887548096,
+                                "children": [
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.6559853988758401,
+                                        "id": "Activity level",
+                                        "sampling_error": 0.05123428,
+                                        "name": "Activity level"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.966685829013872,
+                                        "id": "Assertiveness",
+                                        "sampling_error": 0.05779381,
+                                        "name": "Assertiveness"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.5881026799389228,
+                                        "id": "Cheerfulness",
+                                        "sampling_error": 0.07579733,
+                                        "name": "Cheerfulness"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.06654718348686939,
+                                        "id": "Excitement-seeking",
+                                        "sampling_error": 0.06495101,
+                                        "name": "Excitement-seeking"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.9041764282673823,
+                                        "id": "Friendliness",
+                                        "sampling_error": 0.06065659,
+                                        "name": "Outgoing"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.4706314388492743,
+                                        "id": "Gregariousness",
+                                        "sampling_error": 0.04096594,
+                                        "name": "Gregariousness"
+                                    }
+                                ]
+                            },
+                            {
+                                "category": "personality",
+                                "name": "Agreeableness",
+                                "sampling_error": 0.07650298,
+                                "id": "Agreeableness",
+                                "percentage": 0.9190194789043089,
+                                "children": [
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.9256854127788949,
+                                        "id": "Altruism",
+                                        "sampling_error": 0.04831168,
+                                        "name": "Altruism"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.6677972960602119,
+                                        "id": "Cooperation",
+                                        "sampling_error": 0.06519076,
+                                        "name": "Cooperation"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.4800378021980608,
+                                        "id": "Modesty",
+                                        "sampling_error": 0.03935304,
+                                        "name": "Modesty"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.925627477988166,
+                                        "id": "Morality",
+                                        "sampling_error": 0.04512489,
+                                        "name": "Uncompromising"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.9967169154442321,
+                                        "id": "Sympathy",
+                                        "sampling_error": 0.07938574,
+                                        "name": "Sympathy"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.5232854607670556,
+                                        "id": "Trust",
+                                        "sampling_error": 0.03168323,
+                                        "name": "Trust"
+                                    }
+                                ]
+                            },
+                            {
+                                "category": "personality",
+                                "name": "Emotional range",
+                                "sampling_error": 0.07508171,
+                                "id": "Neuroticism",
+                                "percentage": 0.9544920694547563,
+                                "children": [
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.12802542830038088,
+                                        "id": "Anger",
+                                        "sampling_error": 0.07343766,
+                                        "name": "Fiery"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.0951343142422379,
+                                        "id": "Anxiety",
+                                        "sampling_error": 0.03550205,
+                                        "name": "Prone to worry"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.04510876815013937,
+                                        "id": "Depression",
+                                        "sampling_error": 0.03784732,
+                                        "name": "Melancholy"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.10690398212482566,
+                                        "id": "Immoderation",
+                                        "sampling_error": 0.0443366,
+                                        "name": "Immoderation"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.019488258038979966,
+                                        "id": "Self-consciousness",
+                                        "sampling_error": 0.03823971,
+                                        "name": "Self-consciousness"
+                                    },
+                                    {
+                                        "category": "personality",
+                                        "percentage": 0.019885191496753885,
+                                        "id": "Vulnerability",
+                                        "sampling_error": 0.06344788,
+                                        "name": "Susceptible to stress"
+                                    }
+                                ]
+                            }
+                        ],
+                        "id": "Extraversion_parent",
+                        "name": "Extraversion"
+                    }
+                ],
+                "id": "personality",
+                "name": "Big 5"
+            },
+            {
+                "children": [
+                    {
+                        "category": "needs",
+                        "percentage": 0.014574728402216852,
+                        "children": [
+                            {
+                                "category": "needs",
+                                "percentage": 0.05387557253284053,
+                                "id": "Challenge",
+                                "sampling_error": 0.05187795,
+                                "name": "Challenge"
+                            },
+                            {
+                                "category": "needs",
+                                "percentage": 0.17946864744744573,
+                                "id": "Closeness",
+                                "sampling_error": 0.05335254,
+                                "name": "Closeness"
+                            },
+                            {
+                                "category": "needs",
+                                "percentage": 0.08017459217227435,
+                                "id": "Curiosity",
+                                "sampling_error": 0.07487604,
+                                "name": "Curiosity"
+                            },
+                            {
+                                "category": "needs",
+                                "percentage": 0.016560442053095092,
+                                "id": "Excitement",
+                                "sampling_error": 0.07021598,
+                                "name": "Excitement"
+                            },
+                            {
+                                "category": "needs",
+                                "percentage": 0.045714715515067894,
+                                "id": "Harmony",
+                                "sampling_error": 0.06684309,
+                                "name": "Harmony"
+                            },
+                            {
+                                "category": "needs",
+                                "percentage": 0.05729074045270055,
+                                "id": "Ideal",
+                                "sampling_error": 0.06705341,
+                                "name": "Ideal"
+                            },
+                            {
+                                "category": "needs",
+                                "percentage": 0.014574728402216852,
+                                "id": "Liberty",
+                                "sampling_error": 0.09415605,
+                                "name": "Liberty"
+                            },
+                            {
+                                "category": "needs",
+                                "percentage": 0.028280763089599315,
+                                "id": "Love",
+                                "sampling_error": 0.06097935,
+                                "name": "Love"
+                            },
+                            {
+                                "category": "needs",
+                                "percentage": 0.027592329799749182,
+                                "id": "Practicality",
+                                "sampling_error": 0.05643147,
+                                "name": "Practicality"
+                            },
+                            {
+                                "category": "needs",
+                                "percentage": 0.10090318613289795,
+                                "id": "Self-expression",
+                                "sampling_error": 0.05075313,
+                                "name": "Self-expression"
+                            },
+                            {
+                                "category": "needs",
+                                "percentage": 0.3030243331703626,
+                                "id": "Stability",
+                                "sampling_error": 0.06987196,
+                                "name": "Stability"
+                            },
+                            {
+                                "category": "needs",
+                                "percentage": 0.2526377107139494,
+                                "id": "Structure",
+                                "sampling_error": 0.05206323,
+                                "name": "Structure"
+                            }
+                        ],
+                        "id": "Liberty_parent",
+                        "name": "Liberty"
+                    }
+                ],
+                "id": "needs",
+                "name": "Needs"
+            },
+            {
+                "children": [
+                    {
+                        "category": "values",
+                        "percentage": 0.005091844672594437,
+                        "children": [
+                            {
+                                "category": "values",
+                                "percentage": 0.20974544445813786,
+                                "id": "Conservation",
+                                "sampling_error": 0.05969291,
+                                "name": "Conservation"
+                            },
+                            {
+                                "category": "values",
+                                "percentage": 0.06400012262777549,
+                                "id": "Openness to change",
+                                "sampling_error": 0.05736528,
+                                "name": "Openness to change"
+                            },
+                            {
+                                "category": "values",
+                                "percentage": 0.08861671433517099,
+                                "id": "Hedonism",
+                                "sampling_error": 0.08357843,
+                                "name": "Hedonism"
+                            },
+                            {
+                                "category": "values",
+                                "percentage": 0.005091844672594437,
+                                "id": "Self-enhancement",
+                                "sampling_error": 0.06159357,
+                                "name": "Self-enhancement"
+                            },
+                            {
+                                "category": "values",
+                                "percentage": 0.06104059979215448,
+                                "id": "Self-transcendence",
+                                "sampling_error": 0.04417373,
+                                "name": "Self-transcendence"
+                            }
+                        ],
+                        "id": "Self-enhancement_parent",
+                        "name": "Self-enhancement"
+                    }
+                ],
+                "id": "values",
+                "name": "Values"
+            },
+            {
+                "category": "behavior",
+                "children": [
+                    {
+                        "category": "behavior",
+                        "children": [
+                            {
+                                "category": "behavior",
+                                "percentage": 0.5117200396170353,
+                                "children": [
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.4882799603829647,
+                                        "id": "Sunday",
+                                        "name": "Sunday"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "Monday",
+                                        "name": "Monday"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "Tuesday",
+                                        "name": "Tuesday"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "Wednesday",
+                                        "name": "Wednesday"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "Thursday",
+                                        "name": "Thursday"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "Friday",
+                                        "name": "Friday"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.5117200396170353,
+                                        "id": "Saturday",
+                                        "name": "Saturday"
+                                    }
+                                ],
+                                "id": "Saturday_parent",
+                                "name": "Sat."
+                            },
+                            {
+                                "category": "behavior",
+                                "percentage": 0.16672169032684053,
+                                "children": [
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.14790359854737536,
+                                        "id": "0:00 am",
+                                        "name": "0:00 am"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.12611422911852097,
+                                        "id": "1:00 am",
+                                        "name": "1:00 am"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.16672169032684053,
+                                        "id": "2:00 am",
+                                        "name": "2:00 am"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0475404423902278,
+                                        "id": "3:00 am",
+                                        "name": "3:00 am"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "4:00 am",
+                                        "name": "4:00 am"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "5:00 am",
+                                        "name": "5:00 am"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "6:00 am",
+                                        "name": "6:00 am"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "7:00 am",
+                                        "name": "7:00 am"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "8:00 am",
+                                        "name": "8:00 am"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "9:00 am",
+                                        "name": "9:00 am"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "10:00 am",
+                                        "name": "10:00 am"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "11:00 am",
+                                        "name": "11:00 am"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "12:00 pm",
+                                        "name": "12:00 pm"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "1:00 pm",
+                                        "name": "1:00 pm"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "2:00 pm",
+                                        "name": "2:00 pm"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "3:00 pm",
+                                        "name": "3:00 pm"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "4:00 pm",
+                                        "name": "4:00 pm"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "5:00 pm",
+                                        "name": "5:00 pm"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "6:00 pm",
+                                        "name": "6:00 pm"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.0,
+                                        "id": "7:00 pm",
+                                        "name": "7:00 pm"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.08451634202707164,
+                                        "id": "8:00 pm",
+                                        "name": "8:00 pm"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.14856388246946187,
+                                        "id": "9:00 pm",
+                                        "name": "9:00 pm"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.1508748761967646,
+                                        "id": "10:00 pm",
+                                        "name": "10:00 pm"
+                                    },
+                                    {
+                                        "category": "behavior",
+                                        "percentage": 0.12776493892373722,
+                                        "id": "11:00 pm",
+                                        "name": "11:00 pm"
+                                    }
+                                ],
+                                "id": "2:00 am_parent",
+                                "name": "Midnight"
+                            }
+                        ],
+                        "id": "sbh_parent",
+                        "name": "Sat. Midnight"
+                    }
+                ],
+                "id": "sbh",
+                "name": "Social Behavior"
+            }
+        ],
+        "id": "r",
+        "name": "root"
+    },
+    "word_count": 48687,
+    "processed_lang": "en",
+    "source": "python-twitter",
+    "id": "25073877"
+}
