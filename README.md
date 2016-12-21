@@ -27,10 +27,13 @@ or download the zip file containing this code.
 
 ##Run locally
 Navigate into the file you just clone. Then run the following command in terminal to run the code locally.
+
 1. Install dependency packages:
 ```script
 pip install -r requirements.txt
 ```
+
+
 2. Run the code:
 ```script
  python welcome.py
