@@ -1,6 +1,6 @@
-#Sample Bluemix Python Web application
+#Job Recommendatioin Bluemix Python Web application
 
-The sample is using [Flask microframework](http://flask.pocoo.org/) and is intented to test the Python support on [IBM's Bluemix](https://bluemix.net/) environment which is based on Cloud Foundry.
+The application is using [Flask microframework](http://flask.pocoo.org/) and is intented to test the Python support on [IBM's Bluemix](https://bluemix.net/) environment which is based on Cloud Foundry.
 
 IBM Bluemix contains the Python buildpack from [Cloud Foundry](https://github.com/cloudfoundry/python-buildpack) and so will be auto-detected as long as a requirements.txt or a setup.py is located in the root of your application.
 
@@ -10,12 +10,32 @@ If you just wish to automatically deploy this sample to Bluemix then just click 
 
 Alternatively follow the steps below to get the sample code and see how to deploy manually.
 
-##Get this sample
+##Get this application
+1. If you want to just deploy the application or run the appliaction locally, you can just clone all stuff from "deployment" branch.
 From a terminal navigate to a location where you want this application code to be downloaded to and issue:
 ```bash
-git clone https://github.com/IBM-Bluemix/bluemix-python-flask-sample
+git clone -b deployment https://github.com/Cognitive-Computing-IBM-Watson-Fall2016/JobRecommendation.git
 ```
-or download the zip file containing this sample code.
+or download the zip file containing this code.
+
+
+2. If you want to see all the code, including the analysis part and some other related data, please clone from "master" branch.
+```bash
+git clone -b master https://github.com/Cognitive-Computing-IBM-Watson-Fall2016/JobRecommendation.git
+```
+or download the zip file containing this code.
+
+##Run locally
+Navigate into the file you just clone. Then run the following command in terminal to run the code locally.
+1. Install dependency packages:
+```script
+pip install -r requirements.txt
+```
+2. Run the code:
+```script
+ python welcome.py
+```
+
 
 ##Deploy to Bluemix manually
 From a terminal login into Bluemix and set the api endpoint to the Bluemix region you wish to deploy to:
@@ -30,15 +50,15 @@ The login will ask you for you `email`(username) and `password`, plus the `organ
 
 From the root directory of the application code execute the following to deploy the application to Bluemix. (By default the `route` (application URL) will be based on your application name so make sure your application name is unique or use the -n option on the cf push command to define your hostname)
 ```script
-cf push <YOUR_APP_NAME> -m 128M 
+cf push <YOUR_APP_NAME> 
 ```
 to deploy when you don't have a requirements.txt or setup.py then use:
 ```script
-cf push <YOUR_APP_NAME> -m 128M -b https://github.com/cloudfoundry/python-buildpack
+cf push <YOUR_APP_NAME> -b https://github.com/cloudfoundry/python-buildpack
 ```
 to deploy with a different hostname to the app name:
 ```script
-cf push <YOUR_APP_NAME> -m 128M -n <YOUR_HOST_NAME>
+cf push <YOUR_APP_NAME> -n <YOUR_HOST_NAME>
 ```
 
 ##View App
